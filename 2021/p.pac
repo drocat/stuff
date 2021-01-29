@@ -18,27414 +18,27415 @@ var rules = [
 
 
 
-  "||cip.cc",
+"||cip.cc",
 
 
 
-  "||stackoverflow.org",
+"||stackoverflow.org",
 
 
 
-  "||pypi.org",
+"||pypi.org",
 
 
 
-  "||twitter.cn",
-
-
-
-  "||bt.byr.cn",
-
-
-
-  "||geeksforgeeks.org",
-
-
-
-  "||leetcode.com",
-
-
-
-  "||spotify.com",
-
-
-
-  "|http:\/\/85.17.73.31\/",
-
-
-
-  "||agnesb.fr",
-
-
-
-  "||fontawesome.com",
-
-
-
-  "||eliyar.biz",
-
+"||twitter.cn",
   "jquery.com",
 
 
-  "||jsdelivr.net",
 
+"||bt.byr.cn",
 
 
-  "||akiba-web.com",
 
+"||geeksforgeeks.org",
 
 
-  "||altrec.com",
 
+"||leetcode.com",
 
 
-  "||angela-merkel.de",
 
+"||spotify.com",
 
 
-  "||angola.org",
 
+"|http:\/\/85.17.73.31\/",
 
 
-  "||apartmentratings.com",
 
+"||agnesb.fr",
 
 
-  "||apartments.com",
 
+"||fontawesome.com",
 
 
-  "||arena.taipei",
 
+"||eliyar.biz",
 
+"jquery.com",
 
-  "||asianspiss.com",
 
+"||jsdelivr.net",
 
 
-  "||assimp.org",
 
+"||akiba-web.com",
 
 
-  "||athenaeizou.com",
 
+"||altrec.com",
 
 
-  "||azubu.tv",
 
+"||angela-merkel.de",
 
 
-  "||bankmobilevibe.com",
 
+"||angola.org",
 
 
-  "||banorte.com",
 
+"||apartmentratings.com",
 
 
-  "||bash-hackers.org",
 
+"||apartments.com",
 
 
-  "||beeg.com",
 
+"||arena.taipei",
 
 
-  "programiz.com",
 
-  "||global.bing.com",
+"||asianspiss.com",
 
 
 
-  "||bloombergview.com",
+"||assimp.org",
 
 
 
-  "||booktopia.com.au",
+"||athenaeizou.com",
 
 
 
-  "||boysmaster.com",
+"||azubu.tv",
 
 
 
-  "||bynet.co.il",
+"||bankmobilevibe.com",
 
 
 
-  "||carfax.com",
+"||banorte.com",
 
 
 
-  ".casinobellini.com",
+"||bash-hackers.org",
 
 
 
-  "||casinobellini.com",
+"||beeg.com",
 
 
 
-  "||centauro.com.br",
+"programiz.com",
 
+"||global.bing.com",
 
 
-  "||chobit.cc",
 
+"||bloombergview.com",
 
 
-  "||clearsurance.com",
 
+"||booktopia.com.au",
 
 
-  "||images.comico.tw",
 
+"||boysmaster.com",
 
 
-  "||static.comico.tw",
 
+"||bynet.co.il",
 
 
-  "||counter.social",
 
+"||carfax.com",
 
 
-  "||costco.com",
 
+".casinobellini.com",
 
 
-  "||crossfire.co.kr",
 
+"||casinobellini.com",
 
 
-  "||d2pass.com",
 
+"||centauro.com.br",
 
 
-  "||darpa.mil",
 
+"||chobit.cc",
 
 
-  "||dawangidc.com",
 
+"||clearsurance.com",
 
 
-  "||deezer.com",
 
+"||images.comico.tw",
 
 
-  "||desipro.de",
 
+"||static.comico.tw",
 
 
-  "||dingchin.com.tw",
 
+"||counter.social",
 
 
-  "||discordapp.com",
 
+"||costco.com",
 
 
-  "||discordapp.net",
 
+"||crossfire.co.kr",
 
 
-  "||dish.com",
 
+"||d2pass.com",
 
 
-  "|http:\/\/img.dlsite.jp\/",
 
+"||darpa.mil",
 
 
-  "||dm530.net",
 
+"||dawangidc.com",
 
 
-  "share.dmhy.org",
 
+"||deezer.com",
 
 
-  "||dmhy.org",
 
+"||desipro.de",
 
 
-  "||dmm.co.jp",
 
+"||dingchin.com.tw",
 
 
-  "|http:\/\/www.dmm.com\/netgame",
 
+"||discordapp.com",
 
 
-  "||dnvod.tv",
 
+"||discordapp.net",
 
 
-  "||dvdpac.com",
 
+"||dish.com",
 
 
-  "||eesti.ee",
 
+"|http:\/\/img.dlsite.jp\/",
 
 
-  "||esurance.com",
 
+"||dm530.net",
 
 
-  ".expekt.com",
 
+"share.dmhy.org",
 
 
-  "||expekt.com",
 
+"||dmhy.org",
 
 
-  ".extmatrix.com",
 
+"||dmm.co.jp",
 
 
-  "||extmatrix.com",
 
+"|http:\/\/www.dmm.com\/netgame",
 
 
-  "||fakku.net",
 
+"||dnvod.tv",
 
 
-  "||fastpic.ru",
 
+"||dvdpac.com",
 
 
-  "||filesor.com",
 
+"||eesti.ee",
 
 
-  "||financetwitter.com",
 
+"||esurance.com",
 
 
-  "||flipboard.com",
 
+".expekt.com",
 
 
-  "||flitto.com",
 
+"||expekt.com",
 
 
-  "||fnac.be",
 
+".extmatrix.com",
 
 
-  "||fnac.com",
 
+"||extmatrix.com",
 
 
-  "||funkyimg.com",
 
+"||fakku.net",
 
 
-  "||fxnetworks.com",
 
+"||fastpic.ru",
 
 
-  "||g-area.org",
 
+"||filesor.com",
 
 
-  "||gettyimages.com",
 
+"||financetwitter.com",
 
 
-  "||getuploader.com",
 
+"||flipboard.com",
 
 
-  "|https:\/\/raw.githubusercontent.com\/programthink\/zhao",
 
+"||flitto.com",
 
 
-  "||glass8.eu",
 
+"||fnac.be",
 
 
-  "||glype.com",
 
+"||fnac.com",
 
 
-  "||go141.com",
 
+"||funkyimg.com",
 
 
-  "||guo.media",
 
+"||fxnetworks.com",
 
 
-  "||hautelook.com",
 
+"||g-area.org",
 
 
-  "||hautelookcdn.com",
 
+"||gettyimages.com",
 
 
-  "||wego.here.com",
 
+"||getuploader.com",
 
 
-  "||gamer-cds.cdn.hinet.net",
 
+"|https:\/\/raw.githubusercontent.com\/programthink\/zhao",
 
 
-  "||gamer2-cds.cdn.hinet.net",
 
+"||glass8.eu",
 
 
-  "||hmvdigital.ca",
 
+"||glype.com",
 
 
-  "||hmvdigital.com",
 
+"||go141.com",
 
 
-  "||homedepot.com",
 
+"||guo.media",
 
 
-  "||hoovers.com",
 
+"||hautelook.com",
 
 
-  "||hulu.com",
 
+"||hautelookcdn.com",
 
 
-  "||huluim.com",
 
+"||wego.here.com",
 
 
-  "|http:\/\/secure.hustler.com",
 
+"||gamer-cds.cdn.hinet.net",
 
 
-  "|http:\/\/hustlercash.com",
 
+"||gamer2-cds.cdn.hinet.net",
 
 
-  "|http:\/\/www.hustlercash.com",
 
+"||hmvdigital.ca",
 
 
-  "||hybrid-analysis.com",
 
+"||hmvdigital.com",
 
 
-  "||cdn*.i-scmp.com",
 
+"||homedepot.com",
 
 
-  "||ilovelongtoes.com",
 
+"||hoovers.com",
 
 
-  "|http:\/\/imgmega.com\/*.gif.html",
 
+"||hulu.com",
 
 
-  "|http:\/\/imgmega.com\/*.jpg.html",
 
+"||huluim.com",
 
 
-  "|http:\/\/imgmega.com\/*.jpeg.html",
 
+"|http:\/\/secure.hustler.com",
 
 
-  "|http:\/\/imgmega.com\/*.png.html",
 
+"|http:\/\/hustlercash.com",
 
 
-  "||imlive.com",
 
+"|http:\/\/www.hustlercash.com",
 
 
-  "||tw.iqiyi.com",
 
+"||hybrid-analysis.com",
 
 
-  "||javhub.net",
 
+"||cdn*.i-scmp.com",
 
 
-  "||javhuge.com",
 
+"||ilovelongtoes.com",
 
 
-  ".javlibrary.com",
 
+"|http:\/\/imgmega.com\/*.gif.html",
 
 
-  "||javlibrary.com",
 
+"|http:\/\/imgmega.com\/*.jpg.html",
 
 
-  "||jcpenney.com",
 
+"|http:\/\/imgmega.com\/*.jpeg.html",
 
 
-  "||jims.net",
 
+"|http:\/\/imgmega.com\/*.png.html",
 
 
-  "||jukujo-club.com",
 
+"||imlive.com",
 
 
-  "||juliepost.com",
 
+"||tw.iqiyi.com",
 
 
-  "||kawaiikawaii.jp",
 
+"||javhub.net",
 
 
-  "||kendatire.com",
 
+"||javhuge.com",
 
 
-  "||khatrimaza.org",
 
+".javlibrary.com",
 
 
-  "||kkbox.com",
 
+"||javlibrary.com",
 
 
-  "||leisurepro.com",
 
+"||jcpenney.com",
 
 
-  "||lifemiles.com",
 
+"||jims.net",
 
 
-  "||longtoes.com",
 
+"||jukujo-club.com",
 
 
-  "||lovetvshow.com",
 
+"||juliepost.com",
 
 
-  "|http:\/\/www.m-sport.co.uk",
 
+"||kawaiikawaii.jp",
 
 
-  "||macgamestore.com",
 
+"||kendatire.com",
 
 
-  "||madonna-av.com",
 
+"||khatrimaza.org",
 
 
-  "||mangafox.com",
 
+"||kkbox.com",
 
 
-  "||mangafox.me",
 
+"||leisurepro.com",
 
 
-  "||manta.com",
 
+"||lifemiles.com",
 
 
-  "||matome-plus.com",
 
+"||longtoes.com",
 
 
-  "||matome-plus.net",
 
+"||lovetvshow.com",
 
 
-  "||mattwilcox.net",
 
+"|http:\/\/www.m-sport.co.uk",
 
 
-  "||metarthunter.com",
 
+"||macgamestore.com",
 
 
-  "||mfxmedia.com",
 
+"||madonna-av.com",
 
 
-  "||mojim.com",
 
+"||mangafox.com",
 
 
-  "||kb.monitorware.com",
 
+"||mangafox.me",
 
 
-  "||monster.com",
 
+"||manta.com",
 
 
-  "||moodyz.com",
 
+"||matome-plus.com",
 
 
-  "||moonbingo.com",
 
+"||matome-plus.net",
 
 
-  "||mos.ru",
 
+"||mattwilcox.net",
 
 
-  "||msha.gov",
 
+"||metarthunter.com",
 
 
-  "||muzu.tv",
 
+"||mfxmedia.com",
 
 
-  "||mvg.jp",
 
+"||mojim.com",
 
 
-  ".mybet.com",
 
+"||kb.monitorware.com",
 
 
-  "||mybet.com",
 
+"||monster.com",
 
 
-  "||nationwide.com",
 
+"||moodyz.com",
 
 
-  "|http:\/\/www.nbc.com\/live",
 
+"||moonbingo.com",
 
 
-  "||neo-miracle.com",
 
+"||mos.ru",
 
 
-  "||netflix.com",
 
+"||msha.gov",
 
 
-  "||nflximg.com",
 
+"||muzu.tv",
 
 
-  "||nflximg.net",
 
+"||mvg.jp",
 
 
-  "||nflxext.com",
 
+".mybet.com",
 
 
-  "||nflxso.net",
 
+"||mybet.com",
 
 
-  "||nflxvideo.net",
 
+"||nationwide.com",
 
 
-  "||nic.gov",
 
+"|http:\/\/www.nbc.com\/live",
 
 
-  "|http:\/\/mo.nightlife141.com",
 
+"||neo-miracle.com",
 
 
-  "||nordstrom.com",
 
+"||netflix.com",
 
 
-  "||nordstromimage.com",
 
+"||nflximg.com",
 
 
-  "||nordstromrack.com",
 
+"||nflximg.net",
 
 
-  "||nottinghampost.com",
 
+"||nflxext.com",
 
 
-  "||npsboost.com",
 
+"||nflxso.net",
 
 
-  "||ntdtv.cz",
 
+"||nflxvideo.net",
 
 
-  "||s1.nudezz.com",
 
+"||nic.gov",
 
 
-  "||nusatrip.com",
 
+"|http:\/\/mo.nightlife141.com",
 
 
-  "||nuuvem.com",
 
+"||nordstrom.com",
 
 
-  "||omni7.jp",
 
+"||nordstromimage.com",
 
 
-  "||onapp.com",
 
+"||nordstromrack.com",
 
 
-  "||ontrac.com",
 
+"||nottinghampost.com",
 
 
-  "@@|http:\/\/blog.ontrac.com",
 
+"||npsboost.com",
 
 
-  "||pandora.com",
 
+"||ntdtv.cz",
 
 
-  ".pandora.tv",
 
+"||s1.nudezz.com",
 
 
-  "||parkansky.com",
 
+"||nusatrip.com",
 
 
-  "||phmsociety.org",
 
+"||nuuvem.com",
 
 
-  "|http:\/\/*.pimg.tw\/",
 
+"||omni7.jp",
 
 
-  "||pure18.com",
 
+"||onapp.com",
 
 
-  "||pytorch.org",
 
+"||ontrac.com",
 
 
-  "||qq.co.za",
 
+"@@|http:\/\/blog.ontrac.com",
 
 
-  "||r18.com",
 
+"||pandora.com",
 
 
-  "|http:\/\/radiko.jp",
 
+".pandora.tv",
 
 
-  "||ramcity.com.au",
 
+"||parkansky.com",
 
 
-  "||rd.com",
 
+"||phmsociety.org",
 
 
-  "||rdio.com",
 
+"|http:\/\/*.pimg.tw\/",
 
 
-  "|https:\/\/riseup.net",
 
+"||pure18.com",
 
 
-  "||sadistic-v.com",
 
+"||pytorch.org",
 
 
-  "||isc.sans.edu",
 
+"||qq.co.za",
 
 
-  "|http:\/\/cdn*.search.xxx\/",
 
+"||r18.com",
 
 
-  "||shiksha.com",
 
+"|http:\/\/radiko.jp",
 
 
-  "||slacker.com",
 
+"||ramcity.com.au",
 
 
-  "||sm-miracle.com",
 
+"||rd.com",
 
 
-  "||soylentnews.org",
 
+"||rdio.com",
 
 
-  "||spotify.com",
 
+"|https:\/\/riseup.net",
 
 
-  "||spreadshirt.es",
 
+"||sadistic-v.com",
 
 
-  "||springboardplatform.com",
 
+"||isc.sans.edu",
 
 
-  "||sprite.org",
 
+"|http:\/\/cdn*.search.xxx\/",
 
 
-  "@@|http:\/\/store.sprite.org",
 
+"||shiksha.com",
 
 
-  "||superokayama.com",
 
+"||slacker.com",
 
 
-  "||superpages.com",
 
+"||sm-miracle.com",
 
 
-  "||swagbucks.com",
 
+"||soylentnews.org",
 
 
-  "||switch1.jp",
 
+"||spotify.com",
 
 
-  "||tapanwap.com",
 
+"||spreadshirt.es",
 
 
-  "||gsp.target.com",
 
+"||springboardplatform.com",
 
 
-  "||login.target.com",
 
+"||sprite.org",
 
 
-  "||rcam.target.com",
 
+"@@|http:\/\/store.sprite.org",
 
 
-  "||thinkgeek.com",
 
+"||superokayama.com",
 
 
-  "||thebodyshop-usa.com",
 
+"||superpages.com",
 
 
-  "||tma.co.jp",
 
+"||swagbucks.com",
 
 
-  "||tracfone.com",
 
+"||switch1.jp",
 
 
-  "||tryheart.jp",
 
+"||tapanwap.com",
 
 
-  "||turntable.fm",
 
+"||gsp.target.com",
 
 
-  "||twerkingbutt.com",
 
+"||login.target.com",
 
 
-  "||ulop.net",
 
+"||rcam.target.com",
 
 
-  "||uukanshu.com",
 
+"||thinkgeek.com",
 
 
-  "||vegasred.com",
 
+"||thebodyshop-usa.com",
 
 
-  "||vevo.com",
 
+"||tma.co.jp",
 
 
-  "||vip-enterprise.com",
 
+"||tracfone.com",
 
 
-  "|http:\/\/viu.tv\/ch\/",
 
+"||tryheart.jp",
 
 
-  "|http:\/\/viu.tv\/encore\/",
 
+"||turntable.fm",
 
 
-  "||vmpsoft.com",
 
+"||twerkingbutt.com",
 
 
-  "|http:\/\/ecsm.vs.com\/",
 
+"||ulop.net",
 
 
-  "||wanz-factory.com",
 
+"||uukanshu.com",
 
 
-  "||ssl.webpack.de",
 
+"||vegasred.com",
 
 
-  "||wheretowatch.com",
 
+"||vevo.com",
 
 
-  "||wingamestore.com",
 
+"||vip-enterprise.com",
 
 
-  "||wizcrafts.net",
 
+"|http:\/\/viu.tv\/ch\/",
 
 
-  "||vod.wwe.com",
 
+"|http:\/\/viu.tv\/encore\/",
 
 
-  "||xfinity.com",
 
+"||vmpsoft.com",
 
 
-  "||youwin.com",
 
+"|http:\/\/ecsm.vs.com\/",
 
 
-  "||ytn.co.kr",
 
+"||wanz-factory.com",
 
 
-  "||zattoo.com",
 
+"||ssl.webpack.de",
 
 
-  "||zim.vn",
 
+"||wheretowatch.com",
 
 
-  "||zozotown.com",
 
+"||wingamestore.com",
 
 
-  "14.102.250.18",
 
+"||wizcrafts.net",
 
 
-  "14.102.250.19",
 
+"||vod.wwe.com",
 
 
-  "50.7.31.230:8898",
 
+"||xfinity.com",
 
 
-  "174.142.105.153",
 
+"||youwin.com",
 
 
-  "69.65.19.160",
 
+"||ytn.co.kr",
 
 
-  "||xn--4gq171p.com",
 
+"||zattoo.com",
 
 
-  "||xn--czq75pvv1aj5c.org",
 
+"||zim.vn",
 
 
-  "||xn--i2ru8q2qg.com",
 
+"||zozotown.com",
 
 
-  "||xn--oiq.cc",
 
+"14.102.250.18",
 
 
-  "||xn--p8j9a0d9c9a.xn--q9jyb4c",
 
+"14.102.250.19",
 
 
-  "||abebooks.com",
 
+"50.7.31.230:8898",
 
 
-  "|https:\/\/*.s3.amazonaws.com",
 
+"174.142.105.153",
 
 
-  "||s3-ap-southeast-2.amazonaws.com",
 
+"69.65.19.160",
 
 
-  "||43110.cf",
 
+"||xn--4gq171p.com",
 
 
-  "||9gag.com",
 
+"||xn--czq75pvv1aj5c.org",
 
 
-  "||agro.hk",
 
+"||xn--i2ru8q2qg.com",
 
 
-  "||share.america.gov",
 
+"||xn--oiq.cc",
 
 
-  "||apkmirror.com",
 
+"||xn--p8j9a0d9c9a.xn--q9jyb4c",
 
 
-  "||arte.tv",
 
+"||abebooks.com",
 
 
-  "||artstation.com",
 
+"|https:\/\/*.s3.amazonaws.com",
 
 
-  "||bangdream.space",
 
+"||s3-ap-southeast-2.amazonaws.com",
 
 
-  "||behance.net",
 
+"||43110.cf",
 
 
-  "||bird.so",
 
+"||9gag.com",
 
 
-  "||zh.bitterwinter.org",
 
+"||agro.hk",
 
 
-  "||bnn.co",
 
+"||share.america.gov",
 
 
-  "||businessinsider.com",
 
+"||apkmirror.com",
 
 
-  "||boomssr.com",
 
+"||arte.tv",
 
 
-  "||bwgyhw.com",
 
+"||artstation.com",
 
 
-  "||castbox.fm",
 
+"||bangdream.space",
 
 
-  "||chinatimes.com",
 
+"||behance.net",
 
 
-  "||clyp.it",
 
+"||bird.so",
 
 
-  "||cmcn.org",
 
+"||zh.bitterwinter.org",
 
 
-  "||cmx.im",
 
+"||bnn.co",
 
 
-  "||dailyview.tw",
 
+"||businessinsider.com",
 
 
-  "||daum.net",
 
+"||boomssr.com",
 
 
-  "||depositphotos.com",
 
+"||bwgyhw.com",
 
 
-  "||disconnect.me",
 
+"||castbox.fm",
 
 
-  "||documentingreality.com",
 
+"||chinatimes.com",
 
 
-  "||doubibackup.com",
 
+"||clyp.it",
 
 
-  "||doubmirror.cf",
 
+"||cmcn.org",
 
 
-  "||encyclopedia.com",
 
+"||cmx.im",
 
 
-  "||fangeqiang.com",
 
+"||dailyview.tw",
 
 
-  "||fanqiangdang.com",
 
+"||daum.net",
 
 
-  "||cloud.feedly.com",
 
+"||depositphotos.com",
 
 
-  "||feedx.net",
 
+"||disconnect.me",
 
 
-  "||flyzy2005.com",
 
+"||documentingreality.com",
 
 
-  "||foreignpolicy.com",
 
+"||doubibackup.com",
 
 
-  "||free-ss.site",
 
+"||doubmirror.cf",
 
 
-  "||freehongkong.org",
 
+"||encyclopedia.com",
 
 
-  "||blog.fuckgfw233.org",
 
+"||fangeqiang.com",
 
 
-  "||g0v.social",
 
+"||fanqiangdang.com",
 
 
-  "||globalvoices.org",
 
+"||cloud.feedly.com",
 
 
-  "||glorystar.me",
 
+"||feedx.net",
 
 
-  "||goregrish.com",
 
+"||flyzy2005.com",
 
 
-  "||guangnianvpn.com",
 
+"||foreignpolicy.com",
 
 
-  "||hanime.tv",
 
+"||free-ss.site",
 
 
-  "||hbo.com",
 
+"||freehongkong.org",
 
 
-  "||spaces.hightail.com",
 
+"||blog.fuckgfw233.org",
 
 
-  "||hkgalden.com",
 
+"||g0v.social",
 
 
-  "||hkgolden.com",
 
+"||globalvoices.org",
 
 
-  "||hudson.org",
 
+"||glorystar.me",
 
 
-  "||ipfs.io",
 
+"||goregrish.com",
 
 
-  "||japantimes.co.jp",
 
+"||guangnianvpn.com",
 
 
-  "||jiji.com",
 
+"||hanime.tv",
 
 
-  "||jintian.net",
 
+"||hbo.com",
 
 
-  "||jinx.com",
 
+"||spaces.hightail.com",
 
 
-  "||joinmastodon.org",
 
+"||hkgalden.com",
 
 
-  "||liangzhichuanmei.com",
 
+"||hkgolden.com",
 
 
-  "||lighti.me",
 
+"||hudson.org",
 
 
-  "||lightyearvpn.com",
 
+"||ipfs.io",
 
 
-  "||lihkg.com",
 
+"||japantimes.co.jp",
 
 
-  "||line-scdn.net",
 
+"||jiji.com",
 
 
-  "||i.lithium.com",
 
+"||jintian.net",
 
 
-  "||cloud.mail.ru",
 
+"||jinx.com",
 
 
-  "||cdn-images.mailchimp.com",
 
+"||joinmastodon.org",
 
 
-  "||mastodon.cloud",
 
+"||liangzhichuanmei.com",
 
 
-  "||mastodon.host",
 
+"||lighti.me",
 
 
-  "||mastodon.social",
 
+"||lightyearvpn.com",
 
 
-  "||matters.news",
 
+"||lihkg.com",
 
 
-  "||me.me",
 
+"||line-scdn.net",
 
 
-  "||metart.com",
 
+"||i.lithium.com",
 
 
-  "||mohu.club",
 
+"||cloud.mail.ru",
 
 
-  "||mohu.ml",
 
+"||cdn-images.mailchimp.com",
 
 
-  "||motiyun.com",
 
+"||mastodon.cloud",
 
 
-  "||msa-it.org",
 
+"||mastodon.host",
 
 
-  "||dictionary.goo.ne.jp",
 
+"||mastodon.social",
 
 
-  "||go.nesnode.com",
 
+"||matters.news",
 
 
-  "||international-news.newsmagazine.asia",
 
+"||me.me",
 
 
-  "||nikkei.com",
 
+"||metart.com",
 
 
-  "||niu.moe",
 
+"||mohu.club",
 
 
-  "||nofile.io",
 
+"||mohu.ml",
 
 
-  "||now.com",
 
+"||motiyun.com",
 
 
-  "||sukebei.nyaa.si",
 
+"||msa-it.org",
 
 
-  "||openvpn.org",
 
+"||dictionary.goo.ne.jp",
 
 
-  "||onejav.com",
 
+"||go.nesnode.com",
 
 
-  "||paste.ee",
 
+"||international-news.newsmagazine.asia",
 
 
-  "||my.pcloud.com",
 
+"||nikkei.com",
 
 
-  "||picacomic.com",
 
+"||niu.moe",
 
 
-  "||pincong.rocks",
 
+"||nofile.io",
 
 
-  "||pixiv.net",
 
+"||now.com",
 
 
-  "||potato.im",
 
+"||sukebei.nyaa.si",
 
 
-  "||premproxy.com",
 
+"||openvpn.org",
 
 
-  "||prism-break.org",
 
+"||onejav.com",
 
 
-  "||protonvpn.com",
 
+"||paste.ee",
 
 
-  "||api.pureapk.com",
 
+"||my.pcloud.com",
 
 
-  "||quora.com",
 
+"||picacomic.com",
 
 
-  "||quoracdn.net",
 
+"||pincong.rocks",
 
 
-  "||qz.com",
 
+"||pixiv.net",
 
 
-  "||cdn.seatguru.com",
 
+"||potato.im",
 
 
-  "||secure.raxcdn.com",
 
+"||premproxy.com",
 
 
-  "||redd.it",
 
+"||prism-break.org",
 
 
-  "||reddit.com",
 
+"||protonvpn.com",
 
 
-  ".redditlist.com",
 
+"||api.pureapk.com",
 
 
-  "|http:\/\/redditlist.com",
 
+"||quora.com",
 
 
-  "||redditmedia.com",
 
+"||quoracdn.net",
 
 
-  "||redditstatic.com",
 
+"||qz.com",
 
 
-  "||rixcloud.com",
 
+"||cdn.seatguru.com",
 
 
-  "||rixcloud.us",
 
+"||secure.raxcdn.com",
 
 
-  "||rsdlmonitor.com",
 
+"||redd.it",
 
 
-  "||shadowsocks.be",
 
+"||reddit.com",
 
 
-  "||shadowsocks9.com",
 
+".redditlist.com",
 
 
-  "||tn1.shemalez.com",
 
+"|http:\/\/redditlist.com",
 
 
-  "||tn2.shemalez.com",
 
+"||redditmedia.com",
 
 
-  "||tn3.shemalez.com",
 
+"||redditstatic.com",
 
 
-  "||static.shemalez.com",
 
+"||rixcloud.com",
 
 
-  "||six-degrees.io",
 
+"||rixcloud.us",
 
 
-  "||softfamous.com",
 
+"||rsdlmonitor.com",
 
 
-  "||softsmirror.cf",
 
+"||shadowsocks.be",
 
 
-  "||sosreader.com",
 
+"||shadowsocks9.com",
 
 
-  "||sspanel.net",
 
+"||tn1.shemalez.com",
 
 
-  "||sulian.me",
 
+"||tn2.shemalez.com",
 
 
-  "||supchina.com",
 
+"||tn3.shemalez.com",
 
 
-  "||teddysun.com",
 
+"||static.shemalez.com",
 
 
-  "||textnow.me",
 
+"||six-degrees.io",
 
 
-  "||tineye.com",
 
+"||softfamous.com",
 
 
-  "||top10vpn.com",
 
+"||softsmirror.cf",
 
 
-  "||tubepornclassic.com",
 
+"||sosreader.com",
 
 
-  "||uku.im",
 
+"||sspanel.net",
 
 
-  "||unseen.is",
 
+"||sulian.me",
 
 
-  "||cn.uptodown.com",
 
+"||supchina.com",
 
 
-  "||uraban.me",
 
+"||teddysun.com",
 
 
-  "||vrsmash.com",
 
+"||textnow.me",
 
 
-  "||vultryhw.com",
 
+"||tineye.com",
 
 
-  "||scache.vzw.com",
 
+"||top10vpn.com",
 
 
-  "||scache1.vzw.com",
 
+"||tubepornclassic.com",
 
 
-  "||scache2.vzw.com",
 
+"||uku.im",
 
 
-  "||ss7.vzw.com",
 
+"||unseen.is",
 
 
-  "||ssr.tools",
 
+"||cn.uptodown.com",
 
 
-  "||steemit.com",
 
+"||uraban.me",
 
 
-  "||taiwanjustice.net",
 
+"||vrsmash.com",
 
 
-  "||tinc-vpn.org",
 
+"||vultryhw.com",
 
 
-  "||u15.info",
 
+"||scache.vzw.com",
 
 
-  "||washingtonpost.com",
 
+"||scache1.vzw.com",
 
 
-  "||wenzhao.ca",
 
+"||scache2.vzw.com",
 
 
-  "||whatsonweibo.com",
 
+"||ss7.vzw.com",
 
 
-  "||wire.com",
 
+"||ssr.tools",
 
 
-  "||blog.workflow.is",
 
+"||steemit.com",
 
 
-  "||xm.com",
 
+"||taiwanjustice.net",
 
 
-  "||xuehua.us",
 
+"||tinc-vpn.org",
 
 
-  "||yes-news.com",
 
+"||u15.info",
 
 
-  "||yigeni.com",
 
+"||washingtonpost.com",
 
 
-  "||you-get.org",
 
+"||wenzhao.ca",
 
 
-  "||zzcloud.me",
 
+"||whatsonweibo.com",
 
 
-  "||aex.com",
 
+"||wire.com",
 
 
-  "||allcoin.com",
 
+"||blog.workflow.is",
 
 
-  "||adcex.com",
 
+"||xm.com",
 
 
-  "||bcex.ca",
 
+"||xuehua.us",
 
 
-  "||bibox.com",
 
+"||yes-news.com",
 
 
-  "||big.one",
 
+"||yigeni.com",
 
 
-  "||binance.com",
 
+"||you-get.org",
 
 
-  "||bit-z.com",
 
+"||zzcloud.me",
 
 
-  "||bitcoinworld.com",
 
+"||aex.com",
 
 
-  "||bitfinex.com",
 
+"||allcoin.com",
 
 
-  "||bithumb.com",
 
+"||adcex.com",
 
 
-  "||bitinka.com.ar",
 
+"||bcex.ca",
 
 
-  "||bitmex.com",
 
+"||bibox.com",
 
 
-  "||btc98.com",
 
+"||big.one",
 
 
-  "||btcbank.bank",
 
+"||binance.com",
 
 
-  "||btctrade.im",
 
+"||bit-z.com",
 
 
-  "||c2cx.com",
 
+"||bitcoinworld.com",
 
 
-  "||chaoex.com",
 
+"||bitfinex.com",
 
 
-  "||cobinhood.com",
 
+"||bithumb.com",
 
 
-  "||coin2co.in",
 
+"||bitinka.com.ar",
 
 
-  "||coinbene.com",
 
+"||bitmex.com",
 
 
-  ".coinegg.com",
 
+"||btc98.com",
 
 
-  "||coinegg.com",
 
+"||btcbank.bank",
 
 
-  "||coinex.com",
 
+"||btctrade.im",
 
 
-  "||coingi.com",
 
+"||c2cx.com",
 
 
-  "||coinrail.co.kr",
 
+"||chaoex.com",
 
 
-  "||cointiger.com",
 
+"||cobinhood.com",
 
 
-  "||cointobe.com",
 
+"||coin2co.in",
 
 
-  "||coinut.com",
 
+"||coinbene.com",
 
 
-  "||discoins.com",
 
+".coinegg.com",
 
 
-  "||dragonex.io",
 
+"||coinegg.com",
 
 
-  "||ebtcbank.com",
 
+"||coinex.com",
 
 
-  "||etherdelta.com",
 
+"||coingi.com",
 
 
-  "||exmo.com",
 
+"||coinrail.co.kr",
 
 
-  "||exrates.me",
 
+"||cointiger.com",
 
 
-  "||exx.com",
 
+"||cointobe.com",
 
 
-  "||fatbtc.com",
 
+"||coinut.com",
 
 
-  "||gate.io",
 
+"||discoins.com",
 
 
-  "||gatecoin.com",
 
+"||dragonex.io",
 
 
-  "||hbg.com",
 
+"||ebtcbank.com",
 
 
-  "||hitbtc.com",
 
+"||etherdelta.com",
 
 
-  "||huobi.com",
 
+"||exmo.com",
 
 
-  "||huobi.pro",
 
+"||exrates.me",
 
 
-  "||huobipro.com",
 
+"||exx.com",
 
 
-  "||bx.in.th",
 
+"||fatbtc.com",
 
 
-  "||jex.com",
 
+"||gate.io",
 
 
-  "||kex.com",
 
+"||gatecoin.com",
 
 
-  "||kspcoin.com",
 
+"||hbg.com",
 
 
-  "||kucoin.com",
 
+"||hitbtc.com",
 
 
-  "||lbank.info",
 
+"||huobi.com",
 
 
-  "||livecoin.net",
 
+"||huobi.pro",
 
 
-  "||localbitcoins.com",
 
+"||huobipro.com",
 
 
-  "||mercatox.com",
 
+"||bx.in.th",
 
 
-  "||oex.com",
 
+"||jex.com",
 
 
-  "||okex.com",
 
+"||kex.com",
 
 
-  "||otcbtc.com",
 
+"||kspcoin.com",
 
 
-  "||rightbtc.com",
 
+"||kucoin.com",
 
 
-  "||topbtc.com",
 
+"||lbank.info",
 
 
-  "||xbtce.com",
 
+"||livecoin.net",
 
 
-  "||yobit.net",
 
+"||localbitcoins.com",
 
 
-  "||zb.com",
 
+"||mercatox.com",
 
 
-  "||read01.com",
 
+"||oex.com",
 
 
-  "||kknews.cc",
 
+"||okex.com",
 
 
-  "china-mmm.jp.net",
 
+"||otcbtc.com",
 
 
-  ".lsxszzg.com",
 
+"||rightbtc.com",
 
 
-  ".china-mmm.net",
 
+"||topbtc.com",
 
 
-  "||china-mmm.net",
 
+"||xbtce.com",
 
 
-  "china-mmm.sa.com",
 
+"||yobit.net",
 
 
-  ".allowed.org",
 
+"||zb.com",
 
 
-  ".now.im",
 
+"||read01.com",
 
 
-  "||amazon.co.jp",
 
+"||kknews.cc",
 
 
-  ".amazon.com\/Dalai-Lama",
 
+"china-mmm.jp.net",
 
 
-  "amazon.com\/Prisoner-State-Secret-Journal-Premier",
 
+".lsxszzg.com",
 
 
-  "s3-ap-northeast-1.amazonaws.com",
 
+".china-mmm.net",
 
 
-  "||aolchannels.aol.com",
 
+"||china-mmm.net",
 
 
-  "video.aol.ca\/video-detail",
 
+"china-mmm.sa.com",
 
 
-  "video.aol.co.uk\/video-detail",
 
+".allowed.org",
 
 
-  "video.aol.com",
 
+".now.im",
 
 
-  "||video.aol.com",
 
+"||amazon.co.jp",
 
 
-  "||search.aol.com",
 
+".amazon.com\/Dalai-Lama",
 
 
-  "www.aolnews.com",
 
+"amazon.com\/Prisoner-State-Secret-Journal-Premier",
 
 
-  ".avmo.pw",
 
+"s3-ap-northeast-1.amazonaws.com",
 
 
-  ".avmoo.com",
 
+"||aolchannels.aol.com",
 
 
-  "|http:\/\/avmoo.com",
 
+"video.aol.ca\/video-detail",
 
 
-  ".avmoo.net",
 
+"video.aol.co.uk\/video-detail",
 
 
-  "|http:\/\/avmoo.net",
 
+"video.aol.com",
 
 
-  "||avmoo.pw",
 
+"||video.aol.com",
 
 
-  ".javmoo.xyz",
 
+"||search.aol.com",
 
 
-  "|http:\/\/javmoo.xyz",
 
+"www.aolnews.com",
 
 
-  ".javtag.com",
 
+".avmo.pw",
 
 
-  "|http:\/\/javtag.com",
 
+".avmoo.com",
 
 
-  ".javzoo.com",
 
+"|http:\/\/avmoo.com",
 
 
-  "|http:\/\/javzoo.com",
 
+".avmoo.net",
 
 
-  ".tellme.pw",
 
+"|http:\/\/avmoo.net",
 
 
-  ".bbc.com",
 
+"||avmoo.pw",
 
 
-  "||bbc.com",
 
+".javmoo.xyz",
 
 
-  ".bbc.co.uk",
 
+"|http:\/\/javmoo.xyz",
 
 
-  "||bbc.co.uk",
 
+".javtag.com",
 
 
-  "||bbci.co.uk",
 
+"|http:\/\/javtag.com",
 
 
-  ".bbcchinese.com",
 
+".javzoo.com",
 
 
-  "||bbcchinese.com",
 
+"|http:\/\/javzoo.com",
 
 
-  "|http:\/\/bbc.in",
 
+".tellme.pw",
 
 
-  ".1dumb.com",
 
+".bbc.com",
 
 
-  ".25u.com",
 
+"||bbc.com",
 
 
-  ".2waky.com",
 
+".bbc.co.uk",
 
 
-  ".3-a.net",
 
+"||bbc.co.uk",
 
 
-  ".4dq.com",
 
+"||bbci.co.uk",
 
 
-  ".4mydomain.com",
 
+".bbcchinese.com",
 
 
-  ".4pu.com",
 
+"||bbcchinese.com",
 
 
-  ".acmetoy.com",
 
+"|http:\/\/bbc.in",
 
 
-  ".almostmy.com",
 
+".1dumb.com",
 
 
-  ".americanunfinished.com",
 
+".25u.com",
 
 
-  ".authorizeddns.net",
 
+".2waky.com",
 
 
-  ".authorizeddns.org",
 
+".3-a.net",
 
 
-  ".authorizeddns.us",
 
+".4dq.com",
 
 
-  ".bigmoney.biz",
 
+".4mydomain.com",
 
 
-  ".changeip.name",
 
+".4pu.com",
 
 
-  ".changeip.net",
 
+".acmetoy.com",
 
 
-  ".changeip.org",
 
+".almostmy.com",
 
 
-  ".cleansite.biz",
 
+".americanunfinished.com",
 
 
-  ".cleansite.info",
 
+".authorizeddns.net",
 
 
-  ".cleansite.us",
 
+".authorizeddns.org",
 
 
-  ".compress.to",
 
+".authorizeddns.us",
 
 
-  ".ddns.info",
 
+".bigmoney.biz",
 
 
-  ".ddns.me.uk",
 
+".changeip.name",
 
 
-  ".ddns.mobi",
 
+".changeip.net",
 
 
-  ".ddns.ms",
 
+".changeip.org",
 
 
-  ".ddns.name",
 
+".cleansite.biz",
 
 
-  ".ddns.us",
 
+".cleansite.info",
 
 
-  ".dhcp.biz",
 
+".cleansite.us",
 
 
-  ".dns-dns.com",
 
+".compress.to",
 
 
-  ".dns-stuff.com",
 
+".ddns.info",
 
 
-  ".dns04.com",
 
+".ddns.me.uk",
 
 
-  ".dns05.com",
 
+".ddns.mobi",
 
 
-  ".dns1.us",
 
+".ddns.ms",
 
 
-  ".dns2.us",
 
+".ddns.name",
 
 
-  ".dnset.com",
 
+".ddns.us",
 
 
-  ".dnsrd.com",
 
+".dhcp.biz",
 
 
-  ".dsmtp.com",
 
+".dns-dns.com",
 
 
-  ".dumb1.com",
 
+".dns-stuff.com",
 
 
-  ".dynamic-dns.net",
 
+".dns04.com",
 
 
-  ".dynamicdns.biz",
 
+".dns05.com",
 
 
-  ".dynamicdns.co.uk",
 
+".dns1.us",
 
 
-  ".dynamicdns.me.uk",
 
+".dns2.us",
 
 
-  ".dynamicdns.org.uk",
 
+".dnset.com",
 
 
-  ".dyndns.pro",
 
+".dnsrd.com",
 
 
-  ".dynssl.com",
 
+".dsmtp.com",
 
 
-  ".edns.biz",
 
+".dumb1.com",
 
 
-  ".epac.to",
 
+".dynamic-dns.net",
 
 
-  ".esmtp.biz",
 
+".dynamicdns.biz",
 
 
-  ".ezua.com",
 
+".dynamicdns.co.uk",
 
 
-  ".faqserv.com",
 
+".dynamicdns.me.uk",
 
 
-  ".fartit.com",
 
+".dynamicdns.org.uk",
 
 
-  ".freeddns.com",
 
+".dyndns.pro",
 
 
-  ".freetcp.com",
 
+".dynssl.com",
 
 
-  ".freewww.biz",
 
+".edns.biz",
 
 
-  ".freewww.info",
 
+".epac.to",
 
 
-  ".ftp1.biz",
 
+".esmtp.biz",
 
 
-  ".ftpserver.biz",
 
+".ezua.com",
 
 
-  ".gettrials.com",
 
+".faqserv.com",
 
 
-  ".got-game.org",
 
+".fartit.com",
 
 
-  ".gr8domain.biz",
 
+".freeddns.com",
 
 
-  ".gr8name.biz",
 
+".freetcp.com",
 
 
-  ".https443.net",
 
+".freewww.biz",
 
 
-  ".https443.org",
 
+".freewww.info",
 
 
-  ".ikwb.com",
 
+".ftp1.biz",
 
 
-  ".instanthq.com",
 
+".ftpserver.biz",
 
 
-  ".iownyour.biz",
 
+".gettrials.com",
 
 
-  ".iownyour.org",
 
+".got-game.org",
 
 
-  ".isasecret.com",
 
+".gr8domain.biz",
 
 
-  ".itemdb.com",
 
+".gr8name.biz",
 
 
-  ".itsaol.com",
 
+".https443.net",
 
 
-  ".jetos.com",
 
+".https443.org",
 
 
-  ".jkub.com",
 
+".ikwb.com",
 
 
-  ".jungleheart.com",
 
+".instanthq.com",
 
 
-  ".justdied.com",
 
+".iownyour.biz",
 
 
-  ".lflink.com",
 
+".iownyour.org",
 
 
-  ".lflinkup.com",
 
+".isasecret.com",
 
 
-  ".lflinkup.net",
 
+".itemdb.com",
 
 
-  ".lflinkup.org",
 
+".itsaol.com",
 
 
-  ".longmusic.com",
 
+".jetos.com",
 
 
-  ".mefound.com",
 
+".jkub.com",
 
 
-  ".moneyhome.biz",
 
+".jungleheart.com",
 
 
-  ".mrbasic.com",
 
+".justdied.com",
 
 
-  ".mrbonus.com",
 
+".lflink.com",
 
 
-  ".mrface.com",
 
+".lflinkup.com",
 
 
-  ".mrslove.com",
 
+".lflinkup.net",
 
 
-  ".my03.com",
 
+".lflinkup.org",
 
 
-  ".mydad.info",
 
+".longmusic.com",
 
 
-  ".myddns.com",
 
+".mefound.com",
 
 
-  ".myftp.info",
 
+".moneyhome.biz",
 
 
-  ".myftp.name",
 
+".mrbasic.com",
 
 
-  ".mylftv.com",
 
+".mrbonus.com",
 
 
-  ".mymom.info",
 
+".mrface.com",
 
 
-  ".mynetav.net",
 
+".mrslove.com",
 
 
-  ".mynetav.org",
 
+".my03.com",
 
 
-  ".mynumber.org",
 
+".mydad.info",
 
 
-  ".mypicture.info",
 
+".myddns.com",
 
 
-  ".mypop3.net",
 
+".myftp.info",
 
 
-  ".mypop3.org",
 
+".myftp.name",
 
 
-  ".mysecondarydns.com",
 
+".mylftv.com",
 
 
-  ".mywww.biz",
 
+".mymom.info",
 
 
-  ".myz.info",
 
+".mynetav.net",
 
 
-  ".ninth.biz",
 
+".mynetav.org",
 
 
-  ".ns01.biz",
 
+".mynumber.org",
 
 
-  ".ns01.info",
 
+".mypicture.info",
 
 
-  ".ns01.us",
 
+".mypop3.net",
 
 
-  ".ns02.biz",
 
+".mypop3.org",
 
 
-  ".ns02.info",
 
+".mysecondarydns.com",
 
 
-  ".ns02.us",
 
+".mywww.biz",
 
 
-  ".ns1.name",
 
+".myz.info",
 
 
-  ".ns2.name",
 
+".ninth.biz",
 
 
-  ".ns3.name",
 
+".ns01.biz",
 
 
-  ".ocry.com",
 
+".ns01.info",
 
 
-  ".onedumb.com",
 
+".ns01.us",
 
 
-  ".onmypc.biz",
 
+".ns02.biz",
 
 
-  ".onmypc.info",
 
+".ns02.info",
 
 
-  ".onmypc.net",
 
+".ns02.us",
 
 
-  ".onmypc.org",
 
+".ns1.name",
 
 
-  ".onmypc.us",
 
+".ns2.name",
 
 
-  ".organiccrap.com",
 
+".ns3.name",
 
 
-  ".otzo.com",
 
+".ocry.com",
 
 
-  ".ourhobby.com",
 
+".onedumb.com",
 
 
-  ".pcanywhere.net",
 
+".onmypc.biz",
 
 
-  ".port25.biz",
 
+".onmypc.info",
 
 
-  ".proxydns.com",
 
+".onmypc.net",
 
 
-  ".qhigh.com",
 
+".onmypc.org",
 
 
-  ".qpoe.com",
 
+".onmypc.us",
 
 
-  ".rebatesrule.net",
 
+".organiccrap.com",
 
 
-  ".sellclassics.com",
 
+".otzo.com",
 
 
-  ".sendsmtp.com",
 
+".ourhobby.com",
 
 
-  ".serveuser.com",
 
+".pcanywhere.net",
 
 
-  ".serveusers.com",
 
+".port25.biz",
 
 
-  ".sexidude.com",
 
+".proxydns.com",
 
 
-  ".sexxxy.biz",
 
+".qhigh.com",
 
 
-  ".sixth.biz",
 
+".qpoe.com",
 
 
-  ".squirly.info",
 
+".rebatesrule.net",
 
 
-  ".ssl443.org",
 
+".sellclassics.com",
 
 
-  ".toh.info",
 
+".sendsmtp.com",
 
 
-  ".toythieves.com",
 
+".serveuser.com",
 
 
-  ".trickip.net",
 
+".serveusers.com",
 
 
-  ".trickip.org",
 
+".sexidude.com",
 
 
-  ".vizvaz.com",
 
+".sexxxy.biz",
 
 
-  ".wha.la",
 
+".sixth.biz",
 
 
-  ".wikaba.com",
 
+".squirly.info",
 
 
-  ".www1.biz",
 
+".ssl443.org",
 
 
-  ".wwwhost.biz",
 
+".toh.info",
 
 
-  "@@|http:\/\/xx.wwwhost.biz",
 
+".toythieves.com",
 
 
-  ".x24hr.com",
 
+".trickip.net",
 
 
-  ".xxuz.com",
 
+".trickip.org",
 
 
-  ".xxxy.biz",
 
+".vizvaz.com",
 
 
-  ".xxxy.info",
 
+".wha.la",
 
 
-  ".ygto.com",
 
+".wikaba.com",
 
 
-  ".youdontcare.com",
 
+".www1.biz",
 
 
-  ".yourtrap.com",
 
+".wwwhost.biz",
 
 
-  ".zyns.com",
 
+"@@|http:\/\/xx.wwwhost.biz",
 
 
-  ".zzux.com",
 
+".x24hr.com",
 
 
-  "d1b183sg0nvnuh.cloudfront.net",
 
+".xxuz.com",
 
 
-  "|https:\/\/d1b183sg0nvnuh.cloudfront.net",
 
+".xxxy.biz",
 
 
-  "d1c37gjwa26taa.cloudfront.net",
 
+".xxxy.info",
 
 
-  "|https:\/\/d1c37gjwa26taa.cloudfront.net",
 
+".ygto.com",
 
 
-  "d3c33hcgiwev3.cloudfront.net",
 
+".youdontcare.com",
 
 
-  "|https:\/\/d3c33hcgiwev3.cloudfront.net",
 
+".yourtrap.com",
 
 
-  "||d3rhr7kgmtrq1v.cloudfront.net",
 
+".zyns.com",
 
 
-  ".3d-game.com",
 
+".zzux.com",
 
 
-  ".4irc.com",
 
+"d1b183sg0nvnuh.cloudfront.net",
 
 
-  ".b0ne.com",
 
+"|https:\/\/d1b183sg0nvnuh.cloudfront.net",
 
 
-  ".chatnook.com",
 
+"d1c37gjwa26taa.cloudfront.net",
 
 
-  ".darktech.org",
 
+"|https:\/\/d1c37gjwa26taa.cloudfront.net",
 
 
-  ".deaftone.com",
 
+"d3c33hcgiwev3.cloudfront.net",
 
 
-  ".dtdns.net",
 
+"|https:\/\/d3c33hcgiwev3.cloudfront.net",
 
 
-  ".effers.com",
 
+"||d3rhr7kgmtrq1v.cloudfront.net",
 
 
-  ".etowns.net",
 
+".3d-game.com",
 
 
-  ".etowns.org",
 
+".4irc.com",
 
 
-  ".flnet.org",
 
+".b0ne.com",
 
 
-  ".gotgeeks.com",
 
+".chatnook.com",
 
 
-  ".scieron.com",
 
+".darktech.org",
 
 
-  ".slyip.com",
 
+".deaftone.com",
 
 
-  ".slyip.net",
 
+".dtdns.net",
 
 
-  ".suroot.com",
 
+".effers.com",
 
 
-  ".blogdns.org",
 
+".etowns.net",
 
 
-  ".dyndns.org",
 
+".etowns.org",
 
 
-  ".dyndns-ip.com",
 
+".flnet.org",
 
 
-  ".dyndns-pics.com",
 
+".gotgeeks.com",
 
 
-  ".from-sd.com",
 
+".scieron.com",
 
 
-  ".from-pr.com",
 
+".slyip.com",
 
 
-  ".is-a-hunter.com",
 
+".slyip.net",
 
 
-  ".dynu.com",
 
+".suroot.com",
 
 
-  ".dynu.net",
 
+".blogdns.org",
 
 
-  ".freeddns.org",
 
+".dyndns.org",
 
 
-  "cdninstagram.com",
 
+".dyndns-ip.com",
 
 
-  "||cdninstagram.com",
 
+".dyndns-pics.com",
 
 
-  "||facebook.br",
 
+".from-sd.com",
 
 
-  ".facebook.com",
 
+".from-pr.com",
 
 
-  "||facebook.com",
 
+".is-a-hunter.com",
 
 
-  "@@||v6.facebook.com",
 
+".dynu.com",
 
 
-  "||facebook.design",
 
+".dynu.net",
 
 
-  "||connect.facebook.net",
 
+".freeddns.org",
 
 
-  "||facebook.hu",
 
+"cdninstagram.com",
 
 
-  "||facebook.in",
 
+"||cdninstagram.com",
 
 
-  "||facebook.nl",
 
+"||facebook.br",
 
 
-  "||facebook.se",
 
+".facebook.com",
 
 
-  "||facebookmail.com",
 
+"||facebook.com",
 
 
-  "||fb.com",
 
+"@@||v6.facebook.com",
 
 
-  "||fb.me",
 
+"||facebook.design",
 
 
-  "||fbcdn.net",
 
+"||connect.facebook.net",
 
 
-  "||fbsbx.com",
 
+"||facebook.hu",
 
 
-  "||fbaddins.com",
 
+"||facebook.in",
 
 
-  "||fbworkmail.com",
 
+"||facebook.nl",
 
 
-  ".instagram.com",
 
+"||facebook.se",
 
 
-  "||instagram.com",
 
+"||facebookmail.com",
 
 
-  "||m.me",
 
+"||fb.com",
 
 
-  "||messenger.com",
 
+"||fb.me",
 
 
-  "||oculus.com",
 
+"||fbcdn.net",
 
 
-  "||oculuscdn.com",
 
+"||fbsbx.com",
 
 
-  "||rocksdb.org",
 
+"||fbaddins.com",
 
 
-  "@@||ip6.static.sl-reverse.com",
 
+"||fbworkmail.com",
 
 
-  "||thefacebook.com",
 
+".instagram.com",
 
 
-  "||whatsapp.com",
 
+"||instagram.com",
 
 
-  "||whatsapp.net",
 
+"||m.me",
 
 
-  ".ftchinese.com",
 
+"||messenger.com",
 
 
-  "||ftchinese.com",
 
+"||oculus.com",
 
 
-  "||1e100.net",
 
+"||oculuscdn.com",
 
 
-  "||466453.com",
 
+"||rocksdb.org",
 
 
-  "||abc.xyz",
 
+"@@||ip6.static.sl-reverse.com",
 
 
-  "||about.google",
 
+"||thefacebook.com",
 
 
-  "||admob.com",
 
+"||whatsapp.com",
 
 
-  "||adsense.com",
 
+"||whatsapp.net",
 
 
-  "||agoogleaday.com",
 
+".ftchinese.com",
 
 
-  "||ai.google",
 
+"||ftchinese.com",
 
 
-  "||ampproject.org",
 
+"||1e100.net",
 
 
-  "@@|https:\/\/www.ampproject.org",
 
+"||466453.com",
 
 
-  "@@|https:\/\/cdn.ampproject.org",
 
+"||abc.xyz",
 
 
-  "||android.com",
 
+"||about.google",
 
 
-  "||androidify.com",
 
+"||admob.com",
 
 
-  "||androidtv.com",
 
+"||adsense.com",
 
 
-  "||api.ai",
 
+"||agoogleaday.com",
 
 
-  ".appspot.com",
 
+"||ai.google",
 
 
-  "||appspot.com",
 
+"||ampproject.org",
 
 
-  "||autodraw.com",
 
+"@@|https:\/\/www.ampproject.org",
 
 
-  "||blog.google",
 
+"@@|https:\/\/cdn.ampproject.org",
 
 
-  "||blogblog.com",
 
+"||android.com",
 
 
-  "blogspot.com",
 
+"||androidify.com",
 
 
-  "\/^https?:\\\/\\\/[^\\\/]+blogspot\\.(.*)\/",
 
+"||androidtv.com",
 
 
-  ".blogspot.hk",
 
+"||api.ai",
 
 
-  ".blogspot.jp",
 
+".appspot.com",
 
 
-  ".blogspot.tw",
 
+"||appspot.com",
 
 
-  "||certificate-transparency.org",
 
+"||autodraw.com",
 
 
-  "||chrome.com",
 
+"||blog.google",
 
 
-  "||chromecast.com",
 
+"||blogblog.com",
 
 
-  "||chromeexperiments.com",
 
+"blogspot.com",
 
 
-  "||chromercise.com",
 
+"\/^https?:\\\/\\\/[^\\\/]+blogspot\\.(.*)\/",
 
 
-  "||chromestatus.com",
 
+".blogspot.hk",
 
 
-  "||chromium.org",
 
+".blogspot.jp",
 
 
-  "||com.google",
 
+".blogspot.tw",
 
 
-  "||crbug.com",
 
+"||certificate-transparency.org",
 
 
-  "||creativelab5.com",
 
+"||chrome.com",
 
 
-  "||crisisresponse.google",
 
+"||chromecast.com",
 
 
-  "||crrev.com",
 
+"||chromeexperiments.com",
 
 
-  "||data-vocabulary.org",
 
+"||chromercise.com",
 
 
-  "||debug.com",
 
+"||chromestatus.com",
 
 
-  "||deepmind.com",
 
+"||chromium.org",
 
 
-  "||deja.com",
 
+"||com.google",
 
 
-  "||design.google",
 
+"||crbug.com",
 
 
-  "||digisfera.com",
 
+"||creativelab5.com",
 
 
-  "||dns.google",
 
+"||crisisresponse.google",
 
 
-  "||domains.google",
 
+"||crrev.com",
 
 
-  "||duck.com",
 
+"||data-vocabulary.org",
 
 
-  "||environment.google",
 
+"||debug.com",
 
 
-  "||feedburner.com",
 
+"||deepmind.com",
 
 
-  "||firebaseio.com",
 
+"||deja.com",
 
 
-  "||g.co",
 
+"||design.google",
 
 
-  "||gcr.io",
 
+"||digisfera.com",
 
 
-  "||get.app",
 
+"||dns.google",
 
 
-  "||get.dev",
 
+"||domains.google",
 
 
-  "||get.how",
 
+"||duck.com",
 
 
-  "||get.page",
 
+"||environment.google",
 
 
-  "||getmdl.io",
 
+"||feedburner.com",
 
 
-  "||getoutline.org",
 
+"||firebaseio.com",
 
 
-  "||ggpht.com",
 
+"||g.co",
 
 
-  "||gmail.com",
 
+"||gcr.io",
 
 
-  "||gmodules.com",
 
+"||get.app",
 
 
-  "||godoc.org",
 
+"||get.dev",
 
 
-  "||golang.org",
 
+"||get.how",
 
 
-  "||goo.gl",
 
+"||get.page",
 
 
-  ".google.ae",
 
+"||getmdl.io",
 
 
-  ".google.as",
 
+"||getoutline.org",
 
 
-  ".google.am",
 
+"||ggpht.com",
 
 
-  ".google.at",
 
+"||gmail.com",
 
 
-  ".google.az",
 
+"||gmodules.com",
 
 
-  ".google.ba",
 
+"||godoc.org",
 
 
-  ".google.be",
 
+"||golang.org",
 
 
-  ".google.bg",
 
+"||goo.gl",
 
 
-  ".google.ca",
 
+".google.ae",
 
 
-  ".google.cd",
 
+".google.as",
 
 
-  ".google.ci",
 
+".google.am",
 
 
-  ".google.co.id",
 
+".google.at",
 
 
-  ".google.co.jp",
 
+".google.az",
 
 
-  ".google.co.kr",
 
+".google.ba",
 
 
-  ".google.co.ma",
 
+".google.be",
 
 
-  ".google.co.uk",
 
+".google.bg",
 
 
-  ".google.com",
 
+".google.ca",
 
 
-  ".google.de",
 
+".google.cd",
 
 
-  "||google.dev",
 
+".google.ci",
 
 
-  ".google.dj",
 
+".google.co.id",
 
 
-  ".google.dk",
 
+".google.co.jp",
 
 
-  ".google.es",
 
+".google.co.kr",
 
 
-  ".google.fi",
 
+".google.co.ma",
 
 
-  ".google.fm",
 
+".google.co.uk",
 
 
-  ".google.fr",
 
+".google.com",
 
 
-  ".google.gg",
 
+".google.de",
 
 
-  ".google.gl",
 
+"||google.dev",
 
 
-  ".google.gr",
 
+".google.dj",
 
 
-  ".google.ie",
 
+".google.dk",
 
 
-  ".google.is",
 
+".google.es",
 
 
-  ".google.it",
 
+".google.fi",
 
 
-  ".google.jo",
 
+".google.fm",
 
 
-  ".google.kz",
 
+".google.fr",
 
 
-  ".google.lv",
 
+".google.gg",
 
 
-  ".google.mn",
 
+".google.gl",
 
 
-  ".google.ms",
 
+".google.gr",
 
 
-  ".google.nl",
 
+".google.ie",
 
 
-  ".google.nu",
 
+".google.is",
 
 
-  ".google.no",
 
+".google.it",
 
 
-  ".google.ro",
 
+".google.jo",
 
 
-  ".google.ru",
 
+".google.kz",
 
 
-  ".google.rw",
 
+".google.lv",
 
 
-  ".google.sc",
 
+".google.mn",
 
 
-  ".google.sh",
 
+".google.ms",
 
 
-  ".google.sk",
 
+".google.nl",
 
 
-  ".google.sm",
 
+".google.nu",
 
 
-  ".google.sn",
 
+".google.no",
 
 
-  ".google.tk",
 
+".google.ro",
 
 
-  ".google.tm",
 
+".google.ru",
 
 
-  ".google.to",
 
+".google.rw",
 
 
-  ".google.tt",
 
+".google.sc",
 
 
-  ".google.vu",
 
+".google.sh",
 
 
-  ".google.ws",
 
+".google.sk",
 
 
-  "\/^https?:\\\/\\\/([^\\\/]+\\.)*google\\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\\\/.*\/",
 
+".google.sm",
 
 
-  "||googleapis.cn",
 
+".google.sn",
 
 
-  "||googleapis.com",
 
+".google.tk",
 
 
-  "||googleapps.com",
 
+".google.tm",
 
 
-  "||googleartproject.com",
 
+".google.to",
 
 
-  "||googleblog.com",
 
+".google.tt",
 
 
-  "||googlebot.com",
 
+".google.vu",
 
 
-  "||googlechinawebmaster.com",
 
+".google.ws",
 
 
-  "||googlecode.com",
 
+"\/^https?:\\\/\\\/([^\\\/]+\\.)*google\\.(ac|ad|ae|af|al|am|as|at|az|ba|be|bf|bg|bi|bj|bs|bt|by|ca|cat|cd|cf|cg|ch|ci|cl|cm|co.ao|co.bw|co.ck|co.cr|co.id|co.il|co.in|co.jp|co.ke|co.kr|co.ls|co.ma|com|com.af|com.ag|com.ai|com.ar|com.au|com.bd|com.bh|com.bn|com.bo|com.br|com.bz|com.co|com.cu|com.cy|com.do|com.ec|com.eg|com.et|com.fj|com.gh|com.gi|com.gt|com.hk|com.jm|com.kh|com.kw|com.lb|com.ly|com.mm|com.mt|com.mx|com.my|com.na|com.nf|com.ng|com.ni|com.np|com.om|com.pa|com.pe|com.pg|com.ph|com.pk|com.pr|com.py|com.qa|com.sa|com.sb|com.sg|com.sl|com.sv|com.tj|com.tr|com.tw|com.ua|com.uy|com.vc|com.vn|co.mz|co.nz|co.th|co.tz|co.ug|co.uk|co.uz|co.ve|co.vi|co.za|co.zm|co.zw|cv|cz|de|dj|dk|dm|dz|ee|es|eu|fi|fm|fr|ga|ge|gg|gl|gm|gp|gr|gy|hk|hn|hr|ht|hu|ie|im|iq|is|it|it.ao|je|jo|kg|ki|kz|la|li|lk|lt|lu|lv|md|me|mg|mk|ml|mn|ms|mu|mv|mw|mx|ne|nl|no|nr|nu|org|pl|pn|ps|pt|ro|rs|ru|rw|sc|se|sh|si|sk|sm|sn|so|sr|st|td|tg|tk|tl|tm|tn|to|tt|us|vg|vn|vu|ws)\\\/.*\/",
 
 
-  "||googlecommerce.com",
 
+"||googleapis.cn",
 
 
-  "||googledomains.com",
 
+"||googleapis.com",
 
 
-  "||googlearth.com",
 
+"||googleapps.com",
 
 
-  "||googleearth.com",
 
+"||googleartproject.com",
 
 
-  "||googledrive.com",
 
+"||googleblog.com",
 
 
-  "||googlegroups.com",
 
+"||googlebot.com",
 
 
-  "||googlehosted.com",
 
+"||googlechinawebmaster.com",
 
 
-  "||googleideas.com",
 
+"||googlecode.com",
 
 
-  "||googleinsidesearch.com",
 
+"||googlecommerce.com",
 
 
-  "||googlelabs.com",
 
+"||googledomains.com",
 
 
-  "||googlemail.com",
 
+"||googlearth.com",
 
 
-  "||googlemashups.com",
 
+"||googleearth.com",
 
 
-  "||googlepagecreator.com",
 
+"||googledrive.com",
 
 
-  "||googleplay.com",
 
+"||googlegroups.com",
 
 
-  "||googleplus.com",
 
+"||googlehosted.com",
 
 
-  "||googlescholar.com",
 
+"||googleideas.com",
 
 
-  "||googlesource.com",
 
+"||googleinsidesearch.com",
 
 
-  "||googleusercontent.com",
 
+"||googlelabs.com",
 
 
-  ".googlevideo.com",
 
+"||googlemail.com",
 
 
-  "||googlevideo.com",
 
+"||googlemashups.com",
 
 
-  "||googleweblight.com",
 
+"||googlepagecreator.com",
 
 
-  "||googlezip.net",
 
+"||googleplay.com",
 
 
-  "||groups.google.cn",
 
+"||googleplus.com",
 
 
-  "||grow.google",
 
+"||googlescholar.com",
 
 
-  "||gstatic.com",
 
+"||googlesource.com",
 
 
-  "||gvt0.com",
 
+"||googleusercontent.com",
 
 
-  "||gvt1.com",
 
+".googlevideo.com",
 
 
-  "@@||redirector.gvt1.com",
 
+"||googlevideo.com",
 
 
-  "||gvt3.com",
 
+"||googleweblight.com",
 
 
-  "||gwtproject.org",
 
+"||googlezip.net",
 
 
-  "||html5rocks.com",
 
+"||groups.google.cn",
 
 
-  "||iam.soy",
 
+"||grow.google",
 
 
-  "||igoogle.com",
 
+"||gstatic.com",
 
 
-  "||itasoftware.com",
 
+"||gvt0.com",
 
 
-  "||lers.google",
 
+"||gvt1.com",
 
 
-  "||like.com",
 
+"@@||redirector.gvt1.com",
 
 
-  "||madewithcode.com",
 
+"||gvt3.com",
 
 
-  "||material.io",
 
+"||gwtproject.org",
 
 
-  "||nic.google",
 
+"||html5rocks.com",
 
 
-  "||on2.com",
 
+"||iam.soy",
 
 
-  "||panoramio.com",
 
+"||igoogle.com",
 
 
-  "||picasaweb.com",
 
+"||itasoftware.com",
 
 
-  "||pki.goog",
 
+"||lers.google",
 
 
-  "||plus.codes",
 
+"||like.com",
 
 
-  "||polymer-project.org",
 
+"||madewithcode.com",
 
 
-  "||pride.google",
 
+"||material.io",
 
 
-  "||questvisual.com",
 
+"||nic.google",
 
 
-  "||admin.recaptcha.net",
 
+"||on2.com",
 
 
-  "||api.recaptcha.net",
 
+"||panoramio.com",
 
 
-  "||api-secure.recaptcha.net",
 
+"||picasaweb.com",
 
 
-  "||api-verify.recaptcha.net",
 
+"||pki.goog",
 
 
-  "||redhotlabs.com",
 
+"||plus.codes",
 
 
-  "||registry.google",
 
+"||polymer-project.org",
 
 
-  "||safety.google",
 
+"||pride.google",
 
 
-  "||savethedate.foo",
 
+"||questvisual.com",
 
 
-  "||schema.org",
 
+"||admin.recaptcha.net",
 
 
-  "||shattered.io",
 
+"||api.recaptcha.net",
 
 
-  "|http:\/\/sipml5.org\/",
 
+"||api-secure.recaptcha.net",
 
 
-  "||stories.google",
 
+"||api-verify.recaptcha.net",
 
 
-  "||sustainability.google",
 
+"||redhotlabs.com",
 
 
-  "||synergyse.com",
 
+"||registry.google",
 
 
-  "||teachparentstech.org",
 
+"||safety.google",
 
 
-  "||tensorflow.org",
 
+"||savethedate.foo",
 
 
-  "||tfhub.dev",
 
+"||schema.org",
 
 
-  "||thinkwithgoogle.com",
 
+"||shattered.io",
 
 
-  "||tiltbrush.com",
 
+"|http:\/\/sipml5.org\/",
 
 
-  "||urchin.com",
 
+"||stories.google",
 
 
-  "||waveprotocol.org",
 
+"||sustainability.google",
 
 
-  "||waymo.com",
 
+"||synergyse.com",
 
 
-  "||web.dev",
 
+"||teachparentstech.org",
 
 
-  "||webmproject.org",
 
+"||tensorflow.org",
 
 
-  "||webrtc.org",
 
+"||tfhub.dev",
 
 
-  "||whatbrowser.org",
 
+"||thinkwithgoogle.com",
 
 
-  "||widevine.com",
 
+"||tiltbrush.com",
 
 
-  "||withgoogle.com",
 
+"||urchin.com",
 
 
-  "||withyoutube.com",
 
+"||waveprotocol.org",
 
 
-  "||x.company",
 
+"||waymo.com",
 
 
-  "||xn--ngstr-lra8j.com",
 
+"||web.dev",
 
 
-  "||youtu.be",
 
+"||webmproject.org",
 
 
-  ".youtube.com",
 
+"||webrtc.org",
 
 
-  "||youtube.com",
 
+"||whatbrowser.org",
 
 
-  "||youtube-nocookie.com",
 
+"||widevine.com",
 
 
-  "||youtubeeducation.com",
 
+"||withgoogle.com",
 
 
-  "||youtubegaming.com",
 
+"||withyoutube.com",
 
 
-  "||yt.be",
 
+"||x.company",
 
 
-  "||ytimg.com",
 
+"||xn--ngstr-lra8j.com",
 
 
-  "||zynamics.com",
 
+"||youtu.be",
 
 
-  "||naughtyamerica.com",
 
+".youtube.com",
 
 
-  "static01.nyt.com",
 
+"||youtube.com",
 
 
-  "||nyt.com",
 
+"||youtube-nocookie.com",
 
 
-  "nytchina.com",
 
+"||youtubeeducation.com",
 
 
-  "nytcn.me",
 
+"||youtubegaming.com",
 
 
-  "||nytcn.me",
 
+"||yt.be",
 
 
-  "||nytco.com",
 
+"||ytimg.com",
 
 
-  "|http:\/\/nyti.ms\/",
 
+"||zynamics.com",
 
 
-  ".nytimes.com",
 
+"||naughtyamerica.com",
 
 
-  "||nytimes.com",
 
+"static01.nyt.com",
 
 
-  "||nytimg.com",
 
+"||nyt.com",
 
 
-  "userapi.nytlog.com",
 
+"nytchina.com",
 
 
-  "cn.nytstyle.com",
 
+"nytcn.me",
 
 
-  "||nytstyle.com",
 
+"||nytcn.me",
 
 
-  ".steamcommunity.com",
 
+"||nytco.com",
 
 
-  "||steamcommunity.com",
 
+"|http:\/\/nyti.ms\/",
 
 
-  "|http:\/\/store.steampowered.com\/app\/333600",
 
+".nytimes.com",
 
 
-  "||t.me",
 
+"||nytimes.com",
 
 
-  "||updates.tdesktop.com",
 
+"||nytimg.com",
 
 
-  "||telegram.dog",
 
+"userapi.nytlog.com",
 
 
-  "||telegram.me",
 
+"cn.nytstyle.com",
 
 
-  "||telegram.org",
 
+"||nytstyle.com",
 
 
-  ".telegramdownload.com",
 
+".steamcommunity.com",
 
 
-  "||telesco.pe",
 
+"||steamcommunity.com",
 
 
-  "||jtvnw.net",
 
+"|http:\/\/store.steampowered.com\/app\/333600",
 
 
-  "||ttvnw.net",
 
+"||t.me",
 
 
-  "||twitch.tv",
 
+"||updates.tdesktop.com",
 
 
-  "||twitchcdn.net",
 
+"||telegram.dog",
 
 
-  "||periscope.tv",
 
+"||telegram.me",
 
 
-  ".pscp.tv",
 
+"||telegram.org",
 
 
-  "||pscp.tv",
 
+".telegramdownload.com",
 
 
-  ".t.co",
 
+"||telesco.pe",
 
 
-  "||t.co",
 
+"||jtvnw.net",
 
 
-  ".tweetdeck.com",
 
+"||ttvnw.net",
 
 
-  "||tweetdeck.com",
 
+"||twitch.tv",
 
 
-  "||twimg.com",
 
+"||twitchcdn.net",
 
 
-  ".twitpic.com",
 
+"||periscope.tv",
 
 
-  "||twitpic.com",
 
+".pscp.tv",
 
 
-  ".twitter.com",
 
+"||pscp.tv",
 
 
-  "||twitter.com",
 
+".t.co",
 
 
-  "||twitter.jp",
 
+"||t.co",
 
 
-  "||vine.co",
 
+".tweetdeck.com",
 
 
-  "||gov.taipei",
 
+"||tweetdeck.com",
 
 
-  ".gov.tw",
 
+"||twimg.com",
 
 
-  "|https:\/\/aiss.anws.gov.tw",
 
+".twitpic.com",
 
 
-  "||archives.gov.tw",
 
+"||twitpic.com",
 
 
-  "||tacc.cwb.gov.tw",
 
+".twitter.com",
 
 
-  "||data.gov.tw",
 
+"||twitter.com",
 
 
-  "||epa.gov.tw",
 
+"||twitter.jp",
 
 
-  "||fa.gov.tw",
 
+"||vine.co",
 
 
-  "||fda.gov.tw",
 
+"||gov.taipei",
 
 
-  "||hpa.gov.tw",
 
+".gov.tw",
 
 
-  "||immigration.gov.tw",
 
+"|https:\/\/aiss.anws.gov.tw",
 
 
-  "||itaiwan.gov.tw",
 
+"||archives.gov.tw",
 
 
-  "||mjib.gov.tw",
 
+"||tacc.cwb.gov.tw",
 
 
-  "||moeaic.gov.tw",
 
+"||data.gov.tw",
 
 
-  "||mofa.gov.tw",
 
+"||epa.gov.tw",
 
 
-  "||mol.gov.tw",
 
+"||fa.gov.tw",
 
 
-  "||mvdis.gov.tw",
 
+"||fda.gov.tw",
 
 
-  "||nat.gov.tw",
 
+"||hpa.gov.tw",
 
 
-  "||nhi.gov.tw",
 
+"||immigration.gov.tw",
 
 
-  "||npa.gov.tw",
 
+"||itaiwan.gov.tw",
 
 
-  "||nsc.gov.tw",
 
+"||mjib.gov.tw",
 
 
-  "||ntbk.gov.tw",
 
+"||moeaic.gov.tw",
 
 
-  "||ntbna.gov.tw",
 
+"||mofa.gov.tw",
 
 
-  "||ntbt.gov.tw",
 
+"||mol.gov.tw",
 
 
-  "||ntsna.gov.tw",
 
+"||mvdis.gov.tw",
 
 
-  "||pcc.gov.tw",
 
+"||nat.gov.tw",
 
 
-  "||stat.gov.tw",
 
+"||nhi.gov.tw",
 
 
-  "||taipei.gov.tw",
 
+"||npa.gov.tw",
 
 
-  "||taiwanjobs.gov.tw",
 
+"||nsc.gov.tw",
 
 
-  "||thb.gov.tw",
 
+"||ntbk.gov.tw",
 
 
-  "||tipo.gov.tw",
 
+"||ntbna.gov.tw",
 
 
-  "||wda.gov.tw",
 
+"||ntbt.gov.tw",
 
 
-  "||teco-hk.org",
 
+"||ntsna.gov.tw",
 
 
-  "||teco-mo.org",
 
+"||pcc.gov.tw",
 
 
-  "@@||aftygh.gov.tw",
 
+"||stat.gov.tw",
 
 
-  "@@||aide.gov.tw",
 
+"||taipei.gov.tw",
 
 
-  "@@||tpde.aide.gov.tw",
 
+"||taiwanjobs.gov.tw",
 
 
-  "@@||arte.gov.tw",
 
+"||thb.gov.tw",
 
 
-  "@@||chukuang.gov.tw",
 
+"||tipo.gov.tw",
 
 
-  "@@||cwb.gov.tw",
 
+"||wda.gov.tw",
 
 
-  "@@||cycab.gov.tw",
 
+"||teco-hk.org",
 
 
-  "@@||dbnsa.gov.tw",
 
+"||teco-mo.org",
 
 
-  "@@||df.gov.tw",
 
+"@@||aftygh.gov.tw",
 
 
-  "@@||eastcoast-nsa.gov.tw",
 
+"@@||aide.gov.tw",
 
 
-  "@@||erv-nsa.gov.tw",
 
+"@@||tpde.aide.gov.tw",
 
 
-  "@@||grb.gov.tw",
 
+"@@||arte.gov.tw",
 
 
-  "@@||gysd.nyc.gov.tw",
 
+"@@||chukuang.gov.tw",
 
 
-  "@@||hchcc.gov.tw",
 
+"@@||cwb.gov.tw",
 
 
-  "@@||hsinchu-cc.gov.tw",
 
+"@@||cycab.gov.tw",
 
 
-  "@@||iner.gov.tw",
 
+"@@||dbnsa.gov.tw",
 
 
-  "@@||klsio.gov.tw",
 
+"@@||df.gov.tw",
 
 
-  "@@||kmseh.gov.tw",
 
+"@@||eastcoast-nsa.gov.tw",
 
 
-  "@@||lungtanhr.gov.tw",
 
+"@@||erv-nsa.gov.tw",
 
 
-  "@@||maolin-nsa.gov.tw",
 
+"@@||grb.gov.tw",
 
 
-  "@@||matsu-news.gov.tw",
 
+"@@||gysd.nyc.gov.tw",
 
 
-  "@@||matsu-nsa.gov.tw",
 
+"@@||hchcc.gov.tw",
 
 
-  "@@||matsucc.gov.tw",
 
+"@@||hsinchu-cc.gov.tw",
 
 
-  "@@||moe.gov.tw",
 
+"@@||iner.gov.tw",
 
 
-  "@@||mvdis.gov.tw",
 
+"@@||klsio.gov.tw",
 
 
-  "@@||nankan.gov.tw",
 
+"@@||kmseh.gov.tw",
 
 
-  "@@||ncree.gov.tw",
 
+"@@||lungtanhr.gov.tw",
 
 
-  "@@||necoast-nsa.gov.tw",
 
+"@@||maolin-nsa.gov.tw",
 
 
-  "@@||siraya-nsa.gov.tw",
 
+"@@||matsu-news.gov.tw",
 
 
-  "@@||cromotc.nat.gov.tw",
 
+"@@||matsu-nsa.gov.tw",
 
 
-  "@@||tax.nat.gov.tw",
 
+"@@||matsucc.gov.tw",
 
 
-  "@@||necoast-nsa.gov.tw",
 
+"@@||moe.gov.tw",
 
 
-  "@@||ner.gov.tw",
 
+"@@||mvdis.gov.tw",
 
 
-  "@@||nmmba.gov.tw",
 
+"@@||nankan.gov.tw",
 
 
-  "@@||nmp.gov.tw",
 
+"@@||ncree.gov.tw",
 
 
-  "@@||nmvttc.gov.tw",
 
+"@@||necoast-nsa.gov.tw",
 
 
-  "@@||northguan-nsa.gov.tw",
 
+"@@||siraya-nsa.gov.tw",
 
 
-  "@@||npm.gov.tw",
 
+"@@||cromotc.nat.gov.tw",
 
 
-  "@@||nstm.gov.tw",
 
+"@@||tax.nat.gov.tw",
 
 
-  "@@||ntdmh.gov.tw",
 
+"@@||necoast-nsa.gov.tw",
 
 
-  "@@||ntl.gov.tw",
 
+"@@||ner.gov.tw",
 
 
-  "@@||ntsec.gov.tw",
 
+"@@||nmmba.gov.tw",
 
 
-  "@@||ntuh.gov.tw",
 
+"@@||nmp.gov.tw",
 
 
-  "@@||nvri.gov.tw",
 
+"@@||nmvttc.gov.tw",
 
 
-  "@@||penghu-nsa.gov.tw",
 
+"@@||northguan-nsa.gov.tw",
 
 
-  "@@||post.gov.tw",
 
+"@@||npm.gov.tw",
 
 
-  "@@||siraya-nsa.gov.tw",
 
+"@@||nstm.gov.tw",
 
 
-  "@@||stdtime.gov.tw",
 
+"@@||ntdmh.gov.tw",
 
 
-  "@@||sunmoonlake.gov.tw",
 
+"@@||ntl.gov.tw",
 
 
-  "@@||taitung-house.gov.tw",
 
+"@@||ntsec.gov.tw",
 
 
-  "@@||taoyuan.gov.tw",
 
+"@@||ntuh.gov.tw",
 
 
-  "@@||tphcc.gov.tw",
 
+"@@||nvri.gov.tw",
 
 
-  "@@||trimt-nsa.gov.tw",
 
+"@@||penghu-nsa.gov.tw",
 
 
-  "@@||vghtpe.gov.tw",
 
+"@@||post.gov.tw",
 
 
-  "@@||vghks.gov.tw",
 
+"@@||siraya-nsa.gov.tw",
 
 
-  "@@||vghtc.gov.tw",
 
+"@@||stdtime.gov.tw",
 
 
-  "@@||wanfang.gov.tw",
 
+"@@||sunmoonlake.gov.tw",
 
 
-  "@@||yatsen.gov.tw",
 
+"@@||taitung-house.gov.tw",
 
 
-  "@@||yda.gov.tw",
 
+"@@||taoyuan.gov.tw",
 
 
-  "||kinmen.org.tw",
 
+"@@||tphcc.gov.tw",
 
 
-  ".v2ex.com",
 
+"@@||trimt-nsa.gov.tw",
 
 
-  "@@|http:\/\/v2ex.com",
 
+"@@||vghtpe.gov.tw",
 
 
-  "@@|http:\/\/cdn.v2ex.com",
 
+"@@||vghks.gov.tw",
 
 
-  "@@|http:\/\/cn.v2ex.com",
 
+"@@||vghtc.gov.tw",
 
 
-  "@@|http:\/\/hk.v2ex.com",
 
+"@@||wanfang.gov.tw",
 
 
-  "@@|http:\/\/i.v2ex.com",
 
+"@@||yatsen.gov.tw",
 
 
-  "@@|http:\/\/lax.v2ex.com",
 
+"@@||yda.gov.tw",
 
 
-  "@@|http:\/\/neue.v2ex.com",
 
+"||kinmen.org.tw",
 
 
-  "@@|http:\/\/pagespeed.v2ex.com",
 
+".v2ex.com",
 
 
-  "@@|http:\/\/static.v2ex.com",
 
+"@@|http:\/\/v2ex.com",
 
 
-  "@@|http:\/\/workspace.v2ex.com",
 
+"@@|http:\/\/cdn.v2ex.com",
 
 
-  "@@|http:\/\/www.v2ex.com",
 
+"@@|http:\/\/cn.v2ex.com",
 
 
-  "||data.flurry.com",
 
+"@@|http:\/\/hk.v2ex.com",
 
 
-  "page.bid.yahoo.com",
 
+"@@|http:\/\/i.v2ex.com",
 
 
-  "tw.bid.yahoo.com",
 
+"@@|http:\/\/lax.v2ex.com",
 
 
-  "|https:\/\/tw.bid.yahoo.com",
 
+"@@|http:\/\/neue.v2ex.com",
 
 
-  "blogs.yahoo.co.jp",
 
+"@@|http:\/\/pagespeed.v2ex.com",
 
 
-  "||search.yahoo.co.jp",
 
+"@@|http:\/\/static.v2ex.com",
 
 
-  "buy.yahoo.com.tw\/gdsale",
 
+"@@|http:\/\/workspace.v2ex.com",
 
 
-  "hk.yahoo.com",
 
+"@@|http:\/\/www.v2ex.com",
 
 
-  "hk.knowledge.yahoo.com",
 
+"||data.flurry.com",
 
 
-  "tw.money.yahoo.com",
 
+"page.bid.yahoo.com",
 
 
-  "hk.myblog.yahoo.com",
 
+"tw.bid.yahoo.com",
 
 
-  "news.yahoo.com\/china-blocks-bbc",
 
+"|https:\/\/tw.bid.yahoo.com",
 
 
-  "||hk.news.yahoo.com",
 
+"blogs.yahoo.co.jp",
 
 
-  "hk.rd.yahoo.com",
 
+"||search.yahoo.co.jp",
 
 
-  "hk.search.yahoo.com\/search",
 
+"buy.yahoo.com.tw\/gdsale",
 
 
-  "hk.video.news.yahoo.com\/video",
 
+"hk.yahoo.com",
 
 
-  "meme.yahoo.com",
 
+"hk.knowledge.yahoo.com",
 
 
-  "tw.answers.yahoo.com",
 
+"tw.money.yahoo.com",
 
 
-  "|https:\/\/tw.answers.yahoo.com",
 
+"hk.myblog.yahoo.com",
 
 
-  "||tw.knowledge.yahoo.com",
 
+"news.yahoo.com\/china-blocks-bbc",
 
 
-  "||tw.mall.yahoo.com",
 
+"||hk.news.yahoo.com",
 
 
-  "tw.yahoo.com",
 
+"hk.rd.yahoo.com",
 
 
-  "||tw.mobi.yahoo.com",
 
+"hk.search.yahoo.com\/search",
 
 
-  "tw.myblog.yahoo.com",
 
+"hk.video.news.yahoo.com\/video",
 
 
-  "||tw.news.yahoo.com",
 
+"meme.yahoo.com",
 
 
-  "pulse.yahoo.com",
 
+"tw.answers.yahoo.com",
 
 
-  "||search.yahoo.com",
 
+"|https:\/\/tw.answers.yahoo.com",
 
 
-  "upcoming.yahoo.com",
 
+"||tw.knowledge.yahoo.com",
 
 
-  "video.yahoo.com",
 
+"||tw.mall.yahoo.com",
 
 
-  "||yahoo.com.hk",
 
+"tw.yahoo.com",
 
 
-  "||duckduckgo-owned-server.yahoo.net",
 
+"||tw.mobi.yahoo.com",
 
 
-  ".030buy.com",
 
+"tw.myblog.yahoo.com",
 
 
-  ".0rz.tw",
 
+"||tw.news.yahoo.com",
 
 
-  "|http:\/\/0rz.tw",
 
+"pulse.yahoo.com",
 
 
-  "1-apple.com.tw",
 
+"||search.yahoo.com",
 
 
-  "||1-apple.com.tw",
 
+"upcoming.yahoo.com",
 
 
-  ".10.tt",
 
+"video.yahoo.com",
 
 
-  ".100ke.org",
 
+"||yahoo.com.hk",
 
 
-  ".1000giri.net",
 
+"||duckduckgo-owned-server.yahoo.net",
 
 
-  "||1000giri.net",
 
+".030buy.com",
 
 
-  ".10conditionsoflove.com",
 
+".0rz.tw",
 
 
-  "||10musume.com",
 
+"|http:\/\/0rz.tw",
 
 
-  "123rf.com",
 
+"1-apple.com.tw",
 
 
-  ".12bet.com",
 
+"||1-apple.com.tw",
 
 
-  "||12bet.com",
 
+".10.tt",
 
 
-  ".12vpn.com",
 
+".100ke.org",
 
 
-  ".12vpn.net",
 
+".1000giri.net",
 
 
-  "||12vpn.com",
 
+"||1000giri.net",
 
 
-  "||12vpn.net",
 
+".10conditionsoflove.com",
 
 
-  ".138.com",
 
+"||10musume.com",
 
 
-  "141hongkong.com\/forum",
 
+"123rf.com",
 
 
-  "||141jj.com",
 
+".12bet.com",
 
 
-  ".141tube.com",
 
+"||12bet.com",
 
 
-  ".1688.com.au",
 
+".12vpn.com",
 
 
-  ".173ng.com",
 
+".12vpn.net",
 
 
-  "||173ng.com",
 
+"||12vpn.com",
 
 
-  ".177pic.info",
 
+"||12vpn.net",
 
 
-  ".17t17p.com",
 
+".138.com",
 
 
-  "||18board.com",
 
+"141hongkong.com\/forum",
 
 
-  "||18board.info",
 
+"||141jj.com",
 
 
-  "18onlygirls.com",
 
+".141tube.com",
 
 
-  ".18p2p.com",
 
+".1688.com.au",
 
 
-  ".18virginsex.com",
 
+".173ng.com",
 
 
-  ".1949er.org",
 
+"||173ng.com",
 
 
-  "zhao.1984.city",
 
+".177pic.info",
 
 
-  "||zhao.1984.city",
 
+".17t17p.com",
 
 
-  "1984bbs.com",
 
+"||18board.com",
 
 
-  "||1984bbs.com",
 
+"||18board.info",
 
 
-  ".1984bbs.org",
 
+"18onlygirls.com",
 
 
-  "||1984bbs.org",
 
+".18p2p.com",
 
 
-  ".1991way.com",
 
+".18virginsex.com",
 
 
-  "||1991way.com",
 
+".1949er.org",
 
 
-  ".1998cdp.org",
 
+"zhao.1984.city",
 
 
-  ".1bao.org",
 
+"||zhao.1984.city",
 
 
-  "|http:\/\/1bao.org",
 
+"1984bbs.com",
 
 
-  ".1eew.com",
 
+"||1984bbs.com",
 
 
-  ".1mobile.com",
 
+".1984bbs.org",
 
 
-  "|http:\/\/*.1mobile.tw",
 
+"||1984bbs.org",
 
 
-  "||1pondo.tv",
 
+".1991way.com",
 
 
-  ".2-hand.info",
 
+"||1991way.com",
 
 
-  ".2000fun.com\/bbs",
 
+".1998cdp.org",
 
 
-  ".2008xianzhang.info",
 
+".1bao.org",
 
 
-  "||2008xianzhang.info",
 
+"|http:\/\/1bao.org",
 
 
-  "||2017.hk",
 
+".1eew.com",
 
 
-  "21andy.com\/blog",
 
+".1mobile.com",
 
 
-  ".21join.com",
 
+"|http:\/\/*.1mobile.tw",
 
 
-  ".21pron.com",
 
+"||1pondo.tv",
 
 
-  "21sextury.com",
 
+".2-hand.info",
 
 
-  ".228.net.tw",
 
+".2000fun.com\/bbs",
 
 
-  "||233abc.com",
 
+".2008xianzhang.info",
 
 
-  "||24hrs.ca",
 
+"||2008xianzhang.info",
 
 
-  "24smile.org",
 
+"||2017.hk",
 
 
-  "2lipstube.com",
 
+"21andy.com\/blog",
 
 
-  ".2shared.com",
 
+".21join.com",
 
 
-  "30boxes.com",
 
+".21pron.com",
 
 
-  ".315lz.com",
 
+"21sextury.com",
 
 
-  "||32red.com",
 
+".228.net.tw",
 
 
-  "||36rain.com",
 
+"||233abc.com",
 
 
-  ".3a5a.com",
 
+"||24hrs.ca",
 
 
-  "3arabtv.com",
 
+"24smile.org",
 
 
-  ".3boys2girls.com",
 
+"2lipstube.com",
 
 
-  ".3proxy.ru",
 
+".2shared.com",
 
 
-  ".3ren.ca",
 
+"30boxes.com",
 
 
-  ".3tui.net",
 
+".315lz.com",
 
 
-  "||4bluestones.biz",
 
+"||32red.com",
 
 
-  ".4chan.com",
 
+"||36rain.com",
 
 
-  ".4everproxy.com",
 
+".3a5a.com",
 
 
-  "||4everproxy.com",
 
+"3arabtv.com",
 
 
-  "||4rbtv.com",
 
+".3boys2girls.com",
 
 
-  "||4shared.com",
 
+".3proxy.ru",
 
 
-  "taiwannation.50webs.com",
 
+".3ren.ca",
 
 
-  "||51.ca",
 
+".3tui.net",
 
 
-  "||51jav.org",
 
+"||4bluestones.biz",
 
 
-  ".51luoben.com",
 
+".4chan.com",
 
 
-  "||51luoben.com",
 
+".4everproxy.com",
 
 
-  ".5278.cc",
 
+"||4everproxy.com",
 
 
-  ".5299.tv",
 
+"||4rbtv.com",
 
 
-  "5aimiku.com",
 
+"||4shared.com",
 
 
-  "5i01.com",
 
+"taiwannation.50webs.com",
 
 
-  ".5isotoi5.org",
 
+"||51.ca",
 
 
-  ".5maodang.com",
 
+"||51jav.org",
 
 
-  "||63i.com",
 
+".51luoben.com",
 
 
-  ".64museum.org",
 
+"||51luoben.com",
 
 
-  "64tianwang.com",
 
+".5278.cc",
 
 
-  "64wiki.com",
 
+".5299.tv",
 
 
-  ".66.ca",
 
+"5aimiku.com",
 
 
-  "666kb.com",
 
+"5i01.com",
 
 
-  ".6park.com",
 
+".5isotoi5.org",
 
 
-  "||6park.com",
 
+".5maodang.com",
 
 
-  "||6parker.com",
 
+"||63i.com",
 
 
-  "||6parknews.com",
 
+".64museum.org",
 
 
-  "||7capture.com",
 
+"64tianwang.com",
 
 
-  ".7cow.com",
 
+"64wiki.com",
 
 
-  ".8-d.com",
 
+".66.ca",
 
 
-  "|http:\/\/8-d.com",
 
+"666kb.com",
 
 
-  "85cc.net",
 
+".6park.com",
 
 
-  ".85cc.us",
 
+"||6park.com",
 
 
-  "|http:\/\/85cc.us",
 
+"||6parker.com",
 
 
-  "|http:\/\/85st.com",
 
+"||6parknews.com",
 
 
-  ".881903.com\/page\/zh-tw\/",
 
+"||7capture.com",
 
 
-  "||881903.com",
 
+".7cow.com",
 
 
-  ".888.com",
 
+".8-d.com",
 
 
-  ".888poker.com",
 
+"|http:\/\/8-d.com",
 
 
-  "89.64.charter.constitutionalism.solutions",
 
+"85cc.net",
 
 
-  "89-64.org",
 
+".85cc.us",
 
 
-  "||89-64.org",
 
+"|http:\/\/85cc.us",
 
 
-  ".8news.com.tw",
 
+"|http:\/\/85st.com",
 
 
-  ".8z1.net",
 
+".881903.com\/page\/zh-tw\/",
 
 
-  "||8z1.net",
 
+"||881903.com",
 
 
-  ".9001700.com",
 
+".888.com",
 
 
-  "|http:\/\/908taiwan.org\/",
 
+".888poker.com",
 
 
-  "||91porn.com",
 
+"89.64.charter.constitutionalism.solutions",
 
 
-  "||91vps.club",
 
+"89-64.org",
 
 
-  ".92ccav.com",
 
+"||89-64.org",
 
 
-  ".991.com",
 
+".8news.com.tw",
 
 
-  "|http:\/\/991.com",
 
+".8z1.net",
 
 
-  ".99btgc01.com",
 
+"||8z1.net",
 
 
-  "||99btgc01.com",
 
+".9001700.com",
 
 
-  ".99cn.info",
 
+"|http:\/\/908taiwan.org\/",
 
 
-  "|http:\/\/99cn.info",
 
+"||91porn.com",
 
 
-  "||9bis.com",
 
+"||91vps.club",
 
 
-  "||9bis.net",
 
+".92ccav.com",
 
 
-  ".tibet.a.se",
 
+".991.com",
 
 
-  "|http:\/\/tibet.a.se",
 
+"|http:\/\/991.com",
 
 
-  "||a-normal-day.com",
 
+".99btgc01.com",
 
 
-  "a5.com.ru",
 
+"||99btgc01.com",
 
 
-  "|http:\/\/aamacau.com",
 
+".99cn.info",
 
 
-  ".abc.com",
 
+"|http:\/\/99cn.info",
 
 
-  ".abc.net.au",
 
+"||9bis.com",
 
 
-  "||abc.net.au",
 
+"||9bis.net",
 
 
-  ".abchinese.com",
 
+".tibet.a.se",
 
 
-  "abclite.net",
 
+"|http:\/\/tibet.a.se",
 
 
-  "|https:\/\/www.abclite.net",
 
+"||a-normal-day.com",
 
 
-  ".ablwang.com",
 
+"a5.com.ru",
 
 
-  ".aboluowang.com",
 
+"|http:\/\/aamacau.com",
 
 
-  "||aboluowang.com",
 
+".abc.com",
 
 
-  ".aboutgfw.com",
 
+".abc.net.au",
 
 
-  ".abs.edu",
 
+"||abc.net.au",
 
 
-  ".accim.org",
 
+".abchinese.com",
 
 
-  ".aceros-de-hispania.com",
 
+"abclite.net",
 
 
-  ".acevpn.com",
 
+"|https:\/\/www.abclite.net",
 
 
-  "||acevpn.com",
 
+".ablwang.com",
 
 
-  ".acg18.me",
 
+".aboluowang.com",
 
 
-  "|http:\/\/acg18.me",
 
+"||aboluowang.com",
 
 
-  "||acgkj.com",
 
+".aboutgfw.com",
 
 
-  ".acmedia365.com",
 
+".abs.edu",
 
 
-  ".acnw.com.au",
 
+".accim.org",
 
 
-  "actfortibet.org",
 
+".aceros-de-hispania.com",
 
 
-  "actimes.com.au",
 
+".acevpn.com",
 
 
-  "activpn.com",
 
+"||acevpn.com",
 
 
-  "||activpn.com",
 
+".acg18.me",
 
 
-  "||aculo.us",
 
+"|http:\/\/acg18.me",
 
 
-  "||addictedtocoffee.de",
 
+"||acgkj.com",
 
 
-  ".adelaidebbs.com\/bbs",
 
+".acmedia365.com",
 
 
-  ".adpl.org.hk",
 
+".acnw.com.au",
 
 
-  "|http:\/\/adpl.org.hk",
 
+"actfortibet.org",
 
 
-  ".adult-sex-games.com",
 
+"actimes.com.au",
 
 
-  "||adult-sex-games.com",
 
+"activpn.com",
 
 
-  "adultfriendfinder.com",
 
+"||activpn.com",
 
 
-  "adultkeep.net\/peepshow\/members\/main.htm",
 
+"||aculo.us",
 
 
-  "||advanscene.com",
 
+"||addictedtocoffee.de",
 
 
-  "||advertfan.com",
 
+".adelaidebbs.com\/bbs",
 
 
-  ".ae.org",
 
+".adpl.org.hk",
 
 
-  "||aenhancers.com",
 
+"|http:\/\/adpl.org.hk",
 
 
-  "||af.mil",
 
+".adult-sex-games.com",
 
 
-  ".afantibbs.com",
 
+"||adult-sex-games.com",
 
 
-  "|http:\/\/afantibbs.com",
 
+"adultfriendfinder.com",
 
 
-  ".ai-kan.net",
 
+"adultkeep.net\/peepshow\/members\/main.htm",
 
 
-  "||ai-kan.net",
 
+"||advanscene.com",
 
 
-  "ai-wen.net",
 
+"||advertfan.com",
 
 
-  ".aiph.net",
 
+".ae.org",
 
 
-  "||aiph.net",
 
+"||aenhancers.com",
 
 
-  ".airasia.com",
 
+"||af.mil",
 
 
-  "||airconsole.com",
 
+".afantibbs.com",
 
 
-  "|http:\/\/download.aircrack-ng.org",
 
+"|http:\/\/afantibbs.com",
 
 
-  ".airvpn.org",
 
+".ai-kan.net",
 
 
-  "||airvpn.org",
 
+"||ai-kan.net",
 
 
-  ".aisex.com",
 
+"ai-wen.net",
 
 
-  "||ait.org.tw",
 
+".aiph.net",
 
 
-  "aiweiwei.com",
 
+"||aiph.net",
 
 
-  ".aiweiweiblog.com",
 
+".airasia.com",
 
 
-  "||aiweiweiblog.com",
 
+"||airconsole.com",
 
 
-  "||www.ajsands.com",
 
+"|http:\/\/download.aircrack-ng.org",
 
 
-  "a248.e.akamai.net",
 
+".airvpn.org",
 
 
-  "||a248.e.akamai.net",
 
+"||airvpn.org",
 
 
-  "rfalive1.akacast.akamaistream.net",
 
+".aisex.com",
 
 
-  "voa-11.akacast.akamaistream.net",
 
+"||ait.org.tw",
 
 
-  "||abematv.akamaized.net",
 
+"aiweiwei.com",
 
 
-  "||linear-abematv.akamaized.net",
 
+".aiweiweiblog.com",
 
 
-  "||vod-abematv.akamaized.net",
 
+"||aiweiweiblog.com",
 
 
-  "|https:\/\/fbcdn*.akamaihd.net\/",
 
+"||www.ajsands.com",
 
 
-  "rthklive2-lh.akamaihd.net",
 
+"a248.e.akamai.net",
 
 
-  ".akademiye.org\/ug",
 
+"||a248.e.akamai.net",
 
 
-  "|http:\/\/akademiye.org\/ug",
 
+"rfalive1.akacast.akamaistream.net",
 
 
-  "||akiba-online.com",
 
+"voa-11.akacast.akamaistream.net",
 
 
-  "||akow.org",
 
+"||abematv.akamaized.net",
 
 
-  ".al-islam.com",
 
+"||linear-abematv.akamaized.net",
 
 
-  "||al-qimmah.net",
 
+"||vod-abematv.akamaized.net",
 
 
-  "||alabout.com",
 
+"|https:\/\/fbcdn*.akamaihd.net\/",
 
 
-  ".alanhou.com",
 
+"rthklive2-lh.akamaihd.net",
 
 
-  "|http:\/\/alanhou.com",
 
+".akademiye.org\/ug",
 
 
-  ".alarab.qa",
 
+"|http:\/\/akademiye.org\/ug",
 
 
-  "||alasbarricadas.org",
 
+"||akiba-online.com",
 
 
-  "alexlur.org",
 
+"||akow.org",
 
 
-  "||alforattv.net",
 
+".al-islam.com",
 
 
-  ".alhayat.com",
 
+"||al-qimmah.net",
 
 
-  ".alicejapan.co.jp",
 
+"||alabout.com",
 
 
-  "aliengu.com",
 
+".alanhou.com",
 
 
-  "||alkasir.com",
 
+"|http:\/\/alanhou.com",
 
 
-  "||allconnected.co",
 
+".alarab.qa",
 
 
-  ".alldrawnsex.com",
 
+"||alasbarricadas.org",
 
 
-  "||alldrawnsex.com",
 
+"alexlur.org",
 
 
-  ".allervpn.com",
 
+"||alforattv.net",
 
 
-  "||allfinegirls.com",
 
+".alhayat.com",
 
 
-  ".allgirlmassage.com",
 
+".alicejapan.co.jp",
 
 
-  "allgirlsallowed.org",
 
+"aliengu.com",
 
 
-  ".allgravure.com",
 
+"||alkasir.com",
 
 
-  "alliance.org.hk",
 
+"||allconnected.co",
 
 
-  ".allinfa.com",
 
+".alldrawnsex.com",
 
 
-  "||allinfa.com",
 
+"||alldrawnsex.com",
 
 
-  ".alljackpotscasino.com",
 
+".allervpn.com",
 
 
-  "||allmovie.com",
 
+"||allfinegirls.com",
 
 
-  "||almasdarnews.com",
 
+".allgirlmassage.com",
 
 
-  ".alphaporno.com",
 
+"allgirlsallowed.org",
 
 
-  "||alternate-tools.com",
 
+".allgravure.com",
 
 
-  "alternativeto.net\/software",
 
+"alliance.org.hk",
 
 
-  "alvinalexander.com",
 
+".allinfa.com",
 
 
-  "alwaysdata.com",
 
+"||allinfa.com",
 
 
-  "||alwaysdata.com",
 
+".alljackpotscasino.com",
 
 
-  "||alwaysdata.net",
 
+"||allmovie.com",
 
 
-  ".alwaysvpn.com",
 
+"||almasdarnews.com",
 
 
-  "||alwaysvpn.com",
 
+".alphaporno.com",
 
 
-  "||am730.com.hk",
 
+"||alternate-tools.com",
 
 
-  "ameblo.jp",
 
+"alternativeto.net\/software",
 
 
-  "||ameblo.jp",
 
+"alvinalexander.com",
 
 
-  "www1.american.edu\/ted\/ice\/tibet",
 
+"alwaysdata.com",
 
 
-  "||americangreencard.com",
 
+"||alwaysdata.com",
 
 
-  "|http:\/\/www.americorps.gov",
 
+"||alwaysdata.net",
 
 
-  "||amiblockedornot.com",
 
+".alwaysvpn.com",
 
 
-  ".amigobbs.net",
 
+"||alwaysvpn.com",
 
 
-  ".amitabhafoundation.us",
 
+"||am730.com.hk",
 
 
-  "|http:\/\/amitabhafoundation.us",
 
+"ameblo.jp",
 
 
-  ".amnesty.org",
 
+"||ameblo.jp",
 
 
-  "||amnesty.org",
 
+"www1.american.edu\/ted\/ice\/tibet",
 
 
-  "||amnesty.org.hk",
 
+"||americangreencard.com",
 
 
-  ".amnesty.tw",
 
+"|http:\/\/www.americorps.gov",
 
 
-  ".amnestyusa.org",
 
+"||amiblockedornot.com",
 
 
-  "||amnestyusa.org",
 
+".amigobbs.net",
 
 
-  ".amnyemachen.org",
 
+".amitabhafoundation.us",
 
 
-  ".amoiist.com",
 
+"|http:\/\/amitabhafoundation.us",
 
 
-  ".amtb-taipei.org",
 
+".amnesty.org",
 
 
-  "androidplus.co\/apk",
 
+"||amnesty.org",
 
 
-  ".andygod.com",
 
+"||amnesty.org.hk",
 
 
-  "|http:\/\/andygod.com",
 
+".amnesty.tw",
 
 
-  "annatam.com\/chinese",
 
+".amnestyusa.org",
 
 
-  "||anchorfree.com",
 
+"||amnestyusa.org",
 
 
-  "||ancsconf.org",
 
+".amnyemachen.org",
 
 
-  "||andfaraway.net",
 
+".amoiist.com",
 
 
-  "||android-x86.org",
 
+".amtb-taipei.org",
 
 
-  "angelfire.com\/hi\/hayashi",
 
+"androidplus.co\/apk",
 
 
-  "||angularjs.org",
 
+".andygod.com",
 
 
-  "animecrazy.net",
 
+"|http:\/\/andygod.com",
 
 
-  ".animeshippuuden.com",
 
+"annatam.com\/chinese",
 
 
-  "aniscartujo.com",
 
+"||anchorfree.com",
 
 
-  "||aniscartujo.com",
 
+"||ancsconf.org",
 
 
-  "||anobii.com",
 
+"||andfaraway.net",
 
 
-  "anonymise.us",
 
+"||android-x86.org",
 
 
-  ".anonymitynetwork.com",
 
+"angelfire.com\/hi\/hayashi",
 
 
-  ".anonymizer.com",
 
+"||angularjs.org",
 
 
-  ".anonymouse.org",
 
+"animecrazy.net",
 
 
-  "||anonymouse.org",
 
+".animeshippuuden.com",
 
 
-  "anontext.com",
 
+"aniscartujo.com",
 
 
-  ".anpopo.com",
 
+"||aniscartujo.com",
 
 
-  ".answering-islam.org",
 
+"||anobii.com",
 
 
-  "|http:\/\/www.antd.org",
 
+"anonymise.us",
 
 
-  "||anthonycalzadilla.com",
 
+".anonymitynetwork.com",
 
 
-  ".anti1984.com",
 
+".anonymizer.com",
 
 
-  "antichristendom.com",
 
+".anonymouse.org",
 
 
-  ".antiwave.net",
 
+"||anonymouse.org",
 
 
-  "|http:\/\/antiwave.net",
 
+"anontext.com",
 
 
-  ".anyporn.com",
 
+".anpopo.com",
 
 
-  ".anysex.com",
 
+".answering-islam.org",
 
 
-  "|http:\/\/anysex.com",
 
+"|http:\/\/www.antd.org",
 
 
-  "||aobo.com.au",
 
+"||anthonycalzadilla.com",
 
 
-  ".aofriend.com",
 
+".anti1984.com",
 
 
-  "|http:\/\/aofriend.com",
 
+"antichristendom.com",
 
 
-  ".aofriend.com.au",
 
+".antiwave.net",
 
 
-  ".aojiao.org",
 
+"|http:\/\/antiwave.net",
 
 
-  "||aomiwang.com",
 
+".anyporn.com",
 
 
-  "video.ap.org",
 
+".anysex.com",
 
 
-  ".apetube.com",
 
+"|http:\/\/anysex.com",
 
 
-  "||apiary.io",
 
+"||aobo.com.au",
 
 
-  ".apigee.com",
 
+".aofriend.com",
 
 
-  "||apigee.com",
 
+"|http:\/\/aofriend.com",
 
 
-  "apk-dl.com",
 
+".aofriend.com.au",
 
 
-  "apkdler.com\/apk\/view",
 
+".aojiao.org",
 
 
-  ".apkmonk.com\/app",
 
+"||aomiwang.com",
 
 
-  "||apkplz.com",
 
+"video.ap.org",
 
 
-  "apkpure.com",
 
+".apetube.com",
 
 
-  "||apkpure.com",
 
+"||apiary.io",
 
 
-  ".aplusvpn.com",
 
+".apigee.com",
 
 
-  ".appdownloader.net\/Android",
 
+"||apigee.com",
 
 
-  ".appledaily.com",
 
+"apk-dl.com",
 
 
-  "||appledaily.com",
 
+"apkdler.com\/apk\/view",
 
 
-  "appledaily.com.hk",
 
+".apkmonk.com\/app",
 
 
-  "||appledaily.com.hk",
 
+"||apkplz.com",
 
 
-  "appledaily.com.tw",
 
+"apkpure.com",
 
 
-  "||appledaily.com.tw",
 
+"||apkpure.com",
 
 
-  ".appshopper.com",
 
+".aplusvpn.com",
 
 
-  "|http:\/\/appshopper.com",
 
+".appdownloader.net\/Android",
 
 
-  "||appsocks.net",
 
+".appledaily.com",
 
 
-  "||appsto.re",
 
+"||appledaily.com",
 
 
-  ".aptoide.com",
 
+"appledaily.com.hk",
 
 
-  "||aptoide.com",
 
+"||appledaily.com.hk",
 
 
-  "||archives.gov",
 
+"appledaily.com.tw",
 
 
-  ".archive.fo",
 
+"||appledaily.com.tw",
 
 
-  "||archive.fo",
 
+".appshopper.com",
 
 
-  ".archive.is",
 
+"|http:\/\/appshopper.com",
 
 
-  "||archive.is",
 
+"||appsocks.net",
 
 
-  ".archive.li",
 
+"||appsto.re",
 
 
-  "||archive.li",
 
+".aptoide.com",
 
 
-  "||archive.org",
 
+"||aptoide.com",
 
 
-  "archive.today",
 
+"||archives.gov",
 
 
-  "|https:\/\/archive.today",
 
+".archive.fo",
 
 
-  ".arctosia.com",
 
+"||archive.fo",
 
 
-  "|http:\/\/arctosia.com",
 
+".archive.is",
 
 
-  "||areca-backup.org",
 
+"||archive.is",
 
 
-  ".arethusa.su",
 
+".archive.li",
 
 
-  "||arethusa.su",
 
+"||archive.li",
 
 
-  "||arlingtoncemetery.mil",
 
+"||archive.org",
 
 
-  "||army.mil",
 
+"archive.today",
 
 
-  ".art4tibet1998.org",
 
+"|https:\/\/archive.today",
 
 
-  "artofpeacefoundation.org",
 
+".arctosia.com",
 
 
-  "artsy.net",
 
+"|http:\/\/arctosia.com",
 
 
-  "||asacp.org",
 
+"||areca-backup.org",
 
 
-  "asdfg.jp\/dabr",
 
+".arethusa.su",
 
 
-  "asg.to",
 
+"||arethusa.su",
 
 
-  ".asia-gaming.com",
 
+"||arlingtoncemetery.mil",
 
 
-  ".asiaharvest.org",
 
+"||army.mil",
 
 
-  "||asiaharvest.org",
 
+".art4tibet1998.org",
 
 
-  "asianews.it",
 
+"artofpeacefoundation.org",
 
 
-  "|http:\/\/japanfirst.asianfreeforum.com\/",
 
+"artsy.net",
 
 
-  "||asiansexdiary.com",
 
+"||asacp.org",
 
 
-  "||asianwomensfilm.de",
 
+"asdfg.jp\/dabr",
 
 
-  ".asiatgp.com",
 
+"asg.to",
 
 
-  ".asiatoday.us",
 
+".asia-gaming.com",
 
 
-  "||askstudent.com",
 
+".asiaharvest.org",
 
 
-  ".askynz.net",
 
+"||asiaharvest.org",
 
 
-  "||askynz.net",
 
+"asianews.it",
 
 
-  "||assembla.com",
 
+"|http:\/\/japanfirst.asianfreeforum.com\/",
 
 
-  "||astrill.com",
 
+"||asiansexdiary.com",
 
 
-  "||atc.org.au",
 
+"||asianwomensfilm.de",
 
 
-  ".atchinese.com",
 
+".asiatgp.com",
 
 
-  "|http:\/\/atchinese.com",
 
+".asiatoday.us",
 
 
-  "atgfw.org",
 
+"||askstudent.com",
 
 
-  ".atlaspost.com",
 
+".askynz.net",
 
 
-  "||atlaspost.com",
 
+"||askynz.net",
 
 
-  "||atdmt.com",
 
+"||assembla.com",
 
 
-  ".atlanta168.com\/forum",
 
+"||astrill.com",
 
 
-  ".atnext.com",
 
+"||atc.org.au",
 
 
-  "||atnext.com",
 
+".atchinese.com",
 
 
-  "ice.audionow.com",
 
+"|http:\/\/atchinese.com",
 
 
-  ".av.com",
 
+"atgfw.org",
 
 
-  "||av.movie",
 
+".atlaspost.com",
 
 
-  ".av-e-body.com",
 
+"||atlaspost.com",
 
 
-  "avaaz.org",
 
+"||atdmt.com",
 
 
-  "||avaaz.org",
 
+".atlanta168.com\/forum",
 
 
-  ".avbody.tv",
 
+".atnext.com",
 
 
-  ".avcity.tv",
 
+"||atnext.com",
 
 
-  ".avcool.com",
 
+"ice.audionow.com",
 
 
-  ".avdb.in",
 
+".av.com",
 
 
-  "||avdb.in",
 
+"||av.movie",
 
 
-  ".avdb.tv",
 
+".av-e-body.com",
 
 
-  "||avdb.tv",
 
+"avaaz.org",
 
 
-  ".avfantasy.com",
 
+"||avaaz.org",
 
 
-  "||avg.com",
 
+".avbody.tv",
 
 
-  ".avgle.com",
 
+".avcity.tv",
 
 
-  "||avgle.com",
 
+".avcool.com",
 
 
-  "||avidemux.org",
 
+".avdb.in",
 
 
-  "||avoision.com",
 
+"||avdb.in",
 
 
-  ".avyahoo.com",
 
+".avdb.tv",
 
 
-  "||axureformac.com",
 
+"||avdb.tv",
 
 
-  ".azerbaycan.tv",
 
+".avfantasy.com",
 
 
-  "azerimix.com",
 
+"||avg.com",
 
 
-  "boxun*.azurewebsites.net",
 
+".avgle.com",
 
 
-  "||boxun*.azurewebsites.net",
 
+"||avgle.com",
 
 
-  "forum.baby-kingdom.com",
 
+"||avidemux.org",
 
 
-  "babynet.com.hk",
 
+"||avoision.com",
 
 
-  "backchina.com",
 
+".avyahoo.com",
 
 
-  "||backchina.com",
 
+"||axureformac.com",
 
 
-  ".backpackers.com.tw\/forum",
 
+".azerbaycan.tv",
 
 
-  "backtotiananmen.com",
 
+"azerimix.com",
 
 
-  ".badiucao.com",
 
+"boxun*.azurewebsites.net",
 
 
-  "||badiucao.com",
 
+"||boxun*.azurewebsites.net",
 
 
-  ".badjojo.com",
 
+"forum.baby-kingdom.com",
 
 
-  "badoo.com",
 
+"babynet.com.hk",
 
 
-  "|http:\/\/*2.bahamut.com.tw",
 
+"backchina.com",
 
 
-  "||baidu.jp",
 
+"||backchina.com",
 
 
-  ".baijie.org",
 
+".backpackers.com.tw\/forum",
 
 
-  "|http:\/\/baijie.org",
 
+"backtotiananmen.com",
 
 
-  "||bailandaily.com",
 
+".badiucao.com",
 
 
-  "||baixing.me",
 
+"||badiucao.com",
 
 
-  "||bakgeekhome.tk",
 
+".badjojo.com",
 
 
-  ".banana-vpn.com",
 
+"badoo.com",
 
 
-  "||banana-vpn.com",
 
+"|http:\/\/*2.bahamut.com.tw",
 
 
-  ".band.us",
 
+"||baidu.jp",
 
 
-  ".bandwagonhost.com",
 
+".baijie.org",
 
 
-  "||bandwagonhost.com",
 
+"|http:\/\/baijie.org",
 
 
-  ".bangbrosnetwork.com",
 
+"||bailandaily.com",
 
 
-  ".bangchen.net",
 
+"||baixing.me",
 
 
-  "|http:\/\/bangchen.net",
 
+"||bakgeekhome.tk",
 
 
-  "||bangyoulater.com",
 
+".banana-vpn.com",
 
 
-  "bannedbook.org",
 
+"||banana-vpn.com",
 
 
-  "||bannedbook.org",
 
+".band.us",
 
 
-  ".bannednews.org",
 
+".bandwagonhost.com",
 
 
-  ".baramangaonline.com",
 
+"||bandwagonhost.com",
 
 
-  "|http:\/\/baramangaonline.com",
 
+".bangbrosnetwork.com",
 
 
-  ".barenakedislam.com",
 
+".bangchen.net",
 
 
-  "||barnabu.co.uk",
 
+"|http:\/\/bangchen.net",
 
 
-  "||barton.de",
 
+"||bangyoulater.com",
 
 
-  "bartvpn.com",
 
+"bannedbook.org",
 
 
-  ".bastillepost.com",
 
+"||bannedbook.org",
 
 
-  "bayvoice.net",
 
+".bannednews.org",
 
 
-  "||bayvoice.net",
 
+".baramangaonline.com",
 
 
-  "dajusha.baywords.com",
 
+"|http:\/\/baramangaonline.com",
 
 
-  "||bbchat.tv",
 
+".barenakedislam.com",
 
 
-  "||bb-chat.tv",
 
+"||barnabu.co.uk",
 
 
-  ".bbg.gov",
 
+"||barton.de",
 
 
-  ".bbkz.com\/forum",
 
+"bartvpn.com",
 
 
-  ".bbnradio.org",
 
+".bastillepost.com",
 
 
-  "bbs-tw.com",
 
+"bayvoice.net",
 
 
-  ".bbsdigest.com\/thread",
 
+"||bayvoice.net",
 
 
-  "||bbsfeed.com",
 
+"dajusha.baywords.com",
 
 
-  "bbsland.com",
 
+"||bbchat.tv",
 
 
-  ".bbsmo.com",
 
+"||bb-chat.tv",
 
 
-  ".bbsone.com",
 
+".bbg.gov",
 
 
-  "bbtoystore.com",
 
+".bbkz.com\/forum",
 
 
-  ".bcast.co.nz",
 
+".bbnradio.org",
 
 
-  ".bcc.com.tw\/board",
 
+"bbs-tw.com",
 
 
-  ".bcchinese.net",
 
+".bbsdigest.com\/thread",
 
 
-  ".bcmorning.com",
 
+"||bbsfeed.com",
 
 
-  "bdsmvideos.net",
 
+"bbsland.com",
 
 
-  ".beaconevents.com",
 
+".bbsmo.com",
 
 
-  ".bebo.com",
 
+".bbsone.com",
 
 
-  "||bebo.com",
 
+"bbtoystore.com",
 
 
-  ".beevpn.com",
 
+".bcast.co.nz",
 
 
-  "||beevpn.com",
 
+".bcc.com.tw\/board",
 
 
-  ".behindkink.com",
 
+".bcchinese.net",
 
 
-  "||beijing1989.com",
 
+".bcmorning.com",
 
 
-  "beijingspring.com",
 
+"bdsmvideos.net",
 
 
-  "||beijingspring.com",
 
+".beaconevents.com",
 
 
-  ".beijingzx.org",
 
+".bebo.com",
 
 
-  "|http:\/\/beijingzx.org",
 
+"||bebo.com",
 
 
-  ".belamionline.com",
 
+".beevpn.com",
 
 
-  ".bell.wiki",
 
+"||beevpn.com",
 
 
-  "|http:\/\/bell.wiki",
 
+".behindkink.com",
 
 
-  "bemywife.cc",
 
+"||beijing1989.com",
 
 
-  "beric.me",
 
+"beijingspring.com",
 
 
-  ".berlintwitterwall.com",
 
+"||beijingspring.com",
 
 
-  "||berlintwitterwall.com",
 
+".beijingzx.org",
 
 
-  ".berm.co.nz",
 
+"|http:\/\/beijingzx.org",
 
 
-  ".bestforchina.org",
 
+".belamionline.com",
 
 
-  "||bestforchina.org",
 
+".bell.wiki",
 
 
-  ".bestgore.com",
 
+"|http:\/\/bell.wiki",
 
 
-  ".bestpornstardb.com",
 
+"bemywife.cc",
 
 
-  "||bestvpn.com",
 
+"beric.me",
 
 
-  ".bestvpnanalysis.com",
 
+".berlintwitterwall.com",
 
 
-  ".bestvpnserver.com",
 
+"||berlintwitterwall.com",
 
 
-  ".bestvpnservice.com",
 
+".berm.co.nz",
 
 
-  ".bestvpnusa.com",
 
+".bestforchina.org",
 
 
-  "||bet365.com",
 
+"||bestforchina.org",
 
 
-  ".betfair.com",
 
+".bestgore.com",
 
 
-  "||betternet.co",
 
+".bestpornstardb.com",
 
 
-  ".bettervpn.com",
 
+"||bestvpn.com",
 
 
-  "||bettervpn.com",
 
+".bestvpnanalysis.com",
 
 
-  ".bettween.com",
 
+".bestvpnserver.com",
 
 
-  "||bettween.com",
 
+".bestvpnservice.com",
 
 
-  "||betvictor.com",
 
+".bestvpnusa.com",
 
 
-  ".bewww.net",
 
+"||bet365.com",
 
 
-  ".beyondfirewall.com",
 
+".betfair.com",
 
 
-  "||bfnn.org",
 
+"||betternet.co",
 
 
-  "||bfsh.hk",
 
+".bettervpn.com",
 
 
-  ".bgvpn.com",
 
+"||bettervpn.com",
 
 
-  "||bgvpn.com",
 
+".bettween.com",
 
 
-  ".bianlei.com",
 
+"||bettween.com",
 
 
-  "@@||bianlei.com",
 
+"||betvictor.com",
 
 
-  "biantailajiao.com",
 
+".bewww.net",
 
 
-  "biantailajiao.in",
 
+".beyondfirewall.com",
 
 
-  ".biblesforamerica.org",
 
+"||bfnn.org",
 
 
-  "|http:\/\/biblesforamerica.org",
 
+"||bfsh.hk",
 
 
-  ".bic2011.org",
 
+".bgvpn.com",
 
 
-  "bigfools.com",
 
+"||bgvpn.com",
 
 
-  "||bigjapanesesex.com",
 
+".bianlei.com",
 
 
-  ".bignews.org",
 
+"@@||bianlei.com",
 
 
-  "||bignews.org",
 
+"biantailajiao.com",
 
 
-  ".bigsound.org",
 
+"biantailajiao.in",
 
 
-  ".biliworld.com",
 
+".biblesforamerica.org",
 
 
-  "|http:\/\/biliworld.com",
 
+"|http:\/\/biblesforamerica.org",
 
 
-  "|http:\/\/billypan.com\/wiki",
 
+".bic2011.org",
 
 
-  ".binux.me",
 
+"bigfools.com",
 
 
-  "ai.binwang.me\/couplet",
 
+"||bigjapanesesex.com",
 
 
-  "bipic.net",
 
+".bignews.org",
 
 
-  ".bit.do",
 
+"||bignews.org",
 
 
-  "|http:\/\/bit.do",
 
+".bigsound.org",
 
 
-  ".bit.ly",
 
+".biliworld.com",
 
 
-  "|http:\/\/bit.ly",
 
+"|http:\/\/biliworld.com",
 
 
-  "||bitcointalk.org",
 
+"|http:\/\/billypan.com\/wiki",
 
 
-  ".bitshare.com",
 
+".binux.me",
 
 
-  "||bitshare.com",
 
+"ai.binwang.me\/couplet",
 
 
-  "bitsnoop.com",
 
+"bipic.net",
 
 
-  ".bitvise.com",
 
+".bit.do",
 
 
-  "||bitvise.com",
 
+"|http:\/\/bit.do",
 
 
-  "bizhat.com",
 
+".bit.ly",
 
 
-  "||bl-doujinsouko.com",
 
+"|http:\/\/bit.ly",
 
 
-  ".bjnewlife.org",
 
+"||bitcointalk.org",
 
 
-  ".bjs.org",
 
+".bitshare.com",
 
 
-  "bjzc.org",
 
+"||bitshare.com",
 
 
-  "||bjzc.org",
 
+"bitsnoop.com",
 
 
-  ".blacklogic.com",
 
+".bitvise.com",
 
 
-  ".blackvpn.com",
 
+"||bitvise.com",
 
 
-  "||blackvpn.com",
 
+"bizhat.com",
 
 
-  "blewpass.com",
 
+"||bl-doujinsouko.com",
 
 
-  "tor.blingblingsquad.net",
 
+".bjnewlife.org",
 
 
-  ".blinkx.com",
 
+".bjs.org",
 
 
-  "||blinkx.com",
 
+"bjzc.org",
 
 
-  "blinw.com",
 
+"||bjzc.org",
 
 
-  ".blip.tv",
 
+".blacklogic.com",
 
 
-  "||blip.tv\/",
 
+".blackvpn.com",
 
 
-  ".blockcn.com",
 
+"||blackvpn.com",
 
 
-  "||blockcn.com",
 
+"blewpass.com",
 
 
-  "||blockless.com",
 
+"tor.blingblingsquad.net",
 
 
-  "||blog.de",
 
+".blinkx.com",
 
 
-  ".blog.jp",
 
+"||blinkx.com",
 
 
-  "|http:\/\/blog.jp",
 
+"blinw.com",
 
 
-  "@@||jpush.cn",
 
+".blip.tv",
 
 
-  ".blogcatalog.com",
 
+"||blip.tv\/",
 
 
-  "||blogcatalog.com",
 
+".blockcn.com",
 
 
-  "||blogcity.me",
 
+"||blockcn.com",
 
 
-  ".blogger.com",
 
+"||blockless.com",
 
 
-  "||blogger.com",
 
+"||blog.de",
 
 
-  "blogimg.jp",
 
+".blog.jp",
 
 
-  "||blog.kangye.org",
 
+"|http:\/\/blog.jp",
 
 
-  ".bloglines.com",
 
+"@@||jpush.cn",
 
 
-  "||bloglines.com",
 
+".blogcatalog.com",
 
 
-  "||bloglovin.com",
 
+"||blogcatalog.com",
 
 
-  "rconversation.blogs.com",
 
+"||blogcity.me",
 
 
-  "blogtd.net",
 
+".blogger.com",
 
 
-  ".blogtd.org",
 
+"||blogger.com",
 
 
-  "|http:\/\/blogtd.org",
 
+"blogimg.jp",
 
 
-  "||bloodshed.net",
 
+"||blog.kangye.org",
 
 
-  ".bloomberg.cn",
 
+".bloglines.com",
 
 
-  "||bloomberg.cn",
 
+"||bloglines.com",
 
 
-  ".bloomberg.com",
 
+"||bloglovin.com",
 
 
-  "||bloomberg.com",
 
+"rconversation.blogs.com",
 
 
-  "bloomberg.de",
 
+"blogtd.net",
 
 
-  "||bloomberg.de",
 
+".blogtd.org",
 
 
-  "||assets.bwbx.io",
 
+"|http:\/\/blogtd.org",
 
 
-  "||bloomfortune.com",
 
+"||bloodshed.net",
 
 
-  "blueangellive.com",
 
+".bloomberg.cn",
 
 
-  ".bmfinn.com",
 
+"||bloomberg.cn",
 
 
-  ".bnews.co",
 
+".bloomberg.com",
 
 
-  "||bnews.co",
 
+"||bloomberg.com",
 
 
-  "||bnrmetal.com",
 
+"bloomberg.de",
 
 
-  "boardreader.com\/thread",
 
+"||bloomberg.de",
 
 
-  "||boardreader.com",
 
+"||assets.bwbx.io",
 
 
-  ".bod.asia",
 
+"||bloomfortune.com",
 
 
-  "|http:\/\/bod.asia",
 
+"blueangellive.com",
 
 
-  ".bodog88.com",
 
+".bmfinn.com",
 
 
-  ".bolehvpn.net",
 
+".bnews.co",
 
 
-  "||bolehvpn.net",
 
+"||bnews.co",
 
 
-  "bonbonme.com",
 
+"||bnrmetal.com",
 
 
-  ".bonbonsex.com",
 
+"boardreader.com\/thread",
 
 
-  ".bonfoundation.org",
 
+"||boardreader.com",
 
 
-  ".bongacams.com",
 
+".bod.asia",
 
 
-  "||boobstagram.com",
 
+"|http:\/\/bod.asia",
 
 
-  "||book.com.tw",
 
+".bodog88.com",
 
 
-  "bookepub.com",
 
+".bolehvpn.net",
 
 
-  "||books.com.tw",
 
+"||bolehvpn.net",
 
 
-  "||botanwang.com",
 
+"bonbonme.com",
 
 
-  ".bot.nu",
 
+".bonbonsex.com",
 
 
-  ".bowenpress.com",
 
+".bonfoundation.org",
 
 
-  "||bowenpress.com",
 
+".bongacams.com",
 
 
-  "||app.box.com",
 
+"||boobstagram.com",
 
 
-  "dl.box.net",
 
+"||book.com.tw",
 
 
-  "||dl.box.net",
 
+"bookepub.com",
 
 
-  ".boxpn.com",
 
+"||books.com.tw",
 
 
-  "||boxpn.com",
 
+"||botanwang.com",
 
 
-  "boxun.com",
 
+".bot.nu",
 
 
-  "||boxun.com",
 
+".bowenpress.com",
 
 
-  ".boxun.tv",
 
+"||bowenpress.com",
 
 
-  "||boxun.tv",
 
+"||app.box.com",
 
 
-  "boxunblog.com",
 
+"dl.box.net",
 
 
-  "||boxunblog.com",
 
+"||dl.box.net",
 
 
-  ".boxunclub.com",
 
+".boxpn.com",
 
 
-  "boyangu.com",
 
+"||boxpn.com",
 
 
-  ".boyfriendtv.com",
 
+"boxun.com",
 
 
-  ".boysfood.com",
 
+"||boxun.com",
 
 
-  "||br.st",
 
+".boxun.tv",
 
 
-  ".brainyquote.com\/quotes\/authors\/d\/dalai_lama",
 
+"||boxun.tv",
 
 
-  "||brandonhutchinson.com",
 
+"boxunblog.com",
 
 
-  "||braumeister.org",
 
+"||boxunblog.com",
 
 
-  ".bravotube.net",
 
+".boxunclub.com",
 
 
-  "||bravotube.net",
 
+"boyangu.com",
 
 
-  ".brazzers.com",
 
+".boyfriendtv.com",
 
 
-  "||brazzers.com",
 
+".boysfood.com",
 
 
-  ".break.com",
 
+"||br.st",
 
 
-  "||break.com",
 
+".brainyquote.com\/quotes\/authors\/d\/dalai_lama",
 
 
-  "breakgfw.com",
 
+"||brandonhutchinson.com",
 
 
-  "||breakgfw.com",
 
+"||braumeister.org",
 
 
-  "breaking911.com",
 
+".bravotube.net",
 
 
-  ".breakingtweets.com",
 
+"||bravotube.net",
 
 
-  "||breakingtweets.com",
 
+".brazzers.com",
 
 
-  "||breakwall.net",
 
+"||brazzers.com",
 
 
-  "briian.com\/6511\/freegate",
 
+".break.com",
 
 
-  ".briefdream.com\/%E7%B4%A0%E6%A3%BA",
 
+"||break.com",
 
 
-  "brizzly.com",
 
+"breakgfw.com",
 
 
-  "||brizzly.com",
 
+"||breakgfw.com",
 
 
-  "||brkmd.com",
 
+"breaking911.com",
 
 
-  "broadbook.com",
 
+".breakingtweets.com",
 
 
-  ".broadpressinc.com",
 
+"||breakingtweets.com",
 
 
-  "||broadpressinc.com",
 
+"||breakwall.net",
 
 
-  "bbs.brockbbs.com",
 
+"briian.com\/6511\/freegate",
 
 
-  "brucewang.net",
 
+".briefdream.com\/%E7%B4%A0%E6%A3%BA",
 
 
-  ".brutaltgp.com",
 
+"brizzly.com",
 
 
-  "||brutaltgp.com",
 
+"||brizzly.com",
 
 
-  ".bt2mag.com",
 
+"||brkmd.com",
 
 
-  "||bt95.com",
 
+"broadbook.com",
 
 
-  ".btaia.com",
 
+".broadpressinc.com",
 
 
-  ".btbtav.com",
 
+"||broadpressinc.com",
 
 
-  "|http:\/\/btdigg.org",
 
+"bbs.brockbbs.com",
 
 
-  ".btku.me",
 
+"brucewang.net",
 
 
-  "||btku.me",
 
+".brutaltgp.com",
 
 
-  "||btku.org",
 
+"||brutaltgp.com",
 
 
-  ".btspread.com",
 
+".bt2mag.com",
 
 
-  ".btsynckeys.com",
 
+"||bt95.com",
 
 
-  ".budaedu.org",
 
+".btaia.com",
 
 
-  "||budaedu.org",
 
+".btbtav.com",
 
 
-  ".buddhanet.com.tw\/zfrop\/tibet",
 
+"|http:\/\/btdigg.org",
 
 
-  ".buddhistchannel.tv",
 
+".btku.me",
 
 
-  ".buffered.com",
 
+"||btku.me",
 
 
-  "|http:\/\/buffered.com",
 
+"||btku.org",
 
 
-  ".bullog.org",
 
+".btspread.com",
 
 
-  "||bullog.org",
 
+".btsynckeys.com",
 
 
-  ".bullogger.com",
 
+".budaedu.org",
 
 
-  "||bullogger.com",
 
+"||budaedu.org",
 
 
-  "bunbunhk.com",
 
+".buddhanet.com.tw\/zfrop\/tibet",
 
 
-  ".busayari.com",
 
+".buddhistchannel.tv",
 
 
-  "|http:\/\/busayari.com",
 
+".buffered.com",
 
 
-  ".businessinsider.com\/bing-could-be-censoring-search-results-2014",
 
+"|http:\/\/buffered.com",
 
 
-  ".businessinsider.com\/china-banks-preparing-for-debt-implosion-2014",
 
+".bullog.org",
 
 
-  ".businessinsider.com\/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014",
 
+"||bullog.org",
 
 
-  ".businessinsider.com\/internet-outages-reported-in-north-korea-2014",
 
+".bullogger.com",
 
 
-  ".businessinsider.com\/iphone-6-is-approved-for-sale-in-china-2014",
 
+"||bullogger.com",
 
 
-  ".businessinsider.com\/nfl-announcers-surface-tablets-2014",
 
+"bunbunhk.com",
 
 
-  ".businessinsider.com\/panama-papers",
 
+".busayari.com",
 
 
-  ".businessinsider.com\/umbrella-man-hong-kong-2014",
 
+"|http:\/\/busayari.com",
 
 
-  "|http:\/\/www.businessinsider.com.au\/*",
 
+".businessinsider.com\/bing-could-be-censoring-search-results-2014",
 
 
-  ".businesstoday.com.tw",
 
+".businessinsider.com\/china-banks-preparing-for-debt-implosion-2014",
 
 
-  "||businesstoday.com.tw",
 
+".businessinsider.com\/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014",
 
 
-  ".businessweek.com",
 
+".businessinsider.com\/internet-outages-reported-in-north-korea-2014",
 
 
-  ".busu.org\/news",
 
+".businessinsider.com\/iphone-6-is-approved-for-sale-in-china-2014",
 
 
-  "|http:\/\/busu.org\/news",
 
+".businessinsider.com\/nfl-announcers-surface-tablets-2014",
 
 
-  "busytrade.com",
 
+".businessinsider.com\/panama-papers",
 
 
-  ".buugaa.com",
 
+".businessinsider.com\/umbrella-man-hong-kong-2014",
 
 
-  ".buzzhand.com",
 
+"|http:\/\/www.businessinsider.com.au\/*",
 
 
-  ".buzzhand.net",
 
+".businesstoday.com.tw",
 
 
-  ".buzzorange.com",
 
+"||businesstoday.com.tw",
 
 
-  "||buzzorange.com",
 
+".businessweek.com",
 
 
-  "||bvpn.com",
 
+".busu.org\/news",
 
 
-  "||bwh1.net",
 
+"|http:\/\/busu.org\/news",
 
 
-  "bwsj.hk",
 
+"busytrade.com",
 
 
-  "||bx.tl",
 
+".buugaa.com",
 
 
-  ".c-spanvideo.org",
 
+".buzzhand.com",
 
 
-  "||c-spanvideo.org",
 
+".buzzhand.net",
 
 
-  "||c-est-simple.com",
 
+".buzzorange.com",
 
 
-  ".c100tibet.org",
 
+"||buzzorange.com",
 
 
-  "||cablegatesearch.net",
 
+"||bvpn.com",
 
 
-  ".cachinese.com",
 
+"||bwh1.net",
 
 
-  ".cacnw.com",
 
+"bwsj.hk",
 
 
-  "|http:\/\/cacnw.com",
 
+"||bx.tl",
 
 
-  ".cactusvpn.com",
 
+".c-spanvideo.org",
 
 
-  "||cactusvpn.com",
 
+"||c-spanvideo.org",
 
 
-  ".cafepress.com",
 
+"||c-est-simple.com",
 
 
-  ".cahr.org.tw",
 
+".c100tibet.org",
 
 
-  ".calameo.com\/books",
 
+"||cablegatesearch.net",
 
 
-  "cn.calameo.com",
 
+".cachinese.com",
 
 
-  "|http:\/\/cn.calameo.com",
 
+".cacnw.com",
 
 
-  ".calgarychinese.ca",
 
+"|http:\/\/cacnw.com",
 
 
-  ".calgarychinese.com",
 
+".cactusvpn.com",
 
 
-  ".calgarychinese.net",
 
+"||cactusvpn.com",
 
 
-  "|http:\/\/blog.calibre-ebook.com",
 
+".cafepress.com",
 
 
-  "|http:\/\/google.calstate.edu",
 
+".cahr.org.tw",
 
 
-  "falun.caltech.edu",
 
+".calameo.com\/books",
 
 
-  ".its.caltech.edu\/~falun\/",
 
+"cn.calameo.com",
 
 
-  ".cam4.com",
 
+"|http:\/\/cn.calameo.com",
 
 
-  ".cam4.jp",
 
+".calgarychinese.ca",
 
 
-  ".cam4.sg",
 
+".calgarychinese.com",
 
 
-  ".camfrog.com",
 
+".calgarychinese.net",
 
 
-  "||camfrog.com",
 
+"|http:\/\/blog.calibre-ebook.com",
 
 
-  "||cams.com",
 
+"|http:\/\/google.calstate.edu",
 
 
-  ".cams.org.sg",
 
+"falun.caltech.edu",
 
 
-  "canadameet.com",
 
+".its.caltech.edu\/~falun\/",
 
 
-  ".canalporno.com",
 
+".cam4.com",
 
 
-  "|http:\/\/bbs.cantonese.asia\/",
 
+".cam4.jp",
 
 
-  ".canyu.org",
 
+".cam4.sg",
 
 
-  "||canyu.org",
 
+".camfrog.com",
 
 
-  ".cao.im",
 
+"||camfrog.com",
 
 
-  ".caobian.info",
 
+"||cams.com",
 
 
-  "||caobian.info",
 
+".cams.org.sg",
 
 
-  "caochangqing.com",
 
+"canadameet.com",
 
 
-  "||caochangqing.com",
 
+".canalporno.com",
 
 
-  ".cap.org.hk",
 
+"|http:\/\/bbs.cantonese.asia\/",
 
 
-  "||cap.org.hk",
 
+".canyu.org",
 
 
-  ".carabinasypistolas.com",
 
+"||canyu.org",
 
 
-  "cardinalkungfoundation.org",
 
+".cao.im",
 
 
-  "carmotorshow.com",
 
+".caobian.info",
 
 
-  "ss.carryzhou.com",
 
+"||caobian.info",
 
 
-  ".cartoonmovement.com",
 
+"caochangqing.com",
 
 
-  "||cartoonmovement.com",
 
+"||caochangqing.com",
 
 
-  ".casadeltibetbcn.org",
 
+".cap.org.hk",
 
 
-  ".casatibet.org.mx",
 
+"||cap.org.hk",
 
 
-  "|http:\/\/casatibet.org.mx",
 
+".carabinasypistolas.com",
 
 
-  "cari.com.my",
 
+"cardinalkungfoundation.org",
 
 
-  "||caribbeancom.com",
 
+"carmotorshow.com",
 
 
-  ".casinoking.com",
 
+"ss.carryzhou.com",
 
 
-  ".casinoriva.com",
 
+".cartoonmovement.com",
 
 
-  "||catch22.net",
 
+"||cartoonmovement.com",
 
 
-  ".catchgod.com",
 
+".casadeltibetbcn.org",
 
 
-  "|http:\/\/catchgod.com",
 
+".casatibet.org.mx",
 
 
-  "||catfightpayperview.xxx",
 
+"|http:\/\/casatibet.org.mx",
 
 
-  ".catholic.org.hk",
 
+"cari.com.my",
 
 
-  "||catholic.org.hk",
 
+"||caribbeancom.com",
 
 
-  "catholic.org.tw",
 
+".casinoking.com",
 
 
-  "||catholic.org.tw",
 
+".casinoriva.com",
 
 
-  ".cathvoice.org.tw",
 
+"||catch22.net",
 
 
-  "||cattt.com",
 
+".catchgod.com",
 
 
-  ".cbc.ca",
 
+"|http:\/\/catchgod.com",
 
 
-  "||cbc.ca",
 
+"||catfightpayperview.xxx",
 
 
-  ".cbsnews.com\/video",
 
+".catholic.org.hk",
 
 
-  ".cbtc.org.hk",
 
+"||catholic.org.hk",
 
 
-  "||cccat.cc",
 
+"catholic.org.tw",
 
 
-  "||cccat.co",
 
+"||catholic.org.tw",
 
 
-  ".ccdtr.org",
 
+".cathvoice.org.tw",
 
 
-  "||ccdtr.org",
 
+"||cattt.com",
 
 
-  ".cchere.com",
 
+".cbc.ca",
 
 
-  "||cchere.com",
 
+"||cbc.ca",
 
 
-  ".ccim.org",
 
+".cbsnews.com\/video",
 
 
-  ".cclife.ca",
 
+".cbtc.org.hk",
 
 
-  "cclife.org",
 
+"||cccat.cc",
 
 
-  "cclifefl.org",
 
+"||cccat.co",
 
 
-  ".ccthere.com",
 
+".ccdtr.org",
 
 
-  "||ccthere.com",
 
+"||ccdtr.org",
 
 
-  "||ccthere.net",
 
+".cchere.com",
 
 
-  ".cctmweb.net",
 
+"||cchere.com",
 
 
-  ".cctongbao.com\/article\/2078732",
 
+".ccim.org",
 
 
-  "ccue.ca",
 
+".cclife.ca",
 
 
-  "ccue.com",
 
+"cclife.org",
 
 
-  ".ccvoice.ca",
 
+"cclifefl.org",
 
 
-  ".ccw.org.tw",
 
+".ccthere.com",
 
 
-  ".cgdepot.org",
 
+"||ccthere.com",
 
 
-  "|http:\/\/cgdepot.org",
 
+"||ccthere.net",
 
 
-  "||cdbook.org",
 
+".cctmweb.net",
 
 
-  ".cdcparty.com",
 
+".cctongbao.com\/article\/2078732",
 
 
-  ".cdef.org",
 
+"ccue.ca",
 
 
-  "||cdef.org",
 
+"ccue.com",
 
 
-  "||cdig.info",
 
+".ccvoice.ca",
 
 
-  "cdjp.org",
 
+".ccw.org.tw",
 
 
-  "||cdjp.org",
 
+".cgdepot.org",
 
 
-  ".cdn-apple.com",
 
+"|http:\/\/cgdepot.org",
 
 
-  "||cdn-apple.com",
 
+"||cdbook.org",
 
 
-  ".cdnews.com.tw",
 
+".cdcparty.com",
 
 
-  "cdp1989.org",
 
+".cdef.org",
 
 
-  "cdp1998.org",
 
+"||cdef.org",
 
 
-  "||cdp1998.org",
 
+"||cdig.info",
 
 
-  "cdp2006.org",
 
+"cdjp.org",
 
 
-  "||cdp2006.org",
 
+"||cdjp.org",
 
 
-  ".cdpa.url.tw",
 
+".cdn-apple.com",
 
 
-  "cdpeu.org",
 
+"||cdn-apple.com",
 
 
-  "cdpusa.org",
 
+".cdnews.com.tw",
 
 
-  "cdpweb.org",
 
+"cdp1989.org",
 
 
-  "||cdpweb.org",
 
+"cdp1998.org",
 
 
-  "cdpwu.org",
 
+"||cdp1998.org",
 
 
-  "||cdpwu.org",
 
+"cdp2006.org",
 
 
-  "||cdw.com",
 
+"||cdp2006.org",
 
 
-  ".cecc.gov",
 
+".cdpa.url.tw",
 
 
-  "||cecc.gov",
 
+"cdpeu.org",
 
 
-  "||cellulo.info",
 
+"cdpusa.org",
 
 
-  "||cenews.eu",
 
+"cdpweb.org",
 
 
-  "||centerforhumanreprod.com",
 
+"||cdpweb.org",
 
 
-  "||centralnation.com",
 
+"cdpwu.org",
 
 
-  ".centurys.net",
 
+"||cdpwu.org",
 
 
-  "|http:\/\/centurys.net",
 
+"||cdw.com",
 
 
-  ".cfhks.org.hk",
 
+".cecc.gov",
 
 
-  ".cfos.de",
 
+"||cecc.gov",
 
 
-  ".cftfc.com",
 
+"||cellulo.info",
 
 
-  ".cgst.edu",
 
+"||cenews.eu",
 
 
-  ".change.org",
 
+"||centerforhumanreprod.com",
 
 
-  "||change.org",
 
+"||centralnation.com",
 
 
-  ".changp.com",
 
+".centurys.net",
 
 
-  "||changp.com",
 
+"|http:\/\/centurys.net",
 
 
-  ".changsa.net",
 
+".cfhks.org.hk",
 
 
-  "|http:\/\/changsa.net",
 
+".cfos.de",
 
 
-  ".channel8news.sg\/news8",
 
+".cftfc.com",
 
 
-  ".chapm25.com",
 
+".cgst.edu",
 
 
-  ".chaturbate.com",
 
+".change.org",
 
 
-  ".chuang-yen.org",
 
+"||change.org",
 
 
-  "chengmingmag.com",
 
+".changp.com",
 
 
-  ".chenguangcheng.com",
 
+"||changp.com",
 
 
-  "||chenguangcheng.com",
 
+".changsa.net",
 
 
-  ".chenpokong.com",
 
+"|http:\/\/changsa.net",
 
 
-  ".chenpokong.net",
 
+".channel8news.sg\/news8",
 
 
-  "|http:\/\/chenpokong.net",
 
+".chapm25.com",
 
 
-  "||cherrysave.com",
 
+".chaturbate.com",
 
 
-  ".chhongbi.org",
 
+".chuang-yen.org",
 
 
-  "chicagoncmtv.com",
 
+"chengmingmag.com",
 
 
-  "|http:\/\/chicagoncmtv.com",
 
+".chenguangcheng.com",
 
 
-  ".china-week.com",
 
+"||chenguangcheng.com",
 
 
-  "china101.com",
 
+".chenpokong.com",
 
 
-  "||china101.com",
 
+".chenpokong.net",
 
 
-  "||china18.org",
 
+"|http:\/\/chenpokong.net",
 
 
-  "||china21.com",
 
+"||cherrysave.com",
 
 
-  "china21.org",
 
+".chhongbi.org",
 
 
-  "||china21.org",
 
+"chicagoncmtv.com",
 
 
-  ".china5000.us",
 
+"|http:\/\/chicagoncmtv.com",
 
 
-  "chinaaffairs.org",
 
+".china-week.com",
 
 
-  "||chinaaffairs.org",
 
+"china101.com",
 
 
-  "||chinaaid.me",
 
+"||china101.com",
 
 
-  "chinaaid.us",
 
+"||china18.org",
 
 
-  "chinaaid.org",
 
+"||china21.com",
 
 
-  "chinaaid.net",
 
+"china21.org",
 
 
-  "chinacomments.org",
 
+"||china21.org",
 
 
-  "||chinacomments.org",
 
+".china5000.us",
 
 
-  ".chinachange.org",
 
+"chinaaffairs.org",
 
 
-  "||chinachange.org",
 
+"||chinaaffairs.org",
 
 
-  "chinachannel.hk",
 
+"||chinaaid.me",
 
 
-  "||chinachannel.hk",
 
+"chinaaid.us",
 
 
-  ".chinacitynews.be",
 
+"chinaaid.org",
 
 
-  ".chinadialogue.net",
 
+"chinaaid.net",
 
 
-  ".chinadigitaltimes.net",
 
+"chinacomments.org",
 
 
-  "||chinadigitaltimes.net",
 
+"||chinacomments.org",
 
 
-  ".chinaelections.org",
 
+".chinachange.org",
 
 
-  "||chinaelections.org",
 
+"||chinachange.org",
 
 
-  ".chinaeweekly.com",
 
+"chinachannel.hk",
 
 
-  "||chinaeweekly.com",
 
+"||chinachannel.hk",
 
 
-  "||chinafreepress.org",
 
+".chinacitynews.be",
 
 
-  ".chinagate.com",
 
+".chinadialogue.net",
 
 
-  "chinageeks.org",
 
+".chinadigitaltimes.net",
 
 
-  "chinagfw.org",
 
+"||chinadigitaltimes.net",
 
 
-  "||chinagfw.org",
 
+".chinaelections.org",
 
 
-  ".chinagonet.com",
 
+"||chinaelections.org",
 
 
-  ".chinagreenparty.org",
 
+".chinaeweekly.com",
 
 
-  "||chinagreenparty.org",
 
+"||chinaeweekly.com",
 
 
-  ".chinahorizon.org",
 
+"||chinafreepress.org",
 
 
-  "||chinahorizon.org",
 
+".chinagate.com",
 
 
-  ".chinahush.com",
 
+"chinageeks.org",
 
 
-  ".chinainperspective.com",
 
+"chinagfw.org",
 
 
-  "||chinainterimgov.org",
 
+"||chinagfw.org",
 
 
-  "chinalaborwatch.org",
 
+".chinagonet.com",
 
 
-  "chinalawtranslate.com",
 
+".chinagreenparty.org",
 
 
-  ".chinapost.com.tw\/taiwan\/national\/national-news",
 
+"||chinagreenparty.org",
 
 
-  "chinaxchina.com\/howto",
 
+".chinahorizon.org",
 
 
-  "chinalawandpolicy.com",
 
+"||chinahorizon.org",
 
 
-  ".chinamule.com",
 
+".chinahush.com",
 
 
-  "||chinamule.com",
 
+".chinainperspective.com",
 
 
-  "chinamz.org",
 
+"||chinainterimgov.org",
 
 
-  ".chinanewscenter.com",
 
+"chinalaborwatch.org",
 
 
-  "|https:\/\/chinanewscenter.com",
 
+"chinalawtranslate.com",
 
 
-  ".chinapress.com.my",
 
+".chinapost.com.tw\/taiwan\/national\/national-news",
 
 
-  "||chinapress.com.my",
 
+"chinaxchina.com\/howto",
 
 
-  ".china-review.com.ua",
 
+"chinalawandpolicy.com",
 
 
-  "|http:\/\/china-review.com.ua",
 
+".chinamule.com",
 
 
-  ".chinarightsia.org",
 
+"||chinamule.com",
 
 
-  "chinasmile.net\/forums",
 
+"chinamz.org",
 
 
-  "chinasocialdemocraticparty.com",
 
+".chinanewscenter.com",
 
 
-  "||chinasocialdemocraticparty.com",
 
+"|https:\/\/chinanewscenter.com",
 
 
-  "chinasoul.org",
 
+".chinapress.com.my",
 
 
-  "||chinasoul.org",
 
+"||chinapress.com.my",
 
 
-  ".chinasucks.net",
 
+".china-review.com.ua",
 
 
-  "||chinatopsex.com",
 
+"|http:\/\/china-review.com.ua",
 
 
-  ".chinatown.com.au",
 
+".chinarightsia.org",
 
 
-  "chinatweeps.com",
 
+"chinasmile.net\/forums",
 
 
-  "chinaway.org",
 
+"chinasocialdemocraticparty.com",
 
 
-  ".chinaworker.info",
 
+"||chinasocialdemocraticparty.com",
 
 
-  "||chinaworker.info",
 
+"chinasoul.org",
 
 
-  "chinayouth.org.hk",
 
+"||chinasoul.org",
 
 
-  "chinayuanmin.org",
 
+".chinasucks.net",
 
 
-  "||chinayuanmin.org",
 
+"||chinatopsex.com",
 
 
-  ".chinese-hermit.net",
 
+".chinatown.com.au",
 
 
-  "chinese-leaders.org",
 
+"chinatweeps.com",
 
 
-  "chinese-memorial.org",
 
+"chinaway.org",
 
 
-  ".chinesedaily.com",
 
+".chinaworker.info",
 
 
-  "||chinesedailynews.com",
 
+"||chinaworker.info",
 
 
-  ".chinesedemocracy.com",
 
+"chinayouth.org.hk",
 
 
-  "||chinesedemocracy.com",
 
+"chinayuanmin.org",
 
 
-  "||chinesegay.org",
 
+"||chinayuanmin.org",
 
 
-  ".chinesen.de",
 
+".chinese-hermit.net",
 
 
-  "||chinesen.de",
 
+"chinese-leaders.org",
 
 
-  ".chinesenews.net.au\/",
 
+"chinese-memorial.org",
 
 
-  ".chinesepen.org",
 
+".chinesedaily.com",
 
 
-  ".chinesetalks.net\/ch",
 
+"||chinesedailynews.com",
 
 
-  "||chineseupress.com",
 
+".chinesedemocracy.com",
 
 
-  ".chingcheong.com",
 
+"||chinesedemocracy.com",
 
 
-  "||chingcheong.com",
 
+"||chinesegay.org",
 
 
-  ".chinman.net",
 
+".chinesen.de",
 
 
-  "|http:\/\/chinman.net",
 
+"||chinesen.de",
 
 
-  "chithu.org",
 
+".chinesenews.net.au\/",
 
 
-  "|http:\/\/chn.chosun.com",
 
+".chinesepen.org",
 
 
-  "cnnews.chosun.com\/client\/news\/viw.asp?cate=C01&mcate",
 
+".chinesetalks.net\/ch",
 
 
-  ".chrdnet.com",
 
+"||chineseupress.com",
 
 
-  "|http:\/\/chrdnet.com",
 
+".chingcheong.com",
 
 
-  ".christianfreedom.org",
 
+"||chingcheong.com",
 
 
-  "|http:\/\/christianfreedom.org",
 
+".chinman.net",
 
 
-  "christianstudy.com",
 
+"|http:\/\/chinman.net",
 
 
-  "||christianstudy.com",
 
+"chithu.org",
 
 
-  "christusrex.org\/www1\/sdc",
 
+"|http:\/\/chn.chosun.com",
 
 
-  ".chubold.com",
 
+"cnnews.chosun.com\/client\/news\/viw.asp?cate=C01&mcate",
 
 
-  "chubun.com",
 
+".chrdnet.com",
 
 
-  "chuizi.net",
 
+"|http:\/\/chrdnet.com",
 
 
-  "christiantimes.org.hk",
 
+".christianfreedom.org",
 
 
-  ".chrlawyers.hk",
 
+"|http:\/\/christianfreedom.org",
 
 
-  "|http:\/\/chrlawyers.hk",
 
+"christianstudy.com",
 
 
-  ".churchinhongkong.org\/b5\/index.php",
 
+"||christianstudy.com",
 
 
-  "|http:\/\/churchinhongkong.org\/b5\/index.php",
 
+"christusrex.org\/www1\/sdc",
 
 
-  ".chushigangdrug.ch",
 
+".chubold.com",
 
 
-  ".cienen.com",
 
+"chubun.com",
 
 
-  ".cineastentreff.de",
 
+"chuizi.net",
 
 
-  ".cipfg.org",
 
+"christiantimes.org.hk",
 
 
-  "||circlethebayfortibet.org",
 
+".chrlawyers.hk",
 
 
-  "||cirosantilli.com",
 
+"|http:\/\/chrlawyers.hk",
 
 
-  ".citizencn.com",
 
+".churchinhongkong.org\/b5\/index.php",
 
 
-  "||citizencn.com",
 
+"|http:\/\/churchinhongkong.org\/b5\/index.php",
 
 
-  "|http:\/\/citizenlab.org",
 
+".chushigangdrug.ch",
 
 
-  "|http:\/\/www.citizenlab.org",
 
+".cienen.com",
 
 
-  "||citizenscommission.hk",
 
+".cineastentreff.de",
 
 
-  ".citizenlab.org",
 
+".cipfg.org",
 
 
-  "citizensradio.org",
 
+"||circlethebayfortibet.org",
 
 
-  ".city365.ca",
 
+"||cirosantilli.com",
 
 
-  "|http:\/\/city365.ca",
 
+".citizencn.com",
 
 
-  "city9x.com",
 
+"||citizencn.com",
 
 
-  "||citypopulation.de",
 
+"|http:\/\/citizenlab.org",
 
 
-  ".citytalk.tw\/event",
 
+"|http:\/\/www.citizenlab.org",
 
 
-  ".civicparty.hk",
 
+"||citizenscommission.hk",
 
 
-  "||civicparty.hk",
 
+".citizenlab.org",
 
 
-  ".civildisobediencemovement.org",
 
+"citizensradio.org",
 
 
-  "civilhrfront.org",
 
+".city365.ca",
 
 
-  "||civilhrfront.org",
 
+"|http:\/\/city365.ca",
 
 
-  ".civiliangunner.com",
 
+"city9x.com",
 
 
-  ".civilmedia.tw",
 
+"||citypopulation.de",
 
 
-  "||civilmedia.tw",
 
+".citytalk.tw\/event",
 
 
-  "psiphon.civisec.org",
 
+".civicparty.hk",
 
 
-  "||vpn.cjb.net",
 
+"||civicparty.hk",
 
 
-  ".ck101.com",
 
+".civildisobediencemovement.org",
 
 
-  "||ck101.com",
 
+"civilhrfront.org",
 
 
-  ".clarionproject.org\/news\/islamic-state-isis-isil-propaganda",
 
+"||civilhrfront.org",
 
 
-  "||classicalguitarblog.net",
 
+".civiliangunner.com",
 
 
-  ".clb.org.hk",
 
+".civilmedia.tw",
 
 
-  "clearharmony.net",
 
+"||civilmedia.tw",
 
 
-  "clearwisdom.net",
 
+"psiphon.civisec.org",
 
 
-  "clinica-tibet.ru",
 
+"||vpn.cjb.net",
 
 
-  ".clipfish.de",
 
+".ck101.com",
 
 
-  "cloakpoint.com",
 
+"||ck101.com",
 
 
-  "||club1069.com",
 
+".clarionproject.org\/news\/islamic-state-isis-isil-propaganda",
 
 
-  "cmi.org.tw",
 
+"||classicalguitarblog.net",
 
 
-  "|http:\/\/www.cmoinc.org",
 
+".clb.org.hk",
 
 
-  "cmp.hku.hk",
 
+"clearharmony.net",
 
 
-  "hkupop.hku.hk",
 
+"clearwisdom.net",
 
 
-  "||cmule.com",
 
+"clinica-tibet.ru",
 
 
-  "||cmule.org",
 
+".clipfish.de",
 
 
-  "||cms.gov",
 
+"cloakpoint.com",
 
 
-  "|http:\/\/vpn.cmu.edu",
 
+"||club1069.com",
 
 
-  "|http:\/\/vpn.sv.cmu.edu",
 
+"cmi.org.tw",
 
 
-  ".cn6.eu",
 
+"|http:\/\/www.cmoinc.org",
 
 
-  ".cna.com.tw",
 
+"cmp.hku.hk",
 
 
-  "||cna.com.tw",
 
+"hkupop.hku.hk",
 
 
-  ".cnabc.com",
 
+"||cmule.com",
 
 
-  ".cnd.org",
 
+"||cmule.org",
 
 
-  "||cnd.org",
 
+"||cms.gov",
 
 
-  "download.cnet.com",
 
+"|http:\/\/vpn.cmu.edu",
 
 
-  ".cnex.org.cn",
 
+"|http:\/\/vpn.sv.cmu.edu",
 
 
-  ".cnineu.com",
 
+".cn6.eu",
 
 
-  "wiki.cnitter.com",
 
+".cna.com.tw",
 
 
-  ".cnn.com\/video",
 
+"||cna.com.tw",
 
 
-  ".cnpolitics.org",
 
+".cnabc.com",
 
 
-  "||cnpolitics.org",
 
+".cnd.org",
 
 
-  ".cn-proxy.com",
 
+"||cnd.org",
 
 
-  "|http:\/\/cn-proxy.com",
 
+"download.cnet.com",
 
 
-  ".cnproxy.com",
 
+".cnex.org.cn",
 
 
-  "blog.cnyes.com",
 
+".cnineu.com",
 
 
-  "news.cnyes.com",
 
+"wiki.cnitter.com",
 
 
-  "||coat.co.jp",
 
+".cnn.com\/video",
 
 
-  ".cochina.co",
 
+".cnpolitics.org",
 
 
-  "||cochina.co",
 
+"||cnpolitics.org",
 
 
-  "||cochina.org",
 
+".cn-proxy.com",
 
 
-  ".code1984.com\/64",
 
+"|http:\/\/cn-proxy.com",
 
 
-  "|http:\/\/goagent.codeplex.com",
 
+".cnproxy.com",
 
 
-  "||codeshare.io",
 
+"blog.cnyes.com",
 
 
-  "||codeskulptor.org",
 
+"news.cnyes.com",
 
 
-  "|http:\/\/tosh.comedycentral.com",
 
+"||coat.co.jp",
 
 
-  "comefromchina.com",
 
+".cochina.co",
 
 
-  "||comefromchina.com",
 
+"||cochina.co",
 
 
-  ".comic-mega.me",
 
+"||cochina.org",
 
 
-  "commandarms.com",
 
+".code1984.com\/64",
 
 
-  "||commentshk.com",
 
+"|http:\/\/goagent.codeplex.com",
 
 
-  ".communistcrimes.org",
 
+"||codeshare.io",
 
 
-  "||communistcrimes.org",
 
+"||codeskulptor.org",
 
 
-  "||communitychoicecu.com",
 
+"|http:\/\/tosh.comedycentral.com",
 
 
-  "||compileheart.com",
 
+"comefromchina.com",
 
 
-  "||conoha.jp",
 
+"||comefromchina.com",
 
 
-  ".contactmagazine.net",
 
+".comic-mega.me",
 
 
-  ".convio.net",
 
+"commandarms.com",
 
 
-  ".coobay.com",
 
+"||commentshk.com",
 
 
-  "|http:\/\/www.cool18.com\/bbs*\/",
 
+".communistcrimes.org",
 
 
-  ".coolaler.com",
 
+"||communistcrimes.org",
 
 
-  "||coolaler.com",
 
+"||communitychoicecu.com",
 
 
-  "coolder.com",
 
+"||compileheart.com",
 
 
-  "||coolder.com",
 
+"||conoha.jp",
 
 
-  "||coolloud.org.tw",
 
+".contactmagazine.net",
 
 
-  ".coolncute.com",
 
+".convio.net",
 
 
-  "||coolstuffinc.com",
 
+".coobay.com",
 
 
-  "corumcollege.com",
 
+"|http:\/\/www.cool18.com\/bbs*\/",
 
 
-  ".cos-moe.com",
 
+".coolaler.com",
 
 
-  "|http:\/\/cos-moe.com",
 
+"||coolaler.com",
 
 
-  ".cosplayjav.pl",
 
+"coolder.com",
 
 
-  "|http:\/\/cosplayjav.pl",
 
+"||coolder.com",
 
 
-  ".cotweet.com",
 
+"||coolloud.org.tw",
 
 
-  "||cotweet.com",
 
+".coolncute.com",
 
 
-  ".coursehero.com",
 
+"||coolstuffinc.com",
 
 
-  "||coursehero.com",
 
+"corumcollege.com",
 
 
-  "cpj.org",
 
+".cos-moe.com",
 
 
-  "||cpj.org",
 
+"|http:\/\/cos-moe.com",
 
 
-  ".cq99.us",
 
+".cosplayjav.pl",
 
 
-  "|http:\/\/cq99.us",
 
+"|http:\/\/cosplayjav.pl",
 
 
-  "crackle.com",
 
+".cotweet.com",
 
 
-  "||crackle.com",
 
+"||cotweet.com",
 
 
-  ".crazys.cc",
 
+".coursehero.com",
 
 
-  ".crazyshit.com",
 
+"||coursehero.com",
 
 
-  "||crchina.org",
 
+"cpj.org",
 
 
-  "crd-net.org",
 
+"||cpj.org",
 
 
-  "creaders.net",
 
+".cq99.us",
 
 
-  "||creaders.net",
 
+"|http:\/\/cq99.us",
 
 
-  ".creadersnet.com",
 
+"crackle.com",
 
 
-  "||cristyli.com",
 
+"||crackle.com",
 
 
-  ".crocotube.com",
 
+".crazys.cc",
 
 
-  "|http:\/\/crocotube.com",
 
+".crazyshit.com",
 
 
-  ".crossthewall.net",
 
+"||crchina.org",
 
 
-  "||crossthewall.net",
 
+"crd-net.org",
 
 
-  ".crossvpn.net",
 
+"creaders.net",
 
 
-  "||crossvpn.net",
 
+"||creaders.net",
 
 
-  "||crucial.com",
 
+".creadersnet.com",
 
 
-  "csdparty.com",
 
+"||cristyli.com",
 
 
-  "||csdparty.com",
 
+".crocotube.com",
 
 
-  "||csuchen.de",
 
+"|http:\/\/crocotube.com",
 
 
-  ".csw.org.uk",
 
+".crossthewall.net",
 
 
-  ".ct.org.tw",
 
+"||crossthewall.net",
 
 
-  "||ct.org.tw",
 
+".crossvpn.net",
 
 
-  ".ctao.org",
 
+"||crossvpn.net",
 
 
-  ".ctfriend.net",
 
+"||crucial.com",
 
 
-  ".ctitv.com.tw",
 
+"csdparty.com",
 
 
-  "cts.com.tw",
 
+"||csdparty.com",
 
 
-  "|http:\/\/library.usc.cuhk.edu.hk\/",
 
+"||csuchen.de",
 
 
-  "|http:\/\/mjlsh.usc.cuhk.edu.hk\/",
 
+".csw.org.uk",
 
 
-  ".cuhkacs.org\/~benng",
 
+".ct.org.tw",
 
 
-  ".cuihua.org",
 
+"||ct.org.tw",
 
 
-  "||cuihua.org",
 
+".ctao.org",
 
 
-  ".cuiweiping.net",
 
+".ctfriend.net",
 
 
-  "||cuiweiping.net",
 
+".ctitv.com.tw",
 
 
-  "||culture.tw",
 
+"cts.com.tw",
 
 
-  ".cumlouder.com",
 
+"|http:\/\/library.usc.cuhk.edu.hk\/",
 
 
-  "||cumlouder.com",
 
+"|http:\/\/mjlsh.usc.cuhk.edu.hk\/",
 
 
-  "||curvefish.com",
 
+".cuhkacs.org\/~benng",
 
 
-  ".cusu.hk",
 
+".cuihua.org",
 
 
-  "||cusu.hk",
 
+"||cuihua.org",
 
 
-  ".cutscenes.net",
 
+".cuiweiping.net",
 
 
-  ".cw.com.tw",
 
+"||cuiweiping.net",
 
 
-  "||cw.com.tw",
 
+"||culture.tw",
 
 
-  "|http:\/\/forum.cyberctm.com",
 
+".cumlouder.com",
 
 
-  "cyberghostvpn.com",
 
+"||cumlouder.com",
 
 
-  "||cyberghostvpn.com",
 
+"||curvefish.com",
 
 
-  "||cynscribe.com",
 
+".cusu.hk",
 
 
-  "cytode.us",
 
+"||cusu.hk",
 
 
-  "||ifan.cz.cc",
 
+".cutscenes.net",
 
 
-  "||mike.cz.cc",
 
+".cw.com.tw",
 
 
-  "||nic.cz.cc",
 
+"||cw.com.tw",
 
 
-  ".d-fukyu.com",
 
+"|http:\/\/forum.cyberctm.com",
 
 
-  "|http:\/\/d-fukyu.com",
 
+"cyberghostvpn.com",
 
 
-  "cl.d0z.net",
 
+"||cyberghostvpn.com",
 
 
-  ".d100.net",
 
+"||cynscribe.com",
 
 
-  "||d100.net",
 
+"cytode.us",
 
 
-  ".d2bay.com",
 
+"||ifan.cz.cc",
 
 
-  "|http:\/\/d2bay.com",
 
+"||mike.cz.cc",
 
 
-  ".dabr.co.uk",
 
+"||nic.cz.cc",
 
 
-  "||dabr.co.uk",
 
+".d-fukyu.com",
 
 
-  "dabr.eu",
 
+"|http:\/\/d-fukyu.com",
 
 
-  "dabr.mobi",
 
+"cl.d0z.net",
 
 
-  "||dabr.mobi",
 
+".d100.net",
 
 
-  "||dabr.me",
 
+"||d100.net",
 
 
-  "dadazim.com",
 
+".d2bay.com",
 
 
-  "||dadazim.com",
 
+"|http:\/\/d2bay.com",
 
 
-  ".dadi360.com",
 
+".dabr.co.uk",
 
 
-  ".dafabet.com",
 
+"||dabr.co.uk",
 
 
-  "dafagood.com",
 
+"dabr.eu",
 
 
-  "dafahao.com",
 
+"dabr.mobi",
 
 
-  ".dafoh.org",
 
+"||dabr.mobi",
 
 
-  ".daftporn.com",
 
+"||dabr.me",
 
 
-  ".dagelijksestandaard.nl",
 
+"dadazim.com",
 
 
-  ".daidostup.ru",
 
+"||dadazim.com",
 
 
-  "|http:\/\/daidostup.ru",
 
+".dadi360.com",
 
 
-  ".dailidaili.com",
 
+".dafabet.com",
 
 
-  "||dailidaili.com",
 
+"dafagood.com",
 
 
-  ".dailymotion.com",
 
+"dafahao.com",
 
 
-  "||dailymotion.com",
 
+".dafoh.org",
 
 
-  "daiphapinfo.net",
 
+".daftporn.com",
 
 
-  ".dajiyuan.com",
 
+".dagelijksestandaard.nl",
 
 
-  "||dajiyuan.de",
 
+".daidostup.ru",
 
 
-  "dajiyuan.eu",
 
+"|http:\/\/daidostup.ru",
 
 
-  "dalailama.com",
 
+".dailidaili.com",
 
 
-  ".dalailama.mn",
 
+"||dailidaili.com",
 
 
-  "|http:\/\/dalailama.mn",
 
+".dailymotion.com",
 
 
-  ".dalailama.ru",
 
+"||dailymotion.com",
 
 
-  "||dalailama.ru",
 
+"daiphapinfo.net",
 
 
-  "dalailama80.org",
 
+".dajiyuan.com",
 
 
-  ".dalailama-archives.org",
 
+"||dajiyuan.de",
 
 
-  ".dalailamacenter.org",
 
+"dajiyuan.eu",
 
 
-  "|http:\/\/dalailamacenter.org",
 
+"dalailama.com",
 
 
-  "dalailamafellows.org",
 
+".dalailama.mn",
 
 
-  ".dalailamafilm.com",
 
+"|http:\/\/dalailama.mn",
 
 
-  ".dalailamafoundation.org",
 
+".dalailama.ru",
 
 
-  ".dalailamahindi.com",
 
+"||dalailama.ru",
 
 
-  ".dalailamainaustralia.org",
 
+"dalailama80.org",
 
 
-  ".dalailamajapanese.com",
 
+".dalailama-archives.org",
 
 
-  ".dalailamaprotesters.info",
 
+".dalailamacenter.org",
 
 
-  ".dalailamaquotes.org",
 
+"|http:\/\/dalailamacenter.org",
 
 
-  ".dalailamatrust.org",
 
+"dalailamafellows.org",
 
 
-  ".dalailamavisit.org.nz",
 
+".dalailamafilm.com",
 
 
-  ".dalailamaworld.com",
 
+".dalailamafoundation.org",
 
 
-  "||dalailamaworld.com",
 
+".dalailamahindi.com",
 
 
-  "dalianmeng.org",
 
+".dalailamainaustralia.org",
 
 
-  "||dalianmeng.org",
 
+".dalailamajapanese.com",
 
 
-  ".daliulian.org",
 
+".dalailamaprotesters.info",
 
 
-  "||daliulian.org",
 
+".dalailamaquotes.org",
 
 
-  ".danke4china.net",
 
+".dalailamatrust.org",
 
 
-  "||danke4china.net",
 
+".dalailamavisit.org.nz",
 
 
-  ".danwei.org",
 
+".dalailamaworld.com",
 
 
-  "daolan.net",
 
+"||dalailamaworld.com",
 
 
-  ".daozhongxing.org",
 
+"dalianmeng.org",
 
 
-  "darktoy.net",
 
+"||dalianmeng.org",
 
 
-  "||dastrassi.org",
 
+".daliulian.org",
 
 
-  "blog.daum.net\/_blog",
 
+"||daliulian.org",
 
 
-  ".david-kilgour.com",
 
+".danke4china.net",
 
 
-  "|http:\/\/david-kilgour.com",
 
+"||danke4china.net",
 
 
-  "daxa.cn",
 
+".danwei.org",
 
 
-  "||daxa.cn",
 
+"daolan.net",
 
 
-  "cn.dayabook.com",
 
+".daozhongxing.org",
 
 
-  ".daylife.com\/topic\/dalai_lama",
 
+"darktoy.net",
 
 
-  "||db.tt",
 
+"||dastrassi.org",
 
 
-  ".dbc.hk\/main",
 
+"blog.daum.net\/_blog",
 
 
-  "||dcard.tw",
 
+".david-kilgour.com",
 
 
-  "dcmilitary.com",
 
+"|http:\/\/david-kilgour.com",
 
 
-  ".ddc.com.tw",
 
+"daxa.cn",
 
 
-  ".ddhw.info",
 
+"||daxa.cn",
 
 
-  "||de-sci.org",
 
+"cn.dayabook.com",
 
 
-  ".de-sci.org",
 
+".daylife.com\/topic\/dalai_lama",
 
 
-  "packages.debian.org\/zh-cn\/lenny\/gpass",
 
+"||db.tt",
 
 
-  "||decodet.co",
 
+".dbc.hk\/main",
 
 
-  ".definebabe.com",
 
+"||dcard.tw",
 
 
-  "||delcamp.net",
 
+"dcmilitary.com",
 
 
-  "delicious.com\/GFWbookmark",
 
+".ddc.com.tw",
 
 
-  ".democrats.org",
 
+".ddhw.info",
 
 
-  "||democrats.org",
 
+"||de-sci.org",
 
 
-  ".demosisto.hk",
 
+".de-sci.org",
 
 
-  "||demosisto.hk",
 
+"packages.debian.org\/zh-cn\/lenny\/gpass",
 
 
-  "||desc.se",
 
+"||decodet.co",
 
 
-  "||dessci.com",
 
+".definebabe.com",
 
 
-  ".destroy-china.jp",
 
+"||delcamp.net",
 
 
-  "||deutsche-welle.de",
 
+"delicious.com\/GFWbookmark",
 
 
-  "||devio.us",
 
+".democrats.org",
 
 
-  "||devpn.com",
 
+"||democrats.org",
 
 
-  "||dfas.mil",
 
+".demosisto.hk",
 
 
-  "dfn.org",
 
+"||demosisto.hk",
 
 
-  "dharmakara.net",
 
+"||desc.se",
 
 
-  ".dharamsalanet.com",
 
+"||dessci.com",
 
 
-  ".diaoyuislands.org",
 
+".destroy-china.jp",
 
 
-  "||diaoyuislands.org",
 
+"||deutsche-welle.de",
 
 
-  ".difangwenge.org",
 
+"||devio.us",
 
 
-  "|http:\/\/digiland.tw\/",
 
+"||devpn.com",
 
 
-  "||digitalnomadsproject.org",
 
+"||dfas.mil",
 
 
-  ".diigo.com",
 
+"dfn.org",
 
 
-  "||diigo.com",
 
+"dharmakara.net",
 
 
-  "||dilber.se",
 
+".dharamsalanet.com",
 
 
-  "||furl.net",
 
+".diaoyuislands.org",
 
 
-  ".dipity.com",
 
+"||diaoyuislands.org",
 
 
-  "||directcreative.com",
 
+".difangwenge.org",
 
 
-  ".discuss.com.hk",
 
+"|http:\/\/digiland.tw\/",
 
 
-  "||discuss.com.hk",
 
+"||digitalnomadsproject.org",
 
 
-  ".discuss4u.com",
 
+".diigo.com",
 
 
-  "disp.cc",
 
+"||diigo.com",
 
 
-  ".disqus.com",
 
+"||dilber.se",
 
 
-  "||disqus.com",
 
+"||furl.net",
 
 
-  ".dit-inc.us",
 
+".dipity.com",
 
 
-  "||dit-inc.us",
 
+"||directcreative.com",
 
 
-  ".dizhidizhi.com",
 
+".discuss.com.hk",
 
 
-  "||dizhuzhishang.com",
 
+"||discuss.com.hk",
 
 
-  "djangosnippets.org",
 
+".discuss4u.com",
 
 
-  ".djorz.com",
 
+"disp.cc",
 
 
-  "||djorz.com",
 
+".disqus.com",
 
 
-  "||dl-laby.jp",
 
+"||disqus.com",
 
 
-  "||dlsite.com",
 
+".dit-inc.us",
 
 
-  "||dlyoutube.com",
 
+"||dit-inc.us",
 
 
-  "||dmcdn.net",
 
+".dizhidizhi.com",
 
 
-  ".dnscrypt.org",
 
+"||dizhuzhishang.com",
 
 
-  "||dnscrypt.org",
 
+"djangosnippets.org",
 
 
-  "||dns2go.com",
 
+".djorz.com",
 
 
-  "||dnssec.net",
 
+"||djorz.com",
 
 
-  "doctorvoice.org",
 
+"||dl-laby.jp",
 
 
-  ".dogfartnetwork.com\/tour",
 
+"||dlsite.com",
 
 
-  "gloryhole.com",
 
+"||dlyoutube.com",
 
 
-  ".dojin.com",
 
+"||dmcdn.net",
 
 
-  ".dok-forum.net",
 
+".dnscrypt.org",
 
 
-  "||dolc.de",
 
+"||dnscrypt.org",
 
 
-  "||dolf.org.hk",
 
+"||dns2go.com",
 
 
-  "||dollf.com",
 
+"||dnssec.net",
 
 
-  ".domain.club.tw",
 
+"doctorvoice.org",
 
 
-  ".domaintoday.com.au",
 
+".dogfartnetwork.com\/tour",
 
 
-  "chinese.donga.com",
 
+"gloryhole.com",
 
 
-  "dongtaiwang.com",
 
+".dojin.com",
 
 
-  "||dongtaiwang.com",
 
+".dok-forum.net",
 
 
-  ".dongtaiwang.net",
 
+"||dolc.de",
 
 
-  "||dongtaiwang.net",
 
+"||dolf.org.hk",
 
 
-  ".dongyangjing.com",
 
+"||dollf.com",
 
 
-  "|http:\/\/danbooru.donmai.us",
 
+".domain.club.tw",
 
 
-  ".dontfilter.us",
 
+".domaintoday.com.au",
 
 
-  "||dontmovetochina.com",
 
+"chinese.donga.com",
 
 
-  ".dorjeshugden.com",
 
+"dongtaiwang.com",
 
 
-  ".dotplane.com",
 
+"||dongtaiwang.com",
 
 
-  "||dotplane.com",
 
+".dongtaiwang.net",
 
 
-  "||dotsub.com",
 
+"||dongtaiwang.net",
 
 
-  ".dotvpn.com",
 
+".dongyangjing.com",
 
 
-  "||dotvpn.com",
 
+"|http:\/\/danbooru.donmai.us",
 
 
-  ".doub.io",
 
+".dontfilter.us",
 
 
-  "||doub.io",
 
+"||dontmovetochina.com",
 
 
-  "||dougscripts.com",
 
+".dorjeshugden.com",
 
 
-  "||douhokanko.net",
 
+".dotplane.com",
 
 
-  "||doujincafe.com",
 
+"||dotplane.com",
 
 
-  "dowei.org",
 
+"||dotsub.com",
 
 
-  "dphk.org",
 
+".dotvpn.com",
 
 
-  "dpp.org.tw",
 
+"||dotvpn.com",
 
 
-  "||dpp.org.tw",
 
+".doub.io",
 
 
-  "||dpr.info",
 
+"||doub.io",
 
 
-  "||dragonsprings.org",
 
+"||dougscripts.com",
 
 
-  ".dreamamateurs.com",
 
+"||douhokanko.net",
 
 
-  ".drepung.org",
 
+"||doujincafe.com",
 
 
-  "||drgan.net",
 
+"dowei.org",
 
 
-  ".drmingxia.org",
 
+"dphk.org",
 
 
-  "|http:\/\/drmingxia.org",
 
+"dpp.org.tw",
 
 
-  "||dropbooks.tv",
 
+"||dpp.org.tw",
 
 
-  "||dropbox.com",
 
+"||dpr.info",
 
 
-  "||api.dropboxapi.com",
 
+"||dragonsprings.org",
 
 
-  "||notify.dropboxapi.com",
 
+".dreamamateurs.com",
 
 
-  "||dropboxusercontent.com",
 
+".drepung.org",
 
 
-  "drsunacademy.com",
 
+"||drgan.net",
 
 
-  ".drtuber.com",
 
+".drmingxia.org",
 
 
-  ".dscn.info",
 
+"|http:\/\/drmingxia.org",
 
 
-  "|http:\/\/dscn.info",
 
+"||dropbooks.tv",
 
 
-  ".dstk.dk",
 
+"||dropbox.com",
 
 
-  "|http:\/\/dstk.dk",
 
+"||api.dropboxapi.com",
 
 
-  "||dtiblog.com",
 
+"||notify.dropboxapi.com",
 
 
-  "||dtic.mil",
 
+"||dropboxusercontent.com",
 
 
-  ".dtwang.org",
 
+"drsunacademy.com",
 
 
-  ".duanzhihu.com",
 
+".drtuber.com",
 
 
-  ".duckdns.org",
 
+".dscn.info",
 
 
-  "|http:\/\/duckdns.org",
 
+"|http:\/\/dscn.info",
 
 
-  ".duckduckgo.com",
 
+".dstk.dk",
 
 
-  "||duckduckgo.com",
 
+"|http:\/\/dstk.dk",
 
 
-  ".duckload.com\/download",
 
+"||dtiblog.com",
 
 
-  "||duckmylife.com",
 
+"||dtic.mil",
 
 
-  ".duga.jp",
 
+".dtwang.org",
 
 
-  "|http:\/\/duga.jp",
 
+".duanzhihu.com",
 
 
-  ".duihua.org",
 
+".duckdns.org",
 
 
-  "||duihua.org",
 
+"|http:\/\/duckdns.org",
 
 
-  "||duihuahrjournal.org",
 
+".duckduckgo.com",
 
 
-  ".dunyabulteni.net",
 
+"||duckduckgo.com",
 
 
-  ".duoweitimes.com",
 
+".duckload.com\/download",
 
 
-  "||duoweitimes.com",
 
+"||duckmylife.com",
 
 
-  "duping.net",
 
+".duga.jp",
 
 
-  "||duplicati.com",
 
+"|http:\/\/duga.jp",
 
 
-  "dupola.com",
 
+".duihua.org",
 
 
-  "dupola.net",
 
+"||duihua.org",
 
 
-  ".dushi.ca",
 
+"||duihuahrjournal.org",
 
 
-  "||dvorak.org",
 
+".dunyabulteni.net",
 
 
-  ".dw.com",
 
+".duoweitimes.com",
 
 
-  "||dw.com",
 
+"||duoweitimes.com",
 
 
-  "||dw.de",
 
+"duping.net",
 
 
-  ".dw-world.com",
 
+"||duplicati.com",
 
 
-  "||dw-world.com",
 
+"dupola.com",
 
 
-  ".dw-world.de",
 
+"dupola.net",
 
 
-  "|http:\/\/dw-world.de",
 
+".dushi.ca",
 
 
-  "www.dwheeler.com",
 
+"||dvorak.org",
 
 
-  "dwnews.com",
 
+".dw.com",
 
 
-  "||dwnews.com",
 
+"||dw.com",
 
 
-  "dwnews.net",
 
+"||dw.de",
 
 
-  "||dwnews.net",
 
+".dw-world.com",
 
 
-  "xys.dxiong.com",
 
+"||dw-world.com",
 
 
-  "||dynawebinc.com",
 
+".dw-world.de",
 
 
-  "||dysfz.cc",
 
+"|http:\/\/dw-world.de",
 
 
-  ".dzze.com",
 
+"www.dwheeler.com",
 
 
-  "||e-classical.com.tw",
 
+"dwnews.com",
 
 
-  "||e-gold.com",
 
+"||dwnews.com",
 
 
-  ".e-gold.com",
 
+"dwnews.net",
 
 
-  ".e-hentai.org",
 
+"||dwnews.net",
 
 
-  "||e-hentai.org",
 
+"xys.dxiong.com",
 
 
-  ".e-hentaidb.com",
 
+"||dynawebinc.com",
 
 
-  "|http:\/\/e-hentaidb.com",
 
+"||dysfz.cc",
 
 
-  "e-info.org.tw",
 
+".dzze.com",
 
 
-  ".e-traderland.net\/board",
 
+"||e-classical.com.tw",
 
 
-  ".e-zone.com.hk\/discuz",
 
+"||e-gold.com",
 
 
-  "|http:\/\/e-zone.com.hk\/discuz",
 
+".e-gold.com",
 
 
-  ".e123.hk",
 
+".e-hentai.org",
 
 
-  "||e123.hk",
 
+"||e-hentai.org",
 
 
-  ".earlytibet.com",
 
+".e-hentaidb.com",
 
 
-  "|http:\/\/earlytibet.com",
 
+"|http:\/\/e-hentaidb.com",
 
 
-  ".earthcam.com",
 
+"e-info.org.tw",
 
 
-  ".earthvpn.com",
 
+".e-traderland.net\/board",
 
 
-  "||earthvpn.com",
 
+".e-zone.com.hk\/discuz",
 
 
-  "eastern-ark.com",
 
+"|http:\/\/e-zone.com.hk\/discuz",
 
 
-  ".easternlightning.org",
 
+".e123.hk",
 
 
-  ".eastturkestan.com",
 
+"||e123.hk",
 
 
-  "|http:\/\/www.eastturkistan.net\/",
 
+".earlytibet.com",
 
 
-  ".eastturkistan-gov.org",
 
+"|http:\/\/earlytibet.com",
 
 
-  ".eastturkistancc.org",
 
+".earthcam.com",
 
 
-  ".eastturkistangovernmentinexile.us",
 
+".earthvpn.com",
 
 
-  "||eastturkistangovernmentinexile.us",
 
+"||earthvpn.com",
 
 
-  ".easyca.ca",
 
+"eastern-ark.com",
 
 
-  ".easypic.com",
 
+".easternlightning.org",
 
 
-  ".ebony-beauty.com",
 
+".eastturkestan.com",
 
 
-  "ebookbrowse.com",
 
+"|http:\/\/www.eastturkistan.net\/",
 
 
-  "ebookee.com",
 
+".eastturkistan-gov.org",
 
 
-  "||ecfa.org.tw",
 
+".eastturkistancc.org",
 
 
-  "ushuarencity.echainhost.com",
 
+".eastturkistangovernmentinexile.us",
 
 
-  "||ecimg.tw",
 
+"||eastturkistangovernmentinexile.us",
 
 
-  "ecministry.net",
 
+".easyca.ca",
 
 
-  ".economist.com",
 
+".easypic.com",
 
 
-  "bbs.ecstart.com",
 
+".ebony-beauty.com",
 
 
-  "edgecastcdn.net",
 
+"ebookbrowse.com",
 
 
-  "||edgecastcdn.net",
 
+"ebookee.com",
 
 
-  "\/twimg\\.edgesuite\\.net\\\/\\\/?appledaily\/",
 
+"||ecfa.org.tw",
 
 
-  "edicypages.com",
 
+"ushuarencity.echainhost.com",
 
 
-  ".edmontonchina.cn",
 
+"||ecimg.tw",
 
 
-  ".edmontonservice.com",
 
+"ecministry.net",
 
 
-  "edoors.com",
 
+".economist.com",
 
 
-  ".edubridge.com",
 
+"bbs.ecstart.com",
 
 
-  "||edubridge.com",
 
+"edgecastcdn.net",
 
 
-  ".edupro.org",
 
+"||edgecastcdn.net",
 
 
-  "||eevpn.com",
 
+"\/twimg\\.edgesuite\\.net\\\/\\\/?appledaily\/",
 
 
-  "efcc.org.hk",
 
+"edicypages.com",
 
 
-  ".efukt.com",
 
+".edmontonchina.cn",
 
 
-  "|http:\/\/efukt.com",
 
+".edmontonservice.com",
 
 
-  "||eic-av.com",
 
+"edoors.com",
 
 
-  "||eireinikotaerukai.com",
 
+".edubridge.com",
 
 
-  ".eisbb.com",
 
+"||edubridge.com",
 
 
-  ".eksisozluk.com",
 
+".edupro.org",
 
 
-  "||eksisozluk.com",
 
+"||eevpn.com",
 
 
-  "electionsmeter.com",
 
+"efcc.org.hk",
 
 
-  "||elgoog.im",
 
+".efukt.com",
 
 
-  ".ellawine.org",
 
+"|http:\/\/efukt.com",
 
 
-  ".elpais.com",
 
+"||eic-av.com",
 
 
-  "||elpais.com",
 
+"||eireinikotaerukai.com",
 
 
-  ".eltondisney.com",
 
+".eisbb.com",
 
 
-  ".emaga.com\/info\/3407",
 
+".eksisozluk.com",
 
 
-  "emilylau.org.hk",
 
+"||eksisozluk.com",
 
 
-  ".emanna.com\/chineseTraditional",
 
+"electionsmeter.com",
 
 
-  "bitc.bme.emory.edu\/~lzhou\/blogs",
 
+"||elgoog.im",
 
 
-  ".empfil.com",
 
+".ellawine.org",
 
 
-  ".emule-ed2k.com",
 
+".elpais.com",
 
 
-  "|http:\/\/emule-ed2k.com",
 
+"||elpais.com",
 
 
-  ".emulefans.com",
 
+".eltondisney.com",
 
 
-  "|http:\/\/emulefans.com",
 
+".emaga.com\/info\/3407",
 
 
-  ".emuparadise.me",
 
+"emilylau.org.hk",
 
 
-  ".enanyang.my",
 
+".emanna.com\/chineseTraditional",
 
 
-  "||enewstree.com",
 
+"bitc.bme.emory.edu\/~lzhou\/blogs",
 
 
-  ".enfal.de",
 
+".empfil.com",
 
 
-  "chinese.engadget.com",
 
+".emule-ed2k.com",
 
 
-  "||engagedaily.org",
 
+"|http:\/\/emule-ed2k.com",
 
 
-  "englishforeveryone.org",
 
+".emulefans.com",
 
 
-  "||englishfromengland.co.uk",
 
+"|http:\/\/emulefans.com",
 
 
-  "englishpen.org",
 
+".emuparadise.me",
 
 
-  ".enlighten.org.tw",
 
+".enanyang.my",
 
 
-  "||entermap.com",
 
+"||enewstree.com",
 
 
-  ".entnt.com",
 
+".enfal.de",
 
 
-  "|http:\/\/entnt.com",
 
+"chinese.engadget.com",
 
 
-  ".episcopalchurch.org",
 
+"||engagedaily.org",
 
 
-  ".epochhk.com",
 
+"englishforeveryone.org",
 
 
-  "|http:\/\/epochhk.com",
 
+"||englishfromengland.co.uk",
 
 
-  "epochtimes-bg.com",
 
+"englishpen.org",
 
 
-  "||epochtimes-bg.com",
 
+".enlighten.org.tw",
 
 
-  "epochtimes-romania.com",
 
+"||entermap.com",
 
 
-  "||epochtimes-romania.com",
 
+".entnt.com",
 
 
-  "epochtimes.co.il",
 
+"|http:\/\/entnt.com",
 
 
-  "||epochtimes.co.il",
 
+".episcopalchurch.org",
 
 
-  "epochtimes.co.kr",
 
+".epochhk.com",
 
 
-  "||epochtimes.co.kr",
 
+"|http:\/\/epochhk.com",
 
 
-  "epochtimes.com",
 
+"epochtimes-bg.com",
 
 
-  "||epochtimes.com",
 
+"||epochtimes-bg.com",
 
 
-  ".epochtimes.cz",
 
+"epochtimes-romania.com",
 
 
-  "epochtimes.de",
 
+"||epochtimes-romania.com",
 
 
-  "epochtimes.fr",
 
+"epochtimes.co.il",
 
 
-  ".epochtimes.ie",
 
+"||epochtimes.co.il",
 
 
-  ".epochtimes.it",
 
+"epochtimes.co.kr",
 
 
-  "epochtimes.jp",
 
+"||epochtimes.co.kr",
 
 
-  "epochtimes.ru",
 
+"epochtimes.com",
 
 
-  "epochtimes.se",
 
+"||epochtimes.com",
 
 
-  "epochtimestr.com",
 
+".epochtimes.cz",
 
 
-  ".epochweek.com",
 
+"epochtimes.de",
 
 
-  "||epochweek.com",
 
+"epochtimes.fr",
 
 
-  "||epochweekly.com",
 
+".epochtimes.ie",
 
 
-  ".eporner.com",
 
+".epochtimes.it",
 
 
-  ".equinenow.com",
 
+"epochtimes.jp",
 
 
-  "erabaru.net",
 
+"epochtimes.ru",
 
 
-  ".eracom.com.tw",
 
+"epochtimes.se",
 
 
-  ".eraysoft.com.tr",
 
+"epochtimestr.com",
 
 
-  ".erepublik.com",
 
+".epochweek.com",
 
 
-  ".erights.net",
 
+"||epochweek.com",
 
 
-  "||erights.net",
 
+"||epochweekly.com",
 
 
-  ".erktv.com",
 
+".eporner.com",
 
 
-  "|http:\/\/erktv.com",
 
+".equinenow.com",
 
 
-  "||ernestmandel.org",
 
+"erabaru.net",
 
 
-  "||erodaizensyu.com",
 
+".eracom.com.tw",
 
 
-  "||erodoujinlog.com",
 
+".eraysoft.com.tr",
 
 
-  "||erodoujinworld.com",
 
+".erepublik.com",
 
 
-  "||eromanga-kingdom.com",
 
+".erights.net",
 
 
-  "||eromangadouzin.com",
 
+"||erights.net",
 
 
-  ".eromon.net",
 
+".erktv.com",
 
 
-  "|http:\/\/eromon.net",
 
+"|http:\/\/erktv.com",
 
 
-  ".eroprofile.com",
 
+"||ernestmandel.org",
 
 
-  ".eroticsaloon.net",
 
+"||erodaizensyu.com",
 
 
-  ".eslite.com",
 
+"||erodoujinlog.com",
 
 
-  "||eslite.com",
 
+"||erodoujinworld.com",
 
 
-  "wiki.esu.im\/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95",
 
+"||eromanga-kingdom.com",
 
 
-  ".etaa.org.au",
 
+"||eromangadouzin.com",
 
 
-  ".etadult.com",
 
+".eromon.net",
 
 
-  "etaiwannews.com",
 
+"|http:\/\/eromon.net",
 
 
-  "||etizer.org",
 
+".eroprofile.com",
 
 
-  "||etokki.com",
 
+".eroticsaloon.net",
 
 
-  ".ettoday.net\/news\/20151216\/614081",
 
+".eslite.com",
 
 
-  "etvonline.hk",
 
+"||eslite.com",
 
 
-  ".eu.org",
 
+"wiki.esu.im\/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95",
 
 
-  "||eu.org",
 
+".etaa.org.au",
 
 
-  ".eucasino.com",
 
+".etadult.com",
 
 
-  ".eulam.com",
 
+"etaiwannews.com",
 
 
-  ".eurekavpt.com",
 
+"||etizer.org",
 
 
-  "||eurekavpt.com",
 
+"||etokki.com",
 
 
-  ".euronews.com",
 
+".ettoday.net\/news\/20151216\/614081",
 
 
-  "||euronews.com",
 
+"etvonline.hk",
 
 
-  "eeas.europa.eu\/delegations\/china\/press_corner\/all_news\/news\/2015\/20150716_zh",
 
+".eu.org",
 
 
-  "eeas.europa.eu\/statements-eeas\/2015\/151022",
 
+"||eu.org",
 
 
-  ".evschool.net",
 
+".eucasino.com",
 
 
-  "|http:\/\/evschool.net",
 
+".eulam.com",
 
 
-  "||exblog.jp",
 
+".eurekavpt.com",
 
 
-  "||blog.exblog.co.jp",
 
+"||eurekavpt.com",
 
 
-  "@@||www.exblog.jp",
 
+".euronews.com",
 
 
-  ".exchristian.hk",
 
+"||euronews.com",
 
 
-  "||exchristian.hk",
 
+"eeas.europa.eu\/delegations\/china\/press_corner\/all_news\/news\/2015\/20150716_zh",
 
 
-  "|http:\/\/blog.excite.co.jp",
 
+"eeas.europa.eu\/statements-eeas\/2015\/151022",
 
 
-  "||exmormon.org",
 
+".evschool.net",
 
 
-  "||expatshield.com",
 
+"|http:\/\/evschool.net",
 
 
-  ".expecthim.com",
 
+"||exblog.jp",
 
 
-  "||expecthim.com",
 
+"||blog.exblog.co.jp",
 
 
-  "experts-univers.com",
 
+"@@||www.exblog.jp",
 
 
-  "||exploader.net",
 
+".exchristian.hk",
 
 
-  ".expressvpn.com",
 
+"||exchristian.hk",
 
 
-  "||expressvpn.com",
 
+"|http:\/\/blog.excite.co.jp",
 
 
-  ".extremetube.com",
 
+"||exmormon.org",
 
 
-  "eyevio.jp",
 
+"||expatshield.com",
 
 
-  "||eyevio.jp",
 
+".expecthim.com",
 
 
-  ".eyny.com",
 
+"||expecthim.com",
 
 
-  "||eyny.com",
 
+"experts-univers.com",
 
 
-  ".ezpc.tk\/category\/soft",
 
+"||exploader.net",
 
 
-  ".ezpeer.com",
 
+".expressvpn.com",
 
 
-  "||facebookquotes4u.com",
 
+"||expressvpn.com",
 
 
-  ".faceless.me",
 
+".extremetube.com",
 
 
-  "||faceless.me",
 
+"eyevio.jp",
 
 
-  "|http:\/\/facesoftibetanselfimmolators.info",
 
+"||eyevio.jp",
 
 
-  "||facesofnyfw.com",
 
+".eyny.com",
 
 
-  ".faith100.org",
 
+"||eyny.com",
 
 
-  "|http:\/\/faith100.org",
 
+".ezpc.tk\/category\/soft",
 
 
-  ".faithfuleye.com",
 
+".ezpeer.com",
 
 
-  "||faiththedog.info",
 
+"||facebookquotes4u.com",
 
 
-  ".fakku.net",
 
+".faceless.me",
 
 
-  ".falsefire.com",
 
+"||faceless.me",
 
 
-  "||falsefire.com",
 
+"|http:\/\/facesoftibetanselfimmolators.info",
 
 
-  "falun-co.org",
 
+"||facesofnyfw.com",
 
 
-  "falunart.org",
 
+".faith100.org",
 
 
-  "||falunasia.info",
 
+"|http:\/\/faith100.org",
 
 
-  "|http:\/\/falunau.org",
 
+".faithfuleye.com",
 
 
-  ".falunaz.net",
 
+"||faiththedog.info",
 
 
-  "falundafa.org",
 
+".fakku.net",
 
 
-  "falundafa-dc.org",
 
+".falsefire.com",
 
 
-  "||falundafa-florida.org",
 
+"||falsefire.com",
 
 
-  "||falundafa-nc.org",
 
+"falun-co.org",
 
 
-  "||falundafa-pa.net",
 
+"falunart.org",
 
 
-  "||falundafa-sacramento.org",
 
+"||falunasia.info",
 
 
-  "falun-ny.net",
 
+"|http:\/\/falunau.org",
 
 
-  "||falundafaindia.org",
 
+".falunaz.net",
 
 
-  "falundafamuseum.org",
 
+"falundafa.org",
 
 
-  ".falungong.club",
 
+"falundafa-dc.org",
 
 
-  ".falungong.de",
 
+"||falundafa-florida.org",
 
 
-  "falungong.org.uk",
 
+"||falundafa-nc.org",
 
 
-  "||falunhr.org",
 
+"||falundafa-pa.net",
 
 
-  "faluninfo.de",
 
+"||falundafa-sacramento.org",
 
 
-  "faluninfo.net",
 
+"falun-ny.net",
 
 
-  ".falunpilipinas.net",
 
+"||falundafaindia.org",
 
 
-  "||falunworld.net",
 
+"falundafamuseum.org",
 
 
-  "familyfed.org",
 
+".falungong.club",
 
 
-  ".fangeming.com",
 
+".falungong.de",
 
 
-  "||fanglizhi.info",
 
+"falungong.org.uk",
 
 
-  "||fangong.org",
 
+"||falunhr.org",
 
 
-  "fangongheike.com",
 
+"faluninfo.de",
 
 
-  ".fanqiang.tk",
 
+"faluninfo.net",
 
 
-  "fanqianghou.com",
 
+".falunpilipinas.net",
 
 
-  "||fanqianghou.com",
 
+"||falunworld.net",
 
 
-  ".fanqiangzhe.com",
 
+"familyfed.org",
 
 
-  "||fanqiangzhe.com",
 
+".fangeming.com",
 
 
-  "fapdu.com",
 
+"||fanglizhi.info",
 
 
-  "faproxy.com",
 
+"||fangong.org",
 
 
-  ".fawanghuihui.org",
 
+"fangongheike.com",
 
 
-  "fanqiangyakexi.net",
 
+".fanqiang.tk",
 
 
-  "fail.hk",
 
+"fanqianghou.com",
 
 
-  "||famunion.com",
 
+"||fanqianghou.com",
 
 
-  ".fan-qiang.com",
 
+".fanqiangzhe.com",
 
 
-  ".fangbinxing.com",
 
+"||fanqiangzhe.com",
 
 
-  "||fangbinxing.com",
 
+"fapdu.com",
 
 
-  "fangeming.com",
 
+"faproxy.com",
 
 
-  ".fangmincn.org",
 
+".fawanghuihui.org",
 
 
-  "||fangmincn.org",
 
+"fanqiangyakexi.net",
 
 
-  ".fanhaodang.com",
 
+"fail.hk",
 
 
-  "||fanswong.com",
 
+"||famunion.com",
 
 
-  ".fanyue.info",
 
+".fan-qiang.com",
 
 
-  ".farwestchina.com",
 
+".fangbinxing.com",
 
 
-  "en.favotter.net",
 
+"||fangbinxing.com",
 
 
-  "nytimes.map.fastly.net",
 
+"fangeming.com",
 
 
-  "||nytimes.map.fastly.net",
 
+".fangmincn.org",
 
 
-  "||fast.wistia.com",
 
+"||fangmincn.org",
 
 
-  "||fastssh.com",
 
+".fanhaodang.com",
 
 
-  "||faststone.org",
 
+"||fanswong.com",
 
 
-  "favstar.fm",
 
+".fanyue.info",
 
 
-  "||favstar.fm",
 
+".farwestchina.com",
 
 
-  "faydao.com\/weblog",
 
+"en.favotter.net",
 
 
-  ".fc2.com",
 
+"nytimes.map.fastly.net",
 
 
-  ".fc2china.com",
 
+"||nytimes.map.fastly.net",
 
 
-  ".fc2cn.com",
 
+"||fast.wistia.com",
 
 
-  "||fc2cn.com",
 
+"||fastssh.com",
 
 
-  "fc2blog.net",
 
+"||faststone.org",
 
 
-  "|http:\/\/uygur.fc2web.com\/",
 
+"favstar.fm",
 
 
-  "video.fdbox.com",
 
+"||favstar.fm",
 
 
-  ".fdc64.de",
 
+"faydao.com\/weblog",
 
 
-  ".fdc64.org",
 
+".fc2.com",
 
 
-  ".fdc89.jp",
 
+".fc2china.com",
 
 
-  "||fourface.nodesnoop.com",
 
+".fc2cn.com",
 
 
-  "||feelssh.com",
 
+"||fc2cn.com",
 
 
-  "feer.com",
 
+"fc2blog.net",
 
 
-  ".feifeiss.com",
 
+"|http:\/\/uygur.fc2web.com\/",
 
 
-  "|http:\/\/feitianacademy.org",
 
+"video.fdbox.com",
 
 
-  ".feitian-california.org",
 
+".fdc64.de",
 
 
-  "||feministteacher.com",
 
+".fdc64.org",
 
 
-  ".fengzhenghu.com",
 
+".fdc89.jp",
 
 
-  "||fengzhenghu.com",
 
+"||fourface.nodesnoop.com",
 
 
-  ".fengzhenghu.net",
 
+"||feelssh.com",
 
 
-  "||fengzhenghu.net",
 
+"feer.com",
 
 
-  ".fevernet.com",
 
+".feifeiss.com",
 
 
-  "|http:\/\/ff.im",
 
+"|http:\/\/feitianacademy.org",
 
 
-  "fffff.at",
 
+".feitian-california.org",
 
 
-  "fflick.com",
 
+"||feministteacher.com",
 
 
-  ".ffvpn.com",
 
+".fengzhenghu.com",
 
 
-  "fgmtv.net",
 
+"||fengzhenghu.com",
 
 
-  ".fgmtv.org",
 
+".fengzhenghu.net",
 
 
-  ".fhreports.net",
 
+"||fengzhenghu.net",
 
 
-  "|http:\/\/fhreports.net",
 
+".fevernet.com",
 
 
-  ".figprayer.com",
 
+"|http:\/\/ff.im",
 
 
-  "||figprayer.com",
 
+"fffff.at",
 
 
-  ".fileflyer.com",
 
+"fflick.com",
 
 
-  "||fileflyer.com",
 
+".ffvpn.com",
 
 
-  "|http:\/\/feeds.fileforum.com",
 
+"fgmtv.net",
 
 
-  ".files2me.com",
 
+".fgmtv.org",
 
 
-  ".fileserve.com\/file",
 
+".fhreports.net",
 
 
-  "fillthesquare.org",
 
+"|http:\/\/fhreports.net",
 
 
-  "filmingfortibet.org",
 
+".figprayer.com",
 
 
-  ".filthdump.com",
 
+"||figprayer.com",
 
 
-  ".finchvpn.com",
 
+".fileflyer.com",
 
 
-  "||finchvpn.com",
 
+"||fileflyer.com",
 
 
-  "findmespot.com",
 
+"|http:\/\/feeds.fileforum.com",
 
 
-  "||findyoutube.com",
 
+".files2me.com",
 
 
-  "||findyoutube.net",
 
+".fileserve.com\/file",
 
 
-  ".fingerdaily.com",
 
+"fillthesquare.org",
 
 
-  "finler.net",
 
+"filmingfortibet.org",
 
 
-  ".firearmsworld.net",
 
+".filthdump.com",
 
 
-  "|http:\/\/firearmsworld.net",
 
+".finchvpn.com",
 
 
-  ".fireofliberty.org",
 
+"||finchvpn.com",
 
 
-  "||fireofliberty.org",
 
+"findmespot.com",
 
 
-  ".firetweet.io",
 
+"||findyoutube.com",
 
 
-  "||firetweet.io",
 
+"||findyoutube.net",
 
 
-  ".flagsonline.it",
 
+".fingerdaily.com",
 
 
-  "fleshbot.com",
 
+"finler.net",
 
 
-  ".fleursdeslettres.com",
 
+".firearmsworld.net",
 
 
-  "|http:\/\/fleursdeslettres.com",
 
+"|http:\/\/firearmsworld.net",
 
 
-  "||flgg.us",
 
+".fireofliberty.org",
 
 
-  "||flgjustice.org",
 
+"||fireofliberty.org",
 
 
-  "||flickr.com",
 
+".firetweet.io",
 
 
-  "||staticflickr.com",
 
+"||firetweet.io",
 
 
-  "flickrhivemind.net",
 
+".flagsonline.it",
 
 
-  ".flickriver.com",
 
+"fleshbot.com",
 
 
-  ".fling.com",
 
+".fleursdeslettres.com",
 
 
-  "||flipkart.com",
 
+"|http:\/\/fleursdeslettres.com",
 
 
-  "||flog.tw",
 
+"||flgg.us",
 
 
-  ".flyvpn.com",
 
+"||flgjustice.org",
 
 
-  "||flyvpn.com",
 
+"||flickr.com",
 
 
-  "|http:\/\/cn.fmnnow.com",
 
+"||staticflickr.com",
 
 
-  "fofldfradio.org",
 
+"flickrhivemind.net",
 
 
-  "blog.foolsmountain.com",
 
+".flickriver.com",
 
 
-  ".forum4hk.com",
 
+".fling.com",
 
 
-  "fangong.forums-free.com",
 
+"||flipkart.com",
 
 
-  "pioneer-worker.forums-free.com",
 
+"||flog.tw",
 
 
-  "|https:\/\/ss*.4sqi.net",
 
+".flyvpn.com",
 
 
-  "video.foxbusiness.com",
 
+"||flyvpn.com",
 
 
-  "|http:\/\/foxgay.com",
 
+"|http:\/\/cn.fmnnow.com",
 
 
-  "||fringenetwork.com",
 
+"fofldfradio.org",
 
 
-  "||flecheinthepeche.fr",
 
+"blog.foolsmountain.com",
 
 
-  ".fochk.org",
 
+".forum4hk.com",
 
 
-  "|http:\/\/fochk.org",
 
+"fangong.forums-free.com",
 
 
-  "||focustaiwan.tw",
 
+"pioneer-worker.forums-free.com",
 
 
-  ".focusvpn.com",
 
+"|https:\/\/ss*.4sqi.net",
 
 
-  "||fofg.org",
 
+"video.foxbusiness.com",
 
 
-  ".fofg-europe.net",
 
+"|http:\/\/foxgay.com",
 
 
-  ".fooooo.com",
 
+"||fringenetwork.com",
 
 
-  "||fooooo.com",
 
+"||flecheinthepeche.fr",
 
 
-  "footwiball.com",
 
+".fochk.org",
 
 
-  ".fotile.me",
 
+"|http:\/\/fochk.org",
 
 
-  "||fourthinternational.org",
 
+"||focustaiwan.tw",
 
 
-  "||foxdie.us",
 
+".focusvpn.com",
 
 
-  "||foxsub.com",
 
+"||fofg.org",
 
 
-  "foxtang.com",
 
+".fofg-europe.net",
 
 
-  ".fpmt.org",
 
+".fooooo.com",
 
 
-  "|http:\/\/fpmt.org",
 
+"||fooooo.com",
 
 
-  ".fpmt.tw",
 
+"footwiball.com",
 
 
-  ".fpmt-osel.org",
 
+".fotile.me",
 
 
-  "||fpmtmexico.org",
 
+"||fourthinternational.org",
 
 
-  "fqok.org",
 
+"||foxdie.us",
 
 
-  "||fqrouter.com",
 
+"||foxsub.com",
 
 
-  "||franklc.com",
 
+"foxtang.com",
 
 
-  ".freakshare.com",
 
+".fpmt.org",
 
 
-  "|http:\/\/freakshare.com",
 
+"|http:\/\/fpmt.org",
 
 
-  "||free4u.com.ar",
 
+".fpmt.tw",
 
 
-  "free-gate.org",
 
+".fpmt-osel.org",
 
 
-  ".free-hada-now.org",
 
+"||fpmtmexico.org",
 
 
-  "free-proxy.cz",
 
+"fqok.org",
 
 
-  ".free.fr\/adsl",
 
+"||fqrouter.com",
 
 
-  "kineox.free.fr",
 
+"||franklc.com",
 
 
-  "tibetlibre.free.fr",
 
+".freakshare.com",
 
 
-  "||freealim.com",
 
+"|http:\/\/freakshare.com",
 
 
-  "whitebear.freebearblog.org",
 
+"||free4u.com.ar",
 
 
-  "||freebrowser.org",
 
+"free-gate.org",
 
 
-  ".freechal.com",
 
+".free-hada-now.org",
 
 
-  ".freedomchina.info",
 
+"free-proxy.cz",
 
 
-  "||freedomchina.info",
 
+".free.fr\/adsl",
 
 
-  ".freedomhouse.org",
 
+"kineox.free.fr",
 
 
-  "||freedomhouse.org",
 
+"tibetlibre.free.fr",
 
 
-  ".freedomsherald.org",
 
+"||freealim.com",
 
 
-  "||freedomsherald.org",
 
+"whitebear.freebearblog.org",
 
 
-  ".freefq.com",
 
+"||freebrowser.org",
 
 
-  ".freefuckvids.com",
 
+".freechal.com",
 
 
-  ".freegao.com",
 
+".freedomchina.info",
 
 
-  "||freegao.com",
 
+"||freedomchina.info",
 
 
-  "freeilhamtohti.org",
 
+".freedomhouse.org",
 
 
-  ".freekwonpyong.org",
 
+"||freedomhouse.org",
 
 
-  "||saveliuxiaobo.com",
 
+".freedomsherald.org",
 
 
-  ".freelotto.com",
 
+"||freedomsherald.org",
 
 
-  "||freelotto.com",
 
+".freefq.com",
 
 
-  "freeman2.com",
 
+".freefuckvids.com",
 
 
-  ".freeopenvpn.com",
 
+".freegao.com",
 
 
-  "freemoren.com",
 
+"||freegao.com",
 
 
-  "freemorenews.com",
 
+"freeilhamtohti.org",
 
 
-  "freemuse.org\/archives\/789",
 
+".freekwonpyong.org",
 
 
-  "freenet-china.org",
 
+"||saveliuxiaobo.com",
 
 
-  "freenewscn.com",
 
+".freelotto.com",
 
 
-  "cn.freeones.com",
 
+"||freelotto.com",
 
 
-  ".freeoz.org\/bbs",
 
+"freeman2.com",
 
 
-  "||freeoz.org",
 
+".freeopenvpn.com",
 
 
-  "||freessh.us",
 
+"freemoren.com",
 
 
-  "free4u.com.ar",
 
+"freemorenews.com",
 
 
-  ".free-ssh.com",
 
+"freemuse.org\/archives\/789",
 
 
-  "||free-ssh.com",
 
+"freenet-china.org",
 
 
-  ".freechina.news\/",
 
+"freenewscn.com",
 
 
-  "||freechinaforum.org",
 
+"cn.freeones.com",
 
 
-  "||freechinaweibo.com",
 
+".freeoz.org\/bbs",
 
 
-  ".freedomcollection.org\/interviews\/rebiya_kadeer",
 
+"||freeoz.org",
 
 
-  ".freeforums.org",
 
+"||freessh.us",
 
 
-  "||freenetproject.org",
 
+"free4u.com.ar",
 
 
-  ".freeoz.org",
 
+".free-ssh.com",
 
 
-  ".freetibet.net",
 
+"||free-ssh.com",
 
 
-  "||freetibet.org",
 
+".freechina.news\/",
 
 
-  ".freetibetanheroes.org",
 
+"||freechinaforum.org",
 
 
-  "|http:\/\/freetibetanheroes.org",
 
+"||freechinaweibo.com",
 
 
-  ".freeviewmovies.com",
 
+".freedomcollection.org\/interviews\/rebiya_kadeer",
 
 
-  ".freevpn.me",
 
+".freeforums.org",
 
 
-  "|http:\/\/freevpn.me",
 
+"||freenetproject.org",
 
 
-  "||freewallpaper4.me",
 
+".freeoz.org",
 
 
-  ".freewebs.com",
 
+".freetibet.net",
 
 
-  ".freewechat.com",
 
+"||freetibet.org",
 
 
-  "||freewechat.com",
 
+".freetibetanheroes.org",
 
 
-  "freeweibo.com",
 
+"|http:\/\/freetibetanheroes.org",
 
 
-  "||freeweibo.com",
 
+".freeviewmovies.com",
 
 
-  ".freexinwen.com",
 
+".freevpn.me",
 
 
-  ".freeyoutubeproxy.net",
 
+"|http:\/\/freevpn.me",
 
 
-  "||freeyoutubeproxy.net",
 
+"||freewallpaper4.me",
 
 
-  "friendfeed.com",
 
+".freewebs.com",
 
 
-  "friendfeed-media.com\/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e",
 
+".freewechat.com",
 
 
-  "friends-of-tibet.org",
 
+"||freewechat.com",
 
 
-  ".friendsoftibet.org",
 
+"freeweibo.com",
 
 
-  "freechina.net",
 
+"||freeweibo.com",
 
 
-  "|http:\/\/www.zensur.freerk.com\/",
 
+".freexinwen.com",
 
 
-  "freevpn.nl",
 
+".freeyoutubeproxy.net",
 
 
-  "freeyellow.com",
 
+"||freeyoutubeproxy.net",
 
 
-  "hk.frienddy.com\/hk",
 
+"friendfeed.com",
 
 
-  "|http:\/\/adult.friendfinder.com\/",
 
+"friendfeed-media.com\/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e",
 
 
-  ".fring.com",
 
+"friends-of-tibet.org",
 
 
-  "||fring.com",
 
+".friendsoftibet.org",
 
 
-  ".fromchinatousa.net",
 
+"freechina.net",
 
 
-  "||frommel.net",
 
+"|http:\/\/www.zensur.freerk.com\/",
 
 
-  ".frontlinedefenders.org",
 
+"freevpn.nl",
 
 
-  ".frootvpn.com",
 
+"freeyellow.com",
 
 
-  "||frootvpn.com",
 
+"hk.frienddy.com\/hk",
 
 
-  "||fscked.org",
 
+"|http:\/\/adult.friendfinder.com\/",
 
 
-  ".fsurf.com",
 
+".fring.com",
 
 
-  ".ftv.com.tw",
 
+"||fring.com",
 
 
-  "fucd.com",
 
+".fromchinatousa.net",
 
 
-  ".fuckcnnic.net",
 
+"||frommel.net",
 
 
-  "||fuckcnnic.net",
 
+".frontlinedefenders.org",
 
 
-  "fuckgfw.org",
 
+".frootvpn.com",
 
 
-  ".fulione.com",
 
+"||frootvpn.com",
 
 
-  "|https:\/\/fulione.com",
 
+"||fscked.org",
 
 
-  "||fullerconsideration.com",
 
+".fsurf.com",
 
 
-  "fulue.com",
 
+".ftv.com.tw",
 
 
-  ".funf.tw",
 
+"fucd.com",
 
 
-  "funp.com",
 
+".fuckcnnic.net",
 
 
-  ".fuq.com",
 
+"||fuckcnnic.net",
 
 
-  ".furhhdl.org",
 
+"fuckgfw.org",
 
 
-  "||furinkan.com",
 
+".fulione.com",
 
 
-  ".futurechinaforum.org",
 
+"|https:\/\/fulione.com",
 
 
-  "||futuremessage.org",
 
+"||fullerconsideration.com",
 
 
-  ".fux.com",
 
+"fulue.com",
 
 
-  ".fuyin.net",
 
+".funf.tw",
 
 
-  ".fuyindiantai.org",
 
+"funp.com",
 
 
-  ".fuyu.org.tw",
 
+".fuq.com",
 
 
-  "||fw.cm",
 
+".furhhdl.org",
 
 
-  ".fxcm-chinese.com",
 
+"||furinkan.com",
 
 
-  "||fxcm-chinese.com",
 
+".futurechinaforum.org",
 
 
-  "fzh999.com",
 
+"||futuremessage.org",
 
 
-  "fzh999.net",
 
+".fux.com",
 
 
-  "fzlm.com",
 
+".fuyin.net",
 
 
-  ".g6hentai.com",
 
+".fuyindiantai.org",
 
 
-  "|http:\/\/g6hentai.com",
 
+".fuyu.org.tw",
 
 
-  "||g-queen.com",
 
+"||fw.cm",
 
 
-  "||gabocorp.com",
 
+".fxcm-chinese.com",
 
 
-  ".gaeproxy.com",
 
+"||fxcm-chinese.com",
 
 
-  ".gaforum.org",
 
+"fzh999.com",
 
 
-  ".galaxymacau.com",
 
+"fzh999.net",
 
 
-  "||galenwu.com",
 
+"fzlm.com",
 
 
-  ".galstars.net",
 
+".g6hentai.com",
 
 
-  "||game735.com",
 
+"|http:\/\/g6hentai.com",
 
 
-  "gamebase.com.tw",
 
+"||g-queen.com",
 
 
-  "gamejolt.com",
 
+"||gabocorp.com",
 
 
-  "|http:\/\/wiki.gamerp.jp",
 
+".gaeproxy.com",
 
 
-  "||gamer.com.tw",
 
+".gaforum.org",
 
 
-  ".gamer.com.tw",
 
+".galaxymacau.com",
 
 
-  ".gamez.com.tw",
 
+"||galenwu.com",
 
 
-  "||gamez.com.tw",
 
+".galstars.net",
 
 
-  ".gamousa.com",
 
+"||game735.com",
 
 
-  ".gaoming.net",
 
+"gamebase.com.tw",
 
 
-  "||gaoming.net",
 
+"gamejolt.com",
 
 
-  "ganges.com",
 
+"|http:\/\/wiki.gamerp.jp",
 
 
-  ".gaopi.net",
 
+"||gamer.com.tw",
 
 
-  "|http:\/\/gaopi.net",
 
+".gamer.com.tw",
 
 
-  ".gaozhisheng.org",
 
+".gamez.com.tw",
 
 
-  ".gaozhisheng.net",
 
+"||gamez.com.tw",
 
 
-  "gardennetworks.com",
 
+".gamousa.com",
 
 
-  "||gardennetworks.org",
 
+".gaoming.net",
 
 
-  "72.52.81.22",
 
+"||gaoming.net",
 
 
-  "||gartlive.com",
 
+"ganges.com",
 
 
-  "||gate-project.com",
 
+".gaopi.net",
 
 
-  "||gather.com",
 
+"|http:\/\/gaopi.net",
 
 
-  ".gatherproxy.com",
 
+".gaozhisheng.org",
 
 
-  "gati.org.tw",
 
+".gaozhisheng.net",
 
 
-  ".gaybubble.com",
 
+"gardennetworks.com",
 
 
-  ".gaycn.net",
 
+"||gardennetworks.org",
 
 
-  ".gayhub.com",
 
+"72.52.81.22",
 
 
-  "||gaymap.cc",
 
+"||gartlive.com",
 
 
-  ".gaymenring.com",
 
+"||gate-project.com",
 
 
-  ".gaytube.com",
 
+"||gather.com",
 
 
-  "||images-gaytube.com",
 
+".gatherproxy.com",
 
 
-  ".gaywatch.com",
 
+"gati.org.tw",
 
 
-  "|http:\/\/gaywatch.com",
 
+".gaybubble.com",
 
 
-  ".gazotube.com",
 
+".gaycn.net",
 
 
-  "||gazotube.com",
 
+".gayhub.com",
 
 
-  "||gcc.org.hk",
 
+"||gaymap.cc",
 
 
-  "||gclooney.com",
 
+".gaymenring.com",
 
 
-  "||gcmasia.com",
 
+".gaytube.com",
 
 
-  ".gcpnews.com",
 
+"||images-gaytube.com",
 
 
-  "|http:\/\/gcpnews.com",
 
+".gaywatch.com",
 
 
-  ".gdbt.net\/forum",
 
+"|http:\/\/gaywatch.com",
 
 
-  "gdzf.org",
 
+".gazotube.com",
 
 
-  "||geek-art.net",
 
+"||gazotube.com",
 
 
-  "geekerhome.com\/2010\/03\/xixiang-project-cross-gfw",
 
+"||gcc.org.hk",
 
 
-  "||geekheart.info",
 
+"||gclooney.com",
 
 
-  ".gekikame.com",
 
+"||gcmasia.com",
 
 
-  "|http:\/\/gekikame.com",
 
+".gcpnews.com",
 
 
-  ".gelbooru.com",
 
+"|http:\/\/gcpnews.com",
 
 
-  "|http:\/\/gelbooru.com",
 
+".gdbt.net\/forum",
 
 
-  ".geocities.co.jp",
 
+"gdzf.org",
 
 
-  ".geocities.com\/SiliconValley\/Circuit\/5683\/download.html",
 
+"||geek-art.net",
 
 
-  "hk.geocities.com",
 
+"geekerhome.com\/2010\/03\/xixiang-project-cross-gfw",
 
 
-  "geocities.jp",
 
+"||geekheart.info",
 
 
-  ".gerefoundation.org",
 
+".gekikame.com",
 
 
-  "||getastrill.com",
 
+"|http:\/\/gekikame.com",
 
 
-  ".getchu.com",
 
+".gelbooru.com",
 
 
-  ".getcloak.com",
 
+"|http:\/\/gelbooru.com",
 
 
-  "||getcloak.com",
 
+".geocities.co.jp",
 
 
-  "||getfoxyproxy.org",
 
+".geocities.com\/SiliconValley\/Circuit\/5683\/download.html",
 
 
-  ".getfreedur.com",
 
+"hk.geocities.com",
 
 
-  "||getgom.com",
 
+"geocities.jp",
 
 
-  ".geti2p.net",
 
+".gerefoundation.org",
 
 
-  "||geti2p.net",
 
+"||getastrill.com",
 
 
-  ".getlantern.org",
 
+".getchu.com",
 
 
-  "||getlantern.org",
 
+".getcloak.com",
 
 
-  ".getjetso.com\/forum",
 
+"||getcloak.com",
 
 
-  "getiton.com",
 
+"||getfoxyproxy.org",
 
 
-  ".getsocialscope.com",
 
+".getfreedur.com",
 
 
-  "||getsync.com",
 
+"||getgom.com",
 
 
-  "gfbv.de",
 
+".geti2p.net",
 
 
-  ".gfgold.com.hk",
 
+"||geti2p.net",
 
 
-  ".gfsale.com",
 
+".getlantern.org",
 
 
-  "||gfsale.com",
 
+"||getlantern.org",
 
 
-  "gfw.org.ua",
 
+".getjetso.com\/forum",
 
 
-  ".gfw.press",
 
+"getiton.com",
 
 
-  "||gfw.press",
 
+".getsocialscope.com",
 
 
-  ".ggssl.com",
 
+"||getsync.com",
 
 
-  "||ggssl.com",
 
+"gfbv.de",
 
 
-  ".ghostpath.com",
 
+".gfgold.com.hk",
 
 
-  "||ghostpath.com",
 
+".gfsale.com",
 
 
-  "||ghut.org",
 
+"||gfsale.com",
 
 
-  ".giantessnight.com",
 
+"gfw.org.ua",
 
 
-  "|http:\/\/giantessnight.com",
 
+".gfw.press",
 
 
-  ".gifree.com",
 
+"||gfw.press",
 
 
-  "||giga-web.jp",
 
+".ggssl.com",
 
 
-  "tw.gigacircle.com",
 
+"||ggssl.com",
 
 
-  "|http:\/\/cn.giganews.com\/",
 
+".ghostpath.com",
 
 
-  "gigporno.ru",
 
+"||ghostpath.com",
 
 
-  "||girlbanker.com",
 
+"||ghut.org",
 
 
-  ".git.io",
 
+".giantessnight.com",
 
 
-  "||git.io",
 
+"|http:\/\/giantessnight.com",
 
 
-  "|http:\/\/softwaredownload.gitbooks.io",
 
+".gifree.com",
 
 
-  "github.com\/getlantern",
 
+"||giga-web.jp",
 
 
-  "|https:\/\/gist.github.com",
 
+"tw.gigacircle.com",
 
 
-  "http:\/\/cthlo.github.io\/hktv",
 
+"|http:\/\/cn.giganews.com\/",
 
 
-  "hahaxixi.github.io",
 
+"gigporno.ru",
 
 
-  "|https:\/\/hahaxixi.github.io",
 
+"||girlbanker.com",
 
 
-  "||haoel.github.io",
 
+".git.io",
 
 
-  "||avatars.githubusercontent.com",
 
+"||git.io",
 
 
-  "||camo.githubusercontent.com",
 
+"|http:\/\/softwaredownload.gitbooks.io",
 
 
-  "||cloud.githubusercontent.com",
 
+"github.com\/getlantern",
 
 
-  "||rg3.github.io",
 
+"|https:\/\/gist.github.com",
 
 
-  "||sikaozhe1997.github.io",
 
+"http:\/\/cthlo.github.io\/hktv",
 
 
-  "||sodatea.github.io",
 
+"hahaxixi.github.io",
 
 
-  "||terminus2049.github.io",
 
+"|https:\/\/hahaxixi.github.io",
 
 
-  "||toutyrater.github.io",
 
+"||haoel.github.io",
 
 
-  "wsgzao.github.io",
 
+"||avatars.githubusercontent.com",
 
 
-  "|https:\/\/wsgzao.github.io",
 
+"||camo.githubusercontent.com",
 
 
-  "||raw.githubusercontent.com",
 
+"||cloud.githubusercontent.com",
 
 
-  ".gizlen.net",
 
+"||rg3.github.io",
 
 
-  "||gizlen.net",
 
+"||sikaozhe1997.github.io",
 
 
-  ".gjczz.com",
 
+"||sodatea.github.io",
 
 
-  "||gjczz.com",
 
+"||terminus2049.github.io",
 
 
-  "globaljihad.net",
 
+"||toutyrater.github.io",
 
 
-  "globalmediaoutreach.com",
 
+"wsgzao.github.io",
 
 
-  "globalmuseumoncommunism.org",
 
+"|https:\/\/wsgzao.github.io",
 
 
-  "||globalrescue.net",
 
+"||raw.githubusercontent.com",
 
 
-  ".globaltm.org",
 
+".gizlen.net",
 
 
-  ".globalvoicesonline.org",
 
+"||gizlen.net",
 
 
-  "||globalvoicesonline.org",
 
+".gjczz.com",
 
 
-  "||globalvpn.net",
 
+"||gjczz.com",
 
 
-  ".glock.com",
 
+"globaljihad.net",
 
 
-  "gluckman.com\/DalaiLama",
 
+"globalmediaoutreach.com",
 
 
-  "gmbd.cn",
 
+"globalmuseumoncommunism.org",
 
 
-  "||gmhz.org",
 
+"||globalrescue.net",
 
 
-  "|http:\/\/www.gmiddle.com",
 
+".globaltm.org",
 
 
-  "|http:\/\/www.gmiddle.net",
 
+".globalvoicesonline.org",
 
 
-  ".gmll.org",
 
+"||globalvoicesonline.org",
 
 
-  "||gnci.org.hk",
 
+"||globalvpn.net",
 
 
-  "go-pki.com",
 
+".glock.com",
 
 
-  "||goagent.biz",
 
+"gluckman.com\/DalaiLama",
 
 
-  "||goagentplus.com",
 
+"gmbd.cn",
 
 
-  "gobet.cc",
 
+"||gmhz.org",
 
 
-  "godfootsteps.org",
 
+"|http:\/\/www.gmiddle.com",
 
 
-  "||godfootsteps.org",
 
+"|http:\/\/www.gmiddle.net",
 
 
-  "godns.work",
 
+".gmll.org",
 
 
-  "godsdirectcontact.co.uk",
 
+"||gnci.org.hk",
 
 
-  ".godsdirectcontact.org",
 
+"go-pki.com",
 
 
-  "godsdirectcontact.org.tw",
 
+"||goagent.biz",
 
 
-  ".godsimmediatecontact.com",
 
+"||goagentplus.com",
 
 
-  ".gogotunnel.com",
 
+"gobet.cc",
 
 
-  "||gohappy.com.tw",
 
+"godfootsteps.org",
 
 
-  ".gokbayrak.com",
 
+"||godfootsteps.org",
 
 
-  ".goldbet.com",
 
+"godns.work",
 
 
-  "||goldbetsports.com",
 
+"godsdirectcontact.co.uk",
 
 
-  "||goldeneyevault.com",
 
+".godsdirectcontact.org",
 
 
-  ".goldenfrog.com",
 
+"godsdirectcontact.org.tw",
 
 
-  "||goldenfrog.com",
 
+".godsimmediatecontact.com",
 
 
-  ".goldjizz.com",
 
+".gogotunnel.com",
 
 
-  "|http:\/\/goldjizz.com",
 
+"||gohappy.com.tw",
 
 
-  ".goldstep.net",
 
+".gokbayrak.com",
 
 
-  "||goldwave.com",
 
+".goldbet.com",
 
 
-  "gongmeng.info",
 
+"||goldbetsports.com",
 
 
-  "gongm.in",
 
+"||goldeneyevault.com",
 
 
-  "gongminliliang.com",
 
+".goldenfrog.com",
 
 
-  ".gongwt.com",
 
+"||goldenfrog.com",
 
 
-  "|http:\/\/gongwt.com",
 
+".goldjizz.com",
 
 
-  "blog.goo.ne.jp\/duck-tail_2009",
 
+"|http:\/\/goldjizz.com",
 
 
-  ".gooday.xyz",
 
+".goldstep.net",
 
 
-  "|http:\/\/gooday.xyz",
 
+"||goldwave.com",
 
 
-  ".goodreads.com",
 
+"gongmeng.info",
 
 
-  "||goodreads.com",
 
+"gongm.in",
 
 
-  ".goodreaders.com",
 
+"gongminliliang.com",
 
 
-  "||goodreaders.com",
 
+".gongwt.com",
 
 
-  ".goodtv.com.tw",
 
+"|http:\/\/gongwt.com",
 
 
-  ".goodtv.tv",
 
+"blog.goo.ne.jp\/duck-tail_2009",
 
 
-  "||goofind.com",
 
+".gooday.xyz",
 
 
-  ".googlesile.com",
 
+"|http:\/\/gooday.xyz",
 
 
-  ".gopetition.com",
 
+".goodreads.com",
 
 
-  "||gopetition.com",
 
+"||goodreads.com",
 
 
-  ".goproxing.net",
 
+".goodreaders.com",
 
 
-  ".gotrusted.com",
 
+"||goodreaders.com",
 
 
-  "||gotrusted.com",
 
+".goodtv.com.tw",
 
 
-  "||gotw.ca",
 
+".goodtv.tv",
 
 
-  "||grammaly.com",
 
+"||goofind.com",
 
 
-  "grandtrial.org",
 
+".googlesile.com",
 
 
-  ".graphis.ne.jp",
 
+".gopetition.com",
 
 
-  "||graphis.ne.jp",
 
+"||gopetition.com",
 
 
-  "||graphql.org",
 
+".goproxing.net",
 
 
-  "greatfirewall.biz",
 
+".gotrusted.com",
 
 
-  "||greatfirewallofchina.net",
 
+"||gotrusted.com",
 
 
-  ".greatfirewallofchina.org",
 
+"||gotw.ca",
 
 
-  "||greatfirewallofchina.org",
 
+"||grammaly.com",
 
 
-  "||greenfieldbookstore.com.hk",
 
+"grandtrial.org",
 
 
-  ".greenparty.org.tw",
 
+".graphis.ne.jp",
 
 
-  "||greenpeace.org",
 
+"||graphis.ne.jp",
 
 
-  ".greenreadings.com\/forum",
 
+"||graphql.org",
 
 
-  "great-firewall.com",
 
+"greatfirewall.biz",
 
 
-  "great-roc.org",
 
+"||greatfirewallofchina.net",
 
 
-  "greatroc.org",
 
+".greatfirewallofchina.org",
 
 
-  "greatzhonghua.org",
 
+"||greatfirewallofchina.org",
 
 
-  ".greenpeace.com.tw",
 
+"||greenfieldbookstore.com.hk",
 
 
-  ".greenvpn.net",
 
+".greenparty.org.tw",
 
 
-  "||greenvpn.net",
 
+"||greenpeace.org",
 
 
-  ".greenvpn.org",
 
+".greenreadings.com\/forum",
 
 
-  "||grotty-monday.com",
 
+"great-firewall.com",
 
 
-  "gs-discuss.com",
 
+"great-roc.org",
 
 
-  "||gtricks.com",
 
+"greatroc.org",
 
 
-  "guancha.org",
 
+"greatzhonghua.org",
 
 
-  "guaneryu.com",
 
+".greenpeace.com.tw",
 
 
-  ".guardster.com",
 
+".greenvpn.net",
 
 
-  ".gun-world.net",
 
+"||greenvpn.net",
 
 
-  "gunsandammo.com",
 
+".greenvpn.org",
 
 
-  "||gutteruncensored.com",
 
+"||grotty-monday.com",
 
 
-  "||gvm.com.tw",
 
+"gs-discuss.com",
 
 
-  ".gzm.tv",
 
+"||gtricks.com",
 
 
-  "||gzone-anime.info",
 
+"guancha.org",
 
 
-  "||clementine-player.org",
 
+"guaneryu.com",
 
 
-  "echofon.com",
 
+".guardster.com",
 
 
-  "||greasespot.net",
 
+".gun-world.net",
 
 
-  "||www.klip.me",
 
+"gunsandammo.com",
 
 
-  "@@||site.locql.com",
 
+"||gutteruncensored.com",
 
 
-  "||stephaniered.com",
 
+"||gvm.com.tw",
 
 
-  "@@||download.syniumsoftware.com",
 
+".gzm.tv",
 
 
-  "|http:\/\/ub0.cc",
 
+"||gzone-anime.info",
 
 
-  "wozy.in",
 
+"||clementine-player.org",
 
 
-  "gospelherald.com",
 
+"echofon.com",
 
 
-  "||gospelherald.com",
 
+"||greasespot.net",
 
 
-  "|http:\/\/hk.gradconnection.com\/",
 
+"||www.klip.me",
 
 
-  "||grangorz.org",
 
+"@@||site.locql.com",
 
 
-  "greatfire.org",
 
+"||stephaniered.com",
 
 
-  "||greatfire.org",
 
+"@@||download.syniumsoftware.com",
 
 
-  "greatfirewallofchina.org",
 
+"|http:\/\/ub0.cc",
 
 
-  "||greatroc.tw",
 
+"wozy.in",
 
 
-  ".gts-vpn.com",
 
+"gospelherald.com",
 
 
-  "|http:\/\/gts-vpn.com",
 
+"||gospelherald.com",
 
 
-  ".gu-chu-sum.org",
 
+"|http:\/\/hk.gradconnection.com\/",
 
 
-  "|http:\/\/gu-chu-sum.org",
 
+"||grangorz.org",
 
 
-  ".guaguass.com",
 
+"greatfire.org",
 
 
-  "|http:\/\/guaguass.com",
 
+"||greatfire.org",
 
 
-  ".guaguass.org",
 
+"greatfirewallofchina.org",
 
 
-  "|http:\/\/guaguass.org",
 
+"||greatroc.tw",
 
 
-  ".guangming.com.my",
 
+".gts-vpn.com",
 
 
-  "guishan.org",
 
+"|http:\/\/gts-vpn.com",
 
 
-  "||guishan.org",
 
+".gu-chu-sum.org",
 
 
-  ".gumroad.com",
 
+"|http:\/\/gu-chu-sum.org",
 
 
-  "||gumroad.com",
 
+".guaguass.com",
 
 
-  "||gunsamerica.com",
 
+"|http:\/\/guaguass.com",
 
 
-  "guruonline.hk",
 
+".guaguass.org",
 
 
-  "|http:\/\/gvlib.com",
 
+"|http:\/\/guaguass.org",
 
 
-  ".gyalwarinpoche.com",
 
+".guangming.com.my",
 
 
-  ".gyatsostudio.com",
 
+"guishan.org",
 
 
-  ".h528.com",
 
+"||guishan.org",
 
 
-  ".h5dm.com",
 
+".gumroad.com",
 
 
-  ".h5galgame.me",
 
+"||gumroad.com",
 
 
-  "||h-china.org",
 
+"||gunsamerica.com",
 
 
-  ".h-moe.com",
 
+"guruonline.hk",
 
 
-  "|http:\/\/h-moe.com",
 
+"|http:\/\/gvlib.com",
 
 
-  "h1n1china.org",
 
+".gyalwarinpoche.com",
 
 
-  ".hacg.club",
 
+".gyatsostudio.com",
 
 
-  "||hacg.club",
 
+".h528.com",
 
 
-  ".hacg.in",
 
+".h5dm.com",
 
 
-  "|http:\/\/hacg.in",
 
+".h5galgame.me",
 
 
-  ".hacg.li",
 
+"||h-china.org",
 
 
-  "|http:\/\/hacg.li",
 
+".h-moe.com",
 
 
-  ".hacg.me",
 
+"|http:\/\/h-moe.com",
 
 
-  "|http:\/\/hacg.me",
 
+"h1n1china.org",
 
 
-  ".hacg.red",
 
+".hacg.club",
 
 
-  "|http:\/\/hacg.red",
 
+"||hacg.club",
 
 
-  ".hacken.cc\/bbs",
 
+".hacg.in",
 
 
-  ".hacker.org",
 
+"|http:\/\/hacg.in",
 
 
-  "||hackthatphone.net",
 
+".hacg.li",
 
 
-  "hahlo.com",
 
+"|http:\/\/hacg.li",
 
 
-  "||hakkatv.org.tw",
 
+".hacg.me",
 
 
-  ".handcraftedsoftware.org",
 
+"|http:\/\/hacg.me",
 
 
-  "|http:\/\/bbs.hanminzu.org\/",
 
+".hacg.red",
 
 
-  ".hanunyi.com",
 
+"|http:\/\/hacg.red",
 
 
-  ".hao.news\/news",
 
+".hacken.cc\/bbs",
 
 
-  "|http:\/\/ae.hao123.com",
 
+".hacker.org",
 
 
-  "|http:\/\/ar.hao123.com",
 
+"||hackthatphone.net",
 
 
-  "|http:\/\/br.hao123.com",
 
+"hahlo.com",
 
 
-  "|http:\/\/en.hao123.com",
 
+"||hakkatv.org.tw",
 
 
-  "|http:\/\/id.hao123.com",
 
+".handcraftedsoftware.org",
 
 
-  "|http:\/\/jp.hao123.com",
 
+"|http:\/\/bbs.hanminzu.org\/",
 
 
-  "|http:\/\/ma.hao123.com",
 
+".hanunyi.com",
 
 
-  "|http:\/\/mx.hao123.com",
 
+".hao.news\/news",
 
 
-  "|http:\/\/sa.hao123.com",
 
+"|http:\/\/ae.hao123.com",
 
 
-  "|http:\/\/th.hao123.com",
 
+"|http:\/\/ar.hao123.com",
 
 
-  "|http:\/\/tw.hao123.com",
 
+"|http:\/\/br.hao123.com",
 
 
-  "|http:\/\/vn.hao123.com",
 
+"|http:\/\/en.hao123.com",
 
 
-  "|http:\/\/hk.hao123img.com",
 
+"|http:\/\/id.hao123.com",
 
 
-  "|http:\/\/ld.hao123img.com",
 
+"|http:\/\/jp.hao123.com",
 
 
-  "||happy-vpn.com",
 
+"|http:\/\/ma.hao123.com",
 
 
-  ".haproxy.org",
 
+"|http:\/\/mx.hao123.com",
 
 
-  "||hardsextube.com",
 
+"|http:\/\/sa.hao123.com",
 
 
-  ".harunyahya.com",
 
+"|http:\/\/th.hao123.com",
 
 
-  "|http:\/\/harunyahya.com",
 
+"|http:\/\/tw.hao123.com",
 
 
-  "bbs.hasi.wang",
 
+"|http:\/\/vn.hao123.com",
 
 
-  "have8.com",
 
+"|http:\/\/hk.hao123img.com",
 
 
-  "@@||haygo.com",
 
+"|http:\/\/ld.hao123img.com",
 
 
-  ".hclips.com",
 
+"||happy-vpn.com",
 
 
-  "||hdlt.me",
 
+".haproxy.org",
 
 
-  "||hdtvb.net",
 
+"||hardsextube.com",
 
 
-  ".hdzog.com",
 
+".harunyahya.com",
 
 
-  "|http:\/\/hdzog.com",
 
+"|http:\/\/harunyahya.com",
 
 
-  "||heartyit.com",
 
+"bbs.hasi.wang",
 
 
-  ".heavy-r.com",
 
+"have8.com",
 
 
-  ".hec.su",
 
+"@@||haygo.com",
 
 
-  "|http:\/\/hec.su",
 
+".hclips.com",
 
 
-  ".hecaitou.net",
 
+"||hdlt.me",
 
 
-  "||hecaitou.net",
 
+"||hdtvb.net",
 
 
-  ".hechaji.com",
 
+".hdzog.com",
 
 
-  "||hechaji.com",
 
+"|http:\/\/hdzog.com",
 
 
-  "||heeact.edu.tw",
 
+"||heartyit.com",
 
 
-  ".hegre-art.com",
 
+".heavy-r.com",
 
 
-  "|http:\/\/hegre-art.com",
 
+".hec.su",
 
 
-  "||cdn.helixstudios.net",
 
+"|http:\/\/hec.su",
 
 
-  "||helplinfen.com",
 
+".hecaitou.net",
 
 
-  "||helloandroid.com",
 
+"||hecaitou.net",
 
 
-  "||helloqueer.com",
 
+".hechaji.com",
 
 
-  ".helloss.pw",
 
+"||hechaji.com",
 
 
-  "hellotxt.com",
 
+"||heeact.edu.tw",
 
 
-  "||hellotxt.com",
 
+".hegre-art.com",
 
 
-  ".hentai.to",
 
+"|http:\/\/hegre-art.com",
 
 
-  ".hellouk.org\/forum\/lofiversion",
 
+"||cdn.helixstudios.net",
 
 
-  ".helpeachpeople.com",
 
+"||helplinfen.com",
 
 
-  "||helpeachpeople.com",
 
+"||helloandroid.com",
 
 
-  "||helpster.de",
 
+"||helloqueer.com",
 
 
-  ".helpzhuling.org",
 
+".helloss.pw",
 
 
-  "hentaitube.tv",
 
+"hellotxt.com",
 
 
-  ".hentaivideoworld.com",
 
+"||hellotxt.com",
 
 
-  "||id.heroku.com",
 
+".hentai.to",
 
 
-  "heqinglian.net",
 
+".hellouk.org\/forum\/lofiversion",
 
 
-  "||heungkongdiscuss.com",
 
+".helpeachpeople.com",
 
 
-  ".hexieshe.com",
 
+"||helpeachpeople.com",
 
 
-  "||hexieshe.com",
 
+"||helpster.de",
 
 
-  "||hexieshe.xyz",
 
+".helpzhuling.org",
 
 
-  "||hexxeh.net",
 
+"hentaitube.tv",
 
 
-  "app.heywire.com",
 
+".hentaivideoworld.com",
 
 
-  ".heyzo.com",
 
+"||id.heroku.com",
 
 
-  ".hgseav.com",
 
+"heqinglian.net",
 
 
-  ".hhdcb3office.org",
 
+"||heungkongdiscuss.com",
 
 
-  ".hhthesakyatrizin.org",
 
+".hexieshe.com",
 
 
-  "hi-on.org.tw",
 
+"||hexieshe.com",
 
 
-  "hidden-advent.org",
 
+"||hexieshe.xyz",
 
 
-  "||hidden-advent.org",
 
+"||hexxeh.net",
 
 
-  "hidecloud.com\/blog\/2008\/07\/29\/fuck-beijing-olympics.html",
 
+"app.heywire.com",
 
 
-  "||hide.me",
 
+".heyzo.com",
 
 
-  ".hidein.net",
 
+".hgseav.com",
 
 
-  ".hideipvpn.com",
 
+".hhdcb3office.org",
 
 
-  "||hideipvpn.com",
 
+".hhthesakyatrizin.org",
 
 
-  ".hideman.net",
 
+"hi-on.org.tw",
 
 
-  "||hideman.net",
 
+"hidden-advent.org",
 
 
-  "hideme.nl",
 
+"||hidden-advent.org",
 
 
-  "||hidemy.name",
 
+"hidecloud.com\/blog\/2008\/07\/29\/fuck-beijing-olympics.html",
 
 
-  ".hidemyass.com",
 
+"||hide.me",
 
 
-  "||hidemyass.com",
 
+".hidein.net",
 
 
-  "hidemycomp.com",
 
+".hideipvpn.com",
 
 
-  "||hidemycomp.com",
 
+"||hideipvpn.com",
 
 
-  ".hihiforum.com",
 
+".hideman.net",
 
 
-  ".hihistory.net",
 
+"||hideman.net",
 
 
-  "||hihistory.net",
 
+"hideme.nl",
 
 
-  ".higfw.com",
 
+"||hidemy.name",
 
 
-  "highpeakspureearth.com",
 
+".hidemyass.com",
 
 
-  "||highrockmedia.com",
 
+"||hidemyass.com",
 
 
-  "||hiitch.com",
 
+"hidemycomp.com",
 
 
-  "||hikinggfw.org",
 
+"||hidemycomp.com",
 
 
-  ".hilive.tv",
 
+".hihiforum.com",
 
 
-  ".himalayan-foundation.org",
 
+".hihistory.net",
 
 
-  "himalayanglacier.com",
 
+"||hihistory.net",
 
 
-  ".himemix.com",
 
+".higfw.com",
 
 
-  "||himemix.com",
 
+"highpeakspureearth.com",
 
 
-  ".himemix.net",
 
+"||highrockmedia.com",
 
 
-  "times.hinet.net",
 
+"||hiitch.com",
 
 
-  ".hitomi.la",
 
+"||hikinggfw.org",
 
 
-  "|http:\/\/hitomi.la",
 
+".hilive.tv",
 
 
-  ".hiwifi.com",
 
+".himalayan-foundation.org",
 
 
-  "@@||hiwifi.com",
 
+"himalayanglacier.com",
 
 
-  "hizbuttahrir.org",
 
+".himemix.com",
 
 
-  "hizb-ut-tahrir.info",
 
+"||himemix.com",
 
 
-  "hizb-ut-tahrir.org",
 
+".himemix.net",
 
 
-  ".hjclub.info",
 
+"times.hinet.net",
 
 
-  ".hk-pub.com\/forum",
 
+".hitomi.la",
 
 
-  "|http:\/\/hk-pub.com",
 
+"|http:\/\/hitomi.la",
 
 
-  ".hk01.com",
 
+".hiwifi.com",
 
 
-  "||hk01.com",
 
+"@@||hiwifi.com",
 
 
-  ".hk32168.com",
 
+"hizbuttahrir.org",
 
 
-  "||hk32168.com",
 
+"hizb-ut-tahrir.info",
 
 
-  "||hkacg.com",
 
+"hizb-ut-tahrir.org",
 
 
-  "||hkacg.net",
 
+".hjclub.info",
 
 
-  ".hkatvnews.com",
 
+".hk-pub.com\/forum",
 
 
-  "hkbc.net",
 
+"|http:\/\/hk-pub.com",
 
 
-  ".hkbf.org",
 
+".hk01.com",
 
 
-  ".hkbookcity.com",
 
+"||hk01.com",
 
 
-  "||hkbookcity.com",
 
+".hk32168.com",
 
 
-  ".hkchurch.org",
 
+"||hk32168.com",
 
 
-  "hkci.org.hk",
 
+"||hkacg.com",
 
 
-  ".hkcmi.edu",
 
+"||hkacg.net",
 
 
-  "||hkcnews.com",
 
+".hkatvnews.com",
 
 
-  "||hkcoc.com",
 
+"hkbc.net",
 
 
-  "hkday.net",
 
+".hkbf.org",
 
 
-  ".hkdailynews.com.hk\/china.php",
 
+".hkbookcity.com",
 
 
-  "hkdf.org",
 
+"||hkbookcity.com",
 
 
-  ".hkej.com",
 
+".hkchurch.org",
 
 
-  ".hkepc.com\/forum\/viewthread.php?tid=1153322",
 
+"hkci.org.hk",
 
 
-  "china.hket.com",
 
+".hkcmi.edu",
 
 
-  "||hkfaa.com",
 
+"||hkcnews.com",
 
 
-  "hkfreezone.com",
 
+"||hkcoc.com",
 
 
-  "hkfront.org",
 
+"hkday.net",
 
 
-  "m.hkgalden.com",
 
+".hkdailynews.com.hk\/china.php",
 
 
-  "|https:\/\/m.hkgalden.com",
 
+"hkdf.org",
 
 
-  ".hkgreenradio.org\/home",
 
+".hkej.com",
 
 
-  ".hkheadline.com*blog",
 
+".hkepc.com\/forum\/viewthread.php?tid=1153322",
 
 
-  ".hkheadline.com\/instantnews",
 
+"china.hket.com",
 
 
-  "hkhkhk.com",
 
+"||hkfaa.com",
 
 
-  "hkhrc.org.hk",
 
+"hkfreezone.com",
 
 
-  "hkhrm.org.hk",
 
+"hkfront.org",
 
 
-  "||hkip.org.uk",
 
+"m.hkgalden.com",
 
 
-  "1989report.hkja.org.hk",
 
+"|https:\/\/m.hkgalden.com",
 
 
-  "hkjc.com",
 
+".hkgreenradio.org\/home",
 
 
-  ".hkjp.org",
 
+".hkheadline.com*blog",
 
 
-  ".hklft.com",
 
+".hkheadline.com\/instantnews",
 
 
-  ".hklts.org.hk",
 
+"hkhkhk.com",
 
 
-  "||hklts.org.hk",
 
+"hkhrc.org.hk",
 
 
-  "news.hkpeanut.com",
 
+"hkhrm.org.hk",
 
 
-  "hkptu.org",
 
+"||hkip.org.uk",
 
 
-  ".hkreporter.com",
 
+"1989report.hkja.org.hk",
 
 
-  "||hkreporter.com",
 
+"hkjc.com",
 
 
-  "|http:\/\/hkupop.hku.hk\/",
 
+".hkjp.org",
 
 
-  ".hkusu.net",
 
+".hklft.com",
 
 
-  "||hkusu.net",
 
+".hklts.org.hk",
 
 
-  ".hkvwet.com",
 
+"||hklts.org.hk",
 
 
-  ".hkwcc.org.hk",
 
+"news.hkpeanut.com",
 
 
-  "||hkzone.org",
 
+"hkptu.org",
 
 
-  ".hmonghot.com",
 
+".hkreporter.com",
 
 
-  "|http:\/\/hmonghot.com",
 
+"||hkreporter.com",
 
 
-  ".hmv.co.jp\/",
 
+"|http:\/\/hkupop.hku.hk\/",
 
 
-  "hnjhj.com",
 
+".hkusu.net",
 
 
-  "||hnjhj.com",
 
+"||hkusu.net",
 
 
-  ".hnntube.com",
 
+".hkvwet.com",
 
 
-  "||hola.com",
 
+".hkwcc.org.hk",
 
 
-  "||hola.org",
 
+"||hkzone.org",
 
 
-  "holymountaincn.com",
 
+".hmonghot.com",
 
 
-  "holyspiritspeaks.org",
 
+"|http:\/\/hmonghot.com",
 
 
-  "||holyspiritspeaks.org",
 
+".hmv.co.jp\/",
 
 
-  "||derekhsu.homeip.net",
 
+"hnjhj.com",
 
 
-  ".homeperversion.com",
 
+"||hnjhj.com",
 
 
-  "|http:\/\/homeservershow.com",
 
+".hnntube.com",
 
 
-  "|http:\/\/old.honeynet.org\/scans\/scan31\/sub\/doug_eric\/spam_translation.html",
 
+"||hola.com",
 
 
-  ".hongkongfp.com",
 
+"||hola.org",
 
 
-  "||hongkongfp.com",
 
+"holymountaincn.com",
 
 
-  "hongmeimei.com",
 
+"holyspiritspeaks.org",
 
 
-  "||hongzhi.li",
 
+"||holyspiritspeaks.org",
 
 
-  ".hootsuite.com",
 
+"||derekhsu.homeip.net",
 
 
-  "||hootsuite.com",
 
+".homeperversion.com",
 
 
-  ".hopedialogue.org",
 
+"|http:\/\/homeservershow.com",
 
 
-  "|http:\/\/hopedialogue.org",
 
+"|http:\/\/old.honeynet.org\/scans\/scan31\/sub\/doug_eric\/spam_translation.html",
 
 
-  ".hopto.org",
 
+".hongkongfp.com",
 
 
-  ".hornygamer.com",
 
+"||hongkongfp.com",
 
 
-  ".hornytrip.com",
 
+"hongmeimei.com",
 
 
-  "|http:\/\/hornytrip.com",
 
+"||hongzhi.li",
 
 
-  ".hotav.tv",
 
+".hootsuite.com",
 
 
-  ".hotels.cn",
 
+"||hootsuite.com",
 
 
-  "hotfrog.com.tw",
 
+".hopedialogue.org",
 
 
-  "hotgoo.com",
 
+"|http:\/\/hopedialogue.org",
 
 
-  ".hotpornshow.com",
 
+".hopto.org",
 
 
-  "hotpot.hk",
 
+".hornygamer.com",
 
 
-  ".hotshame.com",
 
+".hornytrip.com",
 
 
-  "||hotspotshield.com",
 
+"|http:\/\/hornytrip.com",
 
 
-  ".hotvpn.com",
 
+".hotav.tv",
 
 
-  "||hotvpn.com",
 
+".hotels.cn",
 
 
-  "||hougaige.com",
 
+"hotfrog.com.tw",
 
 
-  "||howtoforge.com",
 
+"hotgoo.com",
 
 
-  "||hoxx.com",
 
+".hotpornshow.com",
 
 
-  ".hqcdp.org",
 
+"hotpot.hk",
 
 
-  "||hqcdp.org",
 
+".hotshame.com",
 
 
-  "||hqjapanesesex.com",
 
+"||hotspotshield.com",
 
 
-  "hqmovies.com",
 
+".hotvpn.com",
 
 
-  ".hrcir.com",
 
+"||hotvpn.com",
 
 
-  ".hrcchina.org",
 
+"||hougaige.com",
 
 
-  ".hrea.org",
 
+"||howtoforge.com",
 
 
-  ".hrichina.org",
 
+"||hoxx.com",
 
 
-  "||hrichina.org",
 
+".hqcdp.org",
 
 
-  ".hrtsea.com",
 
+"||hqcdp.org",
 
 
-  ".hrw.org",
 
+"||hqjapanesesex.com",
 
 
-  "||hrw.org",
 
+"hqmovies.com",
 
 
-  "hrweb.org",
 
+".hrcir.com",
 
 
-  "||hsjp.net",
 
+".hrcchina.org",
 
 
-  "||hsselite.com",
 
+".hrea.org",
 
 
-  "|http:\/\/hst.net.tw",
 
+".hrichina.org",
 
 
-  ".hstern.net",
 
+"||hrichina.org",
 
 
-  ".hstt.net",
 
+".hrtsea.com",
 
 
-  ".htkou.net",
 
+".hrw.org",
 
 
-  "||htkou.net",
 
+"||hrw.org",
 
 
-  ".hua-yue.net",
 
+"hrweb.org",
 
 
-  ".huaglad.com",
 
+"||hsjp.net",
 
 
-  "||huaglad.com",
 
+"||hsselite.com",
 
 
-  ".huanghuagang.org",
 
+"|http:\/\/hst.net.tw",
 
 
-  "||huanghuagang.org",
 
+".hstern.net",
 
 
-  ".huangyiyu.com",
 
+".hstt.net",
 
 
-  ".huaren.us",
 
+".htkou.net",
 
 
-  "||huaren.us",
 
+"||htkou.net",
 
 
-  ".huaren4us.com",
 
+".hua-yue.net",
 
 
-  ".huashangnews.com",
 
+".huaglad.com",
 
 
-  "|http:\/\/huashangnews.com",
 
+"||huaglad.com",
 
 
-  "bbs.huasing.org",
 
+".huanghuagang.org",
 
 
-  "huaxia-news.com",
 
+"||huanghuagang.org",
 
 
-  "huaxiabao.org",
 
+".huangyiyu.com",
 
 
-  "huaxin.ph",
 
+".huaren.us",
 
 
-  "||huayuworld.org",
 
+"||huaren.us",
 
 
-  ".huffingtonpost.com\/rebiya-kadeer",
 
+".huaren4us.com",
 
 
-  "||hugoroy.eu",
 
+".huashangnews.com",
 
 
-  "||huhaitai.com",
 
+"|http:\/\/huashangnews.com",
 
 
-  "||huhamhire.com",
 
+"bbs.huasing.org",
 
 
-  "huiyi.in",
 
+"huaxia-news.com",
 
 
-  ".hulkshare.com",
 
+"huaxiabao.org",
 
 
-  "humanrightsbriefing.org",
 
+"huaxin.ph",
 
 
-  "||hung-ya.com",
 
+"||huayuworld.org",
 
 
-  "||hungerstrikeforaids.org",
 
+".huffingtonpost.com\/rebiya-kadeer",
 
 
-  "||huping.net",
 
+"||hugoroy.eu",
 
 
-  "hurgokbayrak.com",
 
+"||huhaitai.com",
 
 
-  ".hurriyet.com.tr",
 
+"||huhamhire.com",
 
 
-  ".hut2.ru",
 
+"huiyi.in",
 
 
-  "||hutianyi.net",
 
+".hulkshare.com",
 
 
-  "hutong9.net",
 
+"humanrightsbriefing.org",
 
 
-  "huyandex.com",
 
+"||hung-ya.com",
 
 
-  ".hwadzan.tw",
 
+"||hungerstrikeforaids.org",
 
 
-  "||hwayue.org.tw",
 
+"||huping.net",
 
 
-  "||hwinfo.com",
 
+"hurgokbayrak.com",
 
 
-  "||hxwk.org",
 
+".hurriyet.com.tr",
 
 
-  "hxwq.org",
 
+".hut2.ru",
 
 
-  "||hyperrate.com",
 
+"||hutianyi.net",
 
 
-  "ebook.hyread.com.tw",
 
+"hutong9.net",
 
 
-  "||ebook.hyread.com.tw",
 
+"huyandex.com",
 
 
-  "||i1.hk",
 
+".hwadzan.tw",
 
 
-  "||i2p2.de",
 
+"||hwayue.org.tw",
 
 
-  "||i2runner.com",
 
+"||hwinfo.com",
 
 
-  "||i818hk.com",
 
+"||hxwk.org",
 
 
-  ".i-cable.com",
 
+"hxwq.org",
 
 
-  ".i-part.com.tw",
 
+"||hyperrate.com",
 
 
-  ".iamtopone.com",
 
+"ebook.hyread.com.tw",
 
 
-  "iask.ca",
 
+"||ebook.hyread.com.tw",
 
 
-  "||iask.ca",
 
+"||i1.hk",
 
 
-  "iask.bz",
 
+"||i2p2.de",
 
 
-  "||iask.bz",
 
+"||i2runner.com",
 
 
-  ".iav19.com",
 
+"||i818hk.com",
 
 
-  "ibiblio.org\/pub\/packages\/ccic",
 
+".i-cable.com",
 
 
-  ".iblist.com",
 
+".i-part.com.tw",
 
 
-  "||iblogserv-f.net",
 
+".iamtopone.com",
 
 
-  "ibros.org",
 
+"iask.ca",
 
 
-  "|http:\/\/cn.ibtimes.com",
 
+"||iask.ca",
 
 
-  ".ibvpn.com",
 
+"iask.bz",
 
 
-  "||ibvpn.com",
 
+"||iask.bz",
 
 
-  "icams.com",
 
+".iav19.com",
 
 
-  "blogs.icerocket.com\/tag",
 
+"ibiblio.org\/pub\/packages\/ccic",
 
 
-  ".icij.org",
 
+".iblist.com",
 
 
-  "||icij.org",
 
+"||iblogserv-f.net",
 
 
-  "||icl-fi.org",
 
+"ibros.org",
 
 
-  ".icoco.com",
 
+"|http:\/\/cn.ibtimes.com",
 
 
-  "||icoco.com",
 
+".ibvpn.com",
 
 
-  "||furbo.org",
 
+"||ibvpn.com",
 
 
-  "||warbler.iconfactory.net",
 
+"icams.com",
 
 
-  "||iconpaper.org",
 
+"blogs.icerocket.com\/tag",
 
 
-  "||icu-project.org",
 
+".icij.org",
 
 
-  "w.idaiwan.com\/forum",
 
+"||icij.org",
 
 
-  "||iddddg.com",
 
+"||icl-fi.org",
 
 
-  "idemocracy.asia",
 
+".icoco.com",
 
 
-  ".identi.ca",
 
+"||icoco.com",
 
 
-  "||identi.ca",
 
+"||furbo.org",
 
 
-  "||idiomconnection.com",
 
+"||warbler.iconfactory.net",
 
 
-  "|http:\/\/www.idlcoyote.com",
 
+"||iconpaper.org",
 
 
-  ".idouga.com",
 
+"||icu-project.org",
 
 
-  ".idreamx.com",
 
+"w.idaiwan.com\/forum",
 
 
-  "forum.idsam.com",
 
+"||iddddg.com",
 
 
-  ".idv.tw",
 
+"idemocracy.asia",
 
 
-  ".ieasy5.com",
 
+".identi.ca",
 
 
-  "|http:\/\/ieasy5.com",
 
+"||identi.ca",
 
 
-  ".ied2k.net",
 
+"||idiomconnection.com",
 
 
-  ".ienergy1.com",
 
+"|http:\/\/www.idlcoyote.com",
 
 
-  "|http:\/\/if.ttt\/",
 
+".idouga.com",
 
 
-  "ifanqiang.com",
 
+".idreamx.com",
 
 
-  ".ifcss.org",
 
+"forum.idsam.com",
 
 
-  "||ifcss.org",
 
+".idv.tw",
 
 
-  "ifjc.org",
 
+".ieasy5.com",
 
 
-  ".ift.tt",
 
+"|http:\/\/ieasy5.com",
 
 
-  "|http:\/\/ift.tt",
 
+".ied2k.net",
 
 
-  "||ifreewares.com",
 
+".ienergy1.com",
 
 
-  "||igcd.net",
 
+"|http:\/\/if.ttt\/",
 
 
-  ".igfw.net",
 
+"ifanqiang.com",
 
 
-  "||igfw.net",
 
+".ifcss.org",
 
 
-  ".igfw.tech",
 
+"||ifcss.org",
 
 
-  "||igfw.tech",
 
+"ifjc.org",
 
 
-  ".igmg.de",
 
+".ift.tt",
 
 
-  "||ignitedetroit.net",
 
+"|http:\/\/ift.tt",
 
 
-  ".igotmail.com.tw",
 
+"||ifreewares.com",
 
 
-  "||igvita.com",
 
+"||igcd.net",
 
 
-  "||ihakka.net",
 
+".igfw.net",
 
 
-  ".ihao.org\/dz5",
 
+"||igfw.net",
 
 
-  "||iicns.com",
 
+".igfw.tech",
 
 
-  ".ikstar.com",
 
+"||igfw.tech",
 
 
-  "||illusionfactory.com",
 
+".igmg.de",
 
 
-  "||ilove80.be",
 
+"||ignitedetroit.net",
 
 
-  "||im.tv",
 
+".igotmail.com.tw",
 
 
-  "@@||myvlog.im.tv",
 
+"||igvita.com",
 
 
-  "||im88.tw",
 
+"||ihakka.net",
 
 
-  ".imgchili.net",
 
+".ihao.org\/dz5",
 
 
-  "|http:\/\/imgchili.net",
 
+"||iicns.com",
 
 
-  ".imageab.com",
 
+".ikstar.com",
 
 
-  ".imagefap.com",
 
+"||illusionfactory.com",
 
 
-  "||imagefap.com",
 
+"||ilove80.be",
 
 
-  "||imageflea.com",
 
+"||im.tv",
 
 
-  "imageshack.us",
 
+"@@||myvlog.im.tv",
 
 
-  "||imagevenue.com",
 
+"||im88.tw",
 
 
-  "||imagezilla.net",
 
+".imgchili.net",
 
 
-  ".imb.org",
 
+"|http:\/\/imgchili.net",
 
 
-  "|http:\/\/imb.org",
 
+".imageab.com",
 
 
-  "|http:\/\/www.imdb.com\/name\/nm0482730",
 
+".imagefap.com",
 
 
-  ".imdb.com\/title\/tt0819354",
 
+"||imagefap.com",
 
 
-  ".imdb.com\/title\/tt1540068",
 
+"||imageflea.com",
 
 
-  ".imdb.com\/title\/tt4908644",
 
+"imageshack.us",
 
 
-  ".img.ly",
 
+"||imagevenue.com",
 
 
-  "||img.ly",
 
+"||imagezilla.net",
 
 
-  ".imgur.com",
 
+".imb.org",
 
 
-  "||imgur.com",
 
+"|http:\/\/imb.org",
 
 
-  ".imkev.com",
 
+"|http:\/\/www.imdb.com\/name\/nm0482730",
 
 
-  "||imkev.com",
 
+".imdb.com\/title\/tt0819354",
 
 
-  ".imlive.com",
 
+".imdb.com\/title\/tt1540068",
 
 
-  ".immoral.jp",
 
+".imdb.com\/title\/tt4908644",
 
 
-  "impact.org.au",
 
+".img.ly",
 
 
-  "impp.mn",
 
+"||img.ly",
 
 
-  "|http:\/\/tech2.in.com\/video\/",
 
+".imgur.com",
 
 
-  "in99.org",
 
+"||imgur.com",
 
 
-  "in-disguise.com",
 
+".imkev.com",
 
 
-  ".incapdns.net",
 
+"||imkev.com",
 
 
-  ".incloak.com",
 
+".imlive.com",
 
 
-  "||incloak.com",
 
+".immoral.jp",
 
 
-  "||incredibox.fr",
 
+"impact.org.au",
 
 
-  "||indiandefensenews.in",
 
+"impp.mn",
 
 
-  "timesofindia.indiatimes.com\/dalai",
 
+"|http:\/\/tech2.in.com\/video\/",
 
 
-  "timesofindia.indiatimes.com\/defaultinterstitial.cms",
 
+"in99.org",
 
 
-  ".indiemerch.com",
 
+"in-disguise.com",
 
 
-  "||indiemerch.com",
 
+".incapdns.net",
 
 
-  "info-graf.fr",
 
+".incloak.com",
 
 
-  "website.informer.com",
 
+"||incloak.com",
 
 
-  ".initiativesforchina.org",
 
+"||incredibox.fr",
 
 
-  ".inkui.com",
 
+"||indiandefensenews.in",
 
 
-  ".inmediahk.net",
 
+"timesofindia.indiatimes.com\/dalai",
 
 
-  "||inmediahk.net",
 
+"timesofindia.indiatimes.com\/defaultinterstitial.cms",
 
 
-  "||innermongolia.org",
 
+".indiemerch.com",
 
 
-  "|http:\/\/blog.inoreader.com",
 
+"||indiemerch.com",
 
 
-  ".inote.tw",
 
+"info-graf.fr",
 
 
-  ".insecam.org",
 
+"website.informer.com",
 
 
-  "|http:\/\/insecam.org",
 
+".initiativesforchina.org",
 
 
-  "||insidevoa.com",
 
+".inkui.com",
 
 
-  ".institut-tibetain.org",
 
+".inmediahk.net",
 
 
-  "|http:\/\/internet.org\/",
 
+"||inmediahk.net",
 
 
-  "internetdefenseleague.org",
 
+"||innermongolia.org",
 
 
-  "internetfreedom.org",
 
+"|http:\/\/blog.inoreader.com",
 
 
-  "||internetpopculture.com",
 
+".inote.tw",
 
 
-  ".inthenameofconfuciusmovie.com",
 
+".insecam.org",
 
 
-  "||inthenameofconfuciusmovie.com",
 
+"|http:\/\/insecam.org",
 
 
-  "inxian.com",
 
+"||insidevoa.com",
 
 
-  "||inxian.com",
 
+".institut-tibetain.org",
 
 
-  "ipalter.com",
 
+"|http:\/\/internet.org\/",
 
 
-  ".ipfire.org",
 
+"internetdefenseleague.org",
 
 
-  "||iphone4hongkong.com",
 
+"internetfreedom.org",
 
 
-  "||iphonehacks.com",
 
+"||internetpopculture.com",
 
 
-  "||iphonetaiwan.org",
 
+".inthenameofconfuciusmovie.com",
 
 
-  "||iphonix.fr",
 
+"||inthenameofconfuciusmovie.com",
 
 
-  "||ipicture.ru",
 
+"inxian.com",
 
 
-  ".ipjetable.net",
 
+"||inxian.com",
 
 
-  "||ipjetable.net",
 
+"ipalter.com",
 
 
-  ".ipobar.com\/read.php?",
 
+".ipfire.org",
 
 
-  "ipoock.com\/img",
 
+"||iphone4hongkong.com",
 
 
-  ".iportal.me",
 
+"||iphonehacks.com",
 
 
-  "|http:\/\/iportal.me",
 
+"||iphonetaiwan.org",
 
 
-  "||ippotv.com",
 
+"||iphonix.fr",
 
 
-  ".ipredator.se",
 
+"||ipicture.ru",
 
 
-  "||ipredator.se",
 
+".ipjetable.net",
 
 
-  ".iptv.com.tw",
 
+"||ipjetable.net",
 
 
-  "||iptvbin.com",
 
+".ipobar.com\/read.php?",
 
 
-  "||ipvanish.com",
 
+"ipoock.com\/img",
 
 
-  "iredmail.org",
 
+".iportal.me",
 
 
-  "chinese.irib.ir",
 
+"|http:\/\/iportal.me",
 
 
-  "||ironbigfools.compython.net",
 
+"||ippotv.com",
 
 
-  "||ironpython.net",
 
+".ipredator.se",
 
 
-  ".ironsocket.com",
 
+"||ipredator.se",
 
 
-  "||ironsocket.com",
 
+".iptv.com.tw",
 
 
-  ".is.gd",
 
+"||iptvbin.com",
 
 
-  ".islahhaber.net",
 
+"||ipvanish.com",
 
 
-  ".islam.org.hk",
 
+"iredmail.org",
 
 
-  "|http:\/\/islam.org.hk",
 
+"chinese.irib.ir",
 
 
-  ".islamawareness.net\/Asia\/China",
 
+"||ironbigfools.compython.net",
 
 
-  ".islamhouse.com",
 
+"||ironpython.net",
 
 
-  "||islamhouse.com",
 
+".ironsocket.com",
 
 
-  ".islamicity.com",
 
+"||ironsocket.com",
 
 
-  ".islamicpluralism.org",
 
+".is.gd",
 
 
-  ".islamtoday.net",
 
+".islahhaber.net",
 
 
-  ".isaacmao.com",
 
+".islam.org.hk",
 
 
-  "||isaacmao.com",
 
+"|http:\/\/islam.org.hk",
 
 
-  "||isgreat.org",
 
+".islamawareness.net\/Asia\/China",
 
 
-  "||ismaelan.com",
 
+".islamhouse.com",
 
 
-  ".ismalltits.com",
 
+"||islamhouse.com",
 
 
-  "||ismprofessional.net",
 
+".islamicity.com",
 
 
-  "isohunt.com",
 
+".islamicpluralism.org",
 
 
-  "||israbox.com",
 
+".islamtoday.net",
 
 
-  ".issuu.com",
 
+".isaacmao.com",
 
 
-  "||issuu.com",
 
+"||isaacmao.com",
 
 
-  ".istars.co.nz",
 
+"||isgreat.org",
 
 
-  "oversea.istarshine.com",
 
+"||ismaelan.com",
 
 
-  "||oversea.istarshine.com",
 
+".ismalltits.com",
 
 
-  "blog.istef.info\/2007\/10\/21\/myentunnel",
 
+"||ismprofessional.net",
 
 
-  ".istiqlalhewer.com",
 
+"isohunt.com",
 
 
-  ".istockphoto.com",
 
+"||israbox.com",
 
 
-  "isunaffairs.com",
 
+".issuu.com",
 
 
-  "isuntv.com",
 
+"||issuu.com",
 
 
-  "itaboo.info",
 
+".istars.co.nz",
 
 
-  "||itaboo.info",
 
+"oversea.istarshine.com",
 
 
-  ".italiatibet.org",
 
+"||oversea.istarshine.com",
 
 
-  "download.ithome.com.tw",
 
+"blog.istef.info\/2007\/10\/21\/myentunnel",
 
 
-  "ithelp.ithome.com.tw",
 
+".istiqlalhewer.com",
 
 
-  "||itshidden.com",
 
+".istockphoto.com",
 
 
-  ".itsky.it",
 
+"isunaffairs.com",
 
 
-  ".itweet.net",
 
+"isuntv.com",
 
 
-  "|http:\/\/itweet.net",
 
+"itaboo.info",
 
 
-  ".iu45.com",
 
+"||itaboo.info",
 
 
-  ".iuhrdf.org",
 
+".italiatibet.org",
 
 
-  "||iuhrdf.org",
 
+"download.ithome.com.tw",
 
 
-  ".iuksky.com",
 
+"ithelp.ithome.com.tw",
 
 
-  ".ivacy.com",
 
+"||itshidden.com",
 
 
-  "||ivacy.com",
 
+".itsky.it",
 
 
-  ".iverycd.com",
 
+".itweet.net",
 
 
-  ".ivpn.net",
 
+"|http:\/\/itweet.net",
 
 
-  "||ixquick.com",
 
+".iu45.com",
 
 
-  ".ixxx.com",
 
+".iuhrdf.org",
 
 
-  "iyouport.com",
 
+"||iuhrdf.org",
 
 
-  "||iyouport.com",
 
+".iuksky.com",
 
 
-  ".izaobao.us",
 
+".ivacy.com",
 
 
-  "||gmozomg.izihost.org",
 
+"||ivacy.com",
 
 
-  ".izles.net",
 
+".iverycd.com",
 
 
-  ".izlesem.org",
 
+".ivpn.net",
 
 
-  "||j.mp",
 
+"||ixquick.com",
 
 
-  "blog.jackjia.com",
 
+".ixxx.com",
 
 
-  "jamaat.org",
 
+"iyouport.com",
 
 
-  ".jamyangnorbu.com",
 
+"||iyouport.com",
 
 
-  "|http:\/\/jamyangnorbu.com",
 
+".izaobao.us",
 
 
-  ".jandyx.com",
 
+"||gmozomg.izihost.org",
 
 
-  "||janwongphoto.com",
 
+".izles.net",
 
 
-  "||japan-whores.com",
 
+".izlesem.org",
 
 
-  ".jav.com",
 
+"||j.mp",
 
 
-  ".jav101.com",
 
+"blog.jackjia.com",
 
 
-  ".jav2be.com",
 
+"jamaat.org",
 
 
-  "||jav2be.com",
 
+".jamyangnorbu.com",
 
 
-  ".jav68.tv",
 
+"|http:\/\/jamyangnorbu.com",
 
 
-  ".javakiba.org",
 
+".jandyx.com",
 
 
-  "|http:\/\/javakiba.org",
 
+"||janwongphoto.com",
 
 
-  ".javbus.com",
 
+"||japan-whores.com",
 
 
-  "||javbus.com",
 
+".jav.com",
 
 
-  "||javfor.me",
 
+".jav101.com",
 
 
-  ".javhd.com",
 
+".jav2be.com",
 
 
-  ".javhip.com",
 
+"||jav2be.com",
 
 
-  ".javmobile.net",
 
+".jav68.tv",
 
 
-  "|http:\/\/javmobile.net",
 
+".javakiba.org",
 
 
-  ".javmoo.com",
 
+"|http:\/\/javakiba.org",
 
 
-  ".javseen.com",
 
+".javbus.com",
 
 
-  "|http:\/\/javseen.com",
 
+"||javbus.com",
 
 
-  "jbtalks.cc",
 
+"||javfor.me",
 
 
-  "jbtalks.com",
 
+".javhd.com",
 
 
-  "jbtalks.my",
 
+".javhip.com",
 
 
-  ".jdwsy.com",
 
+".javmobile.net",
 
 
-  "jeanyim.com",
 
+"|http:\/\/javmobile.net",
 
 
-  "||jfqu36.club",
 
+".javmoo.com",
 
 
-  "||jfqu37.xyz",
 
+".javseen.com",
 
 
-  "||jgoodies.com",
 
+"|http:\/\/javseen.com",
 
 
-  ".jiangweiping.com",
 
+"jbtalks.cc",
 
 
-  "||jiangweiping.com",
 
+"jbtalks.com",
 
 
-  "||jiaoyou8.com",
 
+"jbtalks.my",
 
 
-  ".jiehua.cz",
 
+".jdwsy.com",
 
 
-  "||hk.jiepang.com",
 
+"jeanyim.com",
 
 
-  "||tw.jiepang.com",
 
+"||jfqu36.club",
 
 
-  "jieshibaobao.com",
 
+"||jfqu37.xyz",
 
 
-  ".jigglegifs.com",
 
+"||jgoodies.com",
 
 
-  "56cun04.jigsy.com",
 
+".jiangweiping.com",
 
 
-  "jigong1024.com",
 
+"||jiangweiping.com",
 
 
-  "daodu14.jigsy.com",
 
+"||jiaoyou8.com",
 
 
-  "specxinzl.jigsy.com",
 
+".jiehua.cz",
 
 
-  "wlcnew.jigsy.com",
 
+"||hk.jiepang.com",
 
 
-  ".jihadology.net",
 
+"||tw.jiepang.com",
 
 
-  "|http:\/\/jihadology.net",
 
+"jieshibaobao.com",
 
 
-  "jinbushe.org",
 
+".jigglegifs.com",
 
 
-  "||jinbushe.org",
 
+"56cun04.jigsy.com",
 
 
-  ".jingsim.org",
 
+"jigong1024.com",
 
 
-  "zhao.jinhai.de",
 
+"daodu14.jigsy.com",
 
 
-  "jingpin.org",
 
+"specxinzl.jigsy.com",
 
 
-  "||jingpin.org",
 
+"wlcnew.jigsy.com",
 
 
-  "jinpianwang.com",
 
+".jihadology.net",
 
 
-  ".jinroukong.com",
 
+"|http:\/\/jihadology.net",
 
 
-  "ac.jiruan.net",
 
+"jinbushe.org",
 
 
-  "||jitouch.com",
 
+"||jinbushe.org",
 
 
-  ".jizzthis.com",
 
+".jingsim.org",
 
 
-  "jjgirls.com",
 
+"zhao.jinhai.de",
 
 
-  ".jkb.cc",
 
+"jingpin.org",
 
 
-  "|http:\/\/jkb.cc",
 
+"||jingpin.org",
 
 
-  "jkforum.net",
 
+"jinpianwang.com",
 
 
-  "||jma.go.jp",
 
+".jinroukong.com",
 
 
-  "research.jmsc.hku.hk\/social",
 
+"ac.jiruan.net",
 
 
-  "weiboscope.jmsc.hku.hk",
 
+"||jitouch.com",
 
 
-  ".jmscult.com",
 
+".jizzthis.com",
 
 
-  "|http:\/\/jmscult.com",
 
+"jjgirls.com",
 
 
-  "||joachims.org",
 
+".jkb.cc",
 
 
-  "||jobso.tv",
 
+"|http:\/\/jkb.cc",
 
 
-  ".sunwinism.joinbbs.net",
 
+"jkforum.net",
 
 
-  ".journalchretien.net",
 
+"||jma.go.jp",
 
 
-  "||journalofdemocracy.org",
 
+"research.jmsc.hku.hk\/social",
 
 
-  ".joymiihub.com",
 
+"weiboscope.jmsc.hku.hk",
 
 
-  ".joyourself.com",
 
+".jmscult.com",
 
 
-  "jpopforum.net",
 
+"|http:\/\/jmscult.com",
 
 
-  "||fiddle.jshell.net",
 
+"||joachims.org",
 
 
-  ".jubushoushen.com",
 
+"||jobso.tv",
 
 
-  "||jubushoushen.com",
 
+".sunwinism.joinbbs.net",
 
 
-  ".juhuaren.com",
 
+".journalchretien.net",
 
 
-  "||juliereyc.com",
 
+"||journalofdemocracy.org",
 
 
-  "||junauza.com",
 
+".joymiihub.com",
 
 
-  ".june4commemoration.org",
 
+".joyourself.com",
 
 
-  ".junefourth-20.net",
 
+"jpopforum.net",
 
 
-  "||junefourth-20.net",
 
+"||fiddle.jshell.net",
 
 
-  "||bbs.junglobal.net",
 
+".jubushoushen.com",
 
 
-  ".juoaa.com",
 
+"||jubushoushen.com",
 
 
-  "|http:\/\/juoaa.com",
 
+".juhuaren.com",
 
 
-  "justfreevpn.com",
 
+"||juliereyc.com",
 
 
-  ".justicefortenzin.org",
 
+"||junauza.com",
 
 
-  "justpaste.it",
 
+".june4commemoration.org",
 
 
-  "justtristan.com",
 
+".junefourth-20.net",
 
 
-  "juyuange.org",
 
+"||junefourth-20.net",
 
 
-  "juziyue.com",
 
+"||bbs.junglobal.net",
 
 
-  "||juziyue.com",
 
+".juoaa.com",
 
 
-  "||jwmusic.org",
 
+"|http:\/\/juoaa.com",
 
 
-  "@@||music.jwmusic.org",
 
+"justfreevpn.com",
 
 
-  ".jyxf.net",
 
+".justicefortenzin.org",
 
 
-  "||k-doujin.net",
 
+"justpaste.it",
 
 
-  "||ka-wai.com",
 
+"justtristan.com",
 
 
-  ".kagyu.org",
 
+"juyuange.org",
 
 
-  "||kagyu.org.za",
 
+"juziyue.com",
 
 
-  ".kagyumonlam.org",
 
+"||juziyue.com",
 
 
-  ".kagyunews.com.hk",
 
+"||jwmusic.org",
 
 
-  ".kagyuoffice.org",
 
+"@@||music.jwmusic.org",
 
 
-  "||kagyuoffice.org",
 
+".jyxf.net",
 
 
-  "||kagyuoffice.org.tw",
 
+"||k-doujin.net",
 
 
-  ".kaiyuan.de",
 
+"||ka-wai.com",
 
 
-  ".kakao.com",
 
+".kagyu.org",
 
 
-  "||kakao.com",
 
+"||kagyu.org.za",
 
 
-  ".kalachakralugano.org",
 
+".kagyumonlam.org",
 
 
-  ".kankan.today",
 
+".kagyunews.com.hk",
 
 
-  ".kannewyork.com",
 
+".kagyuoffice.org",
 
 
-  "||kannewyork.com",
 
+"||kagyuoffice.org",
 
 
-  ".kanshifang.com",
 
+"||kagyuoffice.org.tw",
 
 
-  "||kanshifang.com",
 
+".kaiyuan.de",
 
 
-  "||kantie.org",
 
+".kakao.com",
 
 
-  "kanzhongguo.com",
 
+"||kakao.com",
 
 
-  "kanzhongguo.eu",
 
+".kalachakralugano.org",
 
 
-  ".kaotic.com",
 
+".kankan.today",
 
 
-  "||karayou.com",
 
+".kannewyork.com",
 
 
-  "karkhung.com",
 
+"||kannewyork.com",
 
 
-  ".karmapa.org",
 
+".kanshifang.com",
 
 
-  ".karmapa-teachings.org",
 
+"||kanshifang.com",
 
 
-  "||kawase.com",
 
+"||kantie.org",
 
 
-  ".kba-tx.org",
 
+"kanzhongguo.com",
 
 
-  ".kcoolonline.com",
 
+"kanzhongguo.eu",
 
 
-  ".kebrum.com",
 
+".kaotic.com",
 
 
-  "||kebrum.com",
 
+"||karayou.com",
 
 
-  ".kechara.com",
 
+"karkhung.com",
 
 
-  ".keepandshare.com\/visit\/visit_page.php?i=688154",
 
+".karmapa.org",
 
 
-  ".keezmovies.com",
 
+".karmapa-teachings.org",
 
 
-  ".kendincos.net",
 
+"||kawase.com",
 
 
-  ".kenengba.com",
 
+".kba-tx.org",
 
 
-  "||kenengba.com",
 
+".kcoolonline.com",
 
 
-  "||keontech.net",
 
+".kebrum.com",
 
 
-  ".kepard.com",
 
+"||kebrum.com",
 
 
-  "||kepard.com",
 
+".kechara.com",
 
 
-  "wiki.keso.cn\/Home",
 
+".keepandshare.com\/visit\/visit_page.php?i=688154",
 
 
-  "||keycdn.com",
 
+".keezmovies.com",
 
 
-  ".khabdha.org",
 
+".kendincos.net",
 
 
-  ".khmusic.com.tw",
 
+".kenengba.com",
 
 
-  "||kichiku-doujinko.com",
 
+"||kenengba.com",
 
 
-  ".kik.com",
 
+"||keontech.net",
 
 
-  "||kik.com",
 
+".kepard.com",
 
 
-  "bbs.kimy.com.tw",
 
+"||kepard.com",
 
 
-  ".kindleren.com",
 
+"wiki.keso.cn\/Home",
 
 
-  "|http:\/\/kindleren.com",
 
+"||keycdn.com",
 
 
-  "|http:\/\/www.kindleren.com",
 
+".khabdha.org",
 
 
-  ".kingdomsalvation.org",
 
+".khmusic.com.tw",
 
 
-  "||kingdomsalvation.org",
 
+"||kichiku-doujinko.com",
 
 
-  "kinghost.com",
 
+".kik.com",
 
 
-  "||kingstone.com.tw",
 
+"||kik.com",
 
 
-  ".kink.com",
 
+"bbs.kimy.com.tw",
 
 
-  ".kinokuniya.com",
 
+".kindleren.com",
 
 
-  "||kinokuniya.com",
 
+"|http:\/\/kindleren.com",
 
 
-  "killwall.com",
 
+"|http:\/\/www.kindleren.com",
 
 
-  "||killwall.com",
 
+".kingdomsalvation.org",
 
 
-  "||kinmen.travel",
 
+"||kingdomsalvation.org",
 
 
-  ".kir.jp",
 
+"kinghost.com",
 
 
-  ".kissbbao.cn",
 
+"||kingstone.com.tw",
 
 
-  "|http:\/\/kiwi.kz",
 
+".kink.com",
 
 
-  "||kk-whys.co.jp",
 
+".kinokuniya.com",
 
 
-  ".kmuh.org.tw",
 
+"||kinokuniya.com",
 
 
-  ".knowledgerush.com\/kr\/encyclopedia",
 
+"killwall.com",
 
 
-  ".kobo.com",
 
+"||killwall.com",
 
 
-  "||kobo.com",
 
+"||kinmen.travel",
 
 
-  ".kobobooks.com",
 
+".kir.jp",
 
 
-  "||kobobooks.com",
 
+".kissbbao.cn",
 
 
-  "||kodingen.com",
 
+"|http:\/\/kiwi.kz",
 
 
-  "@@||www.kodingen.com",
 
+"||kk-whys.co.jp",
 
 
-  "||kompozer.net",
 
+".kmuh.org.tw",
 
 
-  ".konachan.com",
 
+".knowledgerush.com\/kr\/encyclopedia",
 
 
-  "|http:\/\/konachan.com",
 
+".kobo.com",
 
 
-  ".kone.com",
 
+"||kobo.com",
 
 
-  "||koolsolutions.com",
 
+".kobobooks.com",
 
 
-  ".koornk.com",
 
+"||kobobooks.com",
 
 
-  "||koornk.com",
 
+"||kodingen.com",
 
 
-  "||koranmandarin.com",
 
+"@@||www.kodingen.com",
 
 
-  ".korenan2.com",
 
+"||kompozer.net",
 
 
-  "|http:\/\/gojet.krtco.com.tw",
 
+".konachan.com",
 
 
-  ".ksdl.org",
 
+"|http:\/\/konachan.com",
 
 
-  ".ksnews.com.tw",
 
+".kone.com",
 
 
-  "||ktzhk.com",
 
+"||koolsolutions.com",
 
 
-  ".kui.name\/event",
 
+".koornk.com",
 
 
-  "kun.im",
 
+"||koornk.com",
 
 
-  ".kurashsultan.com",
 
+"||koranmandarin.com",
 
 
-  "||kurtmunger.com",
 
+".korenan2.com",
 
 
-  "kusocity.com",
 
+"|http:\/\/gojet.krtco.com.tw",
 
 
-  "||kwcg.ca",
 
+".ksdl.org",
 
 
-  "kwongwah.com.my",
 
+".ksnews.com.tw",
 
 
-  ".kxsw.life",
 
+"||ktzhk.com",
 
 
-  "||kxsw.life",
 
+".kui.name\/event",
 
 
-  ".kyofun.com",
 
+"kun.im",
 
 
-  "kyohk.net",
 
+".kurashsultan.com",
 
 
-  "||kyoyue.com",
 
+"||kurtmunger.com",
 
 
-  ".kyzyhello.com",
 
+"kusocity.com",
 
 
-  "||kyzyhello.com",
 
+"||kwcg.ca",
 
 
-  ".kzeng.info",
 
+"kwongwah.com.my",
 
 
-  "||kzeng.info",
 
+".kxsw.life",
 
 
-  "la-forum.org",
 
+"||kxsw.life",
 
 
-  "ladbrokes.com",
 
+".kyofun.com",
 
 
-  "||labiennale.org",
 
+"kyohk.net",
 
 
-  ".lagranepoca.com",
 
+"||kyoyue.com",
 
 
-  "||lagranepoca.com",
 
+".kyzyhello.com",
 
 
-  ".lalulalu.com",
 
+"||kyzyhello.com",
 
 
-  ".lama.com.tw",
 
+".kzeng.info",
 
 
-  "||lama.com.tw",
 
+"||kzeng.info",
 
 
-  ".lamayeshe.com",
 
+"la-forum.org",
 
 
-  "|http:\/\/lamayeshe.com",
 
+"ladbrokes.com",
 
 
-  "|http:\/\/www.lamenhu.com",
 
+"||labiennale.org",
 
 
-  ".lamnia.co.uk",
 
+".lagranepoca.com",
 
 
-  "||lamnia.co.uk",
 
+"||lagranepoca.com",
 
 
-  "lamrim.com",
 
+".lalulalu.com",
 
 
-  ".lanterncn.cn",
 
+".lama.com.tw",
 
 
-  "|http:\/\/lanterncn.cn",
 
+"||lama.com.tw",
 
 
-  ".lantosfoundation.org",
 
+".lamayeshe.com",
 
 
-  ".laod.cn",
 
+"|http:\/\/lamayeshe.com",
 
 
-  "|http:\/\/laod.cn",
 
+"|http:\/\/www.lamenhu.com",
 
 
-  "laogai.org",
 
+".lamnia.co.uk",
 
 
-  "||laogai.org",
 
+"||lamnia.co.uk",
 
 
-  "laomiu.com",
 
+"lamrim.com",
 
 
-  ".laoyang.info",
 
+".lanterncn.cn",
 
 
-  "|http:\/\/laoyang.info",
 
+"|http:\/\/lanterncn.cn",
 
 
-  "||laptoplockdown.com",
 
+".lantosfoundation.org",
 
 
-  ".laqingdan.net",
 
+".laod.cn",
 
 
-  "||laqingdan.net",
 
+"|http:\/\/laod.cn",
 
 
-  "||larsgeorge.com",
 
+"laogai.org",
 
 
-  ".lastcombat.com",
 
+"||laogai.org",
 
 
-  "|http:\/\/lastcombat.com",
 
+"laomiu.com",
 
 
-  "||lastfm.es",
 
+".laoyang.info",
 
 
-  "latelinenews.com",
 
+"|http:\/\/laoyang.info",
 
 
-  ".latibet.org",
 
+"||laptoplockdown.com",
 
 
-  "||le-vpn.com",
 
+".laqingdan.net",
 
 
-  ".leafyvpn.net",
 
+"||laqingdan.net",
 
 
-  "||leafyvpn.net",
 
+"||larsgeorge.com",
 
 
-  "leeao.com.cn\/bbs\/forum.php",
 
+".lastcombat.com",
 
 
-  "lefora.com",
 
+"|http:\/\/lastcombat.com",
 
 
-  "||left21.hk",
 
+"||lastfm.es",
 
 
-  ".legalporno.com",
 
+"latelinenews.com",
 
 
-  ".legsjapan.com",
 
+".latibet.org",
 
 
-  "|http:\/\/leirentv.ca",
 
+"||le-vpn.com",
 
 
-  "leisurecafe.ca",
 
+".leafyvpn.net",
 
 
-  "||lematin.ch",
 
+"||leafyvpn.net",
 
 
-  ".lemonde.fr",
 
+"leeao.com.cn\/bbs\/forum.php",
 
 
-  "||lenwhite.com",
 
+"lefora.com",
 
 
-  "lerosua.org",
 
+"||left21.hk",
 
 
-  "||lerosua.org",
 
+".legalporno.com",
 
 
-  "blog.lester850.info",
 
+".legsjapan.com",
 
 
-  "||lesoir.be",
 
+"|http:\/\/leirentv.ca",
 
 
-  ".letou.com",
 
+"leisurecafe.ca",
 
 
-  "letscorp.net",
 
+"||lematin.ch",
 
 
-  "||letscorp.net",
 
+".lemonde.fr",
 
 
-  "||ss.levyhsu.com",
 
+"||lenwhite.com",
 
 
-  "||cdn.assets.lfpcontent.com",
 
+"lerosua.org",
 
 
-  ".lhakar.org",
 
+"||lerosua.org",
 
 
-  "|http:\/\/lhakar.org",
 
+"blog.lester850.info",
 
 
-  ".lhasocialwork.org",
 
+"||lesoir.be",
 
 
-  ".liangyou.net",
 
+".letou.com",
 
 
-  "||liangyou.net",
 
+"letscorp.net",
 
 
-  ".lianyue.net",
 
+"||letscorp.net",
 
 
-  "||liaowangxizang.net",
 
+"||ss.levyhsu.com",
 
 
-  ".liaowangxizang.net",
 
+"||cdn.assets.lfpcontent.com",
 
 
-  "||liberal.org.hk",
 
+".lhakar.org",
 
 
-  ".libertytimes.com.tw",
 
+"|http:\/\/lhakar.org",
 
 
-  "blogs.libraryinformationtechnology.com\/jxyz",
 
+".lhasocialwork.org",
 
 
-  ".lidecheng.com\/blog\/fucking-gfw",
 
+".liangyou.net",
 
 
-  ".lighten.org.tw",
 
+"||liangyou.net",
 
 
-  ".lightnovel.cn",
 
+".lianyue.net",
 
 
-  "@@|https:\/\/www.lightnovel.cn",
 
+"||liaowangxizang.net",
 
 
-  "limiao.net",
 
+".liaowangxizang.net",
 
 
-  "linkuswell.com",
 
+"||liberal.org.hk",
 
 
-  "abitno.linpie.com\/use-ipv6-to-fuck-gfw",
 
+".libertytimes.com.tw",
 
 
-  "||line.me",
 
+"blogs.libraryinformationtechnology.com\/jxyz",
 
 
-  "||line-apps.com",
 
+".lidecheng.com\/blog\/fucking-gfw",
 
 
-  ".linglingfa.com",
 
+".lighten.org.tw",
 
 
-  "||lingvodics.com",
 
+".lightnovel.cn",
 
 
-  ".link-o-rama.com",
 
+"@@|https:\/\/www.lightnovel.cn",
 
 
-  "|http:\/\/link-o-rama.com",
 
+"limiao.net",
 
 
-  ".linkideo.com",
 
+"linkuswell.com",
 
 
-  "||api.linksalpha.com",
 
+"abitno.linpie.com\/use-ipv6-to-fuck-gfw",
 
 
-  "||apidocs.linksalpha.com",
 
+"||line.me",
 
 
-  "||www.linksalpha.com",
 
+"||line-apps.com",
 
 
-  "||help.linksalpha.com",
 
+".linglingfa.com",
 
 
-  "||linux.org.hk",
 
+"||lingvodics.com",
 
 
-  "linuxtoy.org\/archives\/installing-west-chamber-on-ubuntu",
 
+".link-o-rama.com",
 
 
-  ".lionsroar.com",
 
+"|http:\/\/link-o-rama.com",
 
 
-  ".lipuman.com",
 
+".linkideo.com",
 
 
-  "||liquidvpn.com",
 
+"||api.linksalpha.com",
 
 
-  "||greatfire.us7.list-manage.com",
 
+"||apidocs.linksalpha.com",
 
 
-  "||listentoyoutube.com",
 
+"||www.linksalpha.com",
 
 
-  "listorious.com",
 
+"||help.linksalpha.com",
 
 
-  ".liu-xiaobo.org",
 
+"||linux.org.hk",
 
 
-  "||liudejun.com",
 
+"linuxtoy.org\/archives\/installing-west-chamber-on-ubuntu",
 
 
-  ".liuhanyu.com",
 
+".lionsroar.com",
 
 
-  ".liujianshu.com",
 
+".lipuman.com",
 
 
-  "||liujianshu.com",
 
+"||liquidvpn.com",
 
 
-  ".liuxiaobo.net",
 
+"||greatfire.us7.list-manage.com",
 
 
-  "|http:\/\/liuxiaobo.net",
 
+"||listentoyoutube.com",
 
 
-  "liuxiaotong.com",
 
+"listorious.com",
 
 
-  "||liuxiaotong.com",
 
+".liu-xiaobo.org",
 
 
-  ".livedoor.jp",
 
+"||liudejun.com",
 
 
-  ".liveleak.com",
 
+".liuhanyu.com",
 
 
-  "||liveleak.com",
 
+".liujianshu.com",
 
 
-  ".livestation.com",
 
+"||liujianshu.com",
 
 
-  "livestream.com",
 
+".liuxiaobo.net",
 
 
-  "||livestream.com",
 
+"|http:\/\/liuxiaobo.net",
 
 
-  "||livingonline.us",
 
+"liuxiaotong.com",
 
 
-  "||livingstream.com",
 
+"||liuxiaotong.com",
 
 
-  "||livevideo.com",
 
+".livedoor.jp",
 
 
-  ".livevideo.com",
 
+".liveleak.com",
 
 
-  ".liwangyang.com",
 
+"||liveleak.com",
 
 
-  "lizhizhuangbi.com",
 
+".livestation.com",
 
 
-  "lkcn.net",
 
+"livestream.com",
 
 
-  ".llss.me\/",
 
+"||livestream.com",
 
 
-  ".load.to",
 
+"||livingonline.us",
 
 
-  ".lobsangwangyal.com",
 
+"||livingstream.com",
 
 
-  ".localdomain.ws",
 
+"||livevideo.com",
 
 
-  "||localdomain.ws",
 
+".livevideo.com",
 
 
-  "localpresshk.com",
 
+".liwangyang.com",
 
 
-  "||lockestek.com",
 
+"lizhizhuangbi.com",
 
 
-  "logbot.net",
 
+"lkcn.net",
 
 
-  "||logiqx.com",
 
+".llss.me\/",
 
 
-  "secure.logmein.com",
 
+".load.to",
 
 
-  "||secure.logmein.com",
 
+".lobsangwangyal.com",
 
 
-  ".londonchinese.ca",
 
+".localdomain.ws",
 
 
-  ".longhair.hk",
 
+"||localdomain.ws",
 
 
-  "longmusic.com",
 
+"localpresshk.com",
 
 
-  "||longtermly.net",
 
+"||lockestek.com",
 
 
-  "||lookpic.com",
 
+"logbot.net",
 
 
-  ".looktoronto.com",
 
+"||logiqx.com",
 
 
-  "|http:\/\/looktoronto.com",
 
+"secure.logmein.com",
 
 
-  ".lotsawahouse.org\/tibetan-masters\/fourteenth-dalai-lama",
 
+"||secure.logmein.com",
 
 
-  ".lotuslight.org.hk",
 
+".londonchinese.ca",
 
 
-  ".lotuslight.org.tw",
 
+".longhair.hk",
 
 
-  "hkreporter.loved.hk",
 
+"longmusic.com",
 
 
-  "||lpsg.com",
 
+"||longtermly.net",
 
 
-  "||lrfz.com",
 
+"||lookpic.com",
 
 
-  ".lrip.org",
 
+".looktoronto.com",
 
 
-  "||lrip.org",
 
+"|http:\/\/looktoronto.com",
 
 
-  ".lsd.org.hk",
 
+".lotsawahouse.org\/tibetan-masters\/fourteenth-dalai-lama",
 
 
-  "||lsd.org.hk",
 
+".lotuslight.org.hk",
 
 
-  "lsforum.net",
 
+".lotuslight.org.tw",
 
 
-  ".lsm.org",
 
+"hkreporter.loved.hk",
 
 
-  "||lsm.org",
 
+"||lpsg.com",
 
 
-  ".lsmchinese.org",
 
+"||lrfz.com",
 
 
-  "||lsmchinese.org",
 
+".lrip.org",
 
 
-  ".lsmkorean.org",
 
+"||lrip.org",
 
 
-  "||lsmkorean.org",
 
+".lsd.org.hk",
 
 
-  ".lsmradio.com\/rad_archives",
 
+"||lsd.org.hk",
 
 
-  ".lsmwebcast.com",
 
+"lsforum.net",
 
 
-  ".ltn.com.tw",
 
+".lsm.org",
 
 
-  "||ltn.com.tw",
 
+"||lsm.org",
 
 
-  ".luke54.com",
 
+".lsmchinese.org",
 
 
-  ".luke54.org",
 
+"||lsmchinese.org",
 
 
-  ".lupm.org",
 
+".lsmkorean.org",
 
 
-  "||lupm.org",
 
+"||lsmkorean.org",
 
 
-  "||lushstories.com",
 
+".lsmradio.com\/rad_archives",
 
 
-  "luxebc.com",
 
+".lsmwebcast.com",
 
 
-  "lvhai.org",
 
+".ltn.com.tw",
 
 
-  "||lvhai.org",
 
+"||ltn.com.tw",
 
 
-  "||lvv2.com",
 
+".luke54.com",
 
 
-  ".lyfhk.net",
 
+".luke54.org",
 
 
-  "|http:\/\/lyfhk.net",
 
+".lupm.org",
 
 
-  ".lzmtnews.org",
 
+"||lupm.org",
 
 
-  "||lzmtnews.org",
 
+"||lushstories.com",
 
 
-  "http:\/\/*.m-team.cc",
 
+"luxebc.com",
 
 
-  ".macrovpn.com",
 
+"lvhai.org",
 
 
-  "macts.com.tw",
 
+"||lvhai.org",
 
 
-  "||mad-ar.ch",
 
+"||lvv2.com",
 
 
-  "||madrau.com",
 
+".lyfhk.net",
 
 
-  "||madthumbs.com",
 
+"|http:\/\/lyfhk.net",
 
 
-  "||magic-net.info",
 
+".lzmtnews.org",
 
 
-  "mahabodhi.org",
 
+"||lzmtnews.org",
 
 
-  "my.mail.ru",
 
+"http:\/\/*.m-team.cc",
 
 
-  ".maiplus.com",
 
+".macrovpn.com",
 
 
-  "|http:\/\/maiplus.com",
 
+"macts.com.tw",
 
 
-  ".maizhong.org",
 
+"||mad-ar.ch",
 
 
-  "makkahnewspaper.com",
 
+"||madrau.com",
 
 
-  ".mamingzhe.com",
 
+"||madthumbs.com",
 
 
-  "manicur4ik.ru",
 
+"||magic-net.info",
 
 
-  ".maplew.com",
 
+"mahabodhi.org",
 
 
-  "|http:\/\/maplew.com",
 
+"my.mail.ru",
 
 
-  "||marc.info",
 
+".maiplus.com",
 
 
-  "marguerite.su",
 
+"|http:\/\/maiplus.com",
 
 
-  "||martincartoons.com",
 
+".maizhong.org",
 
 
-  "maskedip.com",
 
+"makkahnewspaper.com",
 
 
-  ".maiio.net",
 
+".mamingzhe.com",
 
 
-  ".mail-archive.com",
 
+"manicur4ik.ru",
 
 
-  ".malaysiakini.com",
 
+".maplew.com",
 
 
-  "||makemymood.com",
 
+"|http:\/\/maplew.com",
 
 
-  ".manchukuo.net",
 
+"||marc.info",
 
 
-  ".maniash.com",
 
+"marguerite.su",
 
 
-  "|http:\/\/maniash.com",
 
+"||martincartoons.com",
 
 
-  ".mansion.com",
 
+"maskedip.com",
 
 
-  ".mansionpoker.com",
 
+".maiio.net",
 
 
-  "||martau.com",
 
+".mail-archive.com",
 
 
-  "|http:\/\/blog.martinoei.com",
 
+".malaysiakini.com",
 
 
-  ".martsangkagyuofficial.org",
 
+"||makemymood.com",
 
 
-  "|http:\/\/martsangkagyuofficial.org",
 
+".manchukuo.net",
 
 
-  "maruta.be\/forget",
 
+".maniash.com",
 
 
-  ".marxist.com",
 
+"|http:\/\/maniash.com",
 
 
-  "||marxist.net",
 
+".mansion.com",
 
 
-  ".marxists.org\/chinese",
 
+".mansionpoker.com",
 
 
-  "||matainja.com",
 
+"||martau.com",
 
 
-  "||mathable.io",
 
+"|http:\/\/blog.martinoei.com",
 
 
-  "||mathiew-badimon.com",
 
+".martsangkagyuofficial.org",
 
 
-  "||matsushimakaede.com",
 
+"|http:\/\/martsangkagyuofficial.org",
 
 
-  "|http:\/\/maturejp.com",
 
+"maruta.be\/forget",
 
 
-  "mayimayi.com",
 
+".marxist.com",
 
 
-  ".maxing.jp",
 
+"||marxist.net",
 
 
-  ".mcaf.ee",
 
+".marxists.org\/chinese",
 
 
-  "|http:\/\/mcaf.ee",
 
+"||matainja.com",
 
 
-  "||mcadforums.com",
 
+"||mathable.io",
 
 
-  "mcfog.com",
 
+"||mathiew-badimon.com",
 
 
-  "mcreasite.com",
 
+"||matsushimakaede.com",
 
 
-  ".md-t.org",
 
+"|http:\/\/maturejp.com",
 
 
-  "||md-t.org",
 
+"mayimayi.com",
 
 
-  "||meansys.com",
 
+".maxing.jp",
 
 
-  ".media.org.hk",
 
+".mcaf.ee",
 
 
-  ".mediachinese.com",
 
+"|http:\/\/mcaf.ee",
 
 
-  "||mediachinese.com",
 
+"||mcadforums.com",
 
 
-  ".mediafire.com\/?",
 
+"mcfog.com",
 
 
-  ".mediafire.com\/download",
 
+"mcreasite.com",
 
 
-  ".mediafreakcity.com",
 
+".md-t.org",
 
 
-  "||mediafreakcity.com",
 
+"||md-t.org",
 
 
-  ".medium.com",
 
+"||meansys.com",
 
 
-  "||medium.com",
 
+".media.org.hk",
 
 
-  ".meetav.com",
 
+".mediachinese.com",
 
 
-  "||meetup.com",
 
+"||mediachinese.com",
 
 
-  "mefeedia.com",
 
+".mediafire.com\/?",
 
 
-  "jihadintel.meforum.org",
 
+".mediafire.com\/download",
 
 
-  "||mega.nz",
 
+".mediafreakcity.com",
 
 
-  "||megaproxy.com",
 
+"||mediafreakcity.com",
 
 
-  "||megarotic.com",
 
+".medium.com",
 
 
-  "megavideo.com",
 
+"||medium.com",
 
 
-  "||megurineluka.com",
 
+".meetav.com",
 
 
-  "meirixiaochao.com",
 
+"||meetup.com",
 
 
-  ".meltoday.com",
 
+"mefeedia.com",
 
 
-  ".memehk.com",
 
+"jihadintel.meforum.org",
 
 
-  "||memehk.com",
 
+"||mega.nz",
 
 
-  "memorybbs.com",
 
+"||megaproxy.com",
 
 
-  ".memri.org",
 
+"||megarotic.com",
 
 
-  ".memrijttm.org",
 
+"megavideo.com",
 
 
-  ".mercyprophet.org",
 
+"||megurineluka.com",
 
 
-  "|http:\/\/mercyprophet.org",
 
+"meirixiaochao.com",
 
 
-  "||mergersandinquisitions.org",
 
+".meltoday.com",
 
 
-  ".meridian-trust.org",
 
+".memehk.com",
 
 
-  "|http:\/\/meridian-trust.org",
 
+"||memehk.com",
 
 
-  ".meripet.biz",
 
+"memorybbs.com",
 
 
-  "|http:\/\/meripet.biz",
 
+".memri.org",
 
 
-  ".meripet.com",
 
+".memrijttm.org",
 
 
-  "|http:\/\/meripet.com",
 
+".mercyprophet.org",
 
 
-  "merit-times.com.tw",
 
+"|http:\/\/mercyprophet.org",
 
 
-  "meshrep.com",
 
+"||mergersandinquisitions.org",
 
 
-  ".mesotw.com\/bbs",
 
+".meridian-trust.org",
 
 
-  "metacafe.com\/watch",
 
+"|http:\/\/meridian-trust.org",
 
 
-  "||meteorshowersonline.com",
 
+".meripet.biz",
 
 
-  "|http:\/\/www.metro.taipei\/",
 
+"|http:\/\/meripet.biz",
 
 
-  ".metrohk.com.hk\/?cmd=detail&categoryID=2",
 
+".meripet.com",
 
 
-  "||metrolife.ca",
 
+"|http:\/\/meripet.com",
 
 
-  ".metroradio.com.hk",
 
+"merit-times.com.tw",
 
 
-  "|http:\/\/metroradio.com.hk",
 
+"meshrep.com",
 
 
-  "meyou.jp",
 
+".mesotw.com\/bbs",
 
 
-  ".meyul.com",
 
+"metacafe.com\/watch",
 
 
-  "||mgoon.com",
 
+"||meteorshowersonline.com",
 
 
-  "||mgstage.com",
 
+"|http:\/\/www.metro.taipei\/",
 
 
-  "||mh4u.org",
 
+".metrohk.com.hk\/?cmd=detail&categoryID=2",
 
 
-  "mhradio.org",
 
+"||metrolife.ca",
 
 
-  "|http:\/\/michaelanti.com",
 
+".metroradio.com.hk",
 
 
-  "||michaelmarketl.com",
 
+"|http:\/\/metroradio.com.hk",
 
 
-  "|http:\/\/bbs.mikocon.com",
 
+"meyou.jp",
 
 
-  ".microvpn.com",
 
+".meyul.com",
 
 
-  "|http:\/\/microvpn.com",
 
+"||mgoon.com",
 
 
-  "middle-way.net",
 
+"||mgstage.com",
 
 
-  ".mihk.hk\/forum",
 
+"||mh4u.org",
 
 
-  ".mihr.com",
 
+"mhradio.org",
 
 
-  "mihua.org",
 
+"|http:\/\/michaelanti.com",
 
 
-  "||mikesoltys.com",
 
+"||michaelmarketl.com",
 
 
-  ".milph.net",
 
+"|http:\/\/bbs.mikocon.com",
 
 
-  "|http:\/\/milph.net",
 
+".microvpn.com",
 
 
-  ".milsurps.com",
 
+"|http:\/\/microvpn.com",
 
 
-  "mimiai.net",
 
+"middle-way.net",
 
 
-  ".mimivip.com",
 
+".mihk.hk\/forum",
 
 
-  ".mimivv.com",
 
+".mihr.com",
 
 
-  ".mindrolling.org",
 
+"mihua.org",
 
 
-  "|http:\/\/mindrolling.org",
 
+"||mikesoltys.com",
 
 
-  ".minghui.or.kr",
 
+".milph.net",
 
 
-  "|http:\/\/minghui.or.kr",
 
+"|http:\/\/milph.net",
 
 
-  "minghui.org",
 
+".milsurps.com",
 
 
-  "||minghui.org",
 
+"mimiai.net",
 
 
-  "minghui-a.org",
 
+".mimivip.com",
 
 
-  "minghui-b.org",
 
+".mimivv.com",
 
 
-  "minghui-school.org",
 
+".mindrolling.org",
 
 
-  ".mingjinglishi.com",
 
+"|http:\/\/mindrolling.org",
 
 
-  "||mingjinglishi.com",
 
+".minghui.or.kr",
 
 
-  "mingjingnews.com",
 
+"|http:\/\/minghui.or.kr",
 
 
-  "||mingjingtimes.com",
 
+"minghui.org",
 
 
-  ".mingpao.com",
 
+"||minghui.org",
 
 
-  "||mingpao.com",
 
+"minghui-a.org",
 
 
-  ".mingpaocanada.com",
 
+"minghui-b.org",
 
 
-  ".mingpaomonthly.com",
 
+"minghui-school.org",
 
 
-  "|http:\/\/mingpaomonthly.com",
 
+".mingjinglishi.com",
 
 
-  "mingpaonews.com",
 
+"||mingjinglishi.com",
 
 
-  ".mingpaony.com",
 
+"mingjingnews.com",
 
 
-  ".mingpaosf.com",
 
+"||mingjingtimes.com",
 
 
-  ".mingpaotor.com",
 
+".mingpao.com",
 
 
-  ".mingpaovan.com",
 
+"||mingpao.com",
 
 
-  ".mingshengbao.com",
 
+".mingpaocanada.com",
 
 
-  ".minhhue.net",
 
+".mingpaomonthly.com",
 
 
-  ".miniforum.org",
 
+"|http:\/\/mingpaomonthly.com",
 
 
-  ".ministrybooks.org",
 
+"mingpaonews.com",
 
 
-  ".minzhuhua.net",
 
+".mingpaony.com",
 
 
-  "||minzhuhua.net",
 
+".mingpaosf.com",
 
 
-  "minzhuzhanxian.com",
 
+".mingpaotor.com",
 
 
-  "minzhuzhongguo.org",
 
+".mingpaovan.com",
 
 
-  "||miroguide.com",
 
+".mingshengbao.com",
 
 
-  "mirrorbooks.com",
 
+".minhhue.net",
 
 
-  ".mist.vip",
 
+".miniforum.org",
 
 
-  "thecenter.mit.edu",
 
+".ministrybooks.org",
 
 
-  ".mitao.com.tw",
 
+".minzhuhua.net",
 
 
-  ".mitbbs.com",
 
+"||minzhuhua.net",
 
 
-  "||mitbbs.com",
 
+"minzhuzhanxian.com",
 
 
-  "mitbbsau.com",
 
+"minzhuzhongguo.org",
 
 
-  ".mixero.com",
 
+"||miroguide.com",
 
 
-  "||mixero.com",
 
+"mirrorbooks.com",
 
 
-  "mixpod.com",
 
+".mist.vip",
 
 
-  ".mixx.com",
 
+"thecenter.mit.edu",
 
 
-  "||mixx.com",
 
+".mitao.com.tw",
 
 
-  "||mizzmona.com",
 
+".mitbbs.com",
 
 
-  ".mk5000.com",
 
+"||mitbbs.com",
 
 
-  ".mlcool.com",
 
+"mitbbsau.com",
 
 
-  "||mlzs.work",
 
+".mixero.com",
 
 
-  ".mm-cg.com",
 
+"||mixero.com",
 
 
-  "||mmaaxx.com",
 
+"mixpod.com",
 
 
-  ".mmmca.com",
 
+".mixx.com",
 
 
-  "mnewstv.com",
 
+"||mixx.com",
 
 
-  "||mobatek.net",
 
+"||mizzmona.com",
 
 
-  ".mobile01.com",
 
+".mk5000.com",
 
 
-  "||mobile01.com",
 
+".mlcool.com",
 
 
-  "||mobileways.de",
 
+"||mlzs.work",
 
 
-  ".mobypicture.com",
 
+".mm-cg.com",
 
 
-  "|http:\/\/moby.to",
 
+"||mmaaxx.com",
 
 
-  "||moeerolibrary.com",
 
+".mmmca.com",
 
 
-  "wiki.moegirl.org",
 
+"mnewstv.com",
 
 
-  ".mofaxiehui.com",
 
+"||mobatek.net",
 
 
-  ".mofos.com",
 
+".mobile01.com",
 
 
-  "||mog.com",
 
+"||mobile01.com",
 
 
-  "molihua.org",
 
+"||mobileways.de",
 
 
-  "||mondex.org",
 
+".mobypicture.com",
 
 
-  ".money-link.com.tw",
 
+"|http:\/\/moby.to",
 
 
-  "|http:\/\/money-link.com.tw",
 
+"||moeerolibrary.com",
 
 
-  "|http:\/\/www.monlamit.org",
 
+"wiki.moegirl.org",
 
 
-  ".moonbbs.com",
 
+".mofaxiehui.com",
 
 
-  "||moonbbs.com",
 
+".mofos.com",
 
 
-  "c1522.mooo.com",
 
+"||mog.com",
 
 
-  "||monitorchina.org",
 
+"molihua.org",
 
 
-  "bbs.morbell.com",
 
+"||mondex.org",
 
 
-  "||morningsun.org",
 
+".money-link.com.tw",
 
 
-  "||moroneta.com",
 
+"|http:\/\/money-link.com.tw",
 
 
-  ".motherless.com",
 
+"|http:\/\/www.monlamit.org",
 
 
-  "|http:\/\/motherless.com",
 
+".moonbbs.com",
 
 
-  "motor4ik.ru",
 
+"||moonbbs.com",
 
 
-  ".mousebreaker.com",
 
+"c1522.mooo.com",
 
 
-  ".movements.org",
 
+"||monitorchina.org",
 
 
-  "||movements.org",
 
+"bbs.morbell.com",
 
 
-  "||moviefap.com",
 
+"||morningsun.org",
 
 
-  "||www.moztw.org",
 
+"||moroneta.com",
 
 
-  ".mp3buscador.com",
 
+".motherless.com",
 
 
-  "mp3ye.eu",
 
+"|http:\/\/motherless.com",
 
 
-  "||mpettis.com",
 
+"motor4ik.ru",
 
 
-  "mpfinance.com",
 
+".mousebreaker.com",
 
 
-  "mpinews.com",
 
+".movements.org",
 
 
-  "mponline.hk",
 
+"||movements.org",
 
 
-  ".mqxd.org",
 
+"||moviefap.com",
 
 
-  "|http:\/\/mqxd.org",
 
+"||www.moztw.org",
 
 
-  "mrtweet.com",
 
+".mp3buscador.com",
 
 
-  "||mrtweet.com",
 
+"mp3ye.eu",
 
 
-  "news.hk.msn.com",
 
+"||mpettis.com",
 
 
-  "news.msn.com.tw",
 
+"mpfinance.com",
 
 
-  "msguancha.com",
 
+"mpinews.com",
 
 
-  ".mswe1.org",
 
+"mponline.hk",
 
 
-  "|http:\/\/mswe1.org",
 
+".mqxd.org",
 
 
-  "||mthruf.com",
 
+"|http:\/\/mqxd.org",
 
 
-  "muchosucko.com",
 
+"mrtweet.com",
 
 
-  "||multiply.com",
 
+"||mrtweet.com",
 
 
-  "multiproxy.org",
 
+"news.hk.msn.com",
 
 
-  "multiupload.com",
 
+"news.msn.com.tw",
 
 
-  ".mullvad.net",
 
+"msguancha.com",
 
 
-  "||mullvad.net",
 
+".mswe1.org",
 
 
-  ".mummysgold.com",
 
+"|http:\/\/mswe1.org",
 
 
-  ".murmur.tw",
 
+"||mthruf.com",
 
 
-  "|http:\/\/murmur.tw",
 
+"muchosucko.com",
 
 
-  ".musicade.net",
 
+"||multiply.com",
 
 
-  ".muslimvideo.com",
 
+"multiproxy.org",
 
 
-  "||muzi.com",
 
+"multiupload.com",
 
 
-  "||muzi.net",
 
+".mullvad.net",
 
 
-  "||mx981.com",
 
+"||mullvad.net",
 
 
-  ".my-formosa.com",
 
+".mummysgold.com",
 
 
-  ".my-proxy.com",
 
+".murmur.tw",
 
 
-  ".my-private-network.co.uk",
 
+"|http:\/\/murmur.tw",
 
 
-  "||my-private-network.co.uk",
 
+".musicade.net",
 
 
-  "forum.my903.com",
 
+".muslimvideo.com",
 
 
-  ".myactimes.com\/actimes",
 
+"||muzi.com",
 
 
-  "||myanniu.com",
 
+"||muzi.net",
 
 
-  ".myaudiocast.com",
 
+"||mx981.com",
 
 
-  "||myaudiocast.com",
 
+".my-formosa.com",
 
 
-  ".myav.com.tw\/bbs",
 
+".my-proxy.com",
 
 
-  ".mybbs.us",
 
+".my-private-network.co.uk",
 
 
-  ".myca168.com",
 
+"||my-private-network.co.uk",
 
 
-  ".mycanadanow.com",
 
+"forum.my903.com",
 
 
-  "||bbs.mychat.to",
 
+".myactimes.com\/actimes",
 
 
-  "||mychinamyhome.com",
 
+"||myanniu.com",
 
 
-  ".mychinamyhome.com",
 
+".myaudiocast.com",
 
 
-  ".mychinanet.com",
 
+"||myaudiocast.com",
 
 
-  ".mychinanews.com",
 
+".myav.com.tw\/bbs",
 
 
-  "||mychinanews.com",
 
+".mybbs.us",
 
 
-  ".mychinese.news",
 
+".myca168.com",
 
 
-  "||mycnnews.com",
 
+".mycanadanow.com",
 
 
-  "||mykomica.org",
 
+"||bbs.mychat.to",
 
 
-  "mycould.com\/discuz",
 
+"||mychinamyhome.com",
 
 
-  ".myeasytv.com",
 
+".mychinamyhome.com",
 
 
-  "||myeclipseide.com",
 
+".mychinanet.com",
 
 
-  ".myforum.com.hk",
 
+".mychinanews.com",
 
 
-  "||myforum.com.hk",
 
+"||mychinanews.com",
 
 
-  "||myforum.com.uk",
 
+".mychinese.news",
 
 
-  ".myfreecams.com",
 
+"||mycnnews.com",
 
 
-  ".myfreepaysite.com",
 
+"||mykomica.org",
 
 
-  ".myfreshnet.com",
 
+"mycould.com\/discuz",
 
 
-  ".myiphide.com",
 
+".myeasytv.com",
 
 
-  "||myiphide.com",
 
+"||myeclipseide.com",
 
 
-  "forum.mymaji.com",
 
+".myforum.com.hk",
 
 
-  "mymediarom.com\/files\/box",
 
+"||myforum.com.hk",
 
 
-  "||mymoe.moe",
 
+"||myforum.com.uk",
 
 
-  "||mymusic.net.tw",
 
+".myfreecams.com",
 
 
-  "||myparagliding.com",
 
+".myfreepaysite.com",
 
 
-  "||mypopescu.com",
 
+".myfreshnet.com",
 
 
-  "myradio.hk\/podcast",
 
+".myiphide.com",
 
 
-  ".myreadingmanga.info",
 
+"||myiphide.com",
 
 
-  "mysinablog.com",
 
+"forum.mymaji.com",
 
 
-  ".myspace.com",
 
+"mymediarom.com\/files\/box",
 
 
-  "||myspacecdn.com",
 
+"||mymoe.moe",
 
 
-  ".mytalkbox.com",
 
+"||mymusic.net.tw",
 
 
-  ".mytizi.com",
 
+"||myparagliding.com",
 
 
-  "||naacoalition.org",
 
+"||mypopescu.com",
 
 
-  "old.nabble.com",
 
+"myradio.hk\/podcast",
 
 
-  "||naitik.net",
 
+".myreadingmanga.info",
 
 
-  ".nakuz.com\/bbs",
 
+"mysinablog.com",
 
 
-  "||nalandabodhi.org",
 
+".myspace.com",
 
 
-  "||nalandawest.org",
 
+"||myspacecdn.com",
 
 
-  ".namgyal.org",
 
+".mytalkbox.com",
 
 
-  "namgyalmonastery.org",
 
+".mytizi.com",
 
 
-  "||namsisi.com",
 
+"||naacoalition.org",
 
 
-  ".nanyang.com",
 
+"old.nabble.com",
 
 
-  "||nanyang.com",
 
+"||naitik.net",
 
 
-  ".nanyangpost.com",
 
+".nakuz.com\/bbs",
 
 
-  "||nanyangpost.com",
 
+"||nalandabodhi.org",
 
 
-  ".nanzao.com",
 
+"||nalandawest.org",
 
 
-  "||jpl.nasa.gov",
 
+".namgyal.org",
 
 
-  "||pds.nasa.gov",
 
+"namgyalmonastery.org",
 
 
-  "||solarsystem.nasa.gov",
 
+"||namsisi.com",
 
 
-  ".nakido.com",
 
+".nanyang.com",
 
 
-  "||nakido.com",
 
+"||nanyang.com",
 
 
-  ".naol.ca",
 
+".nanyangpost.com",
 
 
-  ".naol.cc",
 
+"||nanyangpost.com",
 
 
-  "uighur.narod.ru",
 
+".nanzao.com",
 
 
-  ".nat.moe",
 
+"||jpl.nasa.gov",
 
 
-  "||nat.moe",
 
+"||pds.nasa.gov",
 
 
-  "cyberghost.natado.com",
 
+"||solarsystem.nasa.gov",
 
 
-  "||national-lottery.co.uk",
 
+".nakido.com",
 
 
-  "news.nationalgeographic.com\/news\/2014\/06\/140603-tiananmen-square",
 
+"||nakido.com",
 
 
-  ".nationsonline.org\/oneworld\/tibet",
 
+".naol.ca",
 
 
-  "||line.naver.jp",
 
+".naol.cc",
 
 
-  "||navyfamily.navy.mil",
 
+"uighur.narod.ru",
 
 
-  "||navyreserve.navy.mil",
 
+".nat.moe",
 
 
-  "||nko.navy.mil",
 
+"||nat.moe",
 
 
-  "||usno.navy.mil",
 
+"cyberghost.natado.com",
 
 
-  "naweeklytimes.com",
 
+"||national-lottery.co.uk",
 
 
-  ".nbtvpn.com",
 
+"news.nationalgeographic.com\/news\/2014\/06\/140603-tiananmen-square",
 
 
-  "|http:\/\/nbtvpn.com",
 
+".nationsonline.org\/oneworld\/tibet",
 
 
-  "nccwatch.org.tw",
 
+"||line.naver.jp",
 
 
-  ".nch.com.tw",
 
+"||navyfamily.navy.mil",
 
 
-  ".ncn.org",
 
+"||navyreserve.navy.mil",
 
 
-  "||ncn.org",
 
+"||nko.navy.mil",
 
 
-  "||etools.ncol.com",
 
+"||usno.navy.mil",
 
 
-  ".nde.de",
 
+"naweeklytimes.com",
 
 
-  ".ndr.de",
 
+".nbtvpn.com",
 
 
-  ".ned.org",
 
+"|http:\/\/nbtvpn.com",
 
 
-  "||nekoslovakia.net",
 
+"nccwatch.org.tw",
 
 
-  "||nepusoku.com",
 
+".nch.com.tw",
 
 
-  "||net-fits.pro",
 
+".ncn.org",
 
 
-  "bbs.netbig.com",
 
+"||ncn.org",
 
 
-  ".netbirds.com",
 
+"||etools.ncol.com",
 
 
-  "netcolony.com",
 
+".nde.de",
 
 
-  "bolin.netfirms.com",
 
+".ndr.de",
 
 
-  "||netme.cc",
 
+".ned.org",
 
 
-  "netsneak.com",
 
+"||nekoslovakia.net",
 
 
-  ".network54.com",
 
+"||nepusoku.com",
 
 
-  "networkedblogs.com",
 
+"||net-fits.pro",
 
 
-  ".networktunnel.net",
 
+"bbs.netbig.com",
 
 
-  "neverforget8964.org",
 
+".netbirds.com",
 
 
-  "new-3lunch.net",
 
+"netcolony.com",
 
 
-  ".new-akiba.com",
 
+"bolin.netfirms.com",
 
 
-  ".new96.ca",
 
+"||netme.cc",
 
 
-  ".newcenturymc.com",
 
+"netsneak.com",
 
 
-  "|http:\/\/newcenturymc.com",
 
+".network54.com",
 
 
-  "newcenturynews.com",
 
+"networkedblogs.com",
 
 
-  "||newchen.com",
 
+".networktunnel.net",
 
 
-  ".newchen.com",
 
+"neverforget8964.org",
 
 
-  ".newgrounds.com",
 
+"new-3lunch.net",
 
 
-  "newipnow.com",
 
+".new-akiba.com",
 
 
-  ".newlandmagazine.com.au",
 
+".new96.ca",
 
 
-  ".newnews.ca",
 
+".newcenturymc.com",
 
 
-  "news100.com.tw",
 
+"|http:\/\/newcenturymc.com",
 
 
-  "newschinacomment.org",
 
+"newcenturynews.com",
 
 
-  ".newscn.org",
 
+"||newchen.com",
 
 
-  "||newscn.org",
 
+".newchen.com",
 
 
-  "newspeak.cc\/story",
 
+".newgrounds.com",
 
 
-  ".newsancai.com",
 
+"newipnow.com",
 
 
-  "||newsancai.com",
 
+".newlandmagazine.com.au",
 
 
-  ".newsdetox.ca",
 
+".newnews.ca",
 
 
-  ".newsdh.com",
 
+"news100.com.tw",
 
 
-  "||newstamago.com",
 
+"newschinacomment.org",
 
 
-  "||newstapa.org",
 
+".newscn.org",
 
 
-  "newstarnet.com",
 
+"||newscn.org",
 
 
-  ".newtaiwan.com.tw",
 
+"newspeak.cc\/story",
 
 
-  "newtalk.tw",
 
+".newsancai.com",
 
 
-  "||newtalk.tw",
 
+"||newsancai.com",
 
 
-  "newyorktimes.com",
 
+".newsdetox.ca",
 
 
-  "||nexon.com",
 
+".newsdh.com",
 
 
-  ".next11.co.jp",
 
+"||newstamago.com",
 
 
-  ".nextmag.com.tw",
 
+"||newstapa.org",
 
 
-  ".nextmedia.com",
 
+"newstarnet.com",
 
 
-  "||nexton-net.jp",
 
+".newtaiwan.com.tw",
 
 
-  "nexttv.com.tw",
 
+"newtalk.tw",
 
 
-  ".nfjtyd.com",
 
+"||newtalk.tw",
 
 
-  "||co.ng.mil",
 
+"newyorktimes.com",
 
 
-  "||nga.mil",
 
+"||nexon.com",
 
 
-  "ngensis.com",
 
+".next11.co.jp",
 
 
-  ".nhentai.net",
 
+".nextmag.com.tw",
 
 
-  "|http:\/\/nhentai.net",
 
+".nextmedia.com",
 
 
-  ".nhk-ondemand.jp",
 
+"||nexton-net.jp",
 
 
-  ".nicovideo.jp\/watch",
 
+"nexttv.com.tw",
 
 
-  "||nicovideo.jp",
 
+".nfjtyd.com",
 
 
-  "||nighost.org",
 
+"||co.ng.mil",
 
 
-  "av.nightlife141.com",
 
+"||nga.mil",
 
 
-  "ninecommentaries.com",
 
+"ngensis.com",
 
 
-  ".ninjacloak.com",
 
+".nhentai.net",
 
 
-  "||ninjaproxy.ninja",
 
+"|http:\/\/nhentai.net",
 
 
-  "nintendium.com",
 
+".nhk-ondemand.jp",
 
 
-  "taiwanyes.ning.com",
 
+".nicovideo.jp\/watch",
 
 
-  "usmgtcg.ning.com\/forum",
 
+"||nicovideo.jp",
 
 
-  "||niusnews.com",
 
+"||nighost.org",
 
 
-  "||njactb.org",
 
+"av.nightlife141.com",
 
 
-  "njuice.com",
 
+"ninecommentaries.com",
 
 
-  "||njuice.com",
 
+".ninjacloak.com",
 
 
-  "nlfreevpn.com",
 
+"||ninjaproxy.ninja",
 
 
-  ".ddns.net\/",
 
+"nintendium.com",
 
 
-  ".gooddns.info",
 
+"taiwanyes.ning.com",
 
 
-  "||gotdns.ch",
 
+"usmgtcg.ning.com\/forum",
 
 
-  ".maildns.xyz",
 
+"||niusnews.com",
 
 
-  ".no-ip.org",
 
+"||njactb.org",
 
 
-  ".opendn.xyz",
 
+"njuice.com",
 
 
-  ".servehttp.com",
 
+"||njuice.com",
 
 
-  "sytes.net",
 
+"nlfreevpn.com",
 
 
-  ".whodns.xyz",
 
+".ddns.net\/",
 
 
-  ".zapto.org",
 
+".gooddns.info",
 
 
-  "|http:\/\/dynupdate.no-ip.com\/",
 
+"||gotdns.ch",
 
 
-  "||nobel.se",
 
+".maildns.xyz",
 
 
-  "nobelprize.org\/nobel_prizes\/peace\/laureates\/1989",
 
+".no-ip.org",
 
 
-  "nobelprize.org\/nobel_prizes\/peace\/laureates\/2010",
 
+".opendn.xyz",
 
 
-  "nobodycanstop.us",
 
+".servehttp.com",
 
 
-  "||nobodycanstop.us",
 
+"sytes.net",
 
 
-  "||nokogiri.org",
 
+".whodns.xyz",
 
 
-  "||nokola.com",
 
+".zapto.org",
 
 
-  "noodlevpn.com",
 
+"|http:\/\/dynupdate.no-ip.com\/",
 
 
-  ".norbulingka.org",
 
+"||nobel.se",
 
 
-  "nordvpn.com",
 
+"nobelprize.org\/nobel_prizes\/peace\/laureates\/1989",
 
 
-  "||nordvpn.com",
 
+"nobelprize.org\/nobel_prizes\/peace\/laureates\/2010",
 
 
-  "||novelasia.com",
 
+"nobodycanstop.us",
 
 
-  ".news.now.com",
 
+"||nobodycanstop.us",
 
 
-  "|http:\/\/news.now.com",
 
+"||nokogiri.org",
 
 
-  "news.now.com%2Fhome",
 
+"||nokola.com",
 
 
-  "||nownews.com",
 
+"noodlevpn.com",
 
 
-  ".nowtorrents.com",
 
+".norbulingka.org",
 
 
-  ".noypf.com",
 
+"nordvpn.com",
 
 
-  "||noypf.com",
 
+"||nordvpn.com",
 
 
-  "||npa.go.jp",
 
+"||novelasia.com",
 
 
-  ".npnt.me",
 
+".news.now.com",
 
 
-  "|http:\/\/npnt.me",
 
+"|http:\/\/news.now.com",
 
 
-  ".nps.gov",
 
+"news.now.com%2Fhome",
 
 
-  ".nradio.me",
 
+"||nownews.com",
 
 
-  "|http:\/\/nradio.me",
 
+".nowtorrents.com",
 
 
-  ".nrk.no",
 
+".noypf.com",
 
 
-  "||nrk.no",
 
+"||noypf.com",
 
 
-  ".ntd.tv",
 
+"||npa.go.jp",
 
 
-  "||ntd.tv",
 
+".npnt.me",
 
 
-  ".ntdtv.com",
 
+"|http:\/\/npnt.me",
 
 
-  "||ntdtv.com",
 
+".nps.gov",
 
 
-  ".ntdtv.co.kr",
 
+".nradio.me",
 
 
-  "ntdtv.ca",
 
+"|http:\/\/nradio.me",
 
 
-  "ntdtv.org",
 
+".nrk.no",
 
 
-  "ntdtv.ru",
 
+"||nrk.no",
 
 
-  "ntdtvla.com",
 
+".ntd.tv",
 
 
-  ".ntrfun.com",
 
+"||ntd.tv",
 
 
-  "||cbs.ntu.edu.tw",
 
+".ntdtv.com",
 
 
-  "||media.nu.nl",
 
+"||ntdtv.com",
 
 
-  ".nubiles.net",
 
+".ntdtv.co.kr",
 
 
-  "||nuexpo.com",
 
+"ntdtv.ca",
 
 
-  ".nukistream.com",
 
+"ntdtv.org",
 
 
-  "||nurgo-software.com",
 
+"ntdtv.ru",
 
 
-  "||nutaku.net",
 
+"ntdtvla.com",
 
 
-  ".nuvid.com",
 
+".ntrfun.com",
 
 
-  "||nvdst.com",
 
+"||cbs.ntu.edu.tw",
 
 
-  "nuzcom.com",
 
+"||media.nu.nl",
 
 
-  ".nvquan.org",
 
+".nubiles.net",
 
 
-  ".nvtongzhisheng.org",
 
+"||nuexpo.com",
 
 
-  "|http:\/\/nvtongzhisheng.org",
 
+".nukistream.com",
 
 
-  ".nwtca.org",
 
+"||nurgo-software.com",
 
 
-  "|http:\/\/nyaa.eu",
 
+"||nutaku.net",
 
 
-  "||nyaa.si",
 
+".nuvid.com",
 
 
-  ".nydus.ca",
 
+"||nvdst.com",
 
 
-  "nylon-angel.com",
 
+"nuzcom.com",
 
 
-  "nylonstockingsonline.com",
 
+".nvquan.org",
 
 
-  ".nzchinese.com",
 
+".nvtongzhisheng.org",
 
 
-  "||nzchinese.net.nz",
 
+"|http:\/\/nvtongzhisheng.org",
 
 
-  "observechina.net",
 
+".nwtca.org",
 
 
-  ".obutu.com",
 
+"|http:\/\/nyaa.eu",
 
 
-  "ocaspro.com",
 
+"||nyaa.si",
 
 
-  "occupytiananmen.com",
 
+".nydus.ca",
 
 
-  "oclp.hk",
 
+"nylon-angel.com",
 
 
-  ".ocreampies.com",
 
+"nylonstockingsonline.com",
 
 
-  "||october-review.org",
 
+".nzchinese.com",
 
 
-  "offbeatchina.com",
 
+"||nzchinese.net.nz",
 
 
-  "officeoftibet.com",
 
+"observechina.net",
 
 
-  "|http:\/\/ofile.org",
 
+".obutu.com",
 
 
-  "||ogaoga.org",
 
+"ocaspro.com",
 
 
-  "twtr2src.ogaoga.org",
 
+"occupytiananmen.com",
 
 
-  ".ogate.org",
 
+"oclp.hk",
 
 
-  "||ogate.org",
 
+".ocreampies.com",
 
 
-  "www2.ohchr.org\/english\/bodies\/cat\/docs\/ngos\/II_China_41.pdf",
 
+"||october-review.org",
 
 
-  ".oikos.com.tw\/v4",
 
+"offbeatchina.com",
 
 
-  ".oiktv.com",
 
+"officeoftibet.com",
 
 
-  "oizoblog.com",
 
+"|http:\/\/ofile.org",
 
 
-  ".ok.ru",
 
+"||ogaoga.org",
 
 
-  "||ok.ru",
 
+"twtr2src.ogaoga.org",
 
 
-  ".okayfreedom.com",
 
+".ogate.org",
 
 
-  "||okayfreedom.com",
 
+"||ogate.org",
 
 
-  "okk.tw",
 
+"www2.ohchr.org\/english\/bodies\/cat\/docs\/ngos\/II_China_41.pdf",
 
 
-  "|http:\/\/filmy.olabloga.pl\/player",
 
+".oikos.com.tw\/v4",
 
 
-  "old-cat.net",
 
+".oiktv.com",
 
 
-  "||olumpo.com",
 
+"oizoblog.com",
 
 
-  ".olympicwatch.org",
 
+".ok.ru",
 
 
-  "omgili.com",
 
+"||ok.ru",
 
 
-  "||omnitalk.com",
 
+".okayfreedom.com",
 
 
-  "||omnitalk.org",
 
+"||okayfreedom.com",
 
 
-  "cling.omy.sg",
 
+"okk.tw",
 
 
-  "forum.omy.sg",
 
+"|http:\/\/filmy.olabloga.pl\/player",
 
 
-  "news.omy.sg",
 
+"old-cat.net",
 
 
-  "showbiz.omy.sg",
 
+"||olumpo.com",
 
 
-  "||on.cc",
 
+".olympicwatch.org",
 
 
-  "||onedrive.live.com",
 
+"omgili.com",
 
 
-  "||onion.city",
 
+"||omnitalk.com",
 
 
-  ".onlinecha.com",
 
+"||omnitalk.org",
 
 
-  "||onlineyoutube.com",
 
+"cling.omy.sg",
 
 
-  ".onlytweets.com",
 
+"forum.omy.sg",
 
 
-  "|http:\/\/onlytweets.com",
 
+"news.omy.sg",
 
 
-  "onmoon.net",
 
+"showbiz.omy.sg",
 
 
-  "onmoon.com",
 
+"||on.cc",
 
 
-  ".onthehunt.com",
 
+"||onedrive.live.com",
 
 
-  "|http:\/\/onthehunt.com",
 
+"||onion.city",
 
 
-  ".oopsforum.com",
 
+".onlinecha.com",
 
 
-  "open.com.hk",
 
+"||onlineyoutube.com",
 
 
-  "openallweb.com",
 
+".onlytweets.com",
 
 
-  "opendemocracy.net",
 
+"|http:\/\/onlytweets.com",
 
 
-  "||opendemocracy.net",
 
+"onmoon.net",
 
 
-  ".openervpn.in",
 
+"onmoon.com",
 
 
-  "openid.net",
 
+".onthehunt.com",
 
 
-  "||openid.net",
 
+"|http:\/\/onthehunt.com",
 
 
-  ".openleaks.org",
 
+".oopsforum.com",
 
 
-  "||openleaks.org",
 
+"open.com.hk",
 
 
-  "openvpn.net",
 
+"openallweb.com",
 
 
-  "||openvpn.net",
 
+"opendemocracy.net",
 
 
-  "||openwebster.com",
 
+"||opendemocracy.net",
 
 
-  ".openwrt.org.cn",
 
+".openervpn.in",
 
 
-  "@@||openwrt.org.cn",
 
+"openid.net",
 
 
-  "my.opera.com\/dahema",
 
+"||openid.net",
 
 
-  "||demo.opera-mini.net",
 
+".openleaks.org",
 
 
-  ".opus-gaming.com",
 
+"||openleaks.org",
 
 
-  "|http:\/\/opus-gaming.com",
 
+"openvpn.net",
 
 
-  "www.orchidbbs.com",
 
+"||openvpn.net",
 
 
-  ".organcare.org.tw",
 
+"||openwebster.com",
 
 
-  "organharvestinvestigation.net",
 
+".openwrt.org.cn",
 
 
-  ".orgasm.com",
 
+"@@||openwrt.org.cn",
 
 
-  ".orgfree.com",
 
+"my.opera.com\/dahema",
 
 
-  "||orient-doll.com",
 
+"||demo.opera-mini.net",
 
 
-  "orientaldaily.com.my",
 
+".opus-gaming.com",
 
 
-  "||orientaldaily.com.my",
 
+"|http:\/\/opus-gaming.com",
 
 
-  "||orn.jp",
 
+"www.orchidbbs.com",
 
 
-  "t.orzdream.com",
 
+".organcare.org.tw",
 
 
-  "||t.orzdream.com",
 
+"organharvestinvestigation.net",
 
 
-  "tui.orzdream.com",
 
+".orgasm.com",
 
 
-  "||orzistic.org",
 
+".orgfree.com",
 
 
-  "||osfoora.com",
 
+"||orient-doll.com",
 
 
-  ".otnd.org",
 
+"orientaldaily.com.my",
 
 
-  "||otnd.org",
 
+"||orientaldaily.com.my",
 
 
-  "||otto.de",
 
+"||orn.jp",
 
 
-  "||ourdearamy.com",
 
+"t.orzdream.com",
 
 
-  "oursogo.com",
 
+"||t.orzdream.com",
 
 
-  ".oursteps.com.au",
 
+"tui.orzdream.com",
 
 
-  "||oursteps.com.au",
 
+"||orzistic.org",
 
 
-  ".oursweb.net",
 
+"||osfoora.com",
 
 
-  "||ourtv.hk",
 
+".otnd.org",
 
 
-  "xinqimeng.over-blog.com",
 
+"||otnd.org",
 
 
-  "||overplay.net",
 
+"||otto.de",
 
 
-  "share.ovi.com\/media",
 
+"||ourdearamy.com",
 
 
-  "|http:\/\/owl.li",
 
+"oursogo.com",
 
 
-  "|http:\/\/ht.ly",
 
+".oursteps.com.au",
 
 
-  "|http:\/\/htl.li",
 
+"||oursteps.com.au",
 
 
-  "|http:\/\/mash.to",
 
+".oursweb.net",
 
 
-  "www.owind.com",
 
+"||ourtv.hk",
 
 
-  "|http:\/\/www.oxid.it",
 
+"xinqimeng.over-blog.com",
 
 
-  "oyax.com",
 
+"||overplay.net",
 
 
-  "oyghan.com\/wps",
 
+"share.ovi.com\/media",
 
 
-  ".ozchinese.com\/bbs",
 
+"|http:\/\/owl.li",
 
 
-  "||ow.ly",
 
+"|http:\/\/ht.ly",
 
 
-  "bbs.ozchinese.com",
 
+"|http:\/\/htl.li",
 
 
-  ".ozvoice.org",
 
+"|http:\/\/mash.to",
 
 
-  "||ozvoice.org",
 
+"www.owind.com",
 
 
-  ".ozxw.com",
 
+"|http:\/\/www.oxid.it",
 
 
-  ".ozyoyo.com",
 
+"oyax.com",
 
 
-  "||pachosting.com",
 
+"oyghan.com\/wps",
 
 
-  ".pacificpoker.com",
 
+".ozchinese.com\/bbs",
 
 
-  ".packetix.net",
 
+"||ow.ly",
 
 
-  "||pacopacomama.com",
 
+"bbs.ozchinese.com",
 
 
-  ".padmanet.com",
 
+".ozvoice.org",
 
 
-  "page2rss.com",
 
+"||ozvoice.org",
 
 
-  "||pagodabox.com",
 
+".ozxw.com",
 
 
-  ".palacemoon.com",
 
+".ozyoyo.com",
 
 
-  "forum.palmislife.com",
 
+"||pachosting.com",
 
 
-  "||eriversoft.com",
 
+".pacificpoker.com",
 
 
-  ".paldengyal.com",
 
+".packetix.net",
 
 
-  "paljorpublications.com",
 
+"||pacopacomama.com",
 
 
-  ".paltalk.com",
 
+".padmanet.com",
 
 
-  "||pandapow.co",
 
+"page2rss.com",
 
 
-  ".pandapow.net",
 
+"||pagodabox.com",
 
 
-  ".pandavpn-jp.com",
 
+".palacemoon.com",
 
 
-  ".panluan.net",
 
+"forum.palmislife.com",
 
 
-  "||panluan.net",
 
+"||eriversoft.com",
 
 
-  "||pao-pao.net",
 
+".paldengyal.com",
 
 
-  "paper.li",
 
+"paljorpublications.com",
 
 
-  "paperb.us",
 
+".paltalk.com",
 
 
-  ".paradisehill.cc",
 
+"||pandapow.co",
 
 
-  ".paradisepoker.com",
 
+".pandapow.net",
 
 
-  ".partycasino.com",
 
+".pandavpn-jp.com",
 
 
-  ".partypoker.com",
 
+".panluan.net",
 
 
-  ".passion.com",
 
+"||panluan.net",
 
 
-  "||passion.com",
 
+"||pao-pao.net",
 
 
-  ".passiontimes.hk",
 
+"paper.li",
 
 
-  "pastebin.com",
 
+"paperb.us",
 
 
-  ".pastie.org",
 
+".paradisehill.cc",
 
 
-  "||pastie.org",
 
+".paradisepoker.com",
 
 
-  "||blog.pathtosharepoint.com",
 
+".partycasino.com",
 
 
-  "pbs.org\/wgbh\/pages\/frontline\/gate",
 
+".partypoker.com",
 
 
-  "pbs.org\/wgbh\/pages\/frontline\/tankman",
 
+".passion.com",
 
 
-  "pbs.org\/wgbh\/pages\/frontline\/tibet",
 
+"||passion.com",
 
 
-  "video.pbs.org",
 
+".passiontimes.hk",
 
 
-  "pbwiki.com",
 
+"pastebin.com",
 
 
-  "||pbworks.com",
 
+".pastie.org",
 
 
-  "||developers.box.net",
 
+"||pastie.org",
 
 
-  "||wiki.oauth.net",
 
+"||blog.pathtosharepoint.com",
 
 
-  "||wiki.phonegap.com",
 
+"pbs.org\/wgbh\/pages\/frontline\/gate",
 
 
-  "||wiki.jqueryui.com",
 
+"pbs.org\/wgbh\/pages\/frontline\/tankman",
 
 
-  "||pbxes.com",
 
+"pbs.org\/wgbh\/pages\/frontline\/tibet",
 
 
-  "||pbxes.org",
 
+"video.pbs.org",
 
 
-  "pcdvd.com.tw",
 
+"pbwiki.com",
 
 
-  ".pchome.com.tw",
 
+"||pbworks.com",
 
 
-  "|http:\/\/pcij.org",
 
+"||developers.box.net",
 
 
-  ".pcstore.com.tw",
 
+"||wiki.oauth.net",
 
 
-  "||pct.org.tw",
 
+"||wiki.phonegap.com",
 
 
-  "pdetails.com",
 
+"||wiki.jqueryui.com",
 
 
-  "||pdproxy.com",
 
+"||pbxes.com",
 
 
-  "||peace.ca",
 
+"||pbxes.org",
 
 
-  "peacefire.org",
 
+"pcdvd.com.tw",
 
 
-  "peacehall.com",
 
+".pchome.com.tw",
 
 
-  "||peacehall.com",
 
+"|http:\/\/pcij.org",
 
 
-  "|http:\/\/pearlher.org",
 
+".pcstore.com.tw",
 
 
-  ".peeasian.com",
 
+"||pct.org.tw",
 
 
-  ".pekingduck.org",
 
+"pdetails.com",
 
 
-  "||pekingduck.org",
 
+"||pdproxy.com",
 
 
-  ".pemulihan.or.id",
 
+"||peace.ca",
 
 
-  "|http:\/\/pemulihan.or.id",
 
+"peacefire.org",
 
 
-  "||pen.io",
 
+"peacehall.com",
 
 
-  "penchinese.com",
 
+"||peacehall.com",
 
 
-  "||penchinese.net",
 
+"|http:\/\/pearlher.org",
 
 
-  ".penchinese.net",
 
+".peeasian.com",
 
 
-  "pengyulong.com",
 
+".pekingduck.org",
 
 
-  "penisbot.com",
 
+"||pekingduck.org",
 
 
-  "||blog.pentalogic.net",
 
+".pemulihan.or.id",
 
 
-  ".penthouse.com",
 
+"|http:\/\/pemulihan.or.id",
 
 
-  ".pentoy.hk\/%E4%B8%AD%E5%9C%8B",
 
+"||pen.io",
 
 
-  ".pentoy.hk\/%E6%99%82%E4%BA%8B",
 
+"penchinese.com",
 
 
-  ".peoplebookcafe.com",
 
+"||penchinese.net",
 
 
-  ".peoplenews.tw",
 
+".penchinese.net",
 
 
-  "||peoplenews.tw",
 
+"pengyulong.com",
 
 
-  ".peopo.org",
 
+"penisbot.com",
 
 
-  "||peopo.org",
 
+"||blog.pentalogic.net",
 
 
-  ".percy.in",
 
+".penthouse.com",
 
 
-  ".perfectgirls.net",
 
+".pentoy.hk\/%E4%B8%AD%E5%9C%8B",
 
 
-  "perfectvpn.net",
 
+".pentoy.hk\/%E6%99%82%E4%BA%8B",
 
 
-  ".persecutionblog.com",
 
+".peoplebookcafe.com",
 
 
-  ".persiankitty.com",
 
+".peoplenews.tw",
 
 
-  "pfd.org.hk",
 
+"||peoplenews.tw",
 
 
-  "phapluan.org",
 
+".peopo.org",
 
 
-  "phayul.com",
 
+"||peopo.org",
 
 
-  "philborges.com",
 
+".percy.in",
 
 
-  "philly.com",
 
+".perfectgirls.net",
 
 
-  "||phncdn.com",
 
+"perfectvpn.net",
 
 
-  "||photodharma.net",
 
+".persecutionblog.com",
 
 
-  "||photofocus.com",
 
+".persiankitty.com",
 
 
-  "||phuquocservices.com",
 
+"pfd.org.hk",
 
 
-  "||picacomiccn.com",
 
+"phapluan.org",
 
 
-  ".picidae.net",
 
+"phayul.com",
 
 
-  "||img*.picturedip.com",
 
+"philborges.com",
 
 
-  "picturesocial.com",
 
+"philly.com",
 
 
-  "||pin-cong.com",
 
+"||phncdn.com",
 
 
-  ".pin6.com",
 
+"||photodharma.net",
 
 
-  "||pin6.com",
 
+"||photofocus.com",
 
 
-  ".ping.fm",
 
+"||phuquocservices.com",
 
 
-  "||ping.fm",
 
+"||picacomiccn.com",
 
 
-  "||pinimg.com",
 
+".picidae.net",
 
 
-  ".pinkrod.com",
 
+"||img*.picturedip.com",
 
 
-  "||pinoy-n.com",
 
+"picturesocial.com",
 
 
-  "||pinterest.at",
 
+"||pin-cong.com",
 
 
-  "||pinterest.ca",
 
+".pin6.com",
 
 
-  "||pinterest.co.kr",
 
+"||pin6.com",
 
 
-  "||pinterest.co.uk",
 
+".ping.fm",
 
 
-  ".pinterest.com",
 
+"||ping.fm",
 
 
-  "||pinterest.com",
 
+"||pinimg.com",
 
 
-  "||pinterest.de",
 
+".pinkrod.com",
 
 
-  "||pinterest.dk",
 
+"||pinoy-n.com",
 
 
-  "||pinterest.fr",
 
+"||pinterest.at",
 
 
-  "||pinterest.jp",
 
+"||pinterest.ca",
 
 
-  "||pinterest.nl",
 
+"||pinterest.co.kr",
 
 
-  "||pinterest.se",
 
+"||pinterest.co.uk",
 
 
-  ".pipii.tv",
 
+".pinterest.com",
 
 
-  ".piposay.com",
 
+"||pinterest.com",
 
 
-  "piraattilahti.org",
 
+"||pinterest.de",
 
 
-  ".piring.com",
 
+"||pinterest.dk",
 
 
-  "||pixelqi.com",
 
+"||pinterest.fr",
 
 
-  "||css.pixnet.in",
 
+"||pinterest.jp",
 
 
-  "||pixnet.net",
 
+"||pinterest.nl",
 
 
-  ".pixnet.net",
 
+"||pinterest.se",
 
 
-  ".pk.com",
 
+".pipii.tv",
 
 
-  "||placemix.com",
 
+".piposay.com",
 
 
-  "|http:\/\/pictures.playboy.com",
 
+"piraattilahti.org",
 
 
-  "||playboy.com",
 
+".piring.com",
 
 
-  ".playboyplus.com",
 
+"||pixelqi.com",
 
 
-  "||playboyplus.com",
 
+"||css.pixnet.in",
 
 
-  "||player.fm",
 
+"||pixnet.net",
 
 
-  ".playno1.com",
 
+".pixnet.net",
 
 
-  "||playno1.com",
 
+".pk.com",
 
 
-  "||playpcesor.com",
 
+"||placemix.com",
 
 
-  "plays.com.tw",
 
+"|http:\/\/pictures.playboy.com",
 
 
-  "||m.plixi.com",
 
+"||playboy.com",
 
 
-  "plm.org.hk",
 
+".playboyplus.com",
 
 
-  "plunder.com",
 
+"||playboyplus.com",
 
 
-  ".plurk.com",
 
+"||player.fm",
 
 
-  "||plurk.com",
 
+".playno1.com",
 
 
-  ".plus28.com",
 
+"||playno1.com",
 
 
-  ".plusbb.com",
 
+"||playpcesor.com",
 
 
-  ".pmatehunter.com",
 
+"plays.com.tw",
 
 
-  "|http:\/\/pmatehunter.com",
 
+"||m.plixi.com",
 
 
-  ".pmates.com",
 
+"plm.org.hk",
 
 
-  "||po2b.com",
 
+"plunder.com",
 
 
-  "pobieramy.top",
 
+".plurk.com",
 
 
-  "||podictionary.com",
 
+"||plurk.com",
 
 
-  ".pokerstars.com",
 
+".plus28.com",
 
 
-  "||pokerstars.com",
 
+".plusbb.com",
 
 
-  ".pokerstars.net",
 
+".pmatehunter.com",
 
 
-  "zh.pokerstrategy.com",
 
+"|http:\/\/pmatehunter.com",
 
 
-  "politicalchina.org",
 
+".pmates.com",
 
 
-  "politicalconsultation.org",
 
+"||po2b.com",
 
 
-  ".politiscales.net",
 
+"pobieramy.top",
 
 
-  "||poloniex.com",
 
+"||podictionary.com",
 
 
-  ".polymerhk.com",
 
+".pokerstars.com",
 
 
-  "|http:\/\/polymerhk.com",
 
+"||pokerstars.com",
 
 
-  ".popo.tw",
 
+".pokerstars.net",
 
 
-  "||popvote.hk",
 
+"zh.pokerstrategy.com",
 
 
-  ".popyard.com",
 
+"politicalchina.org",
 
 
-  "||popyard.org",
 
+"politicalconsultation.org",
 
 
-  ".porn.com",
 
+".politiscales.net",
 
 
-  ".porn2.com",
 
+"||poloniex.com",
 
 
-  ".porn5.com",
 
+".polymerhk.com",
 
 
-  ".pornbase.org",
 
+"|http:\/\/polymerhk.com",
 
 
-  ".pornerbros.com",
 
+".popo.tw",
 
 
-  "||pornhd.com",
 
+"||popvote.hk",
 
 
-  ".pornhost.com",
 
+".popyard.com",
 
 
-  ".pornhub.com",
 
+"||popyard.org",
 
 
-  "||pornhub.com",
 
+".porn.com",
 
 
-  ".pornhubdeutsch.net",
 
+".porn2.com",
 
 
-  "|http:\/\/pornhubdeutsch.net",
 
+".porn5.com",
 
 
-  "||pornmm.net",
 
+".pornbase.org",
 
 
-  ".pornoxo.com",
 
+".pornerbros.com",
 
 
-  ".pornrapidshare.com",
 
+"||pornhd.com",
 
 
-  "||pornrapidshare.com",
 
+".pornhost.com",
 
 
-  ".pornsharing.com",
 
+".pornhub.com",
 
 
-  "|http:\/\/pornsharing.com",
 
+"||pornhub.com",
 
 
-  ".pornsocket.com",
 
+".pornhubdeutsch.net",
 
 
-  ".pornstarclub.com",
 
+"|http:\/\/pornhubdeutsch.net",
 
 
-  "||pornstarclub.com",
 
+"||pornmm.net",
 
 
-  ".porntube.com",
 
+".pornoxo.com",
 
 
-  ".porntubenews.com",
 
+".pornrapidshare.com",
 
 
-  ".porntvblog.com",
 
+"||pornrapidshare.com",
 
 
-  "||porntvblog.com",
 
+".pornsharing.com",
 
 
-  ".pornvisit.com",
 
+"|http:\/\/pornsharing.com",
 
 
-  ".portablevpn.nl",
 
+".pornsocket.com",
 
 
-  "||poskotanews.com",
 
+".pornstarclub.com",
 
 
-  ".post01.com",
 
+"||pornstarclub.com",
 
 
-  ".post76.com",
 
+".porntube.com",
 
 
-  "||post76.com",
 
+".porntubenews.com",
 
 
-  ".post852.com",
 
+".porntvblog.com",
 
 
-  "postadult.com",
 
+"||porntvblog.com",
 
 
-  ".postimg.org",
 
+".pornvisit.com",
 
 
-  "||potvpn.com",
 
+".portablevpn.nl",
 
 
-  "||powercx.com",
 
+"||poskotanews.com",
 
 
-  ".powerphoto.org",
 
+".post01.com",
 
 
-  "||www.powerpointninja.com",
 
+".post76.com",
 
 
-  "||presidentlee.tw",
 
+"||post76.com",
 
 
-  "||cdn.printfriendly.com",
 
+".post852.com",
 
 
-  ".pritunl.com",
 
+"postadult.com",
 
 
-  "provpnaccounts.com",
 
+".postimg.org",
 
 
-  "||provpnaccounts.com",
 
+"||potvpn.com",
 
 
-  ".proxfree.com",
 
+"||powercx.com",
 
 
-  "||proxfree.com",
 
+".powerphoto.org",
 
 
-  "proxyanonimo.es",
 
+"||www.powerpointninja.com",
 
 
-  ".proxynetwork.org.uk",
 
+"||presidentlee.tw",
 
 
-  "||proxynetwork.org.uk",
 
+"||cdn.printfriendly.com",
 
 
-  "||pts.org.tw",
 
+".pritunl.com",
 
 
-  ".pttvan.org",
 
+"provpnaccounts.com",
 
 
-  "pubu.com.tw",
 
+"||provpnaccounts.com",
 
 
-  "puffinbrowser.com",
 
+".proxfree.com",
 
 
-  "pureinsight.org",
 
+"||proxfree.com",
 
 
-  ".pushchinawall.com",
 
+"proxyanonimo.es",
 
 
-  ".putty.org",
 
+".proxynetwork.org.uk",
 
 
-  "||putty.org",
 
+"||proxynetwork.org.uk",
 
 
-  "||calebelston.com",
 
+"||pts.org.tw",
 
 
-  "||blog.fizzik.com",
 
+".pttvan.org",
 
 
-  "||nf.id.au",
 
+"pubu.com.tw",
 
 
-  "||sogrady.me",
 
+"puffinbrowser.com",
 
 
-  "||vatn.org",
 
+"pureinsight.org",
 
 
-  "||ventureswell.com",
 
+".pushchinawall.com",
 
 
-  "||whereiswerner.com",
 
+".putty.org",
 
 
-  ".power.com",
 
+"||putty.org",
 
 
-  "||power.com",
 
+"||calebelston.com",
 
 
-  "powerapple.com",
 
+"||blog.fizzik.com",
 
 
-  "||powerapple.com",
 
+"||nf.id.au",
 
 
-  "||abc.pp.ru",
 
+"||sogrady.me",
 
 
-  "heix.pp.ru",
 
+"||vatn.org",
 
 
-  "||prayforchina.net",
 
+"||ventureswell.com",
 
 
-  "||premeforwindows7.com",
 
+"||whereiswerner.com",
 
 
-  "||presentationzen.com",
 
+".power.com",
 
 
-  "||prestige-av.com",
 
+"||power.com",
 
 
-  "prisoner-state-secret-journal-premier",
 
+"powerapple.com",
 
 
-  ".prisoneralert.com",
 
+"||powerapple.com",
 
 
-  "||pritunl.com",
 
+"||abc.pp.ru",
 
 
-  "||privacybox.de",
 
+"heix.pp.ru",
 
 
-  ".private.com\/home",
 
+"||prayforchina.net",
 
 
-  "||privateinternetaccess.com",
 
+"||premeforwindows7.com",
 
 
-  "privatepaste.com",
 
+"||presentationzen.com",
 
 
-  "||privatepaste.com",
 
+"||prestige-av.com",
 
 
-  "privatetunnel.com",
 
+"prisoner-state-secret-journal-premier",
 
 
-  "||privatetunnel.com",
 
+".prisoneralert.com",
 
 
-  "||privatevpn.com",
 
+"||pritunl.com",
 
 
-  "||procopytips.com",
 
+"||privacybox.de",
 
 
-  "provideocoalition.com",
 
+".private.com\/home",
 
 
-  "||prosiben.de",
 
+"||privateinternetaccess.com",
 
 
-  "proxifier.com",
 
+"privatepaste.com",
 
 
-  "api.proxlet.com",
 
+"||privatepaste.com",
 
 
-  "||proxomitron.info",
 
+"privatetunnel.com",
 
 
-  ".proxpn.com",
 
+"||privatetunnel.com",
 
 
-  "||proxpn.com",
 
+"||privatevpn.com",
 
 
-  ".proxylist.org.uk",
 
+"||procopytips.com",
 
 
-  "||proxylist.org.uk",
 
+"provideocoalition.com",
 
 
-  ".proxypy.net",
 
+"||prosiben.de",
 
 
-  "||proxypy.net",
 
+"proxifier.com",
 
 
-  "proxyroad.com",
 
+"api.proxlet.com",
 
 
-  ".proxytunnel.net",
 
+"||proxomitron.info",
 
 
-  "||proyectoclubes.com",
 
+".proxpn.com",
 
 
-  "prozz.net",
 
+"||proxpn.com",
 
 
-  "psblog.name",
 
+".proxylist.org.uk",
 
 
-  "||psblog.name",
 
+"||proxylist.org.uk",
 
 
-  "||psiphon.ca",
 
+".proxypy.net",
 
 
-  ".psiphon3.com",
 
+"||proxypy.net",
 
 
-  "||psiphon3.com",
 
+"proxyroad.com",
 
 
-  ".psiphontoday.com",
 
+".proxytunnel.net",
 
 
-  ".ptt.cc",
 
+"||proyectoclubes.com",
 
 
-  "||ptt.cc",
 
+"prozz.net",
 
 
-  ".puffstore.com",
 
+"psblog.name",
 
 
-  ".puuko.com",
 
+"||psblog.name",
 
 
-  "||pullfolio.com",
 
+"||psiphon.ca",
 
 
-  ".punyu.com\/puny",
 
+".psiphon3.com",
 
 
-  "||pureconcepts.net",
 
+"||psiphon3.com",
 
 
-  "||pureinsight.org",
 
+".psiphontoday.com",
 
 
-  "||purepdf.com",
 
+".ptt.cc",
 
 
-  "||purevpn.com",
 
+"||ptt.cc",
 
 
-  ".purplelotus.org",
 
+".puffstore.com",
 
 
-  ".pursuestar.com",
 
+".puuko.com",
 
 
-  "||pursuestar.com",
 
+"||pullfolio.com",
 
 
-  ".pussyspace.com",
 
+".punyu.com\/puny",
 
 
-  ".putihome.org",
 
+"||pureconcepts.net",
 
 
-  ".putlocker.com\/file",
 
+"||pureinsight.org",
 
 
-  "pwned.com",
 
+"||purepdf.com",
 
 
-  "python.com",
 
+"||purevpn.com",
 
 
-  ".python.com.tw",
 
+".purplelotus.org",
 
 
-  "|http:\/\/python.com.tw",
 
+".pursuestar.com",
 
 
-  "pythonhackers.com\/p",
 
+"||pursuestar.com",
 
 
-  "ss.pythonic.life\/",
 
+".pussyspace.com",
 
 
-  ".qanote.com",
 
+".putihome.org",
 
 
-  "||qanote.com",
 
+".putlocker.com\/file",
 
 
-  ".qgirl.com.tw",
 
+"pwned.com",
 
 
-  "||qiandao.today",
 
+"python.com",
 
 
-  ".qi-gong.me",
 
+".python.com.tw",
 
 
-  "||qi-gong.me",
 
+"|http:\/\/python.com.tw",
 
 
-  "||qiangyou.org",
 
+"pythonhackers.com\/p",
 
 
-  ".qidian.ca",
 
+"ss.pythonic.life\/",
 
 
-  ".qienkuen.org",
 
+".qanote.com",
 
 
-  "||qienkuen.org",
 
+"||qanote.com",
 
 
-  "||qiwen.lu",
 
+".qgirl.com.tw",
 
 
-  "qixianglu.cn",
 
+"||qiandao.today",
 
 
-  "bbs.qmzdd.com",
 
+".qi-gong.me",
 
 
-  ".qkshare.com",
 
+"||qi-gong.me",
 
 
-  "qoos.com",
 
+"||qiangyou.org",
 
 
-  "||qoos.com",
 
+".qidian.ca",
 
 
-  "blog.qooza.hk\/dafengqixi",
 
+".qienkuen.org",
 
 
-  "||efksoft.com",
 
+"||qienkuen.org",
 
 
-  "||qstatus.com",
 
+"||qiwen.lu",
 
 
-  "||qtweeter.com",
 
+"qixianglu.cn",
 
 
-  "||qtrac.eu",
 
+"bbs.qmzdd.com",
 
 
-  ".quannengshen.org",
 
+".qkshare.com",
 
 
-  "|http:\/\/quannengshen.org",
 
+"qoos.com",
 
 
-  "quantumbooter.net",
 
+"||qoos.com",
 
 
-  "||quitccp.net",
 
+"blog.qooza.hk\/dafengqixi",
 
 
-  ".quitccp.net",
 
+"||efksoft.com",
 
 
-  "||quitccp.org",
 
+"||qstatus.com",
 
 
-  ".quitccp.org",
 
+"||qtweeter.com",
 
 
-  ".quora.com\/Chinas-Future",
 
+"||qtrac.eu",
 
 
-  ".quran.com",
 
+".quannengshen.org",
 
 
-  "|http:\/\/quran.com",
 
+"|http:\/\/quannengshen.org",
 
 
-  ".quranexplorer.com",
 
+"quantumbooter.net",
 
 
-  "qusi8.net",
 
+"||quitccp.net",
 
 
-  ".qvodzy.org",
 
+".quitccp.net",
 
 
-  "nemesis2.qx.net\/pages\/MyEnTunnel",
 
+"||quitccp.org",
 
 
-  "qxbbs.org",
 
+".quitccp.org",
 
 
-  ".ra.gg",
 
+".quora.com\/Chinas-Future",
 
 
-  "|http:\/\/ra.gg\/",
 
+".quran.com",
 
 
-  ".radicalparty.org",
 
+"|http:\/\/quran.com",
 
 
-  "||rael.org",
 
+".quranexplorer.com",
 
 
-  "radicalparty.org",
 
+"qusi8.net",
 
 
-  "radioaustralia.net.au",
 
+".qvodzy.org",
 
 
-  ".radiohilight.net",
 
+"nemesis2.qx.net\/pages\/MyEnTunnel",
 
 
-  "||radiohilight.net",
 
+"qxbbs.org",
 
 
-  "opml.radiotime.com",
 
+".ra.gg",
 
 
-  "||radiovaticana.org",
 
+"|http:\/\/ra.gg\/",
 
 
-  "||radiovncr.com",
 
+".radicalparty.org",
 
 
-  "||raggedbanner.com",
 
+"||rael.org",
 
 
-  "||raidcall.com.tw",
 
+"radicalparty.org",
 
 
-  ".raidtalk.com.tw",
 
+"radioaustralia.net.au",
 
 
-  ".rainbowplan.org\/bbs",
 
+".radiohilight.net",
 
 
-  "|https:\/\/raindrop.io\/",
 
+"||radiohilight.net",
 
 
-  ".raizoji.or.jp",
 
+"opml.radiotime.com",
 
 
-  "|http:\/\/raizoji.or.jp",
 
+"||radiovaticana.org",
 
 
-  "rangwang.biz",
 
+"||radiovncr.com",
 
 
-  "rangzen.com",
 
+"||raggedbanner.com",
 
 
-  "rangzen.net",
 
+"||raidcall.com.tw",
 
 
-  "rangzen.org",
 
+".raidtalk.com.tw",
 
 
-  "|http:\/\/blog.ranxiang.com\/",
 
+".rainbowplan.org\/bbs",
 
 
-  "ranyunfei.com",
 
+"|https:\/\/raindrop.io\/",
 
 
-  "||ranyunfei.com",
 
+".raizoji.or.jp",
 
 
-  ".rapbull.net",
 
+"|http:\/\/raizoji.or.jp",
 
 
-  "|http:\/\/rapidgator.net\/",
 
+"rangwang.biz",
 
 
-  "||rapidmoviez.com",
 
+"rangzen.com",
 
 
-  "rapidvpn.com",
 
+"rangzen.net",
 
 
-  "||rapidvpn.com",
 
+"rangzen.org",
 
 
-  "||rarbgprx.org",
 
+"|http:\/\/blog.ranxiang.com\/",
 
 
-  ".raremovie.cc",
 
+"ranyunfei.com",
 
 
-  "|http:\/\/raremovie.cc",
 
+"||ranyunfei.com",
 
 
-  ".raremovie.net",
 
+".rapbull.net",
 
 
-  "|http:\/\/raremovie.net",
 
+"|http:\/\/rapidgator.net\/",
 
 
-  "||rawgit.com",
 
+"||rapidmoviez.com",
 
 
-  "||rawgithub.com",
 
+"rapidvpn.com",
 
 
-  "||razyboard.com",
 
+"||rapidvpn.com",
 
 
-  "rcinet.ca",
 
+"||rarbgprx.org",
 
 
-  ".read100.com",
 
+".raremovie.cc",
 
 
-  ".readingtimes.com.tw",
 
+"|http:\/\/raremovie.cc",
 
 
-  "||readingtimes.com.tw",
 
+".raremovie.net",
 
 
-  "||readmoo.com",
 
+"|http:\/\/raremovie.net",
 
 
-  ".readydown.com",
 
+"||rawgit.com",
 
 
-  "|http:\/\/readydown.com",
 
+"||rawgithub.com",
 
 
-  ".realcourage.org",
 
+"||razyboard.com",
 
 
-  ".realitykings.com",
 
+"rcinet.ca",
 
 
-  "||realitykings.com",
 
+".read100.com",
 
 
-  ".realraptalk.com",
 
+".readingtimes.com.tw",
 
 
-  ".realsexpass.com",
 
+"||readingtimes.com.tw",
 
 
-  ".recordhistory.org",
 
+"||readmoo.com",
 
 
-  ".recovery.org.tw",
 
+".readydown.com",
 
 
-  "|http:\/\/online.recoveryversion.org",
 
+"|http:\/\/readydown.com",
 
 
-  "||recoveryversion.com.tw",
 
+".realcourage.org",
 
 
-  "||red-lang.org",
 
+".realitykings.com",
 
 
-  "redballoonsolidarity.org",
 
+"||realitykings.com",
 
 
-  ".redchinacn.net",
 
+".realraptalk.com",
 
 
-  "|http:\/\/redchinacn.net",
 
+".realsexpass.com",
 
 
-  "redchinacn.org",
 
+".recordhistory.org",
 
 
-  "redtube.com",
 
+".recovery.org.tw",
 
 
-  "referer.us",
 
+"|http:\/\/online.recoveryversion.org",
 
 
-  "||referer.us",
 
+"||recoveryversion.com.tw",
 
 
-  "||reflectivecode.com",
 
+"||red-lang.org",
 
 
-  "relaxbbs.com",
 
+"redballoonsolidarity.org",
 
 
-  ".relay.com.tw",
 
+".redchinacn.net",
 
 
-  ".releaseinternational.org",
 
+"|http:\/\/redchinacn.net",
 
 
-  "religioustolerance.org",
 
+"redchinacn.org",
 
 
-  "renminbao.com",
 
+"redtube.com",
 
 
-  "||renminbao.com",
 
+"referer.us",
 
 
-  ".renyurenquan.org",
 
+"||referer.us",
 
 
-  "||renyurenquan.org",
 
+"||reflectivecode.com",
 
 
-  "|http:\/\/certificate.revocationcheck.com",
 
+"relaxbbs.com",
 
 
-  "subacme.rerouted.org",
 
+".relay.com.tw",
 
 
-  "||resilio.com",
 
+".releaseinternational.org",
 
 
-  ".reuters.com",
 
+"religioustolerance.org",
 
 
-  "||reuters.com",
 
+"renminbao.com",
 
 
-  "||reutersmedia.net",
 
+"||renminbao.com",
 
 
-  ".revleft.com",
 
+".renyurenquan.org",
 
 
-  "retweetist.com",
 
+"||renyurenquan.org",
 
 
-  "||retweetrank.com",
 
+"|http:\/\/certificate.revocationcheck.com",
 
 
-  "revver.com",
 
+"subacme.rerouted.org",
 
 
-  ".rfa.org",
 
+"||resilio.com",
 
 
-  "||rfa.org",
 
+".reuters.com",
 
 
-  ".rfachina.com",
 
+"||reuters.com",
 
 
-  ".rfamobile.org",
 
+"||reutersmedia.net",
 
 
-  "rfaweb.org",
 
+".revleft.com",
 
 
-  "||rferl.org",
 
+"retweetist.com",
 
 
-  ".rfi.fr",
 
+"||retweetrank.com",
 
 
-  "||rfi.fr",
 
+"revver.com",
 
 
-  "|http:\/\/rfi.my\/",
 
+".rfa.org",
 
 
-  "|http:\/\/vds.rightster.com\/",
 
+"||rfa.org",
 
 
-  ".rigpa.org",
 
+".rfachina.com",
 
 
-  ".rileyguide.com",
 
+".rfamobile.org",
 
 
-  "riku.me\/",
 
+"rfaweb.org",
 
 
-  ".ritouki.jp",
 
+"||rferl.org",
 
 
-  "||ritter.vg",
 
+".rfi.fr",
 
 
-  ".rlwlw.com",
 
+"||rfi.fr",
 
 
-  "||rlwlw.com",
 
+"|http:\/\/rfi.my\/",
 
 
-  ".rmjdw.com",
 
+"|http:\/\/vds.rightster.com\/",
 
 
-  ".rmjdw132.info",
 
+".rigpa.org",
 
 
-  ".roadshow.hk",
 
+".rileyguide.com",
 
 
-  ".roboforex.com",
 
+"riku.me\/",
 
 
-  "||robustnessiskey.com",
 
+".ritouki.jp",
 
 
-  "||rocket-inc.net",
 
+"||ritter.vg",
 
 
-  "|http:\/\/www2.rocketbbs.com\/11\/bbs.cgi?id=5mus",
 
+".rlwlw.com",
 
 
-  "|http:\/\/www2.rocketbbs.com\/11\/bbs.cgi?id=freemgl",
 
+"||rlwlw.com",
 
 
-  "||rojo.com",
 
+".rmjdw.com",
 
 
-  "||ronjoneswriter.com",
 
+".rmjdw132.info",
 
 
-  "||rolia.net",
 
+".roadshow.hk",
 
 
-  ".roodo.com",
 
+".roboforex.com",
 
 
-  ".rosechina.net",
 
+"||robustnessiskey.com",
 
 
-  ".rotten.com",
 
+"||rocket-inc.net",
 
 
-  ".rsf.org",
 
+"|http:\/\/www2.rocketbbs.com\/11\/bbs.cgi?id=5mus",
 
 
-  "||rsf.org",
 
+"|http:\/\/www2.rocketbbs.com\/11\/bbs.cgi?id=freemgl",
 
 
-  ".rsf-chinese.org",
 
+"||rojo.com",
 
 
-  "||rsf-chinese.org",
 
+"||ronjoneswriter.com",
 
 
-  ".rsgamen.org",
 
+"||rolia.net",
 
 
-  "||phosphation13.rssing.com",
 
+".roodo.com",
 
 
-  ".rssmeme.com",
 
+".rosechina.net",
 
 
-  "||rssmeme.com",
 
+".rotten.com",
 
 
-  "||rtalabel.org",
 
+".rsf.org",
 
 
-  ".rthk.hk",
 
+"||rsf.org",
 
 
-  "|http:\/\/rthk.hk",
 
+".rsf-chinese.org",
 
 
-  ".rthk.org.hk",
 
+"||rsf-chinese.org",
 
 
-  "|http:\/\/rthk.org.hk",
 
+".rsgamen.org",
 
 
-  ".rti.org.tw",
 
+"||phosphation13.rssing.com",
 
 
-  "||rti.org.tw",
 
+".rssmeme.com",
 
 
-  ".rtycminnesota.org",
 
+"||rssmeme.com",
 
 
-  ".ruanyifeng.com\/blog*some_ways_to_break_the_great_firewall",
 
+"||rtalabel.org",
 
 
-  "rukor.org",
 
+".rthk.hk",
 
 
-  ".runbtx.com",
 
+"|http:\/\/rthk.hk",
 
 
-  ".rushbee.com",
 
+".rthk.org.hk",
 
 
-  ".ruten.com.tw",
 
+"|http:\/\/rthk.org.hk",
 
 
-  "rutube.ru",
 
+".rti.org.tw",
 
 
-  ".ruyiseek.com",
 
+"||rti.org.tw",
 
 
-  ".rxhj.net",
 
+".rtycminnesota.org",
 
 
-  "|http:\/\/rxhj.net",
 
+".ruanyifeng.com\/blog*some_ways_to_break_the_great_firewall",
 
 
-  ".s1s1s1.com",
 
+"rukor.org",
 
 
-  "||s-cute.com",
 
+".runbtx.com",
 
 
-  ".s-dragon.org",
 
+".rushbee.com",
 
 
-  "||s1heng.com",
 
+".ruten.com.tw",
 
 
-  "|http:\/\/www.s4miniarchive.com",
 
+"rutube.ru",
 
 
-  "||s8forum.com",
 
+".ruyiseek.com",
 
 
-  "cdn1.lp.saboom.com",
 
+".rxhj.net",
 
 
-  "||sacks.com",
 
+"|http:\/\/rxhj.net",
 
 
-  "sacom.hk",
 
+".s1s1s1.com",
 
 
-  "||sacom.hk",
 
+"||s-cute.com",
 
 
-  "||sadpanda.us",
 
+".s-dragon.org",
 
 
-  ".safervpn.com",
 
+"||s1heng.com",
 
 
-  "||safervpn.com",
 
+"|http:\/\/www.s4miniarchive.com",
 
 
-  ".saintyculture.com",
 
+"||s8forum.com",
 
 
-  "|http:\/\/saintyculture.com",
 
+"cdn1.lp.saboom.com",
 
 
-  ".saiq.me",
 
+"||sacks.com",
 
 
-  "||saiq.me",
 
+"sacom.hk",
 
 
-  "||sakuralive.com",
 
+"||sacom.hk",
 
 
-  ".sakya.org",
 
+"||sadpanda.us",
 
 
-  ".salvation.org.hk",
 
+".safervpn.com",
 
 
-  "||salvation.org.hk",
 
+"||safervpn.com",
 
 
-  ".samair.ru\/proxy\/type-01",
 
+".saintyculture.com",
 
 
-  ".sambhota.org",
 
+"|http:\/\/saintyculture.com",
 
 
-  ".cn.sandscotaicentral.com",
 
+".saiq.me",
 
 
-  "|http:\/\/cn.sandscotaicentral.com",
 
+"||saiq.me",
 
 
-  ".sanmin.com.tw",
 
+"||sakuralive.com",
 
 
-  "sapikachu.net",
 
+".sakya.org",
 
 
-  "savemedia.com",
 
+".salvation.org.hk",
 
 
-  "||savethesounds.info",
 
+"||salvation.org.hk",
 
 
-  ".savetibet.de",
 
+".samair.ru\/proxy\/type-01",
 
 
-  "||savetibet.de",
 
+".sambhota.org",
 
 
-  "savetibet.fr",
 
+".cn.sandscotaicentral.com",
 
 
-  "savetibet.nl",
 
+"|http:\/\/cn.sandscotaicentral.com",
 
 
-  ".savetibet.org",
 
+".sanmin.com.tw",
 
 
-  "||savetibet.org",
 
+"sapikachu.net",
 
 
-  "savetibet.ru",
 
+"savemedia.com",
 
 
-  ".savetibetstore.org",
 
+"||savethesounds.info",
 
 
-  "||savetibetstore.org",
 
+".savetibet.de",
 
 
-  "savevid.com",
 
+"||savetibet.de",
 
 
-  "||say2.info",
 
+"savetibet.fr",
 
 
-  ".sbme.me",
 
+"savetibet.nl",
 
 
-  "|http:\/\/sbme.me",
 
+".savetibet.org",
 
 
-  ".sbs.com.au\/yourlanguage",
 
+"||savetibet.org",
 
 
-  ".scasino.com",
 
+"savetibet.ru",
 
 
-  "|http:\/\/www.sciencemag.org\/content\/344\/6187\/953",
 
+".savetibetstore.org",
 
 
-  ".sciencenets.com",
 
+"||savetibetstore.org",
 
 
-  ".scmp.com",
 
+"savevid.com",
 
 
-  "||scmp.com",
 
+"||say2.info",
 
 
-  ".scmpchinese.com",
 
+".sbme.me",
 
 
-  "||scramble.io",
 
+"|http:\/\/sbme.me",
 
 
-  ".scribd.com",
 
+".sbs.com.au\/yourlanguage",
 
 
-  "||scribd.com",
 
+".scasino.com",
 
 
-  "||scriptspot.com",
 
+"|http:\/\/www.sciencemag.org\/content\/344\/6187\/953",
 
 
-  "seapuff.com",
 
+".sciencenets.com",
 
 
-  "domainhelp.search.com",
 
+".scmp.com",
 
 
-  ".searchtruth.com",
 
+"||scmp.com",
 
 
-  "secretchina.com",
 
+".scmpchinese.com",
 
 
-  "||secretchina.com",
 
+"||scramble.io",
 
 
-  "||secretgarden.no",
 
+".scribd.com",
 
 
-  ".secretsline.biz",
 
+"||scribd.com",
 
 
-  "||secretsline.biz",
 
+"||scriptspot.com",
 
 
-  "||securetunnel.com",
 
+"seapuff.com",
 
 
-  "securityinabox.org",
 
+"domainhelp.search.com",
 
 
-  "|https:\/\/securityinabox.org",
 
+".searchtruth.com",
 
 
-  ".securitykiss.com",
 
+"secretchina.com",
 
 
-  "||securitykiss.com",
 
+"||secretchina.com",
 
 
-  "||seed4.me",
 
+"||secretgarden.no",
 
 
-  "news.seehua.com",
 
+".secretsline.biz",
 
 
-  "seesmic.com",
 
+"||secretsline.biz",
 
 
-  "||seevpn.com",
 
+"||securetunnel.com",
 
 
-  "||seezone.net",
 
+"securityinabox.org",
 
 
-  "sejie.com",
 
+"|https:\/\/securityinabox.org",
 
 
-  ".sendspace.com",
 
+".securitykiss.com",
 
 
-  "|http:\/\/tweets.seraph.me\/",
 
+"||securitykiss.com",
 
 
-  "sesawe.net",
 
+"||seed4.me",
 
 
-  "||sesawe.net",
 
+"news.seehua.com",
 
 
-  ".sesawe.org",
 
+"seesmic.com",
 
 
-  "||sethwklein.net",
 
+"||seevpn.com",
 
 
-  ".setn.com",
 
+"||seezone.net",
 
 
-  ".settv.com.tw",
 
+"sejie.com",
 
 
-  "forum.setty.com.tw",
 
+".sendspace.com",
 
 
-  ".sevenload.com",
 
+"|http:\/\/tweets.seraph.me\/",
 
 
-  "||sevenload.com",
 
+"sesawe.net",
 
 
-  ".sex.com",
 
+"||sesawe.net",
 
 
-  ".sex-11.com",
 
+".sesawe.org",
 
 
-  "||sex3.com",
 
+"||sethwklein.net",
 
 
-  "||sex8.cc",
 
+".setn.com",
 
 
-  ".sexandsubmission.com",
 
+".settv.com.tw",
 
 
-  ".sexbot.com",
 
+"forum.setty.com.tw",
 
 
-  ".sexhu.com",
 
+".sevenload.com",
 
 
-  ".sexhuang.com",
 
+"||sevenload.com",
 
 
-  "sexinsex.net",
 
+".sex.com",
 
 
-  "||sexinsex.net",
 
+".sex-11.com",
 
 
-  ".sextvx.com",
 
+"||sex3.com",
 
 
-  "67.220.91.15",
 
+"||sex8.cc",
 
 
-  "67.220.91.18",
 
+".sexandsubmission.com",
 
 
-  "67.220.91.23",
 
+".sexbot.com",
 
 
-  "|http:\/\/*.sf.net",
 
+".sexhu.com",
 
 
-  ".sfileydy.com",
 
+".sexhuang.com",
 
 
-  "||sfshibao.com",
 
+"sexinsex.net",
 
 
-  ".sftindia.org",
 
+"||sexinsex.net",
 
 
-  ".sftuk.org",
 
+".sextvx.com",
 
 
-  "||sftuk.org",
 
+"67.220.91.15",
 
 
-  "||shadeyouvpn.com",
 
+"67.220.91.18",
 
 
-  "shadow.ma",
 
+"67.220.91.23",
 
 
-  ".shadowsky.xyz",
 
+"|http:\/\/*.sf.net",
 
 
-  ".shadowsocks.asia",
 
+".sfileydy.com",
 
 
-  "||www.shadowsocks.com",
 
+"||sfshibao.com",
 
 
-  ".shadowsocks.com",
 
+".sftindia.org",
 
 
-  "||shadowsocks.com.hk",
 
+".sftuk.org",
 
 
-  ".shadowsocks.org",
 
+"||sftuk.org",
 
 
-  "||shadowsocks.org",
 
+"||shadeyouvpn.com",
 
 
-  "||shadowsocks-r.com",
 
+"shadow.ma",
 
 
-  "|http:\/\/cn.shafaqna.com",
 
+".shadowsky.xyz",
 
 
-  ".shambalapost.com",
 
+".shadowsocks.asia",
 
 
-  ".shambhalasun.com",
 
+"||www.shadowsocks.com",
 
 
-  ".shangfang.org",
 
+".shadowsocks.com",
 
 
-  "||shangfang.org",
 
+"||shadowsocks.com.hk",
 
 
-  "shapeservices.com",
 
+".shadowsocks.org",
 
 
-  ".sharebee.com",
 
+"||shadowsocks.org",
 
 
-  "||sharecool.org",
 
+"||shadowsocks-r.com",
 
 
-  "sharpdaily.com.hk",
 
+"|http:\/\/cn.shafaqna.com",
 
 
-  "||sharpdaily.com.hk",
 
+".shambalapost.com",
 
 
-  ".sharpdaily.hk",
 
+".shambhalasun.com",
 
 
-  ".sharpdaily.tw",
 
+".shangfang.org",
 
 
-  ".shat-tibet.com",
 
+"||shangfang.org",
 
 
-  "sheikyermami.com",
 
+"shapeservices.com",
 
 
-  ".shellfire.de",
 
+".sharebee.com",
 
 
-  "||shellfire.de",
 
+"||sharecool.org",
 
 
-  ".shenshou.org",
 
+"sharpdaily.com.hk",
 
 
-  "shenyun.com",
 
+"||sharpdaily.com.hk",
 
 
-  "shenyunperformingarts.org",
 
+".sharpdaily.hk",
 
 
-  "||shenyunperformingarts.org",
 
+".sharpdaily.tw",
 
 
-  "shenzhoufilm.com",
 
+".shat-tibet.com",
 
 
-  "||shenzhoufilm.com",
 
+"sheikyermami.com",
 
 
-  "||sherabgyaltsen.com",
 
+".shellfire.de",
 
 
-  ".shiatv.net",
 
+"||shellfire.de",
 
 
-  ".shicheng.org",
 
+".shenshou.org",
 
 
-  "shinychan.com",
 
+"shenyun.com",
 
 
-  "shipcamouflage.com",
 
+"shenyunperformingarts.org",
 
 
-  ".shireyishunjian.com",
 
+"||shenyunperformingarts.org",
 
 
-  ".shitaotv.org",
 
+"shenzhoufilm.com",
 
 
-  "||shixiao.org",
 
+"||shenzhoufilm.com",
 
 
-  "||shizhao.org",
 
+"||sherabgyaltsen.com",
 
 
-  "shizhao.org",
 
+".shiatv.net",
 
 
-  "shkspr.mobi\/dabr",
 
+".shicheng.org",
 
 
-  "||shodanhq.com",
 
+"shinychan.com",
 
 
-  "||shooshtime.com",
 
+"shipcamouflage.com",
 
 
-  ".shop2000.com.tw",
 
+".shireyishunjian.com",
 
 
-  ".shopping.com",
 
+".shitaotv.org",
 
 
-  ".showhaotu.com",
 
+"||shixiao.org",
 
 
-  ".showtime.jp",
 
+"||shizhao.org",
 
 
-  ".shutterstock.com",
 
+"shizhao.org",
 
 
-  "||shutterstock.com",
 
+"shkspr.mobi\/dabr",
 
 
-  "ch.shvoong.com",
 
+"||shodanhq.com",
 
 
-  ".shwchurch.org",
 
+"||shooshtime.com",
 
 
-  "||www.shwchurch.org",
 
+".shop2000.com.tw",
 
 
-  ".shwchurch3.com",
 
+".shopping.com",
 
 
-  "|http:\/\/shwchurch3.com",
 
+".showhaotu.com",
 
 
-  ".siddharthasintent.org",
 
+".showtime.jp",
 
 
-  "||sidelinesnews.com",
 
+".shutterstock.com",
 
 
-  ".sidelinessportseatery.com",
 
+"||shutterstock.com",
 
 
-  ".sijihuisuo.club",
 
+"ch.shvoong.com",
 
 
-  ".sijihuisuo.com",
 
+".shwchurch.org",
 
 
-  ".silkbook.com",
 
+"||www.shwchurch.org",
 
 
-  "||simbolostwitter.com",
 
+".shwchurch3.com",
 
 
-  "simplecd.org",
 
+"|http:\/\/shwchurch3.com",
 
 
-  "||simplecd.org",
 
+".siddharthasintent.org",
 
 
-  "@@||simplecd.me",
 
+"||sidelinesnews.com",
 
 
-  "simpleproductivityblog.com",
 
+".sidelinessportseatery.com",
 
 
-  "bbs.sina.com\/",
 
+".sijihuisuo.club",
 
 
-  "bbs.sina.com%2F",
 
+".sijihuisuo.com",
 
 
-  "blog.sina.com.tw",
 
+".silkbook.com",
 
 
-  "dailynews.sina.com\/",
 
+"||simbolostwitter.com",
 
 
-  "dailynews.sina.com%2F",
 
+"simplecd.org",
 
 
-  "forum.sina.com.hk",
 
+"||simplecd.org",
 
 
-  "home.sina.com",
 
+"@@||simplecd.me",
 
 
-  "||magazines.sina.com.tw",
 
+"simpleproductivityblog.com",
 
 
-  "news.sina.com.hk",
 
+"bbs.sina.com\/",
 
 
-  "news.sina.com.tw",
 
+"bbs.sina.com%2F",
 
 
-  "news.sinchew.com.my",
 
+"blog.sina.com.tw",
 
 
-  ".sinchew.com.my\/node\/",
 
+"dailynews.sina.com\/",
 
 
-  ".sinchew.com.my\/taxonomy\/term",
 
+"dailynews.sina.com%2F",
 
 
-  ".singaporepools.com.sg",
 
+"forum.sina.com.hk",
 
 
-  "||singaporepools.com.sg",
 
+"home.sina.com",
 
 
-  ".singfortibet.com",
 
+"||magazines.sina.com.tw",
 
 
-  ".singpao.com.hk",
 
+"news.sina.com.hk",
 
 
-  "singtao.com",
 
+"news.sina.com.tw",
 
 
-  "||singtao.com",
 
+"news.sinchew.com.my",
 
 
-  "news.singtao.ca",
 
+".sinchew.com.my\/node\/",
 
 
-  ".singtaousa.com",
 
+".sinchew.com.my\/taxonomy\/term",
 
 
-  "||singtaousa.com",
 
+".singaporepools.com.sg",
 
 
-  "sino-monthly.com",
 
+"||singaporepools.com.sg",
 
 
-  "||sinocast.com",
 
+".singfortibet.com",
 
 
-  "sinocism.com",
 
+".singpao.com.hk",
 
 
-  "sinomontreal.ca",
 
+"singtao.com",
 
 
-  ".sinonet.ca",
 
+"||singtao.com",
 
 
-  ".sinopitt.info",
 
+"news.singtao.ca",
 
 
-  ".sinoants.com",
 
+".singtaousa.com",
 
 
-  "||sinoants.com",
 
+"||singtaousa.com",
 
 
-  ".sinoquebec.com",
 
+"sino-monthly.com",
 
 
-  ".sierrafriendsoftibet.org",
 
+"||sinocast.com",
 
 
-  "sis.xxx",
 
+"sinocism.com",
 
 
-  "||sis001.com",
 
+"sinomontreal.ca",
 
 
-  "sis001.us",
 
+".sinonet.ca",
 
 
-  ".site2unblock.com",
 
+".sinopitt.info",
 
 
-  "||site90.net",
 
+".sinoants.com",
 
 
-  ".sitebro.tw",
 
+"||sinoants.com",
 
 
-  "||sitekreator.com",
 
+".sinoquebec.com",
 
 
-  "||siteks.uk.to",
 
+".sierrafriendsoftibet.org",
 
 
-  "||sitemaps.org",
 
+"sis.xxx",
 
 
-  ".sjrt.org",
 
+"||sis001.com",
 
 
-  "|http:\/\/sjrt.org",
 
+"sis001.us",
 
 
-  "||sjum.cn",
 
+".site2unblock.com",
 
 
-  "||sketchappsources.com",
 
+"||site90.net",
 
 
-  "||skimtube.com",
 
+".sitebro.tw",
 
 
-  "||skybet.com",
 
+"||sitekreator.com",
 
 
-  "|http:\/\/users.skynet.be\/reves\/tibethome.html",
 
+"||siteks.uk.to",
 
 
-  ".skyking.com.tw",
 
+"||sitemaps.org",
 
 
-  "bbs.skykiwi.com",
 
+".sjrt.org",
 
 
-  "|http:\/\/www.skype.com\/intl\/",
 
+"|http:\/\/sjrt.org",
 
 
-  "|http:\/\/www.skype.com\/zh-Hant",
 
+"||sjum.cn",
 
 
-  "||skyvegas.com",
 
+"||sketchappsources.com",
 
 
-  ".xskywalker.com",
 
+"||skimtube.com",
 
 
-  "||xskywalker.com",
 
+"||skybet.com",
 
 
-  "||skyxvpn.com",
 
+"|http:\/\/users.skynet.be\/reves\/tibethome.html",
 
 
-  "m.slandr.net",
 
+".skyking.com.tw",
 
 
-  ".slaytizle.com",
 
+"bbs.skykiwi.com",
 
 
-  ".sleazydream.com",
 
+"|http:\/\/www.skype.com\/intl\/",
 
 
-  "||slheng.com",
 
+"|http:\/\/www.skype.com\/zh-Hant",
 
 
-  "||slideshare.net",
 
+"||skyvegas.com",
 
 
-  "forum.slime.com.tw",
 
+".xskywalker.com",
 
 
-  ".slinkset.com",
 
+"||xskywalker.com",
 
 
-  "||slickvpn.com",
 
+"||skyxvpn.com",
 
 
-  ".slutload.com",
 
+"m.slandr.net",
 
 
-  "||smartdnsproxy.com",
 
+".slaytizle.com",
 
 
-  ".smarthide.com",
 
+".sleazydream.com",
 
 
-  "||app.smartmailcloud.com",
 
+"||slheng.com",
 
 
-  "smchbooks.com",
 
+"||slideshare.net",
 
 
-  ".smh.com.au\/world\/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v",
 
+"forum.slime.com.tw",
 
 
-  "smhric.org",
 
+".slinkset.com",
 
 
-  ".smith.edu\/dalailama",
 
+"||slickvpn.com",
 
 
-  ".smyxy.org",
 
+".slutload.com",
 
 
-  "||snapchat.com",
 
+"||smartdnsproxy.com",
 
 
-  ".snaptu.com",
 
+".smarthide.com",
 
 
-  "||snaptu.com",
 
+"||app.smartmailcloud.com",
 
 
-  "||sndcdn.com",
 
+"smchbooks.com",
 
 
-  "sneakme.net",
 
+".smh.com.au\/world\/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v",
 
 
-  "snowlionpub.com",
 
+"smhric.org",
 
 
-  "home.so-net.net.tw\/yisa_tsai",
 
+".smith.edu\/dalailama",
 
 
-  "||soc.mil",
 
+".smyxy.org",
 
 
-  ".socks-proxy.net",
 
+"||snapchat.com",
 
 
-  "||socks-proxy.net",
 
+".snaptu.com",
 
 
-  ".sockscap64.com",
 
+"||snaptu.com",
 
 
-  "||sockslist.net",
 
+"||sndcdn.com",
 
 
-  ".socrec.org",
 
+"sneakme.net",
 
 
-  "|http:\/\/socrec.org",
 
+"snowlionpub.com",
 
 
-  ".sod.co.jp",
 
+"home.so-net.net.tw\/yisa_tsai",
 
 
-  ".softether.org",
 
+"||soc.mil",
 
 
-  "||softether.org",
 
+".socks-proxy.net",
 
 
-  ".softether-download.com",
 
+"||socks-proxy.net",
 
 
-  "||softether-download.com",
 
+".sockscap64.com",
 
 
-  "||cdn.softlayer.net",
 
+"||sockslist.net",
 
 
-  "||sogclub.com",
 
+".socrec.org",
 
 
-  "sohcradio.com",
 
+"|http:\/\/socrec.org",
 
 
-  "||sohcradio.com",
 
+".sod.co.jp",
 
 
-  ".sokmil.com",
 
+".softether.org",
 
 
-  "||sorting-algorithms.com",
 
+"||softether.org",
 
 
-  ".sostibet.org",
 
+".softether-download.com",
 
 
-  ".soumo.info",
 
+"||softether-download.com",
 
 
-  "||soup.io",
 
+"||cdn.softlayer.net",
 
 
-  "@@||static.soup.io",
 
+"||sogclub.com",
 
 
-  ".sobees.com",
 
+"sohcradio.com",
 
 
-  "||sobees.com",
 
+"||sohcradio.com",
 
 
-  "socialwhale.com",
 
+".sokmil.com",
 
 
-  ".softether.co.jp",
 
+"||sorting-algorithms.com",
 
 
-  "||softwarebychuck.com",
 
+".sostibet.org",
 
 
-  "blog.sogoo.org",
 
+".soumo.info",
 
 
-  "soh.tw",
 
+"||soup.io",
 
 
-  "||soh.tw",
 
+"@@||static.soup.io",
 
 
-  "sohfrance.org",
 
+".sobees.com",
 
 
-  "||sohfrance.org",
 
+"||sobees.com",
 
 
-  "chinese.soifind.com",
 
+"socialwhale.com",
 
 
-  "sokamonline.com",
 
+".softether.co.jp",
 
 
-  ".solidaritetibet.org",
 
+"||softwarebychuck.com",
 
 
-  ".solidfiles.com",
 
+"blog.sogoo.org",
 
 
-  "||somee.com",
 
+"soh.tw",
 
 
-  ".songjianjun.com",
 
+"||soh.tw",
 
 
-  "||songjianjun.com",
 
+"sohfrance.org",
 
 
-  ".sonicbbs.cc",
 
+"||sohfrance.org",
 
 
-  ".sonidodelaesperanza.org",
 
+"chinese.soifind.com",
 
 
-  ".sopcast.com",
 
+"sokamonline.com",
 
 
-  ".sopcast.org",
 
+".solidaritetibet.org",
 
 
-  ".sorazone.net",
 
+".solidfiles.com",
 
 
-  "||sos.org",
 
+"||somee.com",
 
 
-  "bbs.sou-tong.org",
 
+".songjianjun.com",
 
 
-  ".soubory.com",
 
+"||songjianjun.com",
 
 
-  "|http:\/\/soubory.com",
 
+".sonicbbs.cc",
 
 
-  ".soul-plus.net",
 
+".sonidodelaesperanza.org",
 
 
-  ".soulcaliburhentai.net",
 
+".sopcast.com",
 
 
-  "||soulcaliburhentai.net",
 
+".sopcast.org",
 
 
-  "||soundcloud.com",
 
+".sorazone.net",
 
 
-  ".soundofhope.kr",
 
+"||sos.org",
 
 
-  "soundofhope.org",
 
+"bbs.sou-tong.org",
 
 
-  "||soundofhope.org",
 
+".soubory.com",
 
 
-  "||soupofmedia.com",
 
+"|http:\/\/soubory.com",
 
 
-  "|http:\/\/sourceforge.net\/p*\/shadowsocksgui\/",
 
+".soul-plus.net",
 
 
-  ".sourcewadio.com",
 
+".soulcaliburhentai.net",
 
 
-  "southnews.com.tw",
 
+"||soulcaliburhentai.net",
 
 
-  "sowers.org.hk",
 
+"||soundcloud.com",
 
 
-  "||wlx.sowiki.net",
 
+".soundofhope.kr",
 
 
-  "||spankbang.com",
 
+"soundofhope.org",
 
 
-  ".spankingtube.com",
 
+"||soundofhope.org",
 
 
-  ".spankwire.com",
 
+"||soupofmedia.com",
 
 
-  "||spb.com",
 
+"|http:\/\/sourceforge.net\/p*\/shadowsocksgui\/",
 
 
-  "||speakerdeck.com",
 
+".sourcewadio.com",
 
 
-  "||speedify.com",
 
+"southnews.com.tw",
 
 
-  "spem.at",
 
+"sowers.org.hk",
 
 
-  "||spencertipping.com",
 
+"||wlx.sowiki.net",
 
 
-  "||spendee.com",
 
+"||spankbang.com",
 
 
-  "||spicevpn.com",
 
+".spankingtube.com",
 
 
-  ".spideroak.com",
 
+".spankwire.com",
 
 
-  "||spideroak.com",
 
+"||spb.com",
 
 
-  ".spike.com",
 
+"||speakerdeck.com",
 
 
-  ".spotflux.com",
 
+"||speedify.com",
 
 
-  "||spotflux.com",
 
+"spem.at",
 
 
-  ".spring4u.info",
 
+"||spencertipping.com",
 
 
-  "|http:\/\/spring4u.info",
 
+"||spendee.com",
 
 
-  "||sproutcore.com",
 
+"||spicevpn.com",
 
 
-  "||sproxy.info",
 
+".spideroak.com",
 
 
-  "||srocket.us",
 
+"||spideroak.com",
 
 
-  ".ss-link.com",
 
+".spike.com",
 
 
-  "||ss-link.com",
 
+".spotflux.com",
 
 
-  ".ssglobal.co\/wp",
 
+"||spotflux.com",
 
 
-  "|http:\/\/ssglobal.co",
 
+".spring4u.info",
 
 
-  ".ssglobal.me",
 
+"|http:\/\/spring4u.info",
 
 
-  "||ssh91.com",
 
+"||sproutcore.com",
 
 
-  ".sspro.ml",
 
+"||sproxy.info",
 
 
-  "|http:\/\/sspro.ml",
 
+"||srocket.us",
 
 
-  ".ssrshare.com",
 
+".ss-link.com",
 
 
-  "||ssrshare.com",
 
+"||ss-link.com",
 
 
-  "||sss.camp",
 
+".ssglobal.co\/wp",
 
 
-  "||sstmlt.moe",
 
+"|http:\/\/ssglobal.co",
 
 
-  "sstmlt.net",
 
+".ssglobal.me",
 
 
-  "||sstmlt.net",
 
+"||ssh91.com",
 
 
-  "|http:\/\/stackoverflow.com\/users\/895245",
 
+".sspro.ml",
 
 
-  ".stage64.hk",
 
+"|http:\/\/sspro.ml",
 
 
-  "||stage64.hk",
 
+".ssrshare.com",
 
 
-  "||standupfortibet.org",
 
+"||ssrshare.com",
 
 
-  "stanford.edu\/group\/falun",
 
+"||sss.camp",
 
 
-  "usinfo.state.gov",
 
+"||sstmlt.moe",
 
 
-  "||statueofdemocracy.org",
 
+"sstmlt.net",
 
 
-  ".starfishfx.com",
 
+"||sstmlt.net",
 
 
-  ".starp2p.com",
 
+"|http:\/\/stackoverflow.com\/users\/895245",
 
 
-  "||starp2p.com",
 
+".stage64.hk",
 
 
-  ".startpage.com",
 
+"||stage64.hk",
 
 
-  "||startpage.com",
 
+"||standupfortibet.org",
 
 
-  ".startuplivingchina.com",
 
+"stanford.edu\/group\/falun",
 
 
-  "|http:\/\/startuplivingchina.com",
 
+"usinfo.state.gov",
 
 
-  "||static-economist.com",
 
+"||statueofdemocracy.org",
 
 
-  "||stc.com.sa",
 
+".starfishfx.com",
 
 
-  "||steel-storm.com",
 
+".starp2p.com",
 
 
-  ".steganos.com",
 
+"||starp2p.com",
 
 
-  "||steganos.com",
 
+".startpage.com",
 
 
-  ".steganos.net",
 
+"||startpage.com",
 
 
-  ".stepchina.com",
 
+".startuplivingchina.com",
 
 
-  "ny.stgloballink.com",
 
+"|http:\/\/startuplivingchina.com",
 
 
-  "hd.stheadline.com\/news\/realtime",
 
+"||static-economist.com",
 
 
-  "sthoo.com",
 
+"||stc.com.sa",
 
 
-  "||sthoo.com",
 
+"||steel-storm.com",
 
 
-  ".stickam.com",
 
+".steganos.com",
 
 
-  "stickeraction.com\/sesawe",
 
+"||steganos.com",
 
 
-  ".stileproject.com",
 
+".steganos.net",
 
 
-  ".sto.cc",
 
+".stepchina.com",
 
 
-  ".stoporganharvesting.org",
 
+"ny.stgloballink.com",
 
 
-  "||storagenewsletter.com",
 
+"hd.stheadline.com\/news\/realtime",
 
 
-  ".storm.mg",
 
+"sthoo.com",
 
 
-  "||storm.mg",
 
+"||sthoo.com",
 
 
-  ".stoptibetcrisis.net",
 
+".stickam.com",
 
 
-  "||stoptibetcrisis.net",
 
+"stickeraction.com\/sesawe",
 
 
-  "||storify.com",
 
+".stileproject.com",
 
 
-  ".stormmediagroup.com",
 
+".sto.cc",
 
 
-  "||stoweboyd.com",
 
+".stoporganharvesting.org",
 
 
-  "stranabg.com",
 
+"||storagenewsletter.com",
 
 
-  "||straplessdildo.com",
 
+".storm.mg",
 
 
-  "||streamingthe.net",
 
+"||storm.mg",
 
 
-  "streema.com\/tv\/NTDTV_Chinese",
 
+".stoptibetcrisis.net",
 
 
-  "cn.streetvoice.com\/article",
 
+"||stoptibetcrisis.net",
 
 
-  "cn.streetvoice.com\/diary",
 
+"||storify.com",
 
 
-  "cn2.streetvoice.com",
 
+".stormmediagroup.com",
 
 
-  "tw.streetvoice.com",
 
+"||stoweboyd.com",
 
 
-  ".strikingly.com",
 
+"stranabg.com",
 
 
-  "||strongvpn.com",
 
+"||straplessdildo.com",
 
 
-  ".strongwindpress.com",
 
+"||streamingthe.net",
 
 
-  ".student.tw\/db",
 
+"streema.com\/tv\/NTDTV_Chinese",
 
 
-  "||studentsforafreetibet.org",
 
+"cn.streetvoice.com\/article",
 
 
-  "||stumbleupon.com",
 
+"cn.streetvoice.com\/diary",
 
 
-  "stupidvideos.com",
 
+"cn2.streetvoice.com",
 
 
-  ".successfn.com",
 
+"tw.streetvoice.com",
 
 
-  "panamapapers.sueddeutsche.de",
 
+".strikingly.com",
 
 
-  ".sugarsync.com",
 
+"||strongvpn.com",
 
 
-  "||sugarsync.com",
 
+".strongwindpress.com",
 
 
-  ".sugobbs.com",
 
+".student.tw\/db",
 
 
-  "||sugumiru18.com",
 
+"||studentsforafreetibet.org",
 
 
-  "||suissl.com",
 
+"||stumbleupon.com",
 
 
-  "summify.com",
 
+"stupidvideos.com",
 
 
-  ".sumrando.com",
 
+".successfn.com",
 
 
-  "||sumrando.com",
 
+"panamapapers.sueddeutsche.de",
 
 
-  "sun1911.com",
 
+".sugarsync.com",
 
 
-  ".sunporno.com",
 
+"||sugarsync.com",
 
 
-  "||sunmedia.ca",
 
+".sugobbs.com",
 
 
-  "||sunporno.com",
 
+"||sugumiru18.com",
 
 
-  ".sunskyforum.com",
 
+"||suissl.com",
 
 
-  ".sunta.com.tw",
 
+"summify.com",
 
 
-  ".sunvpn.net",
 
+".sumrando.com",
 
 
-  ".suoluo.org",
 
+"||sumrando.com",
 
 
-  ".superfreevpn.com",
 
+"sun1911.com",
 
 
-  ".supervpn.net",
 
+".sunporno.com",
 
 
-  "||supervpn.net",
 
+"||sunmedia.ca",
 
 
-  ".superzooi.com",
 
+"||sunporno.com",
 
 
-  "|http:\/\/superzooi.com",
 
+".sunskyforum.com",
 
 
-  ".suppig.net",
 
+".sunta.com.tw",
 
 
-  ".suprememastertv.com",
 
+".sunvpn.net",
 
 
-  "|http:\/\/suprememastertv.com",
 
+".suoluo.org",
 
 
-  ".surfeasy.com",
 
+".superfreevpn.com",
 
 
-  "||surfeasy.com",
 
+".supervpn.net",
 
 
-  ".surfeasy.com.au",
 
+"||supervpn.net",
 
 
-  "|http:\/\/surfeasy.com.au",
 
+".superzooi.com",
 
 
-  "||surrenderat20.net",
 
+"|http:\/\/superzooi.com",
 
 
-  ".suyangg.com",
 
+".suppig.net",
 
 
-  "|http:\/\/suyangg.com",
 
+".suprememastertv.com",
 
 
-  ".svsfx.com",
 
+"|http:\/\/suprememastertv.com",
 
 
-  ".swissinfo.ch",
 
+".surfeasy.com",
 
 
-  "||swissinfo.ch",
 
+"||surfeasy.com",
 
 
-  ".swissvpn.net",
 
+".surfeasy.com.au",
 
 
-  "||swissvpn.net",
 
+"|http:\/\/surfeasy.com.au",
 
 
-  "switchvpn.net",
 
+"||surrenderat20.net",
 
 
-  "||switchvpn.net",
 
+".suyangg.com",
 
 
-  ".sydneytoday.com",
 
+"|http:\/\/suyangg.com",
 
 
-  "||sydneytoday.com",
 
+".svsfx.com",
 
 
-  ".sylfoundation.org",
 
+".swissinfo.ch",
 
 
-  "||syncback.com",
 
+"||swissinfo.ch",
 
 
-  "sysresccd.org",
 
+".swissvpn.net",
 
 
-  ".sytes.net",
 
+"||swissvpn.net",
 
 
-  "blog.syx86.com\/2009\/09\/puff",
 
+"switchvpn.net",
 
 
-  "blog.syx86.cn\/2009\/09\/puff",
 
+"||switchvpn.net",
 
 
-  ".szbbs.net",
 
+".sydneytoday.com",
 
 
-  ".szetowah.org.hk",
 
+"||sydneytoday.com",
 
 
-  "||t-g.com",
 
+".sylfoundation.org",
 
 
-  ".t35.com",
 
+"||syncback.com",
 
 
-  ".t66y.com",
 
+"sysresccd.org",
 
 
-  "||t66y.com",
 
+".sytes.net",
 
 
-  ".taa-usa.org",
 
+"blog.syx86.com\/2009\/09\/puff",
 
 
-  "|http:\/\/taa-usa.org",
 
+"blog.syx86.cn\/2009\/09\/puff",
 
 
-  ".taaze.tw",
 
+".szbbs.net",
 
 
-  "||taaze.tw",
 
+".szetowah.org.hk",
 
 
-  "|http:\/\/www.tablesgenerator.com\/",
 
+"||t-g.com",
 
 
-  "tabtter.jp",
 
+".t35.com",
 
 
-  ".tacem.org",
 
+".t66y.com",
 
 
-  ".taconet.com.tw",
 
+"||t66y.com",
 
 
-  "||taedp.org.tw",
 
+".taa-usa.org",
 
 
-  ".tafm.org",
 
+"|http:\/\/taa-usa.org",
 
 
-  ".tagwa.org.au",
 
+".taaze.tw",
 
 
-  "tagwalk.com",
 
+"||taaze.tw",
 
 
-  "||tagwalk.com",
 
+"|http:\/\/www.tablesgenerator.com\/",
 
 
-  "tahr.org.tw",
 
+"tabtter.jp",
 
 
-  ".taipeisociety.org",
 
+".tacem.org",
 
 
-  "||taipeisociety.org",
 
+".taconet.com.tw",
 
 
-  ".taiwanbible.com",
 
+"||taedp.org.tw",
 
 
-  ".taiwancon.com",
 
+".tafm.org",
 
 
-  ".taiwandaily.net",
 
+".tagwa.org.au",
 
 
-  "||taiwandaily.net",
 
+"tagwalk.com",
 
 
-  ".taiwandc.org",
 
+"||tagwalk.com",
 
 
-  ".taiwanjustice.com",
 
+"tahr.org.tw",
 
 
-  "taiwankiss.com",
 
+".taipeisociety.org",
 
 
-  "taiwannation.com",
 
+"||taipeisociety.org",
 
 
-  "taiwannation.com.tw",
 
+".taiwanbible.com",
 
 
-  "||taiwanncf.org.tw",
 
+".taiwancon.com",
 
 
-  "||taiwannews.com.tw",
 
+".taiwandaily.net",
 
 
-  "|http:\/\/www.taiwanonline.cc\/",
 
+"||taiwandaily.net",
 
 
-  "taiwantp.net",
 
+".taiwandc.org",
 
 
-  "||taiwantt.org.tw",
 
+".taiwanjustice.com",
 
 
-  "taiwanus.net",
 
+"taiwankiss.com",
 
 
-  "taiwanyes.com",
 
+"taiwannation.com",
 
 
-  "taiwan-sex.com",
 
+"taiwannation.com.tw",
 
 
-  ".talk853.com",
 
+"||taiwanncf.org.tw",
 
 
-  ".talkboxapp.com",
 
+"||taiwannews.com.tw",
 
 
-  "||talkboxapp.com",
 
+"|http:\/\/www.taiwanonline.cc\/",
 
 
-  ".talkcc.com",
 
+"taiwantp.net",
 
 
-  "||talkcc.com",
 
+"||taiwantt.org.tw",
 
 
-  ".talkonly.net",
 
+"taiwanus.net",
 
 
-  "||talkonly.net",
 
+"taiwanyes.com",
 
 
-  "||tamiaode.tk",
 
+"taiwan-sex.com",
 
 
-  "||tanc.org",
 
+".talk853.com",
 
 
-  "tangben.com",
 
+".talkboxapp.com",
 
 
-  ".tangren.us",
 
+"||talkboxapp.com",
 
 
-  ".taoism.net",
 
+".talkcc.com",
 
 
-  "|http:\/\/taoism.net",
 
+"||talkcc.com",
 
 
-  ".taolun.info",
 
+".talkonly.net",
 
 
-  "||taolun.info",
 
+"||talkonly.net",
 
 
-  ".tapatalk.com",
 
+"||tamiaode.tk",
 
 
-  "||tapatalk.com",
 
+"||tanc.org",
 
 
-  "blog.taragana.com",
 
+"tangben.com",
 
 
-  ".tascn.com.au",
 
+".tangren.us",
 
 
-  "||taup.net",
 
+".taoism.net",
 
 
-  "|http:\/\/www.taup.org.tw",
 
+"|http:\/\/taoism.net",
 
 
-  ".taweet.com",
 
+".taolun.info",
 
 
-  "||taweet.com",
 
+"||taolun.info",
 
 
-  ".tbcollege.org",
 
+".tapatalk.com",
 
 
-  "||tbcollege.org",
 
+"||tapatalk.com",
 
 
-  ".tbi.org.hk",
 
+"blog.taragana.com",
 
 
-  ".tbicn.org",
 
+".tascn.com.au",
 
 
-  ".tbjyt.org",
 
+"||taup.net",
 
 
-  "||tbpic.info",
 
+"|http:\/\/www.taup.org.tw",
 
 
-  ".tbrc.org",
 
+".taweet.com",
 
 
-  "tbs-rainbow.org",
 
+"||taweet.com",
 
 
-  ".tbsec.org",
 
+".tbcollege.org",
 
 
-  "||tbsec.org",
 
+"||tbcollege.org",
 
 
-  "tbskkinabalu.page.tl",
 
+".tbi.org.hk",
 
 
-  ".tbsmalaysia.org",
 
+".tbicn.org",
 
 
-  ".tbsn.org",
 
+".tbjyt.org",
 
 
-  "||tbsn.org",
 
+"||tbpic.info",
 
 
-  ".tbsseattle.org",
 
+".tbrc.org",
 
 
-  ".tbssqh.org",
 
+"tbs-rainbow.org",
 
 
-  "|http:\/\/tbssqh.org",
 
+".tbsec.org",
 
 
-  "tbswd.org",
 
+"||tbsec.org",
 
 
-  ".tbtemple.org.uk",
 
+"tbskkinabalu.page.tl",
 
 
-  ".tbthouston.org",
 
+".tbsmalaysia.org",
 
 
-  ".tccwonline.org",
 
+".tbsn.org",
 
 
-  ".tcewf.org",
 
+"||tbsn.org",
 
 
-  "tchrd.org",
 
+".tbsseattle.org",
 
 
-  "tcnynj.org",
 
+".tbssqh.org",
 
 
-  "||tcpspeed.co",
 
+"|http:\/\/tbssqh.org",
 
 
-  ".tcpspeed.com",
 
+"tbswd.org",
 
 
-  "||tcpspeed.com",
 
+".tbtemple.org.uk",
 
 
-  ".tcsofbc.org",
 
+".tbthouston.org",
 
 
-  ".tcsovi.org",
 
+".tccwonline.org",
 
 
-  ".tdm.com.mo",
 
+".tcewf.org",
 
 
-  "teamamericany.com",
 
+"tchrd.org",
 
 
-  "||techviz.net",
 
+"tcnynj.org",
 
 
-  "||teck.in",
 
+"||tcpspeed.co",
 
 
-  ".teeniefuck.net",
 
+".tcpspeed.com",
 
 
-  "teensinasia.com",
 
+"||tcpspeed.com",
 
 
-  ".telecomspace.com",
 
+".tcsofbc.org",
 
 
-  "||telegraph.co.uk",
 
+".tcsovi.org",
 
 
-  ".tenacy.com",
 
+".tdm.com.mo",
 
 
-  "||tenzinpalmo.com",
 
+"teamamericany.com",
 
 
-  ".tew.org",
 
+"||techviz.net",
 
 
-  ".thaicn.com",
 
+"||teck.in",
 
 
-  "||theatrum-belli.com",
 
+".teeniefuck.net",
 
 
-  "theblemish.com",
 
+"teensinasia.com",
 
 
-  "||thebcomplex.com",
 
+".telecomspace.com",
 
 
-  ".thebobs.com",
 
+"||telegraph.co.uk",
 
 
-  "||thebobs.com",
 
+".tenacy.com",
 
 
-  ".thechinabeat.org",
 
+"||tenzinpalmo.com",
 
 
-  "|http:\/\/www.thechinastory.org\/yearbooks\/yearbook-2012\/",
 
+".tew.org",
 
 
-  ".thedalailamamovie.com",
 
+".thaicn.com",
 
 
-  "|http:\/\/thedalailamamovie.com",
 
+"||theatrum-belli.com",
 
 
-  "||thedw.us",
 
+"theblemish.com",
 
 
-  "thefrontier.hk\/tf",
 
+"||thebcomplex.com",
 
 
-  "cn.thegay.com",
 
+".thebobs.com",
 
 
-  "|http:\/\/thegioitinhoc.vn\/",
 
+"||thebobs.com",
 
 
-  ".thegly.com",
 
+".thechinabeat.org",
 
 
-  ".thehots.info",
 
+"|http:\/\/www.thechinastory.org\/yearbooks\/yearbook-2012\/",
 
 
-  "thehousenews.com",
 
+".thedalailamamovie.com",
 
 
-  "||thehun.net",
 
+"|http:\/\/thedalailamamovie.com",
 
 
-  ".theinitium.com",
 
+"||thedw.us",
 
 
-  "||theinitium.com",
 
+"thefrontier.hk\/tf",
 
 
-  ".thenewslens.com",
 
+"cn.thegay.com",
 
 
-  "||thenewslens.com",
 
+"|http:\/\/thegioitinhoc.vn\/",
 
 
-  ".thepiratebay.org",
 
+".thegly.com",
 
 
-  "||thepiratebay.org",
 
+".thehots.info",
 
 
-  ".theporndude.com",
 
+"thehousenews.com",
 
 
-  "||theporndude.com",
 
+"||thehun.net",
 
 
-  "||theportalwiki.com",
 
+".theinitium.com",
 
 
-  "thereallove.kr",
 
+"||theinitium.com",
 
 
-  "therock.net.nz",
 
+".thenewslens.com",
 
 
-  "thespeeder.com",
 
+"||thenewslens.com",
 
 
-  "||thestandnews.com",
 
+".thepiratebay.org",
 
 
-  "thetibetcenter.org",
 
+"||thepiratebay.org",
 
 
-  "thetibetconnection.org",
 
+".theporndude.com",
 
 
-  ".thetibetmuseum.org",
 
+"||theporndude.com",
 
 
-  ".thetibetpost.com",
 
+"||theportalwiki.com",
 
 
-  "||thetibetpost.com",
 
+"thereallove.kr",
 
 
-  "||thetinhat.com",
 
+"therock.net.nz",
 
 
-  "thetrotskymovie.com",
 
+"thespeeder.com",
 
 
-  "thevivekspot.com",
 
+"||thestandnews.com",
 
 
-  "||thewgo.org",
 
+"thetibetcenter.org",
 
 
-  ".theync.com",
 
+"thetibetconnection.org",
 
 
-  "|http:\/\/theync.com",
 
+".thetibetmuseum.org",
 
 
-  ".thinkingtaiwan.com",
 
+".thetibetpost.com",
 
 
-  ".thisav.com",
 
+"||thetibetpost.com",
 
 
-  "|http:\/\/thisav.com",
 
+"||thetinhat.com",
 
 
-  ".thlib.org",
 
+"thetrotskymovie.com",
 
 
-  "||thomasbernhard.org",
 
+"thevivekspot.com",
 
 
-  ".thongdreams.com",
 
+"||thewgo.org",
 
 
-  "threatchaos.com",
 
+".theync.com",
 
 
-  "||throughnightsfire.com",
 
+"|http:\/\/theync.com",
 
 
-  ".thumbzilla.com",
 
+".thinkingtaiwan.com",
 
 
-  "||thywords.com",
 
+".thisav.com",
 
 
-  ".thywords.com.tw",
 
+"|http:\/\/thisav.com",
 
 
-  "tiananmenmother.org",
 
+".thlib.org",
 
 
-  ".tiananmenduizhi.com",
 
+"||thomasbernhard.org",
 
 
-  "||tiananmenduizhi.com",
 
+".thongdreams.com",
 
 
-  "||tiananmenuniv.com",
 
+"threatchaos.com",
 
 
-  "||tiananmenuniv.net",
 
+"||throughnightsfire.com",
 
 
-  "||tiandixing.org",
 
+".thumbzilla.com",
 
 
-  ".tianhuayuan.com",
 
+"||thywords.com",
 
 
-  ".tianlawoffice.com",
 
+".thywords.com.tw",
 
 
-  "||tianti.io",
 
+"tiananmenmother.org",
 
 
-  "tiantibooks.org",
 
+".tiananmenduizhi.com",
 
 
-  "||tiantibooks.org",
 
+"||tiananmenduizhi.com",
 
 
-  "tianyantong.org.cn",
 
+"||tiananmenuniv.com",
 
 
-  ".tianzhu.org",
 
+"||tiananmenuniv.net",
 
 
-  ".tibet.at",
 
+"||tiandixing.org",
 
 
-  "tibet.ca",
 
+".tianhuayuan.com",
 
 
-  ".tibet.com",
 
+".tianlawoffice.com",
 
 
-  "||tibet.com",
 
+"||tianti.io",
 
 
-  "tibet.fr",
 
+"tiantibooks.org",
 
 
-  ".tibet.net",
 
+"||tiantibooks.org",
 
 
-  "||tibet.net",
 
+"tianyantong.org.cn",
 
 
-  "tibet.nu",
 
+".tianzhu.org",
 
 
-  ".tibet.org",
 
+".tibet.at",
 
 
-  "||tibet.org",
 
+"tibet.ca",
 
 
-  ".tibet.sk",
 
+".tibet.com",
 
 
-  "tibet.org.tw",
 
+"||tibet.com",
 
 
-  ".tibet.to",
 
+"tibet.fr",
 
 
-  ".tibet-envoy.eu",
 
+".tibet.net",
 
 
-  "||tibet-envoy.eu",
 
+"||tibet.net",
 
 
-  ".tibet-foundation.org",
 
+"tibet.nu",
 
 
-  ".tibet-house-trust.co.uk",
 
+".tibet.org",
 
 
-  "tibet-info.net",
 
+"||tibet.org",
 
 
-  "tibet-initiative.de",
 
+".tibet.sk",
 
 
-  "||tibet-initiative.de",
 
+"tibet.org.tw",
 
 
-  ".tibet-munich.de",
 
+".tibet.to",
 
 
-  ".tibet3rdpole.org",
 
+".tibet-envoy.eu",
 
 
-  "|http:\/\/tibet3rdpole.org",
 
+"||tibet-envoy.eu",
 
 
-  "tibetaction.net",
 
+".tibet-foundation.org",
 
 
-  "||tibetaction.net",
 
+".tibet-house-trust.co.uk",
 
 
-  ".tibetaid.org",
 
+"tibet-info.net",
 
 
-  "tibetalk.com",
 
+"tibet-initiative.de",
 
 
-  ".tibetan.fr",
 
+"||tibet-initiative.de",
 
 
-  "tibetan-alliance.org",
 
+".tibet-munich.de",
 
 
-  ".tibetanarts.org",
 
+".tibet3rdpole.org",
 
 
-  ".tibetanbuddhistinstitute.org",
 
+"|http:\/\/tibet3rdpole.org",
 
 
-  "|http:\/\/tibetanbuddhistinstitute.org",
 
+"tibetaction.net",
 
 
-  "tibetancommunity.org",
 
+"||tibetaction.net",
 
 
-  ".tibetanjournal.com",
 
+".tibetaid.org",
 
 
-  ".tibetanlanguage.org",
 
+"tibetalk.com",
 
 
-  ".tibetanliberation.org",
 
+".tibetan.fr",
 
 
-  "||tibetanliberation.org",
 
+"tibetan-alliance.org",
 
 
-  ".tibetcollection.com",
 
+".tibetanarts.org",
 
 
-  ".tibetanaidproject.org",
 
+".tibetanbuddhistinstitute.org",
 
 
-  ".tibetancommunityuk.net",
 
+"|http:\/\/tibetanbuddhistinstitute.org",
 
 
-  "|http:\/\/tibetancommunityuk.net",
 
+"tibetancommunity.org",
 
 
-  "tibetanculture.org",
 
+".tibetanjournal.com",
 
 
-  "tibetanfeministcollective.org",
 
+".tibetanlanguage.org",
 
 
-  ".tibetanpaintings.com",
 
+".tibetanliberation.org",
 
 
-  ".tibetanphotoproject.com",
 
+"||tibetanliberation.org",
 
 
-  ".tibetanpoliticalreview.org",
 
+".tibetcollection.com",
 
 
-  ".tibetanreview.net",
 
+".tibetanaidproject.org",
 
 
-  "|http:\/\/tibetansports.org",
 
+".tibetancommunityuk.net",
 
 
-  ".tibetanwomen.org",
 
+"|http:\/\/tibetancommunityuk.net",
 
 
-  "|http:\/\/tibetanwomen.org",
 
+"tibetanculture.org",
 
 
-  ".tibetanyouth.org",
 
+"tibetanfeministcollective.org",
 
 
-  ".tibetanyouthcongress.org",
 
+".tibetanpaintings.com",
 
 
-  "||tibetanyouthcongress.org",
 
+".tibetanphotoproject.com",
 
 
-  ".tibetcharity.dk",
 
+".tibetanpoliticalreview.org",
 
 
-  "tibetcharity.in",
 
+".tibetanreview.net",
 
 
-  ".tibetchild.org",
 
+"|http:\/\/tibetansports.org",
 
 
-  ".tibetcity.com",
 
+".tibetanwomen.org",
 
 
-  ".tibetcorps.org",
 
+"|http:\/\/tibetanwomen.org",
 
 
-  ".tibetexpress.net",
 
+".tibetanyouth.org",
 
 
-  "|http:\/\/tibetexpress.net",
 
+".tibetanyouthcongress.org",
 
 
-  "tibetfocus.com",
 
+"||tibetanyouthcongress.org",
 
 
-  "tibetfund.org",
 
+".tibetcharity.dk",
 
 
-  ".tibetgermany.com",
 
+"tibetcharity.in",
 
 
-  "||tibetgermany.de",
 
+".tibetchild.org",
 
 
-  ".tibethaus.com",
 
+".tibetcity.com",
 
 
-  ".tibetheritagefund.org",
 
+".tibetcorps.org",
 
 
-  "tibethouse.jp",
 
+".tibetexpress.net",
 
 
-  "tibethouse.org",
 
+"|http:\/\/tibetexpress.net",
 
 
-  "||tibethouse.us",
 
+"tibetfocus.com",
 
 
-  ".tibetinfonet.net",
 
+"tibetfund.org",
 
 
-  ".tibetjustice.org",
 
+".tibetgermany.com",
 
 
-  ".tibetkomite.dk",
 
+"||tibetgermany.de",
 
 
-  "|http:\/\/tibetmuseum.org",
 
+".tibethaus.com",
 
 
-  "tibetnetwork.org",
 
+".tibetheritagefund.org",
 
 
-  "||tibetnetwork.org",
 
+"tibethouse.jp",
 
 
-  ".tibetoffice.ch",
 
+"tibethouse.org",
 
 
-  "|http:\/\/tibetoffice.ch",
 
+"||tibethouse.us",
 
 
-  "tibetoffice.eu",
 
+".tibetinfonet.net",
 
 
-  "tibetoffice.org",
 
+".tibetjustice.org",
 
 
-  "tibetonline.com",
 
+".tibetkomite.dk",
 
 
-  "||tibetonline.com",
 
+"|http:\/\/tibetmuseum.org",
 
 
-  ".tibetoffice.com.au",
 
+"tibetnetwork.org",
 
 
-  "|http:\/\/tibetoffice.com.au",
 
+"||tibetnetwork.org",
 
 
-  "||tibetonline.tv",
 
+".tibetoffice.ch",
 
 
-  ".tibetonline.tv",
 
+"|http:\/\/tibetoffice.ch",
 
 
-  ".tibetoralhistory.org",
 
+"tibetoffice.eu",
 
 
-  "|http:\/\/tibetoralhistory.org",
 
+"tibetoffice.org",
 
 
-  ".tibetpolicy.eu",
 
+"tibetonline.com",
 
 
-  ".tibetrelieffund.co.uk",
 
+"||tibetonline.com",
 
 
-  "tibetsites.com",
 
+".tibetoffice.com.au",
 
 
-  ".tibetsociety.com",
 
+"|http:\/\/tibetoffice.com.au",
 
 
-  "||tibetsociety.com",
 
+"||tibetonline.tv",
 
 
-  ".tibetsun.com",
 
+".tibetonline.tv",
 
 
-  ".tibetsupportgroup.org",
 
+".tibetoralhistory.org",
 
 
-  "|http:\/\/tibetsupportgroup.org",
 
+"|http:\/\/tibetoralhistory.org",
 
 
-  ".tibetswiss.ch",
 
+".tibetpolicy.eu",
 
 
-  ".tibettelegraph.com",
 
+".tibetrelieffund.co.uk",
 
 
-  "tibettimes.net",
 
+"tibetsites.com",
 
 
-  "||tibetwrites.org",
 
+".tibetsociety.com",
 
 
-  ".ticket.com.tw",
 
+"||tibetsociety.com",
 
 
-  ".tigervpn.com",
 
+".tibetsun.com",
 
 
-  "||tigervpn.com",
 
+".tibetsupportgroup.org",
 
 
-  ".timdir.com",
 
+"|http:\/\/tibetsupportgroup.org",
 
 
-  "|http:\/\/timdir.com",
 
+".tibetswiss.ch",
 
 
-  ".time.com",
 
+".tibettelegraph.com",
 
 
-  "|http:\/\/time.com",
 
+"tibettimes.net",
 
 
-  ".timsah.com",
 
+"||tibetwrites.org",
 
 
-  "||blog.tiney.com",
 
+".ticket.com.tw",
 
 
-  "tintuc101.com",
 
+".tigervpn.com",
 
 
-  ".tiny.cc",
 
+"||tigervpn.com",
 
 
-  "|http:\/\/tiny.cc",
 
+".timdir.com",
 
 
-  "tinychat.com",
 
+"|http:\/\/timdir.com",
 
 
-  "||tinypaste.com",
 
+".time.com",
 
 
-  ".tistory.com",
 
+"|http:\/\/time.com",
 
 
-  "||tkcs-collins.com",
 
+".timsah.com",
 
 
-  ".tmagazine.com",
 
+"||blog.tiney.com",
 
 
-  "||tmagazine.com",
 
+"tintuc101.com",
 
 
-  ".tmdfish.com",
 
+".tiny.cc",
 
 
-  "|http:\/\/tmi.me",
 
+"|http:\/\/tiny.cc",
 
 
-  ".tmpp.org",
 
+"tinychat.com",
 
 
-  "|http:\/\/tmpp.org",
 
+"||tinypaste.com",
 
 
-  ".tnaflix.com",
 
+".tistory.com",
 
 
-  "||tnaflix.com",
 
+"||tkcs-collins.com",
 
 
-  ".tngrnow.com",
 
+".tmagazine.com",
 
 
-  ".tngrnow.net",
 
+"||tmagazine.com",
 
 
-  ".tnp.org",
 
+".tmdfish.com",
 
 
-  "|http:\/\/tnp.org",
 
+"|http:\/\/tmi.me",
 
 
-  ".to-porno.com",
 
+".tmpp.org",
 
 
-  "||to-porno.com",
 
+"|http:\/\/tmpp.org",
 
 
-  "togetter.com",
 
+".tnaflix.com",
 
 
-  ".tokyo-247.com",
 
+"||tnaflix.com",
 
 
-  ".tokyo-hot.com",
 
+".tngrnow.com",
 
 
-  "||tokyo-porn-tube.com",
 
+".tngrnow.net",
 
 
-  "||tokyocn.com",
 
+".tnp.org",
 
 
-  "tw.tomonews.net",
 
+"|http:\/\/tnp.org",
 
 
-  ".tongil.or.kr",
 
+".to-porno.com",
 
 
-  ".tono-oka.jp",
 
+"||to-porno.com",
 
 
-  "tonyyan.net",
 
+"togetter.com",
 
 
-  ".toodoc.com",
 
+".tokyo-247.com",
 
 
-  "toonel.net",
 
+".tokyo-hot.com",
 
 
-  "top81.ws",
 
+"||tokyo-porn-tube.com",
 
 
-  ".topnews.in",
 
+"||tokyocn.com",
 
 
-  ".toppornsites.com",
 
+"tw.tomonews.net",
 
 
-  "|http:\/\/toppornsites.com",
 
+".tongil.or.kr",
 
 
-  ".torguard.net",
 
+".tono-oka.jp",
 
 
-  "||torguard.net",
 
+"tonyyan.net",
 
 
-  "||top.tv",
 
+".toodoc.com",
 
 
-  ".topshareware.com",
 
+"toonel.net",
 
 
-  ".topsy.com",
 
+"top81.ws",
 
 
-  "||topsy.com",
 
+".topnews.in",
 
 
-  "||toptip.ca",
 
+".toppornsites.com",
 
 
-  "tora.to",
 
+"|http:\/\/toppornsites.com",
 
 
-  ".torcn.com",
 
+".torguard.net",
 
 
-  ".torproject.org",
 
+"||torguard.net",
 
 
-  "||torproject.org",
 
+"||top.tv",
 
 
-  "torrentprivacy.com",
 
+".topshareware.com",
 
 
-  "||torrentprivacy.com",
 
+".topsy.com",
 
 
-  "|http:\/\/torrentproject.se",
 
+"||topsy.com",
 
 
-  "||torrenty.org",
 
+"||toptip.ca",
 
 
-  "||torrentz.eu",
 
+"tora.to",
 
 
-  "||torvpn.com",
 
+".torcn.com",
 
 
-  "||totalvpn.com",
 
+".torproject.org",
 
 
-  ".toutiaoabc.com",
 
+"||torproject.org",
 
 
-  "towngain.com",
 
+"torrentprivacy.com",
 
 
-  "toypark.in",
 
+"||torrentprivacy.com",
 
 
-  "toytractorshow.com",
 
+"|http:\/\/torrentproject.se",
 
 
-  ".tparents.org",
 
+"||torrenty.org",
 
 
-  ".tpi.org.tw",
 
+"||torrentz.eu",
 
 
-  "||tpi.org.tw",
 
+"||torvpn.com",
 
 
-  "traffichaus.com",
 
+"||totalvpn.com",
 
 
-  "||transparency.org",
 
+".toutiaoabc.com",
 
 
-  "||treemall.com.tw",
 
+"towngain.com",
 
 
-  "trendsmap.com",
 
+"toypark.in",
 
 
-  "||trendsmap.com",
 
+"toytractorshow.com",
 
 
-  ".trialofccp.org",
 
+".tparents.org",
 
 
-  "||trialofccp.org",
 
+".tpi.org.tw",
 
 
-  ".trimondi.de\/SDLE",
 
+"||tpi.org.tw",
 
 
-  ".trouw.nl",
 
+"traffichaus.com",
 
 
-  "|http:\/\/trouw.nl",
 
+"||transparency.org",
 
 
-  ".trt.net.tr",
 
+"||treemall.com.tw",
 
 
-  "trtc.com.tw",
 
+"trendsmap.com",
 
 
-  ".truebuddha-md.org",
 
+"||trendsmap.com",
 
 
-  "|http:\/\/truebuddha-md.org",
 
+".trialofccp.org",
 
 
-  "trulyergonomic.com",
 
+"||trialofccp.org",
 
 
-  ".truth101.co.tv",
 
+".trimondi.de\/SDLE",
 
 
-  "|http:\/\/truth101.co.tv",
 
+".trouw.nl",
 
 
-  ".truthontour.org",
 
+"|http:\/\/trouw.nl",
 
 
-  "|http:\/\/truthontour.org",
 
+".trt.net.tr",
 
 
-  ".truveo.com",
 
+"trtc.com.tw",
 
 
-  ".tsctv.net",
 
+".truebuddha-md.org",
 
 
-  ".tsemtulku.com",
 
+"|http:\/\/truebuddha-md.org",
 
 
-  "tsquare.tv",
 
+"trulyergonomic.com",
 
 
-  ".tsu.org.tw",
 
+".truth101.co.tv",
 
 
-  "tsunagarumon.com",
 
+"|http:\/\/truth101.co.tv",
 
 
-  ".tsctv.net",
 
+".truthontour.org",
 
 
-  "||tt1069.com",
 
+"|http:\/\/truthontour.org",
 
 
-  ".tttan.com",
 
+".truveo.com",
 
 
-  "||tttan.com",
 
+".tsctv.net",
 
 
-  "bb.ttv.com.tw\/bb",
 
+".tsemtulku.com",
 
 
-  "tu8964.com",
 
+"tsquare.tv",
 
 
-  ".tubaholic.com",
 
+".tsu.org.tw",
 
 
-  ".tube.com",
 
+"tsunagarumon.com",
 
 
-  "tube8.com",
 
+".tsctv.net",
 
 
-  "||tube8.com",
 
+"||tt1069.com",
 
 
-  ".tube911.com",
 
+".tttan.com",
 
 
-  "||tube911.com",
 
+"||tttan.com",
 
 
-  ".tubecup.com",
 
+"bb.ttv.com.tw\/bb",
 
 
-  ".tubegals.com",
 
+"tu8964.com",
 
 
-  ".tubeislam.com",
 
+".tubaholic.com",
 
 
-  "|http:\/\/tubeislam.com",
 
+".tube.com",
 
 
-  ".tubestack.com",
 
+"tube8.com",
 
 
-  "||tubewolf.com",
 
+"||tube8.com",
 
 
-  ".tuibeitu.net",
 
+".tube911.com",
 
 
-  "tuidang.net",
 
+"||tube911.com",
 
 
-  ".tuidang.org",
 
+".tubecup.com",
 
 
-  "||tuidang.org",
 
+".tubegals.com",
 
 
-  ".tuidang.se",
 
+".tubeislam.com",
 
 
-  "bbs.tuitui.info",
 
+"|http:\/\/tubeislam.com",
 
 
-  ".tumutanzi.com",
 
+".tubestack.com",
 
 
-  "|http:\/\/tumutanzi.com",
 
+"||tubewolf.com",
 
 
-  "||tumview.com",
 
+".tuibeitu.net",
 
 
-  ".tunein.com",
 
+"tuidang.net",
 
 
-  "|http:\/\/tunein.com",
 
+".tuidang.org",
 
 
-  "||tunnelbear.com",
 
+"||tuidang.org",
 
 
-  ".tunnelr.com",
 
+".tuidang.se",
 
 
-  "||tunnelr.com",
 
+"bbs.tuitui.info",
 
 
-  ".tuo8.blue",
 
+".tumutanzi.com",
 
 
-  "||tuo8.blue",
 
+"|http:\/\/tumutanzi.com",
 
 
-  ".tuo8.cc",
 
+"||tumview.com",
 
 
-  ".tuo8.club",
 
+".tunein.com",
 
 
-  "||tuo8.club",
 
+"|http:\/\/tunein.com",
 
 
-  ".tuo8.fit",
 
+"||tunnelbear.com",
 
 
-  ".tuo8.hk",
 
+".tunnelr.com",
 
 
-  ".tuo8.in",
 
+"||tunnelr.com",
 
 
-  ".tuo8.ninja",
 
+".tuo8.blue",
 
 
-  ".tuo8.org",
 
+"||tuo8.blue",
 
 
-  "||tuo8.fit",
 
+".tuo8.cc",
 
 
-  "||tuo8.org",
 
+".tuo8.club",
 
 
-  ".tuo8.pw",
 
+"||tuo8.club",
 
 
-  "|http:\/\/tuo8.pw",
 
+".tuo8.fit",
 
 
-  "||tuo8.red",
 
+".tuo8.hk",
 
 
-  ".tuo8.space",
 
+".tuo8.in",
 
 
-  "tuitwit.com",
 
+".tuo8.ninja",
 
 
-  ".turansam.org",
 
+".tuo8.org",
 
 
-  ".turbobit.net",
 
+"||tuo8.fit",
 
 
-  "|http:\/\/turbobit.net",
 
+"||tuo8.org",
 
 
-  ".turbohide.com",
 
+".tuo8.pw",
 
 
-  "||turbohide.com",
 
+"|http:\/\/tuo8.pw",
 
 
-  ".tushycash.com",
 
+"||tuo8.red",
 
 
-  "|http:\/\/tushycash.com",
 
+".tuo8.space",
 
 
-  "||app.tutanota.com",
 
+"tuitwit.com",
 
 
-  ".tuvpn.com",
 
+".turansam.org",
 
 
-  "||tuvpn.com",
 
+".turbobit.net",
 
 
-  "|http:\/\/tuzaijidi.com",
 
+"|http:\/\/turbobit.net",
 
 
-  "|http:\/\/*.tuzaijidi.com",
 
+".turbohide.com",
 
 
-  ".tw01.org",
 
+"||turbohide.com",
 
 
-  "|http:\/\/tw01.org",
 
+".tushycash.com",
 
 
-  ".tumblr.com",
 
+"|http:\/\/tushycash.com",
 
 
-  "||tumblr.com",
 
+"||app.tutanota.com",
 
 
-  "||lecloud.net",
 
+".tuvpn.com",
 
 
-  "|http:\/\/cosmic.monar.ch",
 
+"||tuvpn.com",
 
 
-  "||slutmoonbeam.com",
 
+"|http:\/\/tuzaijidi.com",
 
 
-  "|http:\/\/blog.soylent.com",
 
+"|http:\/\/*.tuzaijidi.com",
 
 
-  ".tv.com",
 
+".tw01.org",
 
 
-  "|http:\/\/tv.com",
 
+"|http:\/\/tw01.org",
 
 
-  "tvants.com",
 
+".tumblr.com",
 
 
-  "forum.tvb.com",
 
+"||tumblr.com",
 
 
-  "news.tvb.com\/list\/world",
 
+"||lecloud.net",
 
 
-  "news.tvb.com\/local",
 
+"|http:\/\/cosmic.monar.ch",
 
 
-  "news.tvbs.com.tw",
 
+"||slutmoonbeam.com",
 
 
-  ".tvboxnow.com",
 
+"|http:\/\/blog.soylent.com",
 
 
-  "|http:\/\/tvboxnow.com\/",
 
+".tv.com",
 
 
-  "tvider.com",
 
+"|http:\/\/tv.com",
 
 
-  ".tvmost.com.hk",
 
+"tvants.com",
 
 
-  ".tvplayvideos.com",
 
+"forum.tvb.com",
 
 
-  "||tvunetworks.com",
 
+"news.tvb.com\/list\/world",
 
 
-  ".tw-blog.com",
 
+"news.tvb.com\/local",
 
 
-  "|https:\/\/tw-blog.com",
 
+"news.tvbs.com.tw",
 
 
-  ".tw-npo.org",
 
+".tvboxnow.com",
 
 
-  ".twaitter.com",
 
+"|http:\/\/tvboxnow.com\/",
 
 
-  "twapperkeeper.com",
 
+"tvider.com",
 
 
-  "||twapperkeeper.com",
 
+".tvmost.com.hk",
 
 
-  "||twaud.io",
 
+".tvplayvideos.com",
 
 
-  ".twaud.io",
 
+"||tvunetworks.com",
 
 
-  ".twavi.com",
 
+".tw-blog.com",
 
 
-  ".twbbs.net.tw",
 
+"|https:\/\/tw-blog.com",
 
 
-  "twbbs.org",
 
+".tw-npo.org",
 
 
-  "twbbs.tw",
 
+".twaitter.com",
 
 
-  "||twblogger.com",
 
+"twapperkeeper.com",
 
 
-  "tweepmag.com",
 
+"||twapperkeeper.com",
 
 
-  ".tweepml.org",
 
+"||twaud.io",
 
 
-  "||tweepml.org",
 
+".twaud.io",
 
 
-  ".tweetbackup.com",
 
+".twavi.com",
 
 
-  "||tweetbackup.com",
 
+".twbbs.net.tw",
 
 
-  "tweetboard.com",
 
+"twbbs.org",
 
 
-  "||tweetboard.com",
 
+"twbbs.tw",
 
 
-  ".tweetboner.biz",
 
+"||twblogger.com",
 
 
-  "||tweetboner.biz",
 
+"tweepmag.com",
 
 
-  ".tweetcs.com",
 
+".tweepml.org",
 
 
-  "|http:\/\/tweetcs.com",
 
+"||tweepml.org",
 
 
-  "|http:\/\/deck.ly",
 
+".tweetbackup.com",
 
 
-  "||mtw.tl",
 
+"||tweetbackup.com",
 
 
-  "||tweetedtimes.com",
 
+"tweetboard.com",
 
 
-  "||tweetmylast.fm",
 
+"||tweetboard.com",
 
 
-  "tweetphoto.com",
 
+".tweetboner.biz",
 
 
-  "||tweetphoto.com",
 
+"||tweetboner.biz",
 
 
-  "||tweetrans.com",
 
+".tweetcs.com",
 
 
-  "tweetree.com",
 
+"|http:\/\/tweetcs.com",
 
 
-  "||tweetree.com",
 
+"|http:\/\/deck.ly",
 
 
-  ".tweettunnel.com",
 
+"||mtw.tl",
 
 
-  "||tweettunnel.com",
 
+"||tweetedtimes.com",
 
 
-  "||tweetwally.com",
 
+"||tweetmylast.fm",
 
 
-  "tweetymail.com",
 
+"tweetphoto.com",
 
 
-  "||twelve.today",
 
+"||tweetphoto.com",
 
 
-  ".tweez.net",
 
+"||tweetrans.com",
 
 
-  "|http:\/\/tweez.net",
 
+"tweetree.com",
 
 
-  "||twftp.org",
 
+"||tweetree.com",
 
 
-  "||twgreatdaily.com",
 
+".tweettunnel.com",
 
 
-  "twibase.com",
 
+"||tweettunnel.com",
 
 
-  ".twibble.de",
 
+"||tweetwally.com",
 
 
-  "||twibble.de",
 
+"tweetymail.com",
 
 
-  "twibbon.com",
 
+"||twelve.today",
 
 
-  "||twibs.com",
 
+".tweez.net",
 
 
-  ".twicountry.org",
 
+"|http:\/\/tweez.net",
 
 
-  "|http:\/\/twicountry.org",
 
+"||twftp.org",
 
 
-  "twicsy.com",
 
+"||twgreatdaily.com",
 
 
-  ".twiends.com",
 
+"twibase.com",
 
 
-  "|http:\/\/twiends.com",
 
+".twibble.de",
 
 
-  ".twifan.com",
 
+"||twibble.de",
 
 
-  "|http:\/\/twifan.com",
 
+"twibbon.com",
 
 
-  "twiffo.com",
 
+"||twibs.com",
 
 
-  "||twiffo.com",
 
+".twicountry.org",
 
 
-  ".twilightsex.com",
 
+"|http:\/\/twicountry.org",
 
 
-  "twilog.org",
 
+"twicsy.com",
 
 
-  "twimbow.com",
 
+".twiends.com",
 
 
-  "||twindexx.com",
 
+"|http:\/\/twiends.com",
 
 
-  "twipple.jp",
 
+".twifan.com",
 
 
-  "||twipple.jp",
 
+"|http:\/\/twifan.com",
 
 
-  "||twip.me",
 
+"twiffo.com",
 
 
-  "twishort.com",
 
+"||twiffo.com",
 
 
-  "||twishort.com",
 
+".twilightsex.com",
 
 
-  "twistar.cc",
 
+"twilog.org",
 
 
-  "||twister.net.co",
 
+"twimbow.com",
 
 
-  "||twisterio.com",
 
+"||twindexx.com",
 
 
-  "twisternow.com",
 
+"twipple.jp",
 
 
-  "twistory.net",
 
+"||twipple.jp",
 
 
-  "twitbrowser.net",
 
+"||twip.me",
 
 
-  "||twitcause.com",
 
+"twishort.com",
 
 
-  "||twitgether.com",
 
+"||twishort.com",
 
 
-  "||twiggit.org",
 
+"twistar.cc",
 
 
-  "twitgoo.com",
 
+"||twister.net.co",
 
 
-  "twitiq.com",
 
+"||twisterio.com",
 
 
-  "||twitiq.com",
 
+"twisternow.com",
 
 
-  ".twitlonger.com",
 
+"twistory.net",
 
 
-  "||twitlonger.com",
 
+"twitbrowser.net",
 
 
-  "|http:\/\/tl.gd\/",
 
+"||twitcause.com",
 
 
-  "twitmania.com",
 
+"||twitgether.com",
 
 
-  "twitoaster.com",
 
+"||twiggit.org",
 
 
-  "||twitoaster.com",
 
+"twitgoo.com",
 
 
-  "||twitonmsn.com",
 
+"twitiq.com",
 
 
-  ".twit2d.com",
 
+"||twitiq.com",
 
 
-  "||twit2d.com",
 
+".twitlonger.com",
 
 
-  ".twitstat.com",
 
+"||twitlonger.com",
 
 
-  "||twitstat.com",
 
+"|http:\/\/tl.gd\/",
 
 
-  "||firstfivefollowers.com",
 
+"twitmania.com",
 
 
-  "||retweeteffect.com",
 
+"twitoaster.com",
 
 
-  "||tweeplike.me",
 
+"||twitoaster.com",
 
 
-  "||tweepguide.com",
 
+"||twitonmsn.com",
 
 
-  "||turbotwitter.com",
 
+".twit2d.com",
 
 
-  ".twitvid.com",
 
+"||twit2d.com",
 
 
-  "||twitvid.com",
 
+".twitstat.com",
 
 
-  "|http:\/\/twt.tl",
 
+"||twitstat.com",
 
 
-  "twittbot.net",
 
+"||firstfivefollowers.com",
 
 
-  "||ads-twitter.com",
 
+"||retweeteffect.com",
 
 
-  "||twttr.com",
 
+"||tweeplike.me",
 
 
-  "||twitter4j.org",
 
+"||tweepguide.com",
 
 
-  ".twittercounter.com",
 
+"||turbotwitter.com",
 
 
-  "||twittercounter.com",
 
+".twitvid.com",
 
 
-  "twitterfeed.com",
 
+"||twitvid.com",
 
 
-  ".twittergadget.com",
 
+"|http:\/\/twt.tl",
 
 
-  "||twittergadget.com",
 
+"twittbot.net",
 
 
-  ".twitterkr.com",
 
+"||ads-twitter.com",
 
 
-  "||twitterkr.com",
 
+"||twttr.com",
 
 
-  "||twittermail.com",
 
+"||twitter4j.org",
 
 
-  "||twitterrific.com",
 
+".twittercounter.com",
 
 
-  "twittertim.es",
 
+"||twittercounter.com",
 
 
-  "||twittertim.es",
 
+"twitterfeed.com",
 
 
-  "twitthat.com",
 
+".twittergadget.com",
 
 
-  "||twitturk.com",
 
+"||twittergadget.com",
 
 
-  ".twitturly.com",
 
+".twitterkr.com",
 
 
-  "||twitturly.com",
 
+"||twitterkr.com",
 
 
-  ".twitzap.com",
 
+"||twittermail.com",
 
 
-  "twiyia.com",
 
+"||twitterrific.com",
 
 
-  "||twstar.net",
 
+"twittertim.es",
 
 
-  ".twtkr.com",
 
+"||twittertim.es",
 
 
-  "|http:\/\/twtkr.com",
 
+"twitthat.com",
 
 
-  ".twnorth.org.tw",
 
+"||twitturk.com",
 
 
-  "twskype.com",
 
+".twitturly.com",
 
 
-  "twtrland.com",
 
+"||twitturly.com",
 
 
-  "twurl.nl",
 
+".twitzap.com",
 
 
-  ".twyac.org",
 
+"twiyia.com",
 
 
-  "||twyac.org",
 
+"||twstar.net",
 
 
-  ".txxx.com",
 
+".twtkr.com",
 
 
-  ".tycool.com",
 
+"|http:\/\/twtkr.com",
 
 
-  "||tycool.com",
 
+".twnorth.org.tw",
 
 
-  "||typepad.com",
 
+"twskype.com",
 
 
-  "@@||www.typepad.com",
 
+"twtrland.com",
 
 
-  "@@||static.typepad.com",
 
+"twurl.nl",
 
 
-  "||blog.expofutures.com",
 
+".twyac.org",
 
 
-  "||legaltech.law.com",
 
+"||twyac.org",
 
 
-  "||blogs.tampabay.com",
 
+".txxx.com",
 
 
-  "||contests.twilio.com",
 
+".tycool.com",
 
 
-  ".embr.in",
 
+"||tycool.com",
 
 
-  "||embr.in",
 
+"||typepad.com",
 
 
-  ".u9un.com",
 
+"@@||www.typepad.com",
 
 
-  "||u9un.com",
 
+"@@||static.typepad.com",
 
 
-  ".ubddns.org",
 
+"||blog.expofutures.com",
 
 
-  "|http:\/\/ubddns.org",
 
+"||legaltech.law.com",
 
 
-  "||uberproxy.net",
 
+"||blogs.tampabay.com",
 
 
-  ".uc-japan.org",
 
+"||contests.twilio.com",
 
 
-  "||uc-japan.org",
 
+".embr.in",
 
 
-  ".srcf.ucam.org\/salon\/",
 
+"||embr.in",
 
 
-  "|http:\/\/china.ucanews.com\/",
 
+".u9un.com",
 
 
-  "||ucdc1998.org",
 
+"||u9un.com",
 
 
-  "|http:\/\/hum*.uchicago.edu\/faculty\/ywang\/history",
 
+".ubddns.org",
 
 
-  "||uderzo.it",
 
+"|http:\/\/ubddns.org",
 
 
-  ".udn.com",
 
+"||uberproxy.net",
 
 
-  "||udn.com",
 
+".uc-japan.org",
 
 
-  "||udn.com.tw",
 
+"||uc-japan.org",
 
 
-  "udnbkk.com\/bbs",
 
+".srcf.ucam.org\/salon\/",
 
 
-  "||uforadio.com.tw",
 
+"|http:\/\/china.ucanews.com\/",
 
 
-  "ufreevpn.com",
 
+"||ucdc1998.org",
 
 
-  ".ugo.com",
 
+"|http:\/\/hum*.uchicago.edu\/faculty\/ywang\/history",
 
 
-  "||uhdwallpapers.org",
 
+"||uderzo.it",
 
 
-  "||uhrp.org",
 
+".udn.com",
 
 
-  ".uighur.nl",
 
+"||udn.com",
 
 
-  "||uighur.nl",
 
+"||udn.com.tw",
 
 
-  "uighurbiz.net",
 
+"udnbkk.com\/bbs",
 
 
-  ".ulike.net",
 
+"||uforadio.com.tw",
 
 
-  "ukcdp.co.uk",
 
+"ufreevpn.com",
 
 
-  "ukliferadio.co.uk",
 
+".ugo.com",
 
 
-  "||ukliferadio.co.uk",
 
+"||uhdwallpapers.org",
 
 
-  "ultravpn.fr",
 
+"||uhrp.org",
 
 
-  "||ultravpn.fr",
 
+".uighur.nl",
 
 
-  "ultraxs.com",
 
+"||uighur.nl",
 
 
-  "umich.edu\/~falun",
 
+"uighurbiz.net",
 
 
-  "||unblock.cn.com",
 
+".ulike.net",
 
 
-  ".unblocker.yt",
 
+"ukcdp.co.uk",
 
 
-  "unblock-us.com",
 
+"ukliferadio.co.uk",
 
 
-  "||unblock-us.com",
 
+"||ukliferadio.co.uk",
 
 
-  ".unblockdmm.com",
 
+"ultravpn.fr",
 
 
-  "|http:\/\/unblockdmm.com",
 
+"||ultravpn.fr",
 
 
-  "||unblocksit.es",
 
+"ultraxs.com",
 
 
-  "uncyclomedia.org",
 
+"umich.edu\/~falun",
 
 
-  ".uncyclopedia.hk\/wiki",
 
+"||unblock.cn.com",
 
 
-  "|http:\/\/uncyclopedia.hk",
 
+".unblocker.yt",
 
 
-  "|http:\/\/uncyclopedia.tw",
 
+"unblock-us.com",
 
 
-  "underwoodammo.com",
 
+"||unblock-us.com",
 
 
-  "||underwoodammo.com",
 
+".unblockdmm.com",
 
 
-  "||unholyknight.com",
 
+"|http:\/\/unblockdmm.com",
 
 
-  ".uni.cc",
 
+"||unblocksit.es",
 
 
-  "||cldr.unicode.org",
 
+"uncyclomedia.org",
 
 
-  ".unification.net",
 
+".uncyclopedia.hk\/wiki",
 
 
-  ".unification.org.tw",
 
+"|http:\/\/uncyclopedia.hk",
 
 
-  "||unirule.cloud",
 
+"|http:\/\/uncyclopedia.tw",
 
 
-  ".unitedsocialpress.com",
 
+"underwoodammo.com",
 
 
-  ".unix100.com",
 
+"||underwoodammo.com",
 
 
-  "||unknownspace.org",
 
+"||unholyknight.com",
 
 
-  ".unodedos.com",
 
+".uni.cc",
 
 
-  "unpo.org",
 
+"||cldr.unicode.org",
 
 
-  ".untraceable.us",
 
+".unification.net",
 
 
-  "|http:\/\/untraceable.us",
 
+".unification.org.tw",
 
 
-  "||uocn.org",
 
+"||unirule.cloud",
 
 
-  "tor.updatestar.com",
 
+".unitedsocialpress.com",
 
 
-  ".upholdjustice.org",
 
+".unix100.com",
 
 
-  ".upload4u.info",
 
+"||unknownspace.org",
 
 
-  "uploaded.net\/file",
 
+".unodedos.com",
 
 
-  "|http:\/\/uploaded.net\/file",
 
+"unpo.org",
 
 
-  "|http:\/\/uploaded.to\/file",
 
+".untraceable.us",
 
 
-  ".uploadstation.com\/file",
 
+"|http:\/\/untraceable.us",
 
 
-  ".upmedia.mg",
 
+"||uocn.org",
 
 
-  "||upmedia.mg",
 
+"tor.updatestar.com",
 
 
-  ".upornia.com",
 
+".upholdjustice.org",
 
 
-  "|http:\/\/upornia.com",
 
+".upload4u.info",
 
 
-  "||uproxy.org",
 
+"uploaded.net\/file",
 
 
-  "|http:\/\/tor.cn.uptodown.com\/",
 
+"|http:\/\/uploaded.net\/file",
 
 
-  ".upwill.org",
 
+"|http:\/\/uploaded.to\/file",
 
 
-  "ur7s.com",
 
+".uploadstation.com\/file",
 
 
-  "||urbansurvival.com",
 
+".upmedia.mg",
 
 
-  "myshare.url.com.tw\/",
 
+"||upmedia.mg",
 
 
-  "||urlborg.com",
 
+".upornia.com",
 
 
-  "||urlparser.com",
 
+"|http:\/\/upornia.com",
 
 
-  "us.to",
 
+"||uproxy.org",
 
 
-  "||usacn.com",
 
+"|http:\/\/tor.cn.uptodown.com\/",
 
 
-  ".usaip.eu",
 
+".upwill.org",
 
 
-  "||usaip.eu",
 
+"ur7s.com",
 
 
-  "dalailama.usc.edu",
 
+"||urbansurvival.com",
 
 
-  "iipdigital.usembassy.gov",
 
+"myshare.url.com.tw\/",
 
 
-  "||usfk.mil",
 
+"||urlborg.com",
 
 
-  "||usma.edu",
 
+"||urlparser.com",
 
 
-  "||usmc.mil",
 
+"us.to",
 
 
-  ".usocctn.com",
 
+"||usacn.com",
 
 
-  "|http:\/\/tarr.uspto.gov\/",
 
+".usaip.eu",
 
 
-  "||tsdr.uspto.gov",
 
+"||usaip.eu",
 
 
-  ".ustream.tv",
 
+"dalailama.usc.edu",
 
 
-  "||ustream.tv",
 
+"iipdigital.usembassy.gov",
 
 
-  ".usunitednews.com",
 
+"||usfk.mil",
 
 
-  "|http:\/\/usunitednews.com",
 
+"||usma.edu",
 
 
-  "usus.cc",
 
+"||usmc.mil",
 
 
-  ".utopianpal.com",
 
+".usocctn.com",
 
 
-  "||utopianpal.com",
 
+"|http:\/\/tarr.uspto.gov\/",
 
 
-  ".uu-gg.com",
 
+"||tsdr.uspto.gov",
 
 
-  ".uvwxyz.xyz",
 
+".ustream.tv",
 
 
-  "||uvwxyz.xyz",
 
+"||ustream.tv",
 
 
-  ".uwants.com",
 
+".usunitednews.com",
 
 
-  ".uwants.net",
 
+"|http:\/\/usunitednews.com",
 
 
-  "uyghur.co.uk",
 
+"usus.cc",
 
 
-  "|http:\/\/uyghur-j.org",
 
+".utopianpal.com",
 
 
-  "||uyghuramerican.org",
 
+"||utopianpal.com",
 
 
-  ".uyghurcanadiansociety.org",
 
+".uu-gg.com",
 
 
-  ".uyghurensemble.co.uk",
 
+".uvwxyz.xyz",
 
 
-  "||uyghurcongress.org",
 
+"||uvwxyz.xyz",
 
 
-  ".uyghurpen.org",
 
+".uwants.com",
 
 
-  ".uyghurpress.com",
 
+".uwants.net",
 
 
-  "|https:\/\/uyghurpress.com",
 
+"uyghur.co.uk",
 
 
-  ".uyghurstudies.org",
 
+"|http:\/\/uyghur-j.org",
 
 
-  "|http:\/\/uyghurstudies.org",
 
+"||uyghuramerican.org",
 
 
-  "uygur.org",
 
+".uyghurcanadiansociety.org",
 
 
-  "|http:\/\/uymaarip.com\/",
 
+".uyghurensemble.co.uk",
 
 
-  ".v2ray.com",
 
+"||uyghurcongress.org",
 
 
-  "||v2ray.com",
 
+".uyghurpen.org",
 
 
-  ".van001.com",
 
+".uyghurpress.com",
 
 
-  ".van698.com",
 
+"|https:\/\/uyghurpress.com",
 
 
-  ".vanemu.cn",
 
+".uyghurstudies.org",
 
 
-  ".vanilla-jp.com",
 
+"|http:\/\/uyghurstudies.org",
 
 
-  ".vanpeople.com",
 
+"uygur.org",
 
 
-  "vansky.com",
 
+"|http:\/\/uymaarip.com\/",
 
 
-  "||vaticannews.va",
 
+".v2ray.com",
 
 
-  "||vcf-online.org",
 
+"||v2ray.com",
 
 
-  "||vcfbuilder.org",
 
+".van001.com",
 
 
-  ".vegasred.com",
 
+".van698.com",
 
 
-  ".velkaepocha.sk",
 
+".vanemu.cn",
 
 
-  ".venbbs.com",
 
+".vanilla-jp.com",
 
 
-  ".venchina.com",
 
+".vanpeople.com",
 
 
-  ".venetianmacao.com",
 
+"vansky.com",
 
 
-  "||venetianmacao.com",
 
+"||vaticannews.va",
 
 
-  "veoh.com",
 
+"||vcf-online.org",
 
 
-  "mysite.verizon.net",
 
+"||vcfbuilder.org",
 
 
-  "vermonttibet.org",
 
+".vegasred.com",
 
 
-  ".versavpn.com",
 
+".velkaepocha.sk",
 
 
-  "||versavpn.com",
 
+".venbbs.com",
 
 
-  "||verybs.com",
 
+".venchina.com",
 
 
-  ".vft.com.tw",
 
+".venetianmacao.com",
 
 
-  ".viber.com",
 
+"||venetianmacao.com",
 
 
-  "||viber.com",
 
+"veoh.com",
 
 
-  ".vica.info",
 
+"mysite.verizon.net",
 
 
-  ".victimsofcommunism.org",
 
+"vermonttibet.org",
 
 
-  "|http:\/\/victimsofcommunism.org",
 
+".versavpn.com",
 
 
-  "||vid.me",
 
+"||versavpn.com",
 
 
-  "||vidble.com",
 
+"||verybs.com",
 
 
-  "videobam.com",
 
+".vft.com.tw",
 
 
-  "||videobam.com",
 
+".viber.com",
 
 
-  ".videodetective.com",
 
+"||viber.com",
 
 
-  ".videomega.tv",
 
+".vica.info",
 
 
-  "||videomega.tv",
 
+".victimsofcommunism.org",
 
 
-  ".videomo.com",
 
+"|http:\/\/victimsofcommunism.org",
 
 
-  "videopediaworld.com",
 
+"||vid.me",
 
 
-  ".videopress.com",
 
+"||vidble.com",
 
 
-  ".vidinfo.org\/video",
 
+"videobam.com",
 
 
-  "vietdaikynguyen.com",
 
+"||videobam.com",
 
 
-  ".vijayatemple.org",
 
+".videodetective.com",
 
 
-  "vimeo.com",
 
+".videomega.tv",
 
 
-  "||vimeo.com",
 
+"||videomega.tv",
 
 
-  "||vimperator.org",
 
+".videomo.com",
 
 
-  "||vincnd.com",
 
+"videopediaworld.com",
 
 
-  "||vinniev.com",
 
+".videopress.com",
 
 
-  "|http:\/\/www.lib.virginia.edu\/area-studies\/Tibet\/tibet.html",
 
+".vidinfo.org\/video",
 
 
-  ".virtualrealporn.com",
 
+"vietdaikynguyen.com",
 
 
-  "||virtualrealporn.com",
 
+".vijayatemple.org",
 
 
-  "visibletweets.com",
 
+"vimeo.com",
 
 
-  "|http:\/\/ny.visiontimes.com",
 
+"||vimeo.com",
 
 
-  ".vital247.org",
 
+"||vimperator.org",
 
 
-  "||viu.com",
 
+"||vincnd.com",
 
 
-  ".vivahentai4u.net",
 
+"||vinniev.com",
 
 
-  ".vivatube.com",
 
+"|http:\/\/www.lib.virginia.edu\/area-studies\/Tibet\/tibet.html",
 
 
-  ".vivthomas.com",
 
+".virtualrealporn.com",
 
 
-  "||vivthomas.com",
 
+"||virtualrealporn.com",
 
 
-  ".vjav.com",
 
+"visibletweets.com",
 
 
-  "||vjav.com",
 
+"|http:\/\/ny.visiontimes.com",
 
 
-  ".vjmedia.com.hk",
 
+".vital247.org",
 
 
-  ".vllcs.org",
 
+"||viu.com",
 
 
-  "|http:\/\/vllcs.org",
 
+".vivahentai4u.net",
 
 
-  "||vmixcore.com",
 
+".vivatube.com",
 
 
-  "||vnet.link",
 
+".vivthomas.com",
 
 
-  "cn.voa.mobi",
 
+"||vivthomas.com",
 
 
-  "tw.voa.mobi",
 
+".vjav.com",
 
 
-  ".voachineseblog.com",
 
+"||vjav.com",
 
 
-  "||voachineseblog.com",
 
+".vjmedia.com.hk",
 
 
-  "voagd.com",
 
+".vllcs.org",
 
 
-  ".voacantonese.com",
 
+"|http:\/\/vllcs.org",
 
 
-  "||voacantonese.com",
 
+"||vmixcore.com",
 
 
-  "voachinese.com",
 
+"||vnet.link",
 
 
-  "||voachinese.com",
 
+"cn.voa.mobi",
 
 
-  ".voanews.com",
 
+"tw.voa.mobi",
 
 
-  "||voanews.com",
 
+".voachineseblog.com",
 
 
-  "voatibetan.com",
 
+"||voachineseblog.com",
 
 
-  "||voatibetan.com",
 
+"voagd.com",
 
 
-  ".voatibetanenglish.com",
 
+".voacantonese.com",
 
 
-  "||voatibetanenglish.com",
 
+"||voacantonese.com",
 
 
-  ".vocativ.com",
 
+"voachinese.com",
 
 
-  "vocn.tv",
 
+"||voachinese.com",
 
 
-  ".vot.org",
 
+".voanews.com",
 
 
-  "||vot.org",
 
+"||voanews.com",
 
 
-  ".vovo2000.com",
 
+"voatibetan.com",
 
 
-  "|http:\/\/vovo2000.com",
 
+"||voatibetan.com",
 
 
-  ".voxer.com",
 
+".voatibetanenglish.com",
 
 
-  "||voxer.com",
 
+"||voatibetanenglish.com",
 
 
-  ".voy.com",
 
+".vocativ.com",
 
 
-  "||vpn.ac",
 
+"vocn.tv",
 
 
-  ".vpn4all.com",
 
+".vot.org",
 
 
-  "||vpn4all.com",
 
+"||vot.org",
 
 
-  ".vpnaccount.org",
 
+".vovo2000.com",
 
 
-  "|http:\/\/vpnaccount.org",
 
+"|http:\/\/vovo2000.com",
 
 
-  ".vpnaccounts.com",
 
+".voxer.com",
 
 
-  "||vpnaccounts.com",
 
+"||voxer.com",
 
 
-  ".vpncomparison.org",
 
+".voy.com",
 
 
-  ".vpncup.com",
 
+"||vpn.ac",
 
 
-  "||vpncup.com",
 
+".vpn4all.com",
 
 
-  "vpnbook.com",
 
+"||vpn4all.com",
 
 
-  ".vpncoupons.com",
 
+".vpnaccount.org",
 
 
-  "|http:\/\/vpncoupons.com",
 
+"|http:\/\/vpnaccount.org",
 
 
-  ".vpndada.com",
 
+".vpnaccounts.com",
 
 
-  "||vpndada.com",
 
+"||vpnaccounts.com",
 
 
-  ".vpnfan.com",
 
+".vpncomparison.org",
 
 
-  "vpnfire.com",
 
+".vpncup.com",
 
 
-  ".vpnfires.biz",
 
+"||vpncup.com",
 
 
-  ".vpnforgame.net",
 
+"vpnbook.com",
 
 
-  "||vpnforgame.net",
 
+".vpncoupons.com",
 
 
-  "||vpngate.jp",
 
+"|http:\/\/vpncoupons.com",
 
 
-  ".vpngate.net",
 
+".vpndada.com",
 
 
-  "||vpngate.net",
 
+"||vpndada.com",
 
 
-  ".vpngratis.net",
 
+".vpnfan.com",
 
 
-  "vpnhq.com",
 
+"vpnfire.com",
 
 
-  ".vpnmaster.com",
 
+".vpnfires.biz",
 
 
-  "||vpnmaster.com",
 
+".vpnforgame.net",
 
 
-  ".vpnmentor.com",
 
+"||vpnforgame.net",
 
 
-  "||vpnmentor.com",
 
+"||vpngate.jp",
 
 
-  ".vpninja.net",
 
+".vpngate.net",
 
 
-  "||vpninja.net",
 
+"||vpngate.net",
 
 
-  ".vpnintouch.com",
 
+".vpngratis.net",
 
 
-  "||vpnintouch.net",
 
+"vpnhq.com",
 
 
-  "vpnjack.com",
 
+".vpnmaster.com",
 
 
-  "||vpnjack.com",
 
+"||vpnmaster.com",
 
 
-  ".vpnpick.com",
 
+".vpnmentor.com",
 
 
-  "||vpnpick.com",
 
+"||vpnmentor.com",
 
 
-  "||vpnpop.com",
 
+".vpninja.net",
 
 
-  "||vpnpronet.com",
 
+"||vpninja.net",
 
 
-  ".vpnreactor.com",
 
+".vpnintouch.com",
 
 
-  "||vpnreactor.com",
 
+"||vpnintouch.net",
 
 
-  "||vpnreviewz.com",
 
+"vpnjack.com",
 
 
-  ".vpnsecure.me",
 
+"||vpnjack.com",
 
 
-  "||vpnsecure.me",
 
+".vpnpick.com",
 
 
-  ".vpnshazam.com",
 
+"||vpnpick.com",
 
 
-  "||vpnshazam.com",
 
+"||vpnpop.com",
 
 
-  ".vpnshieldapp.com",
 
+"||vpnpronet.com",
 
 
-  "||vpnshieldapp.com",
 
+".vpnreactor.com",
 
 
-  ".vpnsp.com",
 
+"||vpnreactor.com",
 
 
-  ".vpntraffic.com",
 
+"||vpnreviewz.com",
 
 
-  ".vpntunnel.com",
 
+".vpnsecure.me",
 
 
-  "||vpntunnel.com",
 
+"||vpnsecure.me",
 
 
-  ".vpnuk.info",
 
+".vpnshazam.com",
 
 
-  "||vpnuk.info",
 
+"||vpnshazam.com",
 
 
-  "||vpnunlimitedapp.com",
 
+".vpnshieldapp.com",
 
 
-  ".vpnvip.com",
 
+"||vpnshieldapp.com",
 
 
-  "||vpnvip.com",
 
+".vpnsp.com",
 
 
-  ".vpnworldwide.com",
 
+".vpntraffic.com",
 
 
-  ".vporn.com",
 
+".vpntunnel.com",
 
 
-  "||vporn.com",
 
+"||vpntunnel.com",
 
 
-  ".vpser.net",
 
+".vpnuk.info",
 
 
-  "@@||vpser.net",
 
+"||vpnuk.info",
 
 
-  "vraiesagesse.net",
 
+"||vpnunlimitedapp.com",
 
 
-  ".vrmtr.com",
 
+".vpnvip.com",
 
 
-  "||vtunnel.com",
 
+"||vpnvip.com",
 
 
-  "||vuku.cc",
 
+".vpnworldwide.com",
 
 
-  "lists.w3.org\/archives\/public",
 
+".vporn.com",
 
 
-  "||w3schools.com",
 
+"||vporn.com",
 
 
-  "||waffle1999.com",
 
+".vpser.net",
 
 
-  ".wahas.com",
 
+"@@||vpser.net",
 
 
-  ".waigaobu.com",
 
+"vraiesagesse.net",
 
 
-  "waikeung.org\/php_wind",
 
+".vrmtr.com",
 
 
-  ".wailaike.net",
 
+"||vtunnel.com",
 
 
-  ".waiwaier.com",
 
+"||vuku.cc",
 
 
-  "|http:\/\/waiwaier.com",
 
+"lists.w3.org\/archives\/public",
 
 
-  "||wallmama.com",
 
+"||w3schools.com",
 
 
-  "wallornot.org",
 
+"||waffle1999.com",
 
 
-  "||wallpapercasa.com",
 
+".wahas.com",
 
 
-  ".wallproxy.com",
 
+".waigaobu.com",
 
 
-  "@@||wallproxy.com.cn",
 
+"waikeung.org\/php_wind",
 
 
-  "||waltermartin.com",
 
+".wailaike.net",
 
 
-  "||waltermartin.org",
 
+".waiwaier.com",
 
 
-  "||www.wan-press.org",
 
+"|http:\/\/waiwaier.com",
 
 
-  "||wanderinghorse.net",
 
+"||wallmama.com",
 
 
-  "||wangafu.net",
 
+"wallornot.org",
 
 
-  "||wangjinbo.org",
 
+"||wallpapercasa.com",
 
 
-  ".wangjinbo.org",
 
+".wallproxy.com",
 
 
-  "wanglixiong.com",
 
+"@@||wallproxy.com.cn",
 
 
-  ".wango.org",
 
+"||waltermartin.com",
 
 
-  "||wango.org",
 
+"||waltermartin.org",
 
 
-  "wangruoshui.net",
 
+"||www.wan-press.org",
 
 
-  "www.wangruowang.org",
 
+"||wanderinghorse.net",
 
 
-  "want-daily.com",
 
+"||wangafu.net",
 
 
-  "wapedia.mobi\/zhsimp",
 
+"||wangjinbo.org",
 
 
-  "||waselpro.com",
 
+".wangjinbo.org",
 
 
-  ".watchinese.com",
 
+"wanglixiong.com",
 
 
-  ".wattpad.com",
 
+".wango.org",
 
 
-  "||wattpad.com",
 
+"||wango.org",
 
 
-  ".makzhou.warehouse333.com",
 
+"wangruoshui.net",
 
 
-  "washeng.net",
 
+"www.wangruowang.org",
 
 
-  ".watch8x.com",
 
+"want-daily.com",
 
 
-  "||watchmygf.net",
 
+"wapedia.mobi\/zhsimp",
 
 
-  "||wav.tv",
 
+"||waselpro.com",
 
 
-  ".wdf5.com",
 
+".watchinese.com",
 
 
-  ".wearehairy.com",
 
+".wattpad.com",
 
 
-  ".wearn.com",
 
+"||wattpad.com",
 
 
-  "||wearn.com",
 
+".makzhou.warehouse333.com",
 
 
-  "|http:\/\/hkcoc.weather.com.hk",
 
+"washeng.net",
 
 
-  "||hudatoriq.web.id",
 
+".watch8x.com",
 
 
-  "||web2project.net",
 
+"||watchmygf.net",
 
 
-  "webbang.net",
 
+"||wav.tv",
 
 
-  ".webevader.org",
 
+".wdf5.com",
 
 
-  ".webfreer.com",
 
+".wearehairy.com",
 
 
-  "weblagu.com",
 
+".wearn.com",
 
 
-  ".webjb.org",
 
+"||wearn.com",
 
 
-  ".webrush.net",
 
+"|http:\/\/hkcoc.weather.com.hk",
 
 
-  "webs-tv.net",
 
+"||hudatoriq.web.id",
 
 
-  ".websitepulse.com\/help\/testtools.china-test",
 
+"||web2project.net",
 
 
-  "|http:\/\/www.websnapr.com",
 
+"webbang.net",
 
 
-  ".webwarper.net",
 
+".webevader.org",
 
 
-  "|http:\/\/webwarper.net",
 
+".webfreer.com",
 
 
-  "webworkerdaily.com",
 
+"weblagu.com",
 
 
-  ".weekmag.info",
 
+".webjb.org",
 
 
-  "||wefightcensorship.org",
 
+".webrush.net",
 
 
-  ".wefong.com",
 
+"webs-tv.net",
 
 
-  "weiboleak.com",
 
+".websitepulse.com\/help\/testtools.china-test",
 
 
-  ".weihuo.org",
 
+"|http:\/\/www.websnapr.com",
 
 
-  "weijingsheng.org",
 
+".webwarper.net",
 
 
-  ".weiming.info",
 
+"|http:\/\/webwarper.net",
 
 
-  "||weiming.info",
 
+"webworkerdaily.com",
 
 
-  "weiquanwang.org",
 
+".weekmag.info",
 
 
-  "|http:\/\/weisuo.ws",
 
+"||wefightcensorship.org",
 
 
-  ".welovecock.com",
 
+".wefong.com",
 
 
-  ".wemigrate.org",
 
+"weiboleak.com",
 
 
-  "|http:\/\/wemigrate.org",
 
+".weihuo.org",
 
 
-  "wengewang.com",
 
+"weijingsheng.org",
 
 
-  "||wengewang.org",
 
+".weiming.info",
 
 
-  ".wenhui.ch",
 
+"||weiming.info",
 
 
-  "|http:\/\/trans.wenweipo.com\/gb\/",
 
+"weiquanwang.org",
 
 
-  ".wenxuecity.com",
 
+"|http:\/\/weisuo.ws",
 
 
-  "||wenxuecity.com",
 
+".welovecock.com",
 
 
-  ".wenyunchao.com",
 
+".wemigrate.org",
 
 
-  "||wenyunchao.com",
 
+"|http:\/\/wemigrate.org",
 
 
-  ".westca.com",
 
+"wengewang.com",
 
 
-  "||westca.com",
 
+"||wengewang.org",
 
 
-  "||westernwolves.com",
 
+".wenhui.ch",
 
 
-  ".westkit.net",
 
+"|http:\/\/trans.wenweipo.com\/gb\/",
 
 
-  "||westpoint.edu",
 
+".wenxuecity.com",
 
 
-  ".westernshugdensociety.org",
 
+"||wenxuecity.com",
 
 
-  "wetpussygames.com",
 
+".wenyunchao.com",
 
 
-  ".wetplace.com",
 
+"||wenyunchao.com",
 
 
-  "wexiaobo.org",
 
+".westca.com",
 
 
-  "||wexiaobo.org",
 
+"||westca.com",
 
 
-  "wezhiyong.org",
 
+"||westernwolves.com",
 
 
-  "||wezone.net",
 
+".westkit.net",
 
 
-  ".wforum.com",
 
+"||westpoint.edu",
 
 
-  "||wforum.com\/",
 
+".westernshugdensociety.org",
 
 
-  ".whatblocked.com",
 
+"wetpussygames.com",
 
 
-  "||whatblocked.com",
 
+".wetplace.com",
 
 
-  ".wheatseeds.org",
 
+"wexiaobo.org",
 
 
-  "||wheelockslatin.com",
 
+"||wexiaobo.org",
 
 
-  ".whippedass.com",
 
+"wezhiyong.org",
 
 
-  ".whoer.net",
 
+"||wezone.net",
 
 
-  "||whoer.net",
 
+".wforum.com",
 
 
-  "whotalking.com",
 
+"||wforum.com\/",
 
 
-  "whylover.com",
 
+".whatblocked.com",
 
 
-  "||whyx.org",
 
+"||whatblocked.com",
 
 
-  "|http:\/\/zh.ecdm.wikia.com",
 
+".wheatseeds.org",
 
 
-  "|http:\/\/evchk.wikia.com",
 
+"||wheelockslatin.com",
 
 
-  "fq.wikia.com",
 
+".whippedass.com",
 
 
-  "zh.pttpedia.wikia.com\/wiki\/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82",
 
+".whoer.net",
 
 
-  "cn.uncyclopedia.wikia.com",
 
+"||whoer.net",
 
 
-  "zh.uncyclopedia.wikia.com",
 
+"whotalking.com",
 
 
-  "||wikileaks.ch",
 
+"whylover.com",
 
 
-  "||wikileaks.com",
 
+"||whyx.org",
 
 
-  "||wikileaks.de",
 
+"|http:\/\/zh.ecdm.wikia.com",
 
 
-  "||wikileaks.eu",
 
+"|http:\/\/evchk.wikia.com",
 
 
-  "||wikileaks.lu",
 
+"fq.wikia.com",
 
 
-  ".wikileaks.org",
 
+"zh.pttpedia.wikia.com\/wiki\/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82",
 
 
-  "||wikileaks.org",
 
+"cn.uncyclopedia.wikia.com",
 
 
-  "||wikileaks.pl",
 
+"zh.uncyclopedia.wikia.com",
 
 
-  ".wikileaks-forum.com",
 
+"||wikileaks.ch",
 
 
-  "wildammo.com",
 
+"||wikileaks.com",
 
 
-  ".williamhill.com",
 
+"||wikileaks.de",
 
 
-  "||collateralmurder.com",
 
+"||wikileaks.eu",
 
 
-  "||collateralmurder.org",
 
+"||wikileaks.lu",
 
 
-  "wikilivres.info\/wiki\/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0",
 
+".wikileaks.org",
 
 
-  "||wikimapia.org",
 
+"||wikileaks.org",
 
 
-  "||wikimedia.org",
 
+"||wikileaks.pl",
 
 
-  "|http:\/\/zh.wikisource.org",
 
+".wikileaks-forum.com",
 
 
-  "||zh.wikinews.org",
 
+"wildammo.com",
 
 
-  "||ja.wikipedia.org",
 
+".williamhill.com",
 
 
-  "||zn.wikipedia.org",
 
+"||collateralmurder.com",
 
 
-  "||wikipedia.org",
 
+"||collateralmurder.org",
 
 
-  "||wikiwiki.jp",
 
+"wikilivres.info\/wiki\/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0",
 
 
-  "||casino.williamhill.com",
 
+"||wikimapia.org",
 
 
-  "||sports.williamhill.com",
 
+"||wikimedia.org",
 
 
-  "||vegas.williamhill.com",
 
+"|http:\/\/zh.wikisource.org",
 
 
-  "||willw.net",
 
+"||zh.wikinews.org",
 
 
-  "||windowsphoneme.com",
 
+"||ja.wikipedia.org",
 
 
-  ".windscribe.com",
 
+"||zn.wikipedia.org",
 
 
-  "||windscribe.com",
 
+"||wikipedia.org",
 
 
-  "||community.windy.com",
 
+"||wikiwiki.jp",
 
 
-  "||wingy.site",
 
+"||casino.williamhill.com",
 
 
-  ".winning11.com",
 
+"||sports.williamhill.com",
 
 
-  "winwhispers.info",
 
+"||vegas.williamhill.com",
 
 
-  "||wiredbytes.com",
 
+"||willw.net",
 
 
-  "||wiredpen.com",
 
+"||windowsphoneme.com",
 
 
-  ".wisdompubs.org",
 
+".windscribe.com",
 
 
-  ".wisevid.com",
 
+"||windscribe.com",
 
 
-  "||wisevid.com",
 
+"||community.windy.com",
 
 
-  ".witnessleeteaching.com",
 
+"||wingy.site",
 
 
-  ".witopia.net",
 
+".winning11.com",
 
 
-  ".wjbk.org",
 
+"winwhispers.info",
 
 
-  "||wjbk.org",
 
+"||wiredbytes.com",
 
 
-  "|http:\/\/wn.com",
 
+"||wiredpen.com",
 
 
-  ".wnacg.com",
 
+".wisdompubs.org",
 
 
-  ".wnacg.org",
 
+".wisevid.com",
 
 
-  ".wo.tc",
 
+"||wisevid.com",
 
 
-  "||woeser.com",
 
+".witnessleeteaching.com",
 
 
-  "|http:\/\/woesermiddle-way.net\/",
 
+".witopia.net",
 
 
-  ".wokar.org",
 
+".wjbk.org",
 
 
-  "|http:\/\/wokar.org",
 
+"||wjbk.org",
 
 
-  "wolfax.com",
 
+"|http:\/\/wn.com",
 
 
-  "||wolfax.com",
 
+".wnacg.com",
 
 
-  "||woolyss.com",
 
+".wnacg.org",
 
 
-  "woopie.jp",
 
+".wo.tc",
 
 
-  "||woopie.jp",
 
+"||woeser.com",
 
 
-  "woopie.tv",
 
+"|http:\/\/woesermiddle-way.net\/",
 
 
-  "||woopie.tv",
 
+".wokar.org",
 
 
-  "||workatruna.com",
 
+"|http:\/\/wokar.org",
 
 
-  ".workerdemo.org.hk",
 
+"wolfax.com",
 
 
-  ".workerempowerment.org",
 
+"||wolfax.com",
 
 
-  "||workersthebig.net",
 
+"||woolyss.com",
 
 
-  ".worldcat.org",
 
+"woopie.jp",
 
 
-  "worldjournal.com",
 
+"||woopie.jp",
 
 
-  ".worldvpn.net",
 
+"woopie.tv",
 
 
-  "||worldvpn.net",
 
+"||woopie.tv",
 
 
-  "||videopress.com",
 
+"||workatruna.com",
 
 
-  ".wordpress.com",
 
+".workerdemo.org.hk",
 
 
-  "|http:\/\/*.wordpress.com",
 
+".workerempowerment.org",
 
 
-  "||chenshan20042005.wordpress.com",
 
+"||workersthebig.net",
 
 
-  "||chinaview.wordpress.com",
 
+".worldcat.org",
 
 
-  "||cnbbnews.wordpress.com",
 
+"worldjournal.com",
 
 
-  "||freedominfonetweb.wordpress.com",
 
+".worldvpn.net",
 
 
-  "||hka8964.wordpress.com",
 
+"||worldvpn.net",
 
 
-  "||hkanews.wordpress.com",
 
+"||videopress.com",
 
 
-  "||hqsbnet.wordpress.com",
 
+".wordpress.com",
 
 
-  "||hqsbonline.wordpress.com",
 
+"|http:\/\/*.wordpress.com",
 
 
-  "||investigating.wordpress.com",
 
+"||chenshan20042005.wordpress.com",
 
 
-  "||jobnewera.wordpress.com",
 
+"||chinaview.wordpress.com",
 
 
-  "||minghuiyw.wordpress.com",
 
+"||cnbbnews.wordpress.com",
 
 
-  "||wo3ttt.wordpress.com",
 
+"||freedominfonetweb.wordpress.com",
 
 
-  "||sujiatun.wordpress.com",
 
+"||hka8964.wordpress.com",
 
 
-  "||xijie.wordpress.com",
 
+"||hkanews.wordpress.com",
 
 
-  "||wp.com",
 
+"||hqsbnet.wordpress.com",
 
 
-  ".wow.com",
 
+"||hqsbonline.wordpress.com",
 
 
-  ".wow-life.net",
 
+"||investigating.wordpress.com",
 
 
-  "||wowlegacy.ml",
 
+"||jobnewera.wordpress.com",
 
 
-  "||wowporn.com",
 
+"||minghuiyw.wordpress.com",
 
 
-  "||wowgirls.com",
 
+"||wo3ttt.wordpress.com",
 
 
-  ".wowrk.com",
 
+"||sujiatun.wordpress.com",
 
 
-  "woxinghuiguo.com",
 
+"||xijie.wordpress.com",
 
 
-  ".woyaolian.org",
 
+"||wp.com",
 
 
-  "|http:\/\/woyaolian.org",
 
+".wow.com",
 
 
-  ".wpoforum.com",
 
+".wow-life.net",
 
 
-  "||wpoforum.com",
 
+"||wowlegacy.ml",
 
 
-  ".wqyd.org",
 
+"||wowporn.com",
 
 
-  "||wqyd.org",
 
+"||wowgirls.com",
 
 
-  "wrchina.org",
 
+".wowrk.com",
 
 
-  "wretch.cc",
 
+"woxinghuiguo.com",
 
 
-  ".wsj.com",
 
+".woyaolian.org",
 
 
-  "||wsj.com",
 
+"|http:\/\/woyaolian.org",
 
 
-  ".wsj.net",
 
+".wpoforum.com",
 
 
-  "||wsj.net",
 
+"||wpoforum.com",
 
 
-  ".wsjhk.com",
 
+".wqyd.org",
 
 
-  ".wtbn.org",
 
+"||wqyd.org",
 
 
-  ".wtfpeople.com",
 
+"wrchina.org",
 
 
-  "wuerkaixi.com",
 
+"wretch.cc",
 
 
-  "||wufafangwen.com",
 
+".wsj.com",
 
 
-  "wufi.org.tw",
 
+"||wsj.com",
 
 
-  "||wuguoguang.com",
 
+".wsj.net",
 
 
-  "wujie.net",
 
+"||wsj.net",
 
 
-  "wujieliulan.com",
 
+".wsjhk.com",
 
 
-  "||wujieliulan.com",
 
+".wtbn.org",
 
 
-  "wukangrui.net",
 
+".wtfpeople.com",
 
 
-  "||wuw.red",
 
+"wuerkaixi.com",
 
 
-  "||wuyanblog.com",
 
+"||wufafangwen.com",
 
 
-  ".wwitv.com",
 
+"wufi.org.tw",
 
 
-  "||wwitv.com",
 
+"||wuguoguang.com",
 
 
-  "wzyboy.im\/post\/160",
 
+"wujie.net",
 
 
-  ".x-berry.com",
 
+"wujieliulan.com",
 
 
-  "||x-berry.com",
 
+"||wujieliulan.com",
 
 
-  "||x-art.com",
 
+"wukangrui.net",
 
 
-  "||x-wall.org",
 
+"||wuw.red",
 
 
-  "x1949x.com",
 
+"||wuyanblog.com",
 
 
-  "x365x.com",
 
+".wwitv.com",
 
 
-  "xanga.com",
 
+"||wwitv.com",
 
 
-  "||xbabe.com",
 
+"wzyboy.im\/post\/160",
 
 
-  ".xbookcn.com",
 
+".x-berry.com",
 
 
-  "||xbookcn.com",
 
+"||x-berry.com",
 
 
-  "||xcafe.in",
 
+"||x-art.com",
 
 
-  "||xcity.jp",
 
+"||x-wall.org",
 
 
-  ".xcritic.com",
 
+"x1949x.com",
 
 
-  "|http:\/\/cdn*.xda-developers.com",
 
+"x365x.com",
 
 
-  ".xerotica.com",
 
+"xanga.com",
 
 
-  "destiny.xfiles.to\/ubbthreads",
 
+"||xbabe.com",
 
 
-  ".xfm.pp.ru",
 
+".xbookcn.com",
 
 
-  ".xgmyd.com",
 
+"||xbookcn.com",
 
 
-  "||xgmyd.com",
 
+"||xcafe.in",
 
 
-  "xhamster.com",
 
+"||xcity.jp",
 
 
-  "||xhamster.com",
 
+".xcritic.com",
 
 
-  ".xianba.net",
 
+"|http:\/\/cdn*.xda-developers.com",
 
 
-  ".xianchawang.net",
 
+".xerotica.com",
 
 
-  ".xianjian.tw",
 
+"destiny.xfiles.to\/ubbthreads",
 
 
-  "|http:\/\/xianjian.tw",
 
+".xfm.pp.ru",
 
 
-  ".xianqiao.net",
 
+".xgmyd.com",
 
 
-  ".xiaobaiwu.com",
 
+"||xgmyd.com",
 
 
-  ".xiaochuncnjp.com",
 
+"xhamster.com",
 
 
-  ".xiaod.in",
 
+"||xhamster.com",
 
 
-  ".xiaohexie.com",
 
+".xianba.net",
 
 
-  "||xiaolan.me",
 
+".xianchawang.net",
 
 
-  "||xiaoma.org",
 
+".xianjian.tw",
 
 
-  "||xiaohexie.com",
 
+"|http:\/\/xianjian.tw",
 
 
-  "xiezhua.com",
 
+".xianqiao.net",
 
 
-  ".xihua.es",
 
+".xiaobaiwu.com",
 
 
-  "forum.xinbao.de\/forum",
 
+".xiaochuncnjp.com",
 
 
-  ".xing.com",
 
+".xiaod.in",
 
 
-  "|http:\/\/xing.com",
 
+".xiaohexie.com",
 
 
-  ".xinmiao.com.hk",
 
+"||xiaolan.me",
 
 
-  "||xinmiao.com.hk",
 
+"||xiaoma.org",
 
 
-  "xinsheng.net",
 
+"||xiaohexie.com",
 
 
-  "xinshijue.com",
 
+"xiezhua.com",
 
 
-  "xinhuanet.org",
 
+".xihua.es",
 
 
-  "|http:\/\/xinyubbs.net",
 
+"forum.xinbao.de\/forum",
 
 
-  ".xiongpian.com",
 
+".xing.com",
 
 
-  ".xiuren.org",
 
+"|http:\/\/xing.com",
 
 
-  "xizang-zhiye.org",
 
+".xinmiao.com.hk",
 
 
-  "xjp.cc",
 
+"||xinmiao.com.hk",
 
 
-  "||xjp.cc",
 
+"xinsheng.net",
 
 
-  "||xjtravelguide.com",
 
+"xinshijue.com",
 
 
-  "xlfmtalk.com",
 
+"xinhuanet.org",
 
 
-  "||xlfmwz.info",
 
+"|http:\/\/xinyubbs.net",
 
 
-  "||xml-training-guide.com",
 
+".xiongpian.com",
 
 
-  "xmovies.com",
 
+".xiuren.org",
 
 
-  "||xnxx.com",
 
+"xizang-zhiye.org",
 
 
-  "xpdo.net",
 
+"xjp.cc",
 
 
-  "||xpud.org",
 
+"||xjp.cc",
 
 
-  ".xrentdvd.com",
 
+"||xjtravelguide.com",
 
 
-  ".xskywalker.net",
 
+"xlfmtalk.com",
 
 
-  "||xtube.com",
 
+"||xlfmwz.info",
 
 
-  "blog.xuite.net",
 
+"||xml-training-guide.com",
 
 
-  "vlog.xuite.net",
 
+"xmovies.com",
 
 
-  "xuzhiyong.net",
 
+"||xnxx.com",
 
 
-  "||xuchao.org",
 
+"xpdo.net",
 
 
-  "xuchao.net",
 
+"||xpud.org",
 
 
-  "||xuchao.net",
 
+".xrentdvd.com",
 
 
-  "xvideo.cc",
 
+".xskywalker.net",
 
 
-  ".xvideos.com",
 
+"||xtube.com",
 
 
-  "||xvideos.com",
 
+"blog.xuite.net",
 
 
-  "||xvideos.es",
 
+"vlog.xuite.net",
 
 
-  ".xkiwi.tk\/",
 
+"xuzhiyong.net",
 
 
-  ".xxbbx.com",
 
+"||xuchao.org",
 
 
-  ".xxlmovies.com",
 
+"xuchao.net",
 
 
-  "||xxx.com",
 
+"||xuchao.net",
 
 
-  ".xxx.xxx",
 
+"xvideo.cc",
 
 
-  "|http:\/\/xxx.xxx",
 
+".xvideos.com",
 
 
-  ".xxxfuckmom.com",
 
+"||xvideos.com",
 
 
-  "||xxxx.com.au",
 
+"||xvideos.es",
 
 
-  ".xxxymovies.com",
 
+".xkiwi.tk\/",
 
 
-  "|http:\/\/xxxymovies.com",
 
+".xxbbx.com",
 
 
-  "xys.org",
 
+".xxlmovies.com",
 
 
-  "xysblogs.org",
 
+"||xxx.com",
 
 
-  "xyy69.com",
 
+".xxx.xxx",
 
 
-  "xyy69.info",
 
+"|http:\/\/xxx.xxx",
 
 
-  "||yakbutterblues.com",
 
+".xxxfuckmom.com",
 
 
-  "||yam.com",
 
+"||xxxx.com.au",
 
 
-  "||yam.org.tw",
 
+".xxxymovies.com",
 
 
-  ".yanghengjun.com",
 
+"|http:\/\/xxxymovies.com",
 
 
-  "yangjianli.com",
 
+"xys.org",
 
 
-  ".yasni.co.uk",
 
+"xysblogs.org",
 
 
-  "||yasni.co.uk",
 
+"xyy69.com",
 
 
-  ".yayabay.com\/forum",
 
+"xyy69.info",
 
 
-  ".ydy.com",
 
+"||yakbutterblues.com",
 
 
-  ".yeahteentube.com",
 
+"||yam.com",
 
 
-  "||yeahteentube.com",
 
+"||yam.org.tw",
 
 
-  "||yecl.net",
 
+".yanghengjun.com",
 
 
-  "||yeelou.com",
 
+"yangjianli.com",
 
 
-  "yeeyi.com",
 
+".yasni.co.uk",
 
 
-  "yegle.net",
 
+"||yasni.co.uk",
 
 
-  "||yegle.net",
 
+".yayabay.com\/forum",
 
 
-  ".yes.xxx",
 
+".ydy.com",
 
 
-  "||yes123.com.tw",
 
+".yeahteentube.com",
 
 
-  "||yesasia.com",
 
+"||yeahteentube.com",
 
 
-  "||yesasia.com.hk",
 
+"||yecl.net",
 
 
-  ".yes-news.com",
 
+"||yeelou.com",
 
 
-  "|http:\/\/yes-news.com",
 
+"yeeyi.com",
 
 
-  ".yespornplease.com",
 
+"yegle.net",
 
 
-  "||yespornplease.com",
 
+"||yegle.net",
 
 
-  "|http:\/\/yeyeclub.com",
 
+".yes.xxx",
 
 
-  "||yhcw.net",
 
+"||yes123.com.tw",
 
 
-  ".yibada.com",
 
+"||yesasia.com",
 
 
-  ".yibaochina.com",
 
+"||yesasia.com.hk",
 
 
-  ".yidio.com",
 
+".yes-news.com",
 
 
-  "||yidio.com",
 
+"|http:\/\/yes-news.com",
 
 
-  "yilubbs.com",
 
+".yespornplease.com",
 
 
-  "xa.yimg.com",
 
+"||yespornplease.com",
 
 
-  ".yingsuoss.com",
 
+"|http:\/\/yeyeclub.com",
 
 
-  ".yipub.com",
 
+"||yhcw.net",
 
 
-  "||yipub.com",
 
+".yibada.com",
 
 
-  "yinlei.org\/mt",
 
+".yibaochina.com",
 
 
-  ".yizhihongxing.com",
 
+".yidio.com",
 
 
-  ".yobt.com",
 
+"||yidio.com",
 
 
-  ".yobt.tv",
 
+"yilubbs.com",
 
 
-  "||yobt.tv",
 
+"xa.yimg.com",
 
 
-  ".yogichen.org",
 
+".yingsuoss.com",
 
 
-  "||yogichen.org",
 
+".yipub.com",
 
 
-  ".yolasite.com",
 
+"||yipub.com",
 
 
-  ".yomiuri.co.jp",
 
+"yinlei.org\/mt",
 
 
-  "yong.hu",
 
+".yizhihongxing.com",
 
 
-  ".yorkbbs.ca",
 
+".yobt.com",
 
 
-  "||youxu.info",
 
+".yobt.tv",
 
 
-  ".youjizz.com",
 
+"||yobt.tv",
 
 
-  "||youjizz.com",
 
+".yogichen.org",
 
 
-  ".youmaker.com",
 
+"||yogichen.org",
 
 
-  "||youmaker.com",
 
+".yolasite.com",
 
 
-  ".youngpornvideos.com",
 
+".yomiuri.co.jp",
 
 
-  "youngspiration.hk",
 
+"yong.hu",
 
 
-  ".youpai.org",
 
+".yorkbbs.ca",
 
 
-  "||youpai.org",
 
+"||youxu.info",
 
 
-  ".your-freedom.net",
 
+".youjizz.com",
 
 
-  "||yourepeat.com",
 
+"||youjizz.com",
 
 
-  ".yourprivatevpn.com",
 
+".youmaker.com",
 
 
-  "||yourprivatevpn.com",
 
+"||youmaker.com",
 
 
-  ".yousendit.com",
 
+".youngpornvideos.com",
 
 
-  "||yousendit.com",
 
+"youngspiration.hk",
 
 
-  ".youthnetradio.org\/tmit\/forum",
 
+".youpai.org",
 
 
-  "blog.youthwant.com.tw",
 
+"||youpai.org",
 
 
-  "me.youthwant.com.tw",
 
+".your-freedom.net",
 
 
-  "share.youthwant.com.tw",
 
+"||yourepeat.com",
 
 
-  "topic.youthwant.com.tw",
 
+".yourprivatevpn.com",
 
 
-  ".youporn.com",
 
+"||yourprivatevpn.com",
 
 
-  "||youporn.com",
 
+".yousendit.com",
 
 
-  ".youporngay.com",
 
+"||yousendit.com",
 
 
-  "||youporngay.com",
 
+".youthnetradio.org\/tmit\/forum",
 
 
-  ".yourlisten.com",
 
+"blog.youthwant.com.tw",
 
 
-  "|http:\/\/yourlisten.com",
 
+"me.youthwant.com.tw",
 
 
-  ".yourlust.com",
 
+"share.youthwant.com.tw",
 
 
-  "|http:\/\/yourlust.com",
 
+"topic.youthwant.com.tw",
 
 
-  "youshun12.com",
 
+".youporn.com",
 
 
-  ".youtubecn.com",
 
+"||youporn.com",
 
 
-  "youversion.com",
 
+".youporngay.com",
 
 
-  "||youversion.com",
 
+"||youporngay.com",
 
 
-  "blog.youxu.info\/2010\/03\/14\/west-chamber",
 
+".yourlisten.com",
 
 
-  "ytht.net",
 
+"|http:\/\/yourlisten.com",
 
 
-  "yuanming.net",
 
+".yourlust.com",
 
 
-  ".yuanzhengtang.org",
 
+"|http:\/\/yourlust.com",
 
 
-  ".yulghun.com",
 
+"youshun12.com",
 
 
-  "||yunchao.net",
 
+".youtubecn.com",
 
 
-  "||yuntipub.com",
 
+"youversion.com",
 
 
-  ".yuvutu.com",
 
+"||youversion.com",
 
 
-  "||yvesgeleyn.com",
 
+"blog.youxu.info\/2010\/03\/14\/west-chamber",
 
 
-  ".ywpw.com\/forums\/history\/post\/A0\/p0\/html\/227",
 
+"ytht.net",
 
 
-  "yx51.net",
 
+"yuanming.net",
 
 
-  ".yyii.org",
 
+".yuanzhengtang.org",
 
 
-  "||yyii.org",
 
+".yulghun.com",
 
 
-  ".yzzk.com",
 
+"||yunchao.net",
 
 
-  "|http:\/\/yzzk.com",
 
+"||yuntipub.com",
 
 
-  "zacebook.com",
 
+".yuvutu.com",
 
 
-  ".zalmos.com",
 
+"||yvesgeleyn.com",
 
 
-  "||zalmos.com",
 
+".ywpw.com\/forums\/history\/post\/A0\/p0\/html\/227",
 
 
-  "||zannel.com",
 
+"yx51.net",
 
 
-  ".zaobao.com",
 
+".yyii.org",
 
 
-  "||zaobao.com",
 
+"||yyii.org",
 
 
-  "|http:\/\/zaobao.com.sg",
 
+".yzzk.com",
 
 
-  "||zaobao.com.sg",
 
+"|http:\/\/yzzk.com",
 
 
-  ".zaozon.com",
 
+"zacebook.com",
 
 
-  "||zdnet.com.tw",
 
+".zalmos.com",
 
 
-  ".zello.com",
 
+"||zalmos.com",
 
 
-  "||zello.com",
 
+"||zannel.com",
 
 
-  ".zengjinyan.org",
 
+".zaobao.com",
 
 
-  ".zenmate.com",
 
+"||zaobao.com",
 
 
-  "||zenmate.com",
 
+"|http:\/\/zaobao.com.sg",
 
 
-  "||zenmate.com.ru",
 
+"||zaobao.com.sg",
 
 
-  "||zeronet.io",
 
+".zaozon.com",
 
 
-  "||zeutch.com",
 
+"||zdnet.com.tw",
 
 
-  ".zfreet.com",
 
+".zello.com",
 
 
-  ".zgsddh.com",
 
+"||zello.com",
 
 
-  "zgzcjj.net",
 
+".zengjinyan.org",
 
 
-  ".zhanbin.net",
 
+".zenmate.com",
 
 
-  "||zhanbin.net",
 
+"||zenmate.com",
 
 
-  ".zhangboli.net",
 
+"||zenmate.com.ru",
 
 
-  "||zhangtianliang.com",
 
+"||zeronet.io",
 
 
-  "||zhanlve.org",
 
+"||zeutch.com",
 
 
-  "zhenghui.org",
 
+".zfreet.com",
 
 
-  ".zhengjian.org",
 
+".zgsddh.com",
 
 
-  "||zhengjian.org",
 
+"zgzcjj.net",
 
 
-  "zhengwunet.org",
 
+".zhanbin.net",
 
 
-  "zhenlibu.info",
 
+"||zhanbin.net",
 
 
-  "||zhenlibu.info",
 
+".zhangboli.net",
 
 
-  ".zhenlibu1984.com",
 
+"||zhangtianliang.com",
 
 
-  "||zhenlibu1984.com",
 
+"||zhanlve.org",
 
 
-  "|http:\/\/zhenxiang.biz",
 
+"zhenghui.org",
 
 
-  ".zhinengluyou.com",
 
+".zhengjian.org",
 
 
-  "zhongguo.ca",
 
+"||zhengjian.org",
 
 
-  "|http:\/\/zhongguorenquan.org",
 
+"zhengwunet.org",
 
 
-  "zhongguotese.net",
 
+"zhenlibu.info",
 
 
-  "||zhongguotese.net",
 
+"||zhenlibu.info",
 
 
-  "||zhongmeng.org",
 
+".zhenlibu1984.com",
 
 
-  ".zhoushuguang.com",
 
+"||zhenlibu1984.com",
 
 
-  "||zhreader.com",
 
+"|http:\/\/zhenxiang.biz",
 
 
-  ".zhuangbi.me",
 
+".zhinengluyou.com",
 
 
-  "||zhuangbi.me",
 
+"zhongguo.ca",
 
 
-  ".zhuanxing.cn",
 
+"|http:\/\/zhongguorenquan.org",
 
 
-  "||zhuatieba.com",
 
+"zhongguotese.net",
 
 
-  "zhuichaguoji.org",
 
+"||zhongguotese.net",
 
 
-  "||zhuichaguoji.org",
 
+"||zhongmeng.org",
 
 
-  "|http:\/\/book.zi5.me",
 
+".zhoushuguang.com",
 
 
-  ".ziddu.com\/download",
 
+"||zhreader.com",
 
 
-  "||zillionk.com",
 
+".zhuangbi.me",
 
 
-  ".zinio.com",
 
+"||zhuangbi.me",
 
 
-  "||zinio.com",
 
+".zhuanxing.cn",
 
 
-  ".ziporn.com",
 
+"||zhuatieba.com",
 
 
-  ".zippyshare.com",
 
+"zhuichaguoji.org",
 
 
-  ".zkaip.com",
 
+"||zhuichaguoji.org",
 
 
-  "||zkaip.com",
 
+"|http:\/\/book.zi5.me",
 
 
-  "realforum.zkiz.com",
 
+".ziddu.com\/download",
 
 
-  "||zmw.cn",
 
+"||zillionk.com",
 
 
-  ".zodgame.us",
 
+".zinio.com",
 
 
-  "zomobo.net",
 
+"||zinio.com",
 
 
-  ".zonaeuropa.com",
 
+".ziporn.com",
 
 
-  "||zonaeuropa.com",
 
+".zippyshare.com",
 
 
-  "||zonghexinwen.com",
 
+".zkaip.com",
 
 
-  ".zonghexinwen.net",
 
+"||zkaip.com",
 
 
-  "||zoogvpn.com",
 
+"realforum.zkiz.com",
 
 
-  "||zootool.com",
 
+"||zmw.cn",
 
 
-  ".zoozle.net",
 
+".zodgame.us",
 
 
-  "writer.zoho.com",
 
+"zomobo.net",
 
 
-  "||zorrovpn.com",
 
+".zonaeuropa.com",
 
 
-  "||zpn.im",
 
+"||zonaeuropa.com",
 
 
-  "||zspeeder.me",
 
+"||zonghexinwen.com",
 
 
-  ".zsrhao.com",
 
+".zonghexinwen.net",
 
 
-  ".zuo.la",
 
+"||zoogvpn.com",
 
 
-  "||zuo.la",
 
+"||zootool.com",
 
 
-  "||zuobiao.me",
 
+".zoozle.net",
 
 
-  ".zuola.com",
 
+"writer.zoho.com",
 
 
-  "||zuola.com",
 
+"||zorrovpn.com",
 
 
-  "||zvereff.com",
 
+"||zpn.im",
 
 
-  ".zynaima.com",
 
+"||zspeeder.me",
 
 
-  "zyzc9.com",
 
+".zsrhao.com",
 
 
-  ".zzcartoon.com",
 
+".zuo.la",
 
 
-  "64memo",
 
+"||zuo.la",
 
 
-  "aHR0cHM6Ly95ZWNsLm5ldA",
 
+"||zuobiao.me",
 
 
-  "freenet",
 
+".zuola.com",
 
 
-  ".google.*\/falun",
 
+"||zuola.com",
 
 
-  "phobos.apple.com*\/video",
 
+"||zvereff.com",
 
 
-  "q=freedom",
 
+".zynaima.com",
 
 
-  "q%3Dfreedom",
 
+"zyzc9.com",
 
 
-  "remembering_tiananmen_20_years",
 
+".zzcartoon.com",
 
 
-  "search*safeweb",
 
+"64memo",
 
 
-  "q=triangle",
 
+"aHR0cHM6Ly95ZWNsLm5ldA",
 
 
-  "q%3DTriangle",
 
+"freenet",
 
 
-  "ultrareach",
 
+".google.*\/falun",
 
 
-  "ultrasurf",
 
+"phobos.apple.com*\/video",
 
 
-  "@@||aliyun.com",
 
+"q=freedom",
 
 
-  "@@||baidu.com",
 
+"q%3Dfreedom",
 
 
-  "@@||chinaso.com",
 
+"remembering_tiananmen_20_years",
 
 
-  "@@||chinaz.com",
 
+"search*safeweb",
 
 
-  "@@|http:\/\/nrch.culture.tw\/",
 
+"q=triangle",
 
 
-  "@@||adservice.google.com",
 
+"q%3DTriangle",
 
 
-  "@@||dl.google.com",
 
+"ultrareach",
 
 
-  "@@||kh.google.com",
 
+"ultrasurf",
 
 
-  "@@||khm.google.com",
 
+"@@||aliyun.com",
 
 
-  "@@||khm0.google.com",
 
+"@@||baidu.com",
 
 
-  "@@||khm1.google.com",
 
+"@@||chinaso.com",
 
 
-  "@@||khm2.google.com",
 
+"@@||chinaz.com",
 
 
-  "@@||khm3.google.com",
 
+"@@|http:\/\/nrch.culture.tw\/",
 
 
-  "@@||khmdb.google.com",
 
+"@@||adservice.google.com",
 
 
-  "@@||tools.google.com",
 
+"@@||dl.google.com",
 
 
-  "@@||clientservices.googleapis.com",
 
+"@@||kh.google.com",
 
 
-  "@@||fonts.googleapis.com",
 
+"@@||khm.google.com",
 
 
-  "@@||khm.googleapis.com",
 
+"@@||khm0.google.com",
 
 
-  "@@||khm0.googleapis.com",
 
+"@@||khm1.google.com",
 
 
-  "@@||khm1.googleapis.com",
 
+"@@||khm2.google.com",
 
 
-  "@@||khm2.googleapis.com",
 
+"@@||khm3.google.com",
 
 
-  "@@||khm3.googleapis.com",
 
+"@@||khmdb.google.com",
 
 
-  "@@||khmdb.googleapis.com",
 
+"@@||tools.google.com",
 
 
-  "@@||storage.googleapis.com",
 
+"@@||clientservices.googleapis.com",
 
 
-  "@@||translate.googleapis.com",
 
+"@@||fonts.googleapis.com",
 
 
-  "@@||update.googleapis.com",
 
+"@@||khm.googleapis.com",
 
 
-  "@@||safebrowsing.googleapis.com",
 
+"@@||khm0.googleapis.com",
 
 
-  "@@||cn.gravatar.com",
 
+"@@||khm1.googleapis.com",
 
 
-  "@@||connectivitycheck.gstatic.com",
 
+"@@||khm2.googleapis.com",
 
 
-  "@@||csi.gstatic.com",
 
+"@@||khm3.googleapis.com",
 
 
-  "@@||fonts.gstatic.com",
 
+"@@||khmdb.googleapis.com",
 
 
-  "@@||ssl.gstatic.com",
 
+"@@||storage.googleapis.com",
 
 
-  "@@||haosou.com",
 
+"@@||translate.googleapis.com",
 
 
-  "@@||ip.cn",
 
+"@@||update.googleapis.com",
 
 
-  "@@||jike.com",
 
+"@@||safebrowsing.googleapis.com",
 
 
-  "@@|http:\/\/translate.google.cn",
 
+"@@||cn.gravatar.com",
 
 
-  "@@|http:\/\/www.google.cn\/maps",
 
+"@@||connectivitycheck.gstatic.com",
 
 
-  "@@||http2.golang.org",
 
+"@@||csi.gstatic.com",
 
 
-  "@@||gov.cn",
 
+"@@||fonts.gstatic.com",
 
 
-  "@@||qq.com",
 
+"@@||ssl.gstatic.com",
 
 
-  "@@||sina.cn",
 
+"@@||haosou.com",
 
 
-  "@@||sina.com.cn",
 
+"@@||ip.cn",
 
 
-  "@@||sogou.com",
 
+"@@||jike.com",
 
 
-  "@@||so.com",
 
+"@@|http:\/\/translate.google.cn",
 
 
-  "@@||soso.com",
 
+"@@|http:\/\/www.google.cn\/maps",
 
 
-  "@@||uluai.com.cn",
 
+"@@||http2.golang.org",
 
 
-  "@@||weibo.com",
 
+"@@||gov.cn",
 
 
-  "@@||yahoo.cn",
 
+"@@||qq.com",
 
 
-  "@@||youdao.com",
 
+"@@||sina.cn",
 
 
-  "@@||zhongsou.com",
 
+"@@||sina.com.cn",
 
 
-  "@@|http:\/\/ime.baidu.jp"
+
+"@@||sogou.com",
+
+
+
+"@@||so.com",
+
+
+
+"@@||soso.com",
+
+
+
+"@@||uluai.com.cn",
+
+
+
+"@@||weibo.com",
+
+
+
+"@@||yahoo.cn",
+
+
+
+"@@||youdao.com",
+
+
+
+"@@||zhongsou.com",
+
+
+
+"@@|http:\/\/ime.baidu.jp"
 
 
 
@@ -27441,63 +27442,63 @@ var rules = [
 
 
 
- * This file is part of Adblock Plus <http://adblockplus.org/>,
+* This file is part of Adblock Plus <http://adblockplus.org/>,
 
 
 
- * Copyright (C) 2006-2014 Eyeo GmbH
+* Copyright (C) 2006-2014 Eyeo GmbH
 
 
 
- *
+*
 
 
 
- * Adblock Plus is free software: you can redistribute it and/or modify
+* Adblock Plus is free software: you can redistribute it and/or modify
 
 
 
- * it under the terms of the GNU General Public License version 3 as
+* it under the terms of the GNU General Public License version 3 as
 
 
 
- * published by the Free Software Foundation.
+* published by the Free Software Foundation.
 
 
 
- *
+*
 
 
 
- * Adblock Plus is distributed in the hope that it will be useful,
+* Adblock Plus is distributed in the hope that it will be useful,
 
 
 
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
 
 
 
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 
 
 
- * GNU General Public License for more details.
+* GNU General Public License for more details.
 
 
 
- *
+*
 
 
 
- * You should have received a copy of the GNU General Public License
+* You should have received a copy of the GNU General Public License
 
 
 
- * along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+* along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
 
 
 
- */
+*/
 
 
 
@@ -27513,15 +27514,15 @@ function createDict()
 
 
 
-  var result = {};
+var result = {};
 
 
 
-  result.__proto__ = null;
+result.__proto__ = null;
 
 
 
-  return result;
+return result;
 
 
 
@@ -27541,23 +27542,23 @@ function getOwnPropertyDescriptor(obj, key)
 
 
 
-  if (obj.hasOwnProperty(key))
+if (obj.hasOwnProperty(key))
 
 
 
-  {
+{
 
 
 
-    return obj[key];
+return obj[key];
 
 
 
-  }
+}
 
 
 
-  return null;
+return null;
 
 
 
@@ -27577,79 +27578,79 @@ function extend(subclass, superclass, definition)
 
 
 
-  if (Object.__proto__)
+if (Object.__proto__)
 
 
 
-  {
+{
 
 
 
-    definition.__proto__ = superclass.prototype;
+definition.__proto__ = superclass.prototype;
 
 
 
-    subclass.prototype = definition;
+subclass.prototype = definition;
 
 
 
-  }
+}
 
 
 
-  else
+else
 
 
 
-  {
+{
 
 
 
-    var tmpclass = function(){}, ret;
+var tmpclass = function(){}, ret;
 
 
 
-    tmpclass.prototype = superclass.prototype;
+tmpclass.prototype = superclass.prototype;
 
 
 
-    subclass.prototype = new tmpclass();
+subclass.prototype = new tmpclass();
 
 
 
-    subclass.prototype.constructor = superclass;
+subclass.prototype.constructor = superclass;
 
 
 
-    for (var i in definition)
+for (var i in definition)
 
 
 
-    {
+{
 
 
 
-      if (definition.hasOwnProperty(i))
+if (definition.hasOwnProperty(i))
 
 
 
-      {
+{
 
 
 
-        subclass.prototype[i] = definition[i];
+subclass.prototype[i] = definition[i];
 
 
 
-      }
+}
 
 
 
-    }
+}
 
 
 
-  }
+}
 
 
 
@@ -27669,11 +27670,11 @@ function Filter(text)
 
 
 
-  this.text = text;
+this.text = text;
 
 
 
-  this.subscriptions = [];
+this.subscriptions = [];
 
 
 
@@ -27697,15 +27698,15 @@ toString: function()
 
 
 
-  {
+{
 
 
 
-    return this.text;
+return this.text;
 
 
 
-  }
+}
 
 
 
@@ -27737,63 +27738,63 @@ Filter.fromText = function(text)
 
 
 
-  if (text in Filter.knownFilters)
+if (text in Filter.knownFilters)
 
 
 
-  {
+{
 
 
 
-    return Filter.knownFilters[text];
+return Filter.knownFilters[text];
 
 
 
-  }
+}
 
 
 
-  var ret;
+var ret;
 
 
 
-  if (text[0] == "!")
+if (text[0] == "!")
 
 
 
-  {
+{
 
 
 
-    ret = new CommentFilter(text);
+ret = new CommentFilter(text);
 
 
 
-  }
+}
 
 
 
-  else
+else
 
 
 
-  {
+{
 
 
 
-    ret = RegExpFilter.fromText(text);
+ret = RegExpFilter.fromText(text);
 
 
 
-  }
+}
 
 
 
-  Filter.knownFilters[ret.text] = ret;
+Filter.knownFilters[ret.text] = ret;
 
 
 
-  return ret;
+return ret;
 
 
 
@@ -27813,11 +27814,11 @@ function InvalidFilter(text, reason)
 
 
 
-  Filter.call(this, text);
+Filter.call(this, text);
 
 
 
-  this.reason = reason;
+this.reason = reason;
 
 
 
@@ -27829,11 +27830,11 @@ extend(InvalidFilter, Filter, {
 
 
 
-       reason: null
+reason: null
 
 
 
-       });
+});
 
 
 
@@ -27849,7 +27850,7 @@ function CommentFilter(text)
 
 
 
-  Filter.call(this, text);
+Filter.call(this, text);
 
 
 
@@ -27861,7 +27862,7 @@ extend(CommentFilter, Filter, {
 
 
 
-       });
+});
 
 
 
@@ -27877,11 +27878,11 @@ function ActiveFilter(text, domains)
 
 
 
-  Filter.call(this, text);
+Filter.call(this, text);
 
 
 
-  this.domainSource = domains;
+this.domainSource = domains;
 
 
 
@@ -27893,495 +27894,495 @@ extend(ActiveFilter, Filter, {
 
 
 
-       domainSource: null,
+domainSource: null,
 
 
 
-       domainSeparator: null,
+domainSeparator: null,
 
 
 
-       ignoreTrailingDot: true,
+ignoreTrailingDot: true,
 
 
 
-       domainSourceIsUpperCase: false,
+domainSourceIsUpperCase: false,
 
 
 
-       getDomains: function()
+getDomains: function()
 
 
 
-       {
+{
 
 
 
-       var prop = getOwnPropertyDescriptor(this, "domains");
+var prop = getOwnPropertyDescriptor(this, "domains");
 
 
 
-       if (prop)
+if (prop)
 
 
 
-       {
+{
 
 
 
-       return prop;
+return prop;
 
 
 
-       }
+}
 
 
 
-       var domains = null;
+var domains = null;
 
 
 
-       if (this.domainSource)
+if (this.domainSource)
 
 
 
-       {
+{
 
 
 
-       var source = this.domainSource;
+var source = this.domainSource;
 
 
 
-       if (!this.domainSourceIsUpperCase)
+if (!this.domainSourceIsUpperCase)
 
 
 
-       {
+{
 
 
 
-       source = source.toUpperCase();
+source = source.toUpperCase();
 
 
 
-       }
+}
 
 
 
-       var list = source.split(this.domainSeparator);
+var list = source.split(this.domainSeparator);
 
 
 
-       if (list.length == 1 && list[0][0] != "~")
+if (list.length == 1 && list[0][0] != "~")
 
 
 
-       {
+{
 
 
 
-       domains = createDict();
+domains = createDict();
 
 
 
-       domains[""] = false;
+domains[""] = false;
 
 
 
-       if (this.ignoreTrailingDot)
+if (this.ignoreTrailingDot)
 
 
 
-       {
+{
 
 
 
-       list[0] = list[0].replace(/\.+$/, "");
+list[0] = list[0].replace(/\.+$/, "");
 
 
 
-       }
+}
 
 
 
-       domains[list[0]] = true;
+domains[list[0]] = true;
 
 
 
-       }
+}
 
 
 
-       else
+else
 
 
 
-       {
+{
 
 
 
-       var hasIncludes = false;
+var hasIncludes = false;
 
 
 
-       for (var i = 0; i < list.length; i++)
+for (var i = 0; i < list.length; i++)
 
 
 
-       {
+{
 
 
 
-       var domain = list[i];
+var domain = list[i];
 
 
 
-       if (this.ignoreTrailingDot)
+if (this.ignoreTrailingDot)
 
 
 
-       {
+{
 
 
 
-       domain = domain.replace(/\.+$/, "");
+domain = domain.replace(/\.+$/, "");
 
 
 
-       }
+}
 
 
 
-       if (domain == "")
+if (domain == "")
 
 
 
-       {
+{
 
 
 
-       continue;
+continue;
 
 
 
-       }
+}
 
 
 
-       var include;
+var include;
 
 
 
-       if (domain[0] == "~")
+if (domain[0] == "~")
 
 
 
-       {
+{
 
 
 
-       include = false;
+include = false;
 
 
 
-       domain = domain.substr(1);
+domain = domain.substr(1);
 
 
 
-       }
+}
 
 
 
-       else
+else
 
 
 
-       {
+{
 
 
 
-       include = true;
+include = true;
 
 
 
-       hasIncludes = true;
+hasIncludes = true;
 
 
 
-       }
+}
 
 
 
-       if (!domains)
+if (!domains)
 
 
 
-       {
+{
 
 
 
-       domains = createDict();
+domains = createDict();
 
 
 
-       }
+}
 
 
 
-       domains[domain] = include;
+domains[domain] = include;
 
 
 
-       }
+}
 
 
 
-       domains[""] = !hasIncludes;
+domains[""] = !hasIncludes;
 
 
 
-       }
+}
 
 
 
-       this.domainSource = null;
+this.domainSource = null;
 
 
 
-       }
+}
 
 
 
-       return this.domains;
+return this.domains;
 
 
 
-       },
+},
 
 
 
-       sitekeys: null,
+sitekeys: null,
 
 
 
-       isActiveOnDomain: function(docDomain, sitekey)
+isActiveOnDomain: function(docDomain, sitekey)
 
 
 
-       {
+{
 
 
 
-       if (this.getSitekeys() && (!sitekey || this.getSitekeys().indexOf(sitekey.toUpperCase()) < 0))
+if (this.getSitekeys() && (!sitekey || this.getSitekeys().indexOf(sitekey.toUpperCase()) < 0))
 
 
 
-       {
+{
 
 
 
-       return false;
+return false;
 
 
 
-       }
+}
 
 
 
-       if (!this.getDomains())
+if (!this.getDomains())
 
 
 
-       {
+{
 
 
 
-       return true;
+return true;
 
 
 
-       }
+}
 
 
 
-       if (!docDomain)
+if (!docDomain)
 
 
 
-       {
+{
 
 
 
-       return this.getDomains()[""];
+return this.getDomains()[""];
 
 
 
-       }
+}
 
 
 
-       if (this.ignoreTrailingDot)
+if (this.ignoreTrailingDot)
 
 
 
-       {
+{
 
 
 
-       docDomain = docDomain.replace(/\.+$/, "");
+docDomain = docDomain.replace(/\.+$/, "");
 
 
 
-       }
+}
 
 
 
-       docDomain = docDomain.toUpperCase();
+docDomain = docDomain.toUpperCase();
 
 
 
-       while (true)
+while (true)
 
 
 
-       {
+{
 
 
 
-       if (docDomain in this.getDomains())
+if (docDomain in this.getDomains())
 
 
 
-       {
+{
 
 
 
-       return this.domains[docDomain];
+return this.domains[docDomain];
 
 
 
-       }
+}
 
 
 
-       var nextDot = docDomain.indexOf(".");
+var nextDot = docDomain.indexOf(".");
 
 
 
-       if (nextDot < 0)
+if (nextDot < 0)
 
 
 
-       {
+{
 
 
 
-       break;
+break;
 
 
 
-       }
+}
 
 
 
-       docDomain = docDomain.substr(nextDot + 1);
+docDomain = docDomain.substr(nextDot + 1);
 
 
 
-       }
+}
 
 
 
-       return this.domains[""];
+return this.domains[""];
 
 
 
-       },
+},
 
 
 
-       isActiveOnlyOnDomain: function(docDomain)
+isActiveOnlyOnDomain: function(docDomain)
 
 
 
-       {
+{
 
 
 
-       if (!docDomain || !this.getDomains() || this.getDomains()[""])
+if (!docDomain || !this.getDomains() || this.getDomains()[""])
 
 
 
-       {
+{
 
 
 
-       return false;
+return false;
 
 
 
-       }
+}
 
 
 
-       if (this.ignoreTrailingDot)
+if (this.ignoreTrailingDot)
 
 
 
-       {
+{
 
 
 
-       docDomain = docDomain.replace(/\.+$/, "");
+docDomain = docDomain.replace(/\.+$/, "");
 
 
 
-       }
+}
 
 
 
-       docDomain = docDomain.toUpperCase();
+docDomain = docDomain.toUpperCase();
 
 
 
-       for (var domain in this.getDomains())
+for (var domain in this.getDomains())
 
 
 
-       {
+{
 
 
 
-       if (this.domains[domain] && domain != docDomain && (domain.length <= docDomain.length || domain.indexOf("." + docDomain) != domain.length - docDomain.length - 1))
+if (this.domains[domain] && domain != docDomain && (domain.length <= docDomain.length || domain.indexOf("." + docDomain) != domain.length - docDomain.length - 1))
 
 
 
-       {
+{
 
 
 
-       return false;
+return false;
 
 
 
-       }
+}
 
 
 
-       }
+}
 
 
 
-       return true;
+return true;
 
 
 
-       }
+}
 
 
 
-       });
+});
 
 
 
@@ -28397,107 +28398,107 @@ function RegExpFilter(text, regexpSource, contentType, matchCase, domains, third
 
 
 
-  ActiveFilter.call(this, text, domains, sitekeys);
+ActiveFilter.call(this, text, domains, sitekeys);
 
 
 
-  if (contentType != null)
+if (contentType != null)
 
 
 
-  {
+{
 
 
 
-    this.contentType = contentType;
+this.contentType = contentType;
 
 
 
-  }
+}
 
 
 
-  if (matchCase)
+if (matchCase)
 
 
 
-  {
+{
 
 
 
-    this.matchCase = matchCase;
+this.matchCase = matchCase;
 
 
 
-  }
+}
 
 
 
-  if (thirdParty != null)
+if (thirdParty != null)
 
 
 
-  {
+{
 
 
 
-    this.thirdParty = thirdParty;
+this.thirdParty = thirdParty;
 
 
 
-  }
+}
 
 
 
-  if (sitekeys != null)
+if (sitekeys != null)
 
 
 
-  {
+{
 
 
 
-    this.sitekeySource = sitekeys;
+this.sitekeySource = sitekeys;
 
 
 
-  }
+}
 
 
 
-  if (regexpSource.length >= 2 && regexpSource[0] == "/" && regexpSource[regexpSource.length - 1] == "/")
+if (regexpSource.length >= 2 && regexpSource[0] == "/" && regexpSource[regexpSource.length - 1] == "/")
 
 
 
-  {
+{
 
 
 
-    var regexp = new RegExp(regexpSource.substr(1, regexpSource.length - 2), this.matchCase ? "" : "i");
+var regexp = new RegExp(regexpSource.substr(1, regexpSource.length - 2), this.matchCase ? "" : "i");
 
 
 
-    this.regexp = regexp;
+this.regexp = regexp;
 
 
 
-  }
+}
 
 
 
-  else
+else
 
 
 
-  {
+{
 
 
 
-    this.regexpSource = regexpSource;
+this.regexpSource = regexpSource;
 
 
 
-  }
+}
 
 
 
@@ -28509,183 +28510,183 @@ extend(RegExpFilter, ActiveFilter, {
 
 
 
-       domainSourceIsUpperCase: true,
+domainSourceIsUpperCase: true,
 
 
 
-       length: 1,
+length: 1,
 
 
 
-       domainSeparator: "|",
+domainSeparator: "|",
 
 
 
-       regexpSource: null,
+regexpSource: null,
 
 
 
-       getRegexp: function()
+getRegexp: function()
 
 
 
-       {
+{
 
 
 
-       var prop = getOwnPropertyDescriptor(this, "regexp");
+var prop = getOwnPropertyDescriptor(this, "regexp");
 
 
 
-       if (prop)
+if (prop)
 
 
 
-       {
+{
 
 
 
-       return prop;
+return prop;
 
 
 
-       }
+}
 
 
 
-       var source = this.regexpSource.replace(/\*+/g, "*").replace(/\^\|$/, "^").replace(/\W/g, "\\$&").replace(/\\\*/g, ".*").replace(/\\\^/g, "(?:[\\x00-\\x24\\x26-\\x2C\\x2F\\x3A-\\x40\\x5B-\\x5E\\x60\\x7B-\\x7F]|$)").replace(/^\\\|\\\|/, "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?").replace(/^\\\|/, "^").replace(/\\\|$/, "$").replace(/^(\.\*)/, "").replace(/(\.\*)$/, "");
+var source = this.regexpSource.replace(/\*+/g, "*").replace(/\^\|$/, "^").replace(/\W/g, "\\$&").replace(/\\\*/g, ".*").replace(/\\\^/g, "(?:[\\x00-\\x24\\x26-\\x2C\\x2F\\x3A-\\x40\\x5B-\\x5E\\x60\\x7B-\\x7F]|$)").replace(/^\\\|\\\|/, "^[\\w\\-]+:\\/+(?!\\/)(?:[^\\/]+\\.)?").replace(/^\\\|/, "^").replace(/\\\|$/, "$").replace(/^(\.\*)/, "").replace(/(\.\*)$/, "");
 
 
 
-       var regexp = new RegExp(source, this.matchCase ? "" : "i");
+var regexp = new RegExp(source, this.matchCase ? "" : "i");
 
 
 
-       this.regexp = regexp;
+this.regexp = regexp;
 
 
 
-       return regexp;
+return regexp;
 
 
 
-       },
+},
 
 
 
-       contentType: 2147483647,
+contentType: 2147483647,
 
 
 
-       matchCase: false,
+matchCase: false,
 
 
 
-       thirdParty: null,
+thirdParty: null,
 
 
 
-       sitekeySource: null,
+sitekeySource: null,
 
 
 
-       getSitekeys: function()
+getSitekeys: function()
 
 
 
-       {
+{
 
 
 
-       var prop = getOwnPropertyDescriptor(this, "sitekeys");
+var prop = getOwnPropertyDescriptor(this, "sitekeys");
 
 
 
-       if (prop)
+if (prop)
 
 
 
-       {
+{
 
 
 
-       return prop;
+return prop;
 
 
 
-       }
+}
 
 
 
-       var sitekeys = null;
+var sitekeys = null;
 
 
 
-       if (this.sitekeySource)
+if (this.sitekeySource)
 
 
 
-       {
+{
 
 
 
-       sitekeys = this.sitekeySource.split("|");
+sitekeys = this.sitekeySource.split("|");
 
 
 
-       this.sitekeySource = null;
+this.sitekeySource = null;
 
 
 
-       }
+}
 
 
 
-       this.sitekeys = sitekeys;
+this.sitekeys = sitekeys;
 
 
 
-       return this.sitekeys;
+return this.sitekeys;
 
 
 
-       },
+},
 
 
 
-       matches: function(location, contentType, docDomain, thirdParty, sitekey)
+matches: function(location, contentType, docDomain, thirdParty, sitekey)
 
 
 
-       {
+{
 
 
 
-       if (this.getRegexp().test(location) && this.isActiveOnDomain(docDomain, sitekey))
+if (this.getRegexp().test(location) && this.isActiveOnDomain(docDomain, sitekey))
 
 
 
-       {
+{
 
 
 
-       return true;
+return true;
 
 
 
-       }
+}
 
 
 
-       return false;
+return false;
 
 
 
-       }
+}
 
 
 
-       });
+});
 
 
 
@@ -28701,431 +28702,431 @@ RegExpFilter.fromText = function(text)
 
 
 
-  var blocking = true;
+var blocking = true;
 
 
 
-  var origText = text;
+var origText = text;
 
 
 
-  if (text.indexOf("@@") == 0)
+if (text.indexOf("@@") == 0)
 
 
 
-  {
+{
 
 
 
-    blocking = false;
+blocking = false;
 
 
 
-    text = text.substr(2);
+text = text.substr(2);
 
 
 
-  }
+}
 
 
 
-  var contentType = null;
+var contentType = null;
 
 
 
-  var matchCase = null;
+var matchCase = null;
 
 
 
-  var domains = null;
+var domains = null;
 
 
 
-  var sitekeys = null;
+var sitekeys = null;
 
 
 
-  var thirdParty = null;
+var thirdParty = null;
 
 
 
-  var collapse = null;
+var collapse = null;
 
 
 
-  var options;
+var options;
 
 
 
-  var match = text.indexOf("$") >= 0 ? Filter.optionsRegExp.exec(text) : null;
+var match = text.indexOf("$") >= 0 ? Filter.optionsRegExp.exec(text) : null;
 
 
 
-  if (match)
+if (match)
 
 
 
-  {
+{
 
 
 
-    options = match[1].toUpperCase().split(",");
+options = match[1].toUpperCase().split(",");
 
 
 
-    text = match.input.substr(0, match.index);
+text = match.input.substr(0, match.index);
 
 
 
-    for (var _loopIndex6 = 0; _loopIndex6 < options.length; ++_loopIndex6)
+for (var _loopIndex6 = 0; _loopIndex6 < options.length; ++_loopIndex6)
 
 
 
-    {
+{
 
 
 
-      var option = options[_loopIndex6];
+var option = options[_loopIndex6];
 
 
 
-      var value = null;
+var value = null;
 
 
 
-      var separatorIndex = option.indexOf("=");
+var separatorIndex = option.indexOf("=");
 
 
 
-      if (separatorIndex >= 0)
+if (separatorIndex >= 0)
 
 
 
-      {
+{
 
 
 
-        value = option.substr(separatorIndex + 1);
+value = option.substr(separatorIndex + 1);
 
 
 
-        option = option.substr(0, separatorIndex);
+option = option.substr(0, separatorIndex);
 
 
 
-      }
+}
 
 
 
-      option = option.replace(/-/, "_");
+option = option.replace(/-/, "_");
 
 
 
-      if (option in RegExpFilter.typeMap)
+if (option in RegExpFilter.typeMap)
 
 
 
-      {
+{
 
 
 
-        if (contentType == null)
+if (contentType == null)
 
 
 
-        {
+{
 
 
 
-          contentType = 0;
+contentType = 0;
 
 
 
-        }
+}
 
 
 
-        contentType |= RegExpFilter.typeMap[option];
+contentType |= RegExpFilter.typeMap[option];
 
 
 
-      }
+}
 
 
 
-      else if (option[0] == "~" && option.substr(1) in RegExpFilter.typeMap)
+else if (option[0] == "~" && option.substr(1) in RegExpFilter.typeMap)
 
 
 
-      {
+{
 
 
 
-        if (contentType == null)
+if (contentType == null)
 
 
 
-        {
+{
 
 
 
-          contentType = RegExpFilter.prototype.contentType;
+contentType = RegExpFilter.prototype.contentType;
 
 
 
-        }
+}
 
 
 
-        contentType &= ~RegExpFilter.typeMap[option.substr(1)];
+contentType &= ~RegExpFilter.typeMap[option.substr(1)];
 
 
 
-      }
+}
 
 
 
-      else if (option == "MATCH_CASE")
+else if (option == "MATCH_CASE")
 
 
 
-      {
+{
 
 
 
-        matchCase = true;
+matchCase = true;
 
 
 
-      }
+}
 
 
 
-      else if (option == "~MATCH_CASE")
+else if (option == "~MATCH_CASE")
 
 
 
-      {
+{
 
 
 
-        matchCase = false;
+matchCase = false;
 
 
 
-      }
+}
 
 
 
-      else if (option == "DOMAIN" && typeof value != "undefined")
+else if (option == "DOMAIN" && typeof value != "undefined")
 
 
 
-      {
+{
 
 
 
-        domains = value;
+domains = value;
 
 
 
-      }
+}
 
 
 
-      else if (option == "THIRD_PARTY")
+else if (option == "THIRD_PARTY")
 
 
 
-      {
+{
 
 
 
-        thirdParty = true;
+thirdParty = true;
 
 
 
-      }
+}
 
 
 
-      else if (option == "~THIRD_PARTY")
+else if (option == "~THIRD_PARTY")
 
 
 
-      {
+{
 
 
 
-        thirdParty = false;
+thirdParty = false;
 
 
 
-      }
+}
 
 
 
-      else if (option == "COLLAPSE")
+else if (option == "COLLAPSE")
 
 
 
-      {
+{
 
 
 
-        collapse = true;
+collapse = true;
 
 
 
-      }
+}
 
 
 
-      else if (option == "~COLLAPSE")
+else if (option == "~COLLAPSE")
 
 
 
-      {
+{
 
 
 
-        collapse = false;
+collapse = false;
 
 
 
-      }
+}
 
 
 
-      else if (option == "SITEKEY" && typeof value != "undefined")
+else if (option == "SITEKEY" && typeof value != "undefined")
 
 
 
-      {
+{
 
 
 
-        sitekeys = value;
+sitekeys = value;
 
 
 
-      }
+}
 
 
 
-      else
+else
 
 
 
-      {
+{
 
 
 
-        return new InvalidFilter(origText, "Unknown option " + option.toLowerCase());
+return new InvalidFilter(origText, "Unknown option " + option.toLowerCase());
 
 
 
-      }
+}
 
 
 
-    }
+}
 
 
 
-  }
+}
 
 
 
-  if (!blocking && (contentType == null || contentType & RegExpFilter.typeMap.DOCUMENT) && (!options || options.indexOf("DOCUMENT") < 0) && !/^\|?[\w\-]+:/.test(text))
+if (!blocking && (contentType == null || contentType & RegExpFilter.typeMap.DOCUMENT) && (!options || options.indexOf("DOCUMENT") < 0) && !/^\|?[\w\-]+:/.test(text))
 
 
 
-  {
+{
 
 
 
-    if (contentType == null)
+if (contentType == null)
 
 
 
-    {
+{
 
 
 
-      contentType = RegExpFilter.prototype.contentType;
+contentType = RegExpFilter.prototype.contentType;
 
 
 
-    }
+}
 
 
 
-    contentType &= ~RegExpFilter.typeMap.DOCUMENT;
+contentType &= ~RegExpFilter.typeMap.DOCUMENT;
 
 
 
-  }
+}
 
 
 
-  try
+try
 
 
 
-  {
+{
 
 
 
-    if (blocking)
+if (blocking)
 
 
 
-    {
+{
 
 
 
-      return new BlockingFilter(origText, text, contentType, matchCase, domains, thirdParty, sitekeys, collapse);
+return new BlockingFilter(origText, text, contentType, matchCase, domains, thirdParty, sitekeys, collapse);
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      return new WhitelistFilter(origText, text, contentType, matchCase, domains, thirdParty, sitekeys);
+return new WhitelistFilter(origText, text, contentType, matchCase, domains, thirdParty, sitekeys);
 
 
 
-    }
+}
 
 
 
-  }
+}
 
 
 
-  catch (e)
+catch (e)
 
 
 
-  {
+{
 
 
 
-    return new InvalidFilter(origText, e);
+return new InvalidFilter(origText, e);
 
 
 
-  }
+}
 
 
 
@@ -29225,11 +29226,11 @@ function BlockingFilter(text, regexpSource, contentType, matchCase, domains, thi
 
 
 
-  RegExpFilter.call(this, text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys);
+RegExpFilter.call(this, text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys);
 
 
 
-  this.collapse = collapse;
+this.collapse = collapse;
 
 
 
@@ -29241,11 +29242,11 @@ extend(BlockingFilter, RegExpFilter, {
 
 
 
-       collapse: null
+collapse: null
 
 
 
-       });
+});
 
 
 
@@ -29261,7 +29262,7 @@ function WhitelistFilter(text, regexpSource, contentType, matchCase, domains, th
 
 
 
-  RegExpFilter.call(this, text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys);
+RegExpFilter.call(this, text, regexpSource, contentType, matchCase, domains, thirdParty, sitekeys);
 
 
 
@@ -29273,7 +29274,7 @@ extend(WhitelistFilter, RegExpFilter, {
 
 
 
-       });
+});
 
 
 
@@ -29289,7 +29290,7 @@ function Matcher()
 
 
 
-  this.clear();
+this.clear();
 
 
 
@@ -29313,19 +29314,19 @@ clear: function()
 
 
 
-  {
+{
 
 
 
-    this.filterByKeyword = createDict();
+this.filterByKeyword = createDict();
 
 
 
-    this.keywordByFilter = createDict();
+this.keywordByFilter = createDict();
 
 
 
-  },
+},
 
 
 
@@ -29333,87 +29334,87 @@ add: function(filter)
 
 
 
-  {
+{
 
 
 
-    if (filter.text in this.keywordByFilter)
+if (filter.text in this.keywordByFilter)
 
 
 
-    {
+{
 
 
 
-      return;
+return;
 
 
 
-    }
+}
 
 
 
-    var keyword = this.findKeyword(filter);
+var keyword = this.findKeyword(filter);
 
 
 
-    var oldEntry = this.filterByKeyword[keyword];
+var oldEntry = this.filterByKeyword[keyword];
 
 
 
-    if (typeof oldEntry == "undefined")
+if (typeof oldEntry == "undefined")
 
 
 
-    {
+{
 
 
 
-      this.filterByKeyword[keyword] = filter;
+this.filterByKeyword[keyword] = filter;
 
 
 
-    }
+}
 
 
 
-    else if (oldEntry.length == 1)
+else if (oldEntry.length == 1)
 
 
 
-    {
+{
 
 
 
-      this.filterByKeyword[keyword] = [oldEntry, filter];
+this.filterByKeyword[keyword] = [oldEntry, filter];
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      oldEntry.push(filter);
+oldEntry.push(filter);
 
 
 
-    }
+}
 
 
 
-    this.keywordByFilter[filter.text] = keyword;
+this.keywordByFilter[filter.text] = keyword;
 
 
 
-  },
+},
 
 
 
@@ -29421,103 +29422,103 @@ remove: function(filter)
 
 
 
-  {
+{
 
 
 
-    if (!(filter.text in this.keywordByFilter))
+if (!(filter.text in this.keywordByFilter))
 
 
 
-    {
+{
 
 
 
-      return;
+return;
 
 
 
-    }
+}
 
 
 
-    var keyword = this.keywordByFilter[filter.text];
+var keyword = this.keywordByFilter[filter.text];
 
 
 
-    var list = this.filterByKeyword[keyword];
+var list = this.filterByKeyword[keyword];
 
 
 
-    if (list.length <= 1)
+if (list.length <= 1)
 
 
 
-    {
+{
 
 
 
-      delete this.filterByKeyword[keyword];
+delete this.filterByKeyword[keyword];
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      var index = list.indexOf(filter);
+var index = list.indexOf(filter);
 
 
 
-      if (index >= 0)
+if (index >= 0)
 
 
 
-      {
+{
 
 
 
-        list.splice(index, 1);
+list.splice(index, 1);
 
 
 
-        if (list.length == 1)
+if (list.length == 1)
 
 
 
-        {
+{
 
 
 
-          this.filterByKeyword[keyword] = list[0];
+this.filterByKeyword[keyword] = list[0];
 
 
 
-        }
+}
 
 
 
-      }
+}
 
 
 
-    }
+}
 
 
 
-    delete this.keywordByFilter[filter.text];
+delete this.keywordByFilter[filter.text];
 
 
 
-  },
+},
 
 
 
@@ -29525,151 +29526,151 @@ findKeyword: function(filter)
 
 
 
-  {
+{
 
 
 
-    var result = "";
+var result = "";
 
 
 
-    var text = filter.text;
+var text = filter.text;
 
 
 
-    if (Filter.regexpRegExp.test(text))
+if (Filter.regexpRegExp.test(text))
 
 
 
-    {
+{
 
 
 
-      return result;
+return result;
 
 
 
-    }
+}
 
 
 
-    var match = Filter.optionsRegExp.exec(text);
+var match = Filter.optionsRegExp.exec(text);
 
 
 
-    if (match)
+if (match)
 
 
 
-    {
+{
 
 
 
-      text = match.input.substr(0, match.index);
+text = match.input.substr(0, match.index);
 
 
 
-    }
+}
 
 
 
-    if (text.substr(0, 2) == "@@")
+if (text.substr(0, 2) == "@@")
 
 
 
-    {
+{
 
 
 
-      text = text.substr(2);
+text = text.substr(2);
 
 
 
-    }
+}
 
 
 
-    var candidates = text.toLowerCase().match(/[^a-z0-9%*][a-z0-9%]{3,}(?=[^a-z0-9%*])/g);
+var candidates = text.toLowerCase().match(/[^a-z0-9%*][a-z0-9%]{3,}(?=[^a-z0-9%*])/g);
 
 
 
-    if (!candidates)
+if (!candidates)
 
 
 
-    {
+{
 
 
 
-      return result;
+return result;
 
 
 
-    }
+}
 
 
 
-    var hash = this.filterByKeyword;
+var hash = this.filterByKeyword;
 
 
 
-    var resultCount = 16777215;
+var resultCount = 16777215;
 
 
 
-    var resultLength = 0;
+var resultLength = 0;
 
 
 
-    for (var i = 0, l = candidates.length; i < l; i++)
+for (var i = 0, l = candidates.length; i < l; i++)
 
 
 
-    {
+{
 
 
 
-      var candidate = candidates[i].substr(1);
+var candidate = candidates[i].substr(1);
 
 
 
-      var count = candidate in hash ? hash[candidate].length : 0;
+var count = candidate in hash ? hash[candidate].length : 0;
 
 
 
-      if (count < resultCount || count == resultCount && candidate.length > resultLength)
+if (count < resultCount || count == resultCount && candidate.length > resultLength)
 
 
 
-      {
+{
 
 
 
-        result = candidate;
+result = candidate;
 
 
 
-        resultCount = count;
+resultCount = count;
 
 
 
-        resultLength = candidate.length;
+resultLength = candidate.length;
 
 
 
-      }
+}
 
 
 
-    }
+}
 
 
 
-    return result;
+return result;
 
 
 
-  },
+},
 
 
 
@@ -29677,15 +29678,15 @@ hasFilter: function(filter)
 
 
 
-  {
+{
 
 
 
-    return filter.text in this.keywordByFilter;
+return filter.text in this.keywordByFilter;
 
 
 
-  },
+},
 
 
 
@@ -29693,43 +29694,43 @@ getKeywordForFilter: function(filter)
 
 
 
-  {
+{
 
 
 
-    if (filter.text in this.keywordByFilter)
+if (filter.text in this.keywordByFilter)
 
 
 
-    {
+{
 
 
 
-      return this.keywordByFilter[filter.text];
+return this.keywordByFilter[filter.text];
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      return null;
+return null;
 
 
 
-    }
+}
 
 
 
-  },
+},
 
 
 
@@ -29737,67 +29738,67 @@ _checkEntryMatch: function(keyword, location, contentType, docDomain, thirdParty
 
 
 
-  {
+{
 
 
 
-    var list = this.filterByKeyword[keyword];
+var list = this.filterByKeyword[keyword];
 
 
 
-    for (var i = 0; i < list.length; i++)
+for (var i = 0; i < list.length; i++)
 
 
 
-    {
+{
 
 
 
-      var filter = list[i];
+var filter = list[i];
 
 
 
-      if (filter == "#this")
+if (filter == "#this")
 
 
 
-      {
+{
 
 
 
-        filter = list;
+filter = list;
 
 
 
-      }
+}
 
 
 
-      if (filter.matches(location, contentType, docDomain, thirdParty, sitekey))
+if (filter.matches(location, contentType, docDomain, thirdParty, sitekey))
 
 
 
-      {
+{
 
 
 
-        return filter;
+return filter;
 
 
 
-      }
+}
 
 
 
-    }
+}
 
 
 
-    return null;
+return null;
 
 
 
-  },
+},
 
 
 
@@ -29805,87 +29806,87 @@ matchesAny: function(location, contentType, docDomain, thirdParty, sitekey)
 
 
 
-  {
+{
 
 
 
-    var candidates = location.toLowerCase().match(/[a-z0-9%]{3,}/g);
+var candidates = location.toLowerCase().match(/[a-z0-9%]{3,}/g);
 
 
 
-    if (candidates === null)
+if (candidates === null)
 
 
 
-    {
+{
 
 
 
-      candidates = [];
+candidates = [];
 
 
 
-    }
+}
 
 
 
-    candidates.push("");
+candidates.push("");
 
 
 
-    for (var i = 0, l = candidates.length; i < l; i++)
+for (var i = 0, l = candidates.length; i < l; i++)
 
 
 
-    {
+{
 
 
 
-      var substr = candidates[i];
+var substr = candidates[i];
 
 
 
-      if (substr in this.filterByKeyword)
+if (substr in this.filterByKeyword)
 
 
 
-      {
+{
 
 
 
-        var result = this._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
+var result = this._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
 
 
 
-        if (result)
+if (result)
 
 
 
-        {
+{
 
 
 
-          return result;
+return result;
 
 
 
-        }
+}
 
 
 
-      }
+}
 
 
 
-    }
+}
 
 
 
-    return null;
+return null;
 
 
 
-  }
+}
 
 
 
@@ -29905,15 +29906,15 @@ function CombinedMatcher()
 
 
 
-  this.blacklist = new Matcher();
+this.blacklist = new Matcher();
 
 
 
-  this.whitelist = new Matcher();
+this.whitelist = new Matcher();
 
 
 
-  this.resultCache = createDict();
+this.resultCache = createDict();
 
 
 
@@ -29949,27 +29950,27 @@ clear: function()
 
 
 
-  {
+{
 
 
 
-    this.blacklist.clear();
+this.blacklist.clear();
 
 
 
-    this.whitelist.clear();
+this.whitelist.clear();
 
 
 
-    this.resultCache = createDict();
+this.resultCache = createDict();
 
 
 
-    this.cacheEntries = 0;
+this.cacheEntries = 0;
 
 
 
-  },
+},
 
 
 
@@ -29977,63 +29978,63 @@ add: function(filter)
 
 
 
-  {
+{
 
 
 
-    if (filter instanceof WhitelistFilter)
+if (filter instanceof WhitelistFilter)
 
 
 
-    {
+{
 
 
 
-      this.whitelist.add(filter);
+this.whitelist.add(filter);
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      this.blacklist.add(filter);
+this.blacklist.add(filter);
 
 
 
-    }
+}
 
 
 
-    if (this.cacheEntries > 0)
+if (this.cacheEntries > 0)
 
 
 
-    {
+{
 
 
 
-      this.resultCache = createDict();
+this.resultCache = createDict();
 
 
 
-      this.cacheEntries = 0;
+this.cacheEntries = 0;
 
 
 
-    }
+}
 
 
 
-  },
+},
 
 
 
@@ -30041,63 +30042,63 @@ remove: function(filter)
 
 
 
-  {
+{
 
 
 
-    if (filter instanceof WhitelistFilter)
+if (filter instanceof WhitelistFilter)
 
 
 
-    {
+{
 
 
 
-      this.whitelist.remove(filter);
+this.whitelist.remove(filter);
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      this.blacklist.remove(filter);
+this.blacklist.remove(filter);
 
 
 
-    }
+}
 
 
 
-    if (this.cacheEntries > 0)
+if (this.cacheEntries > 0)
 
 
 
-    {
+{
 
 
 
-      this.resultCache = createDict();
+this.resultCache = createDict();
 
 
 
-      this.cacheEntries = 0;
+this.cacheEntries = 0;
 
 
 
-    }
+}
 
 
 
-  },
+},
 
 
 
@@ -30105,43 +30106,43 @@ findKeyword: function(filter)
 
 
 
-  {
+{
 
 
 
-    if (filter instanceof WhitelistFilter)
+if (filter instanceof WhitelistFilter)
 
 
 
-    {
+{
 
 
 
-      return this.whitelist.findKeyword(filter);
+return this.whitelist.findKeyword(filter);
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      return this.blacklist.findKeyword(filter);
+return this.blacklist.findKeyword(filter);
 
 
 
-    }
+}
 
 
 
-  },
+},
 
 
 
@@ -30149,43 +30150,43 @@ hasFilter: function(filter)
 
 
 
-  {
+{
 
 
 
-    if (filter instanceof WhitelistFilter)
+if (filter instanceof WhitelistFilter)
 
 
 
-    {
+{
 
 
 
-      return this.whitelist.hasFilter(filter);
+return this.whitelist.hasFilter(filter);
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      return this.blacklist.hasFilter(filter);
+return this.blacklist.hasFilter(filter);
 
 
 
-    }
+}
 
 
 
-  },
+},
 
 
 
@@ -30193,43 +30194,43 @@ getKeywordForFilter: function(filter)
 
 
 
-  {
+{
 
 
 
-    if (filter instanceof WhitelistFilter)
+if (filter instanceof WhitelistFilter)
 
 
 
-    {
+{
 
 
 
-      return this.whitelist.getKeywordForFilter(filter);
+return this.whitelist.getKeywordForFilter(filter);
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      return this.blacklist.getKeywordForFilter(filter);
+return this.blacklist.getKeywordForFilter(filter);
 
 
 
-    }
+}
 
 
 
-  },
+},
 
 
 
@@ -30237,47 +30238,47 @@ isSlowFilter: function(filter)
 
 
 
-  {
+{
 
 
 
-    var matcher = filter instanceof WhitelistFilter ? this.whitelist : this.blacklist;
+var matcher = filter instanceof WhitelistFilter ? this.whitelist : this.blacklist;
 
 
 
-    if (matcher.hasFilter(filter))
+if (matcher.hasFilter(filter))
 
 
 
-    {
+{
 
 
 
-      return !matcher.getKeywordForFilter(filter);
+return !matcher.getKeywordForFilter(filter);
 
 
 
-    }
+}
 
 
 
-    else
+else
 
 
 
-    {
+{
 
 
 
-      return !matcher.findKeyword(filter);
+return !matcher.findKeyword(filter);
 
 
 
-    }
+}
 
 
 
-  },
+},
 
 
 
@@ -30285,107 +30286,107 @@ matchesAnyInternal: function(location, contentType, docDomain, thirdParty, sitek
 
 
 
-  {
+{
 
 
 
-    var candidates = location.toLowerCase().match(/[a-z0-9%]{3,}/g);
+var candidates = location.toLowerCase().match(/[a-z0-9%]{3,}/g);
 
 
 
-    if (candidates === null)
+if (candidates === null)
 
 
 
-    {
+{
 
 
 
-      candidates = [];
+candidates = [];
 
 
 
-    }
+}
 
 
 
-    candidates.push("");
+candidates.push("");
 
 
 
-    var blacklistHit = null;
+var blacklistHit = null;
 
 
 
-    for (var i = 0, l = candidates.length; i < l; i++)
+for (var i = 0, l = candidates.length; i < l; i++)
 
 
 
-    {
+{
 
 
 
-      var substr = candidates[i];
+var substr = candidates[i];
 
 
 
-      if (substr in this.whitelist.filterByKeyword)
+if (substr in this.whitelist.filterByKeyword)
 
 
 
-      {
+{
 
 
 
-        var result = this.whitelist._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
+var result = this.whitelist._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
 
 
 
-        if (result)
+if (result)
 
 
 
-        {
+{
 
 
 
-          return result;
+return result;
 
 
 
-        }
+}
 
 
 
-      }
+}
 
 
 
-      if (substr in this.blacklist.filterByKeyword && blacklistHit === null)
+if (substr in this.blacklist.filterByKeyword && blacklistHit === null)
 
 
 
-      {
+{
 
 
 
-        blacklistHit = this.blacklist._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
+blacklistHit = this.blacklist._checkEntryMatch(substr, location, contentType, docDomain, thirdParty, sitekey);
 
 
 
-      }
+}
 
 
 
-    }
+}
 
 
 
-    return blacklistHit;
+return blacklistHit;
 
 
 
-  },
+},
 
 
 
@@ -30393,67 +30394,67 @@ matchesAny: function(location, docDomain)
 
 
 
-  {
+{
 
 
 
-    var key = location + " " + docDomain + " ";
+var key = location + " " + docDomain + " ";
 
 
 
-    if (key in this.resultCache)
+if (key in this.resultCache)
 
 
 
-    {
+{
 
 
 
-      return this.resultCache[key];
+return this.resultCache[key];
 
 
 
-    }
+}
 
 
 
-    var result = this.matchesAnyInternal(location, 0, docDomain, null, null);
+var result = this.matchesAnyInternal(location, 0, docDomain, null, null);
 
 
 
-    if (this.cacheEntries >= CombinedMatcher.maxCacheEntries)
+if (this.cacheEntries >= CombinedMatcher.maxCacheEntries)
 
 
 
-    {
+{
 
 
 
-      this.resultCache = createDict();
+this.resultCache = createDict();
 
 
 
-      this.cacheEntries = 0;
+this.cacheEntries = 0;
 
 
 
-    }
+}
 
 
 
-    this.resultCache[key] = result;
+this.resultCache[key] = result;
 
 
 
-    this.cacheEntries++;
+this.cacheEntries++;
 
 
 
-    return result;
+return result;
 
 
 
-  }
+}
 
 
 
@@ -30481,7 +30482,7 @@ for (var i = 0; i < rules.length; i++) {
 
 
 
-  defaultMatcher.add(Filter.fromText(rules[i]));
+defaultMatcher.add(Filter.fromText(rules[i]));
 
 
 
@@ -30497,19 +30498,19 @@ function FindProxyForURL(url, host) {
 
 
 
-  if (defaultMatcher.matchesAny(url, host) instanceof BlockingFilter) {
+if (defaultMatcher.matchesAny(url, host) instanceof BlockingFilter) {
 
 
 
-    return proxy;
+return proxy;
 
 
 
-  }
+}
 
 
 
-  return direct;
+return direct;
 
 
 
