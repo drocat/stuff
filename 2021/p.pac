@@ -31,7 +31,7 @@ var rules = [
 "||bankmobilevibe.com",
 "||banorte.com",
 "||bash-hackers.org",
-  "jquery.com",
+  "||jquery.com",
 "||beeg.com",
 "programiz.com",
 "||global.bing.com",
