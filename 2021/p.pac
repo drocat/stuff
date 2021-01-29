@@ -64,7 +64,7 @@ var rules = [
 
   "||eliyar.biz",
 
-  "programiz.com",
+  "jquery.com",
 
 
   "||jsdelivr.net",
