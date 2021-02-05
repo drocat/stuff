@@ -1,0 +1,110 @@
+{
+    "log": {
+      "error": "/tmp/syslog.log",
+      "loglevel": "warning"
+    },
+    "inbound": {
+      "port": 1089,
+      "listen": "0.0.0.0",
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "ip": "127.0.0.1"
+      }
+    },
+    "outbound": {
+      "domainStrategy": "UseIPv4",
+      "protocol": "vmess",
+      "settings": {
+        "vnext": [
+          {
+            "address": "sg02-iplc.maoxiong.icu",
+            "port": 544,
+            "users": [
+              {
+                "id": "2d864de6-383f-350d-9f2c-b89cce47f4c3",
+                // f9df4ff0-7e18-33c3-85b0-3e5fba159385",
+                // 78644c54-ed87-3f53-b203-f95bb307cae2",
+                // 
+                // 9ee7559c-edbb-330f-91cd-973c3e714033
+                "alterId": 2
+              }
+            ]
+          }
+        ]
+      },
+      "mux": {
+        "enabled": true
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": "/v2ray"
+        }
+      }
+    },
+    "inboundDetour": [
+      {
+        "port": "1099",
+        "listen": "0.0.0.0",
+        "protocol": "dokodemo-door",
+        "settings": {
+          "network": "tcp,udp",
+          "timeout": 30,
+          "followRedirect": true
+        }
+      }
+    ],
+    "outboundDetour": [
+      {
+        "protocol": "freedom",
+        "settings": {},
+        "tag": "direct"
+      }
+    ],
+    "dns": {
+      "servers": [
+        "119.29.29.29",
+        "223.5.5.5"
+      ]
+    },
+    "routing": {
+      "strategy": "rules",
+      "settings": {
+        "rules": [
+          {
+            "type": "chinasites",
+            "outboundTag": "direct"
+          },
+          {
+            "type": "field",
+            "ip": [
+              "0.0.0.0/8",
+              "10.0.0.0/8",
+              "100.64.0.0/10",
+              "127.0.0.0/8",
+              "169.254.0.0/16",
+              "172.16.0.0/12",
+              "192.0.0.0/24",
+              "192.0.2.0/24",
+              "192.168.0.0/16",
+              "198.18.0.0/15",
+              "198.51.100.0/24",
+              "203.0.113.0/24",
+              "100.100.100.100/32",
+              "188.188.188.188/32",
+              "110.110.110.110/32",
+              "104.160.185.171/32"
+            ],
+            "outboundTag": "direct"
+          },
+          {
+            "type": "chinaip",
+            "outboundTag": "direct"
+          }
+        ]
+      }
+    }
+  }
+  
