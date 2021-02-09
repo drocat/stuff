@@ -45,7 +45,6 @@ var rules = [
 "||google-analytics.com",
 "||holoviz.org",
 "||pypi.org",
-"||mgvai.cn",
 "||bloombergview.com",
 "||booktopia.com.au",
 "||boysmaster.com",
