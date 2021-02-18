@@ -31,7 +31,7 @@ var rules = [
 "||bash-hackers.org",
 "||beeg.com",
 "||global.bing.com",
-  "||stackabuse.com",
+  "||repixel.co",
 "||maoxiong.cloud",
 "||github.io",
 "||olvps.com",
